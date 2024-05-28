@@ -1,0 +1,39 @@
+Article Title: Official the Swiss bank UBS has bought Bitcoin ETFs
+
+Article Text:
+Yesterday, the Swiss bank UBS presented an updated form 13F-HR to the US SEC.
+Inside the document all the assets owned by UBS Group AG at the end of the first quarter of the year (March 31, 2024) are listed, and among these is also the iShares Bitcoin Trust (IBIT).
+IBIT is the BlackRock’s ETF on Bitcoin spot, and iShares is the subsidiary of BlackRock that issues and manages the ETFs.
+Summary
+UBS is the largest Swiss banking institution and the largest private bank in the world.
+The UBS brand was born in 1912 as “Union Bank of Switzerland”, but the two banks that merged to create UBS already existed in 1862-1863.
+It is therefore a decidedly old banking group, although not extremely ancient.
+In 1997 UBS merged with SBS (Swiss Bank Corporation), and since at the time they were respectively the second and third largest banks in Switzerland, they gave rise to the largest banking group in Switzerland, UBS AG. Since then, UBS no longer stands for Union Bank of Switzerland.
+With that merger, the “New UBS” became the second largest combined bank in the world, behind only the Bank of Tokyo-Mitsubishi.
+In the early 2000s, the process of internationalization began, leading UBS to become a global banking group, no longer just Swiss. The headquarters are still in Zurich, but now it operates worldwide.
+Last year UBS agreed to acquire Credit Suisse, one of its main competitors, due to the risk of the latter’s bankruptcy.
+Overall, the UBS group has more than 115,000 employees worldwide, and manages a total wealth of over $5.7 trillion.
+It is a publicly traded company without a single majority shareholder, and among the largest shareholders are GIC Private Limited with 7.07%, BlackRock Inc with 4.98%, Norges Bank with 3.30%, MFS Investment Management with 3.05%, and Capital Group Companies with 3.01% of the total share capital.
+In light of this, it is not surprising that UBS has chosen BlackRock’s ETF to take a position on the price of Bitcoin.
+Note that he declares that as of March 31st he owned 3,600 shares of IBIT, with a total value of only $146,000, purchased at around $40.5 per share.
+As of today, the price of IBIT shares has dropped to $36, so the purchase was made by UBS when the price of Bitcoin was above $68,000.
+His 3,600 IBIT shares are currently worth less than $130,000, so for now UBS is at a loss of almost $16,000 with this investment.
+However, it cannot be ruled out that since March 31st the Swiss bank may have decided to make other similar purchases, also because the $146,000 invested correspond to less than 0.001% of the total value of the assets it has declared to own in the 13F-HR form submitted to the SEC.
+The iShares Bitcoin Trust (IBIT) currently owns just under 275,000 BTC, more than those owned by MicroStrategy, but less than those still owned by the Grayscale ETF.
+Altogether, it has issued 482 million shares, whose price during the first months of the year has risen from the initial $30 to a maximum of almost $42 in mid-March.
+So UBS bought them when they were near their highs, even though the purchase was extremely small for a Swiss bank.
+Subsequently the price has dropped, and now since the end of April it has been moving sideways within a range between $33 and $36.
+UBS Group AG is listed on the stock exchange in New York.
+Yesterday, upon the news of his investment in Bitcoin, the price did not move significantly, also because the exposure to IBIT is really minimal.
+The closing price of yesterday’s session, $29.7, is practically the same as Friday’s closing price.
+During 2024, the price of UBS shares first rose to $32, then in April it dropped to $26 on May 1st, and then it recovered.
+It should be remembered that during 2023 it had risen significantly, even after the acquisition of the almost failed Credit Suisse.
+Indeed, after starting the year at $19, it closed at almost $31, with an increase of 63%.
+Actually, the maximum price of UBS stocks on the stock market since the 2008 crisis was reached earlier this year in mid-March, when they exceeded $32 for the first time in almost twenty years.
+Instead, the all-time high remains at $66 in April 2007, before the subprime mortgage crisis broke out.
+It is worth noting that at the end of January, UBS published on its official website an article explicitly discussing the new ETFs on Bitcoin spot.
+So his interest in these products started a few weeks before the moment they decided to purchase them.
+In that article, written by the UBS editorial team, they stated that the Bitcoin spot ETFs had “finally” arrived, already indicating a clear interest in them.
+After all, for financial institutions of this importance it could be counterproductive to buy BTC on crypto exchanges, because then they would be forced to make it public. The risk is that they end up damaging their image.
+Instead, buying shares of an ETF issued by BlackRock does not risk compromising the image of such a financial institution at all, especially if the exposure is extremely limited.
+At this point, given that the market reaction has not seemed negative at all, it is possible that they decide to continue down this path and maybe buy more IBIT shares, especially now that their price has dropped.

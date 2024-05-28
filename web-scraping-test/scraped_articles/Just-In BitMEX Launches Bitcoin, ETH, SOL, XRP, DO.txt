@@ -1,0 +1,4 @@
+Article Title: Just-In BitMEX Launches Bitcoin, ETH, SOL, XRP, DOGE Options
+
+Article Text:
+BitMEX, a leading cryptocurrency derivatives exchange, has officially launched a new options trading platform in collaboration with PowerTrade, a specialized crypto options platform. This partnership leverages the robust features of both companies, providing a comprehensive suite of options for major cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Binance Coin (BNB), Solana (SOL), and Dogecoin (DOGE). The initiative marks a significant step for BitMEX as it expands its product offerings beyond its well-known futures and perpetual contracts.

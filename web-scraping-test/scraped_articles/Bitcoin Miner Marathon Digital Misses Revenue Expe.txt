@@ -1,0 +1,13 @@
+Article Title: Bitcoin Miner Marathon Digital Misses Revenue Expectations Due to Production Setbacks
+
+Article Text:
+Marathon Digital, a Bitcoin mining company, fell short of revenue expectations set by Wall Street analysts in the first quarter 2024 report.
+The firm cited adverse weather conditions and equipment malfunctions as contributing factors to the lower-than-expected performance.
+Despite a year-on-year revenue growth of 223% to $165.2 million, as disclosed on May 9, the company’s performance still trailed the projected estimate of $193.9 million by 14.80%, according to investment analyst firm Zacks.
+During the first quarter of 2024, Marathon Digital reported mining 2,811 BTC, valued at $176.7 million, marking a 28% increase compared to the previous year. However, this is a 34% decline from the 4,242 BTC mined in Q4 2023.
+Marathon CEO Fred Thiel addressed the company’s performance on a May 9 earnings call. He said the production setbacks were due to unexpected equipment failures, particularly transformers on third-party hosted sites, high weather-related disruptions in many locations, and utility company transmission line maintenance.
+The firm noted that adverse weather conditions impacted its Garden City site in central Texas and other venues, including a newly acquired Texas location as of April 2. Despite these challenges, the company operated at a “record high” of 27 exahashes per second. Thiel highlighted the company’s goal of reaching 50 EH/s by year-end, which was revised upward from a target of 35 to 37 EH/s in late April.
+Thiel noted that Marathon was able to adapt and overcome operational challenges in the first quarter. The firm redistributed equipment to newly acquired sites while ongoing repairs were underway.
+Marathon also introduced several new advanced products during the quarter, including Slipstream, aimed at improving Bitcoin transaction speed, and the MARA UBC 2100 control board, designed to enhance mining efficiency. Through strategic acquisitions, Marathon has expanded its mining capacity to 1.1 and currently operates at 54% of its total capacity.
+Marathon Digital reported first-quarter earnings per share of $1.26, which initially seemed significantly higher than Wall Street’s projected $0.02. However, these figures aren’t directly comparable because the company has adopted the newly-approved FASB fair value accounting rules. The mark-to-market adjustment was favorable, influenced by the substantial increase in Bitcoin prices.
+After the May 9 report, Marathon Digital (MARA) shares dropped about 2.19% to close at $19.65, with an extra 1% decrease in after-hours trading per Google Finance. Year-to-date, the company’s share price has fallen by 14.30% since peaking at $31.03 on February 28, 2024.

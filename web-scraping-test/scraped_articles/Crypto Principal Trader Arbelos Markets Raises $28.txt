@@ -1,0 +1,14 @@
+Article Title: Crypto Principal Trader Arbelos Markets Raises $28M Led by Dragonfly Capital
+
+Article Text:
+Arbelos Markets, a crypto principal trading firm founded by digital asset derivatives veterans Joshua Lim and Shiliang Tang, said Wednesday that it raised $28 million in a "significantly oversubscribed" investment round.
+The fundraising consisted of seed equity and debt financing led by crypto venture capital firm Dragonfly Capital. A wide range of investors also participated in the round: investment firms Room40 Ventures, Selini Capital and Breed VC, corporate partners FalconX, Circle Ventures, Paxos, P2 Ventures (previously Polygon Ventures), Deribit, Chorus One, StarkWare and Immutable, and angel investors at Aevo, Cega, Talos, Amberdata, and Framework, the press release listed.
+The investment happened as the digital asset industry continues its recovery from the crypto credit meltdown of 2022 that took down multiple companies such as BlockFi, Celsius and Three Arrows Capital. Alongside, more sophisticated and traditional players are entering the space as the asset class matures, making it more similar to traditional financial markets leaving behind its retail-driven beginnings.
+Read more: BlackRock Sees Sovereign Wealth Funds, Pensions Coming to Bitcoin ETFs
+Arbelos, incorporated in the British Virgin Islands, aims to fill the gap left after the carnage, serving the liquidity and hedging needs of sophisticated investors using crypto derivatives and options, Joshua Lim said in an interview with CoinDesk.
+Before starting Arbelos in late 2023, Tang served as chief investment officer at quantitative digital asset investment firm LedgerPrime while Lim was head of trading strategy at Galaxy and head of derivatives at now-defunct crypto lender Genesis, which also went under during the credit meltdown.
+Lim said that lack of transparency was a key reason for the crypto's credit crisis, with some firms presenting financial reports that were "outdated or manufactured," hiding the true risks from their creditors.
+The company aims to solve this problem with a so-called "transparency engine" that lets clients independently verify in real time Arbelos' risk profile, balance sheet and counterparty exposure.
+"Our key tenet [at Arbelos] was how we could prevent what happened in the last cycle," Lim said.
+The company is active on both centralized and on-chain derivatives and options marketplaces, has become one of the largest options block liquidity providers and its derivatives trading volume surpassed $25 billion in notional during the first six months since its inception.
+Arbelos said it will use the funds raised from investors to expand their team, access new markets and offer more structured products.

@@ -1,0 +1,41 @@
+Final sentence used for Gemini: "Can you provide me the result in json format only with the name of the crypto coin, the confidence level as a number between 1 and 100, a short feedback about the article and a recommendation to buy, sell or hold for the next article?"
+
+Article 1:
+  "feedback": "The article provides a detailed analysis of Bitcoin's price movements following the halving event. It effectively utilizes technical indicators and market sentiment to identify potential trading opportunities. However, it could benefit from incorporating on-chain metrics to enhance the analysis and provide a more comprehensive view of the market."
+{
+  "coin": "Bitcoin",
+  "confidence": 80,
+  "recommendation": "Buy"
+}
+
+Article 2:
+  "feedback": "The article provides a brief overview of the recent market sentiment and price movements of Bitcoin. It highlights the "extreme greed" sentiment despite the recent dips in price. However, the analysis would benefit from incorporating a wider range of market indicators, such as on-chain data, to provide a more comprehensive understanding of the market's dynamics."
+{
+  "coin": "Bitcoin",
+  "confidence": 60,
+  "recommendation": "Hold"
+}
+
+Article 3:
+  "feedback": "The article provides a well-rounded summary of Fidelity Digital Assets' Q1 2024 report on the bitcoin and ethereum markets. It effectively conveys the key findings, including market performance, selling pressure dynamics, and the impact of technological advancements. However, it could benefit from discussing the potential implications of the regulatory changes mentioned in the report on the broader cryptocurrency market."
+{
+  "coin": "Bitcoin",
+  "confidence": 75,
+  "recommendation": "Hold"
+}
+
+Article 4:
+  "feedback": "The article provides a detailed overview of Bitcoin's recent price surge and subsequent dip, along with expert commentary and market sentiment analysis. It effectively captures the excitement and optimism surrounding Bitcoin's new all-time high while acknowledging the potential risks and volatility associated with cryptocurrency investments."
+{
+  "coin": "Bitcoin",
+  "confidence": 80,
+  "recommendation": "Buy"
+}
+
+Article 5:
+  "feedback": "The article provides a clear overview of Nubank's recent enhancements to its cryptocurrency services, including the introduction of deposit and withdrawal capabilities for Bitcoin, Ether, and Solana. It effectively conveys the company's plans to expand its cryptocurrency offerings, including the addition of new digital assets and potential support for other cryptocurrencies in the future."
+{
+  "coin": "Bitcoin",
+  "confidence": 70,
+  "recommendation": "Hold"
+}

@@ -1,0 +1,9 @@
+Article Title: Ordinals sales elevate Magic Eden to top NFT marketplace surpassing Blur by $108 million
+
+Article Text:
+According to DappRadar’s Dapp Industry Report for April 2024, Magic Eden’s trading volume exceeded Blur’s by $108 million. This surge is attributed to Magic Eden’s strategic expansion into Bitcoin Ordinals and its robust rewards programs, attracting traders and collectors alike. The platform’s integration of Bitcoin Ordinals trading, which now constitutes 70% of its total volume, emphasizes the growing popularity of this new asset class within the NFT space.
+
+Magic Eden’s rise is also supported by its comprehensive platform features, which include low transaction fees and a user-friendly interface that supports multiple blockchains. Combined with strategic partnerships and continuous platform enhancements, these features have enabled Magic Eden to capture and sustain a significant portion of the market share.
+The report also highlighted a shift in conditions in the broader NFT market. Total trading volume decreased to $1.35 billion in April, a 13% drop from the previous month, while sales have increased by 20%. This trend can be attributed to several factors, including the rising popularity of Runestone, a Bitcoin Ordinals inscription that has surpassed Bored Ape Yacht Club as the NFT collection with the highest trading volume.
+Moreover, Bitcoin collections have seen a 32% increase in trading volume, reaching $675 million, positioning Bitcoin as the blockchain with the highest trading volume, followed by Ethereum. Additionally, the Blast chain has gained traction among traders seeking to farm airdrop points via Blur’s new deployment.
+

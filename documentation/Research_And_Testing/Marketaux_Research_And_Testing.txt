@@ -1,0 +1,33 @@
+default_api_call="https://api.marketaux.com/v1/news/all?symbols=TSLA,AMZN,MSFT?industries=Financial&filter_entities=true&language=en"
+needs api_token variable
+
+Gather news from the last hour in python:
+        now = datetime.now()
+        hour_before = now - timedelta(hours = 1)
+        hour_before_formatted = hour_before.strftime("%Y-%m-%dT%H:%M:%S")
+        "https://api.marketaux.com/v1/news/all?symbols=TSLA,AMZN,MSFT?industries=Financial&filter_entities=true&language=en&published_after={hour_before_formatted}"
+
+Gather historical data:
+        https://api.marketaux.com/v1/news/all?symbols=TSLA,AMZN,MSFT?industries=Financial&filter_entities=true&language=en&api_token=oEvaQ2HtaCWroCJXorxVkNcuMdVfGB4q4C73Pcdy&published_after=2023-01-01T00:00:00&published_before=2024-01-01T00:00:00
+
+# Following the structure of the gathering output (Not Done Yet)
+
+Advantages:
+  100 requests daily
+  historical data
+
+Disadvantages:
+  3 news/request
+
+Structuring:
+
+formatted_articles = []
+if (len(new_articles['data']) != 0):
+        for article in new_articles['data']:
+                formatted_article = {
+                "title": article['title'],
+                "timestamp": article['published_at'],
+                "link": article['url'],
+                "content": article['description']
+                }
+                formatted_articles.append(formatted_article)

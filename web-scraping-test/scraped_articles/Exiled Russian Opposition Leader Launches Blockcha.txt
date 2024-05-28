@@ -1,0 +1,20 @@
+Article Title: Exiled Russian Opposition Leader Launches Blockchain-Based Referendum on Vladimir Putin’s Election Win
+
+Article Text:
+Exiled Russian opposition leader Mark Feygin is launching an anonymous, blockchain-powered referendum on the legitimacy of Vladimir Putin’s victory in Russia’s election.
+The vote will be conducted on an app called Russia2024, built using Rarimo’s Freedom Tool.
+Vladimir Putin just won his fifth term as Russian president, though the 87% landslide election victory has been labeled preordained, stage-managed and a farce.
+Now, exiled opposition leader Mark Feygin is leading an effort to give Russians an anonymous, blockchain-powered way to register a "protest vote" against Putin.
+The results of this effort would, of course, have no legal weight in Russia and would not end Putin's presidency per se, but the referendum could, in theory, give a public relations boost to efforts to oust him. And it gives Russians a way to voice criticism in a nation where the consequences of dissent can be high; opposition leader Alexei Navalny recently died while jailed in an Arctic penal colony.
+The vote will be conducted on an app called Russia2024, built using Rarimo’s Freedom Tool, which will use the Arbitrum blockchain and zero-knowledge cryptography, making voters' identities untraceable.
+“Dissent in Russia is growing more risky and public opinion harder to track,” Feygin said in a statement. He was exiled from Russia years ago, termed a foreign agent in 2022 and remains a wanted person in Russia. He is a former lawyer for the founders of the protest collective Pussy Riot. “It is critical that we provide reliable, surveillance-proof avenues for protest and polling. Russia2024 and its underlying technology has enabled that,” he added.
+Only holders of Russian passports will be able to cast their vote. Around 34.6 million Russians have a valid passport.
+Users will need to download the Russia2024 app and prove their citizenship by scanning their passports with their phones. The passports have a biometric chip that the tool uses to confirm the voter's identity and facilitate an anonymous vote. If a person doesn’t own a smartphone, a single phone can be used as a shared voting machine.
+Voting will be allowed for about two weeks, and the backers behind the tool are “sure” it is a secure way to vote and that voters don't need to fear repercussions.
+“Even after Navalny’s death, people came out and protested so they will vote as a countermeasure to the result,” said Freedom Tool co-founder Lasha Antadzem, who has previously collaborated with the Ukrainian government to digitize the privatization of state properties. “Decentralized voting and the Freedom Tool is designed such that there is no single entity to attack, block or get rid of. You can’t hack it just like you can’t hack bitcoin.”
+In the shadow of the war with Ukraine
+Antadzem also holds passports from Ukraine and Georgia. Putin’s victory is expected to give him the means to continue his war against Ukraine.
+“We are handing out the open-source technology to everyone. It’s not only Ukrainians or Georgians building,” Antadzem said when asked about the possible perception that this is backed by Ukrainian interests. “We got a lot of contributions through anonymous letters from cryptography professors within Russia. It’s a kind of wartime defense technology.”
+Antadzem, who spoke to CoinDesk from London, said the Russia2024 app was removed from the Apple app store initially, but they expect it to be back online this Friday. The app is available on Google's app store.
+Referendums have been used for different reasons across the world: for signaling dissent in Canada, to pass specific policy in Switzerland and to choose whether a region wants to stay united with a nation or not in the U.K.
+The main global “real world use case” is that it “can guarantee that authenticity,” it can “cut the cost” of any election-related voting exercise by “10 times” and the technology can be used by other nations, too, Antadzem said.

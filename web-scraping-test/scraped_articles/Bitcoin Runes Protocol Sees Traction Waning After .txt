@@ -1,0 +1,18 @@
+Article Title: Bitcoin Runes Protocol Sees Traction Waning After Much-Hyped Introduction
+
+Article Text:
+The Bitcoin Runes protocol experienced a significant decrease in activity and fee revenue after its initial surge after the Bitcoin halving.
+Runes takes the Ordinals protocol a step further by making transactions cheaper and faster, but has failed to maintain meaningful traction among users.
+Despite the initial excitement, the protocol's momentum has slowed, and its impact on the Bitcoin ecosystem remains to be seen.
+Activity on the Bitcoin Runes protocol has slowed over the past week, a sign it has failed to generate meaningful traction among users despite a stellar start last month.
+Runes takes the Ordinals protocol a step further by making transactions even cheaper and faster. Ordinals are a way to embed data into the Bitcoin blockchain by inscribing references to digital art into small Bitcoin-based transactions.
+The much-hyped Runes went live after Bitcoin’s fourth halving on April 20. Data tracked on Dune Analytics shows that in its first 10 days the protocol racked up more than 85,000 token issuances and generated over $3 million in fees.
+In the past two weeks, however, all the metrics – including fees, new Runes and user activity – have dropped more than 50%. Only some 5,000 new Runes have been issued since May 1, generating just under $100,000 in fees.
+At its peak, Runes led transactions and fees in the broader Bitcoin ecosystem, accounting for as much as 80% of all network activity. Now it's 20%. Worth noting, however, is that the downturn came amid a general market decline marked by falling bitcoin (BTC) prices and slow growth in alternative tokens, which may have contributed to a drop in sentiment for novel technology.
+Built for memes and ‘degens’
+Runes generated massive interest on social platform X before its launch with creator Casey Rodamor aiming to make it a protocol ripe for meme coin trading and “degen” traders. Some industry participants expected the protocol to mirror the flourishing meme coin ecosystem on blockchains such as Solana and Base – likely fueling interest and bets on little-known memes.
+PUPS, a Runes token, emerged as a big play and surged from under $10 million capitalization to over $150 million in under a week, gaining support from several noted traders such as BitMEX founder Arthur Hayes.
+Several NFT collections and tokens were launched on Ordinals, and even on Ethereum, before the protocol's introduction – each aiming to transfer over and become the biggest compilation after the launch. Such activity made Bitcoin-based NFTs top other collections on the usual leaders Ethereum and Solana, with tens of millions exchanging hands in an otherwise scant market for non-fungible tokens.
+Some skeptics say that while Runes may serve as a way to build the Bitcoin ecosystem, there’s still work to be done.
+"The success of the Bitcoin L2 project based on OP_Return is doubtful as UTXO based blockchain network is fundamentally different from smart contract based network," Ho Chan Chung, head of marketing at CryptoQuant, told CoinDesk in a Telegram message. "The current notion of Bitcoin narrative as a digital currency combined, and the difference in the blockchain network fundamental are the two big hurdles that Bitcoin L2 projects need to overcome."
+"Lightning network was able to prove it. However, Ordinals, BRC-20, and Runes all seemed to fail at winning the narrative for now." Chung added.

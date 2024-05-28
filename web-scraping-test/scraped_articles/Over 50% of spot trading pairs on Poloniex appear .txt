@@ -1,0 +1,9 @@
+Article Title: Over 50% of spot trading pairs on Poloniex appear to be ‘dead’
+
+Article Text:
+Poloniex’s exchange data seen by crypto.news displays what appears to be a partially abandoned platform, with over 500 trading pairs showing no trading volume.
+Cryptocurrency exchange Poloniex, acquired by Justin Sun in 2019, demonstrates a concerned lack of activity as the majority of all spot trading pairs listed on it barely have any trades at all.
+According to the exchange’s data for spot trading pairs which displays stats for the past 24 hours, 521 trading pairs out of 981 showed less than $1 or even $0 in daily trading volume as of May 13, accounting for approximately 53% of all pairs listed on the exchange.
+Further analysis of the data highlights a substantial reliance on USDT, the stablecoin issued by Tether, with 810 pairs on Poloniex tied to USDT, representing almost 83% of all spot trading pairs. For comparison, there are only eight spot trading pairs with Ethereum (ETH) and 72 with Bitcoin (BTC) on the exchange, representing approximately 0.816% and 7.34% respectively.
+Poloniex’s heavy reliance on USDT raises concerns, particularly in light of recent statements made by Ripple CEO Brad Garlinghouse regarding potential regulatory scrutiny on Tether. And even though Tether head Paolo Ardoino dismissed these rumors, implying they’re just a FUD made in an effort to shake the company’s position in the market, Poloniex could still potentially find itself in hot water should things around USDT go south.
+Given the absence of a USDT/USD trading pair on the platform, a surge in USDT withdrawals prompted by regulatory pressure could potentially impact Poloniex’s operations in case of a theoretical bank run. As of the time of writing, Crypto.news reached out to Poloniex for comment; however, no response has been received yet. We’ll update this article if we hear back.

@@ -1,0 +1,19 @@
+Article Title: Is Bitcoin Halving Behind Ethereum (ETH) Price Dip
+
+Article Text:
+Ethereum price opened trading at $2,928 on Monday, May 13, recording a 4% surge over the weekend, but recent ETH 2.0 staking trends suggest more downside ahead.
+Ethereum recorded another major milestone in May 2024 as the number of node validators staking coins on the network hit the 1 million mark.
+Ethereum completed its transition from Proof-of-Work (PoW) to Proof-of-Stake (PoS) consensus with the Shappella upgrade executed on April 12 2023, allowing ETH holders to earn passive income and secure the network by stake their coins.
+Since then, Ethereum 2.0 staking trends have been highly influential in ETH price action.
+According to the latest data from Ethereum’s Beacon chain, there are now 1,015,570 active node validators as of May 13, 2024, who have jointly staked a total of 32.5 million ETH staked (~$96 billion).
+Centralization of staking power among a few affluent investors was one of the major risks identified when ahead of Ethereum’s PoS transition in 2023. Hence, Ethereum reaching a milestone of 1 million unique stakers significantly eases those concerns, clearing the coast for edgy investors to commit to the ETH project’s long-term prospects.
+However, in the short-term, things could pan out slightly differently. A closer look at the another critical metric shows that ETH has been struggling to attract new stakers since the Bitcoin halving.
+The chart below shows the number of stakers that enter the Ethereum validator queue on a given day, in contrast to those exiting and withdrawing their staked ETH.
+22,297 unique wallets who fulfilled the 32 ETH requirement moved to join the Ethereum staking network on April 16.
+But as depicted above, it has been downhill since then. The latest data shows only 704 unique addresses opted to join the Ethereum staking queue on May 12, reflecting a 98% decline from the local peak recorded on April 16.
+The timing suggests that fears of a crypto market crash after the April 20 Bitcoin halving has spooked prospective investors into cutting down on their ETH investment. Also, since April 16, ETH price succumbed to a 13% dip.
+Undoubtedly, Ethereum reaching 1 million validators is a major milestone for future viability and decentralization of the network. But, this prolonged decline in the number of new entrants could soon begin have a bearish impact on ETH short-term price action.
+Ethereum’s price is trading at around $2,960 at the time of writing on May 13. However, the 98% drop-off in new staking inflows puts ETH price at risk of a breakdown below $2,900 level in the near-term.
+Looking at the lower-limit Bollinger band technical indicator, the Ethereum bulls could mount an initial support buy-wall at the $2,847 territory.
+But if that vital support level fails to hold, a breakdown below $2,800 could be on the cards as predicted.
+On the contrary, if the market sentiment turns positive on the upcoming US CPI and PPI inflation reports expected to be published this week, bulls could eye a rebound toward $3,200. But still, the looming sell-well at $3,063 level poses a major roadblock in the short-term.

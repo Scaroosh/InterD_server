@@ -1,0 +1,12 @@
+Article Title: El Salvador Unveils Public Bitcoin Mempool, Showcases Nearly $353 Million Holdings
+
+Article Text:
+El Salvador, a Latin American country famous for adopting Bitcoin (BTC) as its legal tender, recently made a significant move in its cryptocurrency investment strategy. The government now offers public access to Bitcoin investment data through a personalized mempool.
+The latest mempool data reveals that El Salvador currently holds 5,748.76 BTC valued at over $352.8 million.
+The Bitcoin Office, a Salvadoran government-owned body aimed at managing all projects related to BTC, announced this new feature through their official X (Twitter) account on May 12.
+“El Salvador now has its own mempool space where anyone can consult our Bitcoin treasury holdings,” The Bitcoin Office noted.
+In addition to tracking the holdings, El Salvador’s mempool data unveils that the government has purchased an additional 31 BTC over the last month. This purchase is a part of the Dollar Cost Averaging (DCA) strategy announced by President Nayib Bukele in November 2022. BeInCrypto previously reported that Bukele said his administration would buy 1 BTC daily “until Bitcoin became unaffordable with fiat currencies.”
+The crypto community also welcomed El Salvador’s mempool. They praised its transparency in El Salvador’s Bitcoin holdings. Criptolawyer, a prominent Latin American crypto community figure and founder of Bitcoin legal advisor and consultant—Legalrocks, expressed her support.
+“The Government of El Salvador publishes its holdings in BTC so that anyone in the world at any time can audit their Bitcoin reserves in real-time,” Criptolawyer said.
+Despite the government’s strong BTC investment strategy, the adoption rate of Bitcoin in El Salvador remains modest. According to a study from José Simeón Cañas Central American University, only 12% of the local population in El Salvador used Bitcoin at least once to pay for goods and services in 2023.
+This figure is a significant drop from 2022. During that period, 24.4% of Salvadorans had engaged in Bitcoin transactions.

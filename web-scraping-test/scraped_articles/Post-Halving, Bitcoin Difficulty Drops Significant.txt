@@ -1,0 +1,8 @@
+Article Title: Post-Halving, Bitcoin Difficulty Drops Significantly; Hashrate Dips Below 600 EHs
+
+Article Text:
+The Bitcoin network experienced its second difficulty adjustment post-halving and the most significant reduction this year. Additionally, the network’s total hashrate fell below the 600 exahash per second (EH/s) mark for the first time since late March.
+Over the forthcoming two weeks, Bitcoin miners will see some respite as the difficulty level has decreased by 5.62%, moving from 88.10 trillion to the present 83.15 trillion. This change marks the most substantial reduction in 2024 and came after the halving on April 19, 2024.
+Due to the recent decline in BTC prices and lower mining rewards, the hashprice, or the daily value of one petahash per second (PH/s) of hashpower, has fallen below $47 per PH/s. This decline in hashprice is unprecedented in over seven years. As the hashpower value decreases, a significant portion of the hashrate has started to exit the network.
+Currently, the network’s total hashrate is approximately 580 EH/s, about 75 EH/s below the peak of 655 EH/s reached on April 19. This latest drop in difficulty, the most considerable since Dec. 5, 2022, occurred at block height 842,688. The upcoming adjustment for the Bitcoin network’s difficulty is anticipated around May 24, 2024.
+What do you think about the difficulty drop this week? Share your thoughts and opinions about this subject in the comments section below.

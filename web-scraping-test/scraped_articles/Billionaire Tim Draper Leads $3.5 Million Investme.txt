@@ -1,0 +1,15 @@
+Article Title: Billionaire Tim Draper Leads $3.5 Million Investment in Bitcoin Lending Protocol
+
+Article Text:
+Tim Draper has led a $3.5 million seed funding round in Zest Protocol, a Bitcoin lending startup.
+This move marks a significant milestone in making decentralized finance (DeFi) accessible to the Bitcoin network, with notable contributions from industry giants like Binance Labs.
+Building on the Stacks blockchain, Zest Protocol aims to revolutionize Bitcoin lending. It seeks to allow BTC holders to utilize their assets in on-chain lending markets without intermediaries. The startup is leveraging the forthcoming upgrades of Stacks Nakamoto and sBTC.
+The founder of Zest Protocol, Tycho Onnasch, highlighted the limitations of Bitcoin’s Layer 1 technology in supporting basic DeFi operations like liquidity pools.
+“Bitcoin L2s like Stacks are set to play a key role in unlocking Bitcoin DeFi. Unlike on Ethereum, the creation of basic DeFi primitives such as liquidity pools isn’t possible on Bitcoin L1. The Stacks sBTC upgrade is set to be a watershed moment for Bitcoin DeFi, which is what it was designed for from the beginning,” Onnasch stated.
+The platform’s use of sBTC’s peg-in-wire format lets users fund their lending activities through direct Bitcoin transactions. As Zest Protocol gears up for the sBTC launch, its infrastructure is already operational on the Stacks mainnet, introducing the first money market for Stacks-based assets.
+Zest Protocol was incubated at Trust Machines, co-founded by Stacks creator Muneeb Ali. Furthermore, it has been instrumental in developing the Stacks Nakamoto upgrade.
+“I don’t want to just hold BTC – I want to use it! I’ve ran many experiments to deploy BTC productively, but it hasn’t been easy. I’m excited to see the team at Zest Protocol make it happen and look forward to using the product once BTC deposits open,” Tim Draper said.
+Read more: How To Choose a Cryptocurrency Lending Platform
+Beyond technology, the involvement of Binance Labs signifies a strong endorsement of Zest’s approach to Bitcoin lending. Current solutions often depend on centralized parties, introducing fees and reducing economic feasibility for users. Zest’s model promises transparency and user control, eliminating unnecessary intermediaries.
+This investment is part of a broader resurgence in crypto lending initiatives, evidenced by recent funding activities across the sector. Draper’s continued investment in blockchain shows confidence in Bitcoin-based financial services and Mati Greenspan, CEO at Quantum Economics, the opportunity such a market sector can offer.
+“Blockchain based lending solutions have the potential to be more open and transparent than what you typically find in traditional finance. However, at this time, while DeFi is still in diapers, these types of investments can be extremely risky, especially for those who don’t know how to do the research. For what it’s worth, Tim Draper is a pretty savvy guy and I would assume that he’s likely done his homework before moving forward with such an investment,” Greenspan told BeInCrypto.

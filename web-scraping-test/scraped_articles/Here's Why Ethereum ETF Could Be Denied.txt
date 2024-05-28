@@ -1,0 +1,14 @@
+Article Title: Here's Why Ethereum ETF Could Be Denied
+
+Article Text:
+According to James Seyffart, one of the leading ETF analysts, it is increasingly likely that the US Securities and Exchange Commission is going to deny a slew of Ethereum ETF applications this May by claiming that the underlying cryptocurrency is a security.
+“Not a guarantee that they will do this but I think this almost guarantees that the SEC is at least considering it,” Seyffart added.
+This came after finance lawyer Scott Johnsson opined that Ethereum’s legal status was likely to appear in the agency’s upcoming ETF order.
+According to Johnson, the SEC is supposed to provide a "notice of the grounds for disapproval under consideration".
+The SEC claims that it was improper to offer  commodity-based trusts shares since the underlying asset is a security.
+Notably, this wasn’t an issue that Bitcoin ETFs had to deal with.
+After months of kicking the can down the road, the SEC is supposed to make its final decision regarding VanEck and ARK's Ethereum ETF filings on May 23 and May 24, respectively.
+The industry consensus appears to be that these applications will be shot down by the SEC due the lack of engagement with issuers. However, it remains unclear what will be the exact reason behind this rejection. According to Bitwise's Matt Hougan, Ethereum ETF products will be rejected due to insufficient data.
+Apart from VanEck and Ark Invest, several other big players, including BlackRock and Fidelity, are vying to launch a spot Ethereum ETF.
+As reported by U.Today, Grayscale, which scored a big legal victory against the SEC last year, recently withdrew its “Trojan horse” Ethereum futures filing. This indicates that it does not intend to pursue another lawsuit against the agency.
+The SEC has faced a lawsuit from Ethereum backer ConsenSys over its attempts to label the leading altcoin as a security. However, BlackRock’s Larry Fink recently stated that such a designation wouldn’t necessarily prevent them from launching an Ether ETF.

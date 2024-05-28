@@ -1,0 +1,28 @@
+Article Title: Crypto Regulations Are Imminent, but Will the Regulators Align
+
+Article Text:
+Regulatory change in the crypto realm has been a subject of heated debate for many years. The general ethos of cryptocurrency is one of anarchism or anarcho-capitalism. Proponents of the tech tend to be adamantly against any type of governmental intervention into markets or technology.
+However, as digital assets and blockchain technology find themselves thrust into the mainstream, governments must respond. They must either incorporate these assets into existing regulations or create a new regulatory framework altogether.
+Lets look at how crypto regulations have evolved over the years, with a focus on US regulation.
+Much of the conversation surrounding cryptocurrency regulation in the US has been focused on something called the Howey Test. Having its roots in a landmark Supreme Court case from 1946, The Howey Test provides the criteria used to determine whether or not something can be considered a security, aka an investment contract.
+The test has four parts, and says that a security is:
+1. An investment of money;
+2. In a common enterprise;
+3. With the expectation of profit; and
+4. Those profits being derived from the efforts of others.
+If an investment aligns with all four of these precepts, then it can be considered a security, meaning it falls under the regulatory jurisdiction of the Securities and Exchange Commission (SEC).
+The Howey Test is almost 80 years old. Applying it to new technologies like cryptocurrencies can be difficult. However, many have argued that most cryptocurrencies do constitute investment contracts that meet the criteria of the Howey Test.
+Bitcoin may be an exception, as the SEC has intimated that BTC looks more like a commodity. This reasoning was part of what led to the approval of spot Bitcoin ETFs in the US in January 2024.
+Let’s get this thing straight. Crypto is a part of the global financial ecosystem now. No government can wish it away. That being said, if we’re not to undo the years of work towards cleaning up our financial system, we absolutely have to get the regulation right. While… pic.twitter.com/sgDMnG0YSn
+Between 2009, when Bitcoin was invented, and 2013, there were only a few significant developments in cryptocurrency regulation. These included:
+Silk Road was a Bitcoin marketplace used in part for the sale of illicit substances. Its founder, Ross Ulbricht, was sentenced to two life sentences in prison without the possibility of parole. On the other hand, Mt. Gox was an exchange responsible for 70% of Bitcoin trading at the time.
+These two enforcement actions were the first known measures taken against cryptocurrency by authorities.
+In 2014, the Internal Revenue Service (IRS) issued guidance classifying cryptocurrency as a form of property, making it subject to capital gains taxes. Up until this point, there were no tax implications for any types of cryptocurrency gains or losses.
+It’s interesting to note that while the IRS claims crypto to be property, other agencies like the FBI see it as a form of currency. This illustrates the lack of clear regulatory guidance that exists and the resulting difficulties in compliance facing consumers, companies, and institutions.
+Later, in 2020, the IRS would add a question to US tax returns asking taxpayers if they had sold any cryptocurrency in the last year.
+In 2016, the first John Doe summons was issued to Coinbase, the largest US-based crypto exchange platform. A John Doe summons is a request by the IRS to acquire information about a group of unnamed taxpayers. Coinbase eventually handed over information on about 14,000 US taxpayers who made transactions totaling $20,000 or more. The IRS then notified these individuals that they must amend past tax returns to avoid penalties and fines.
+the FBI calls crypto money so they can arrest you for money launderingthe IRS calls it property so they can tax your capital gainsthe SEC calls it a security so they can sue every exchangethe CFTC calls it a commodity so they can govern how you transact ith/t @CryptoTea_
+In March 2022, US President Joe Biden signed an Executive Order (EO) on “Ensuring Responsible Development of Digital Assets.” While not a direct regulatory bill, the order did serve as acknowledgement of digital assets from the government of the largest economy in the world. In addition, this EO called for the US government to take some specific measures regarding cryptocurrency, including:
+While the above is not an exhaustive list of regulatory activity in the US, it does cover many of the most important milestones.
+Classifying #ETH as a security contradicts previous statements of the SEC and Chair Gensler.Republicans will continue to hold the SEC accountable for its regulatory overreach that is stifling innovation, leaving consumers unprotected, and risking our national security. https://t.co/XohLYtp7EF
+Cryptocurrency regulations in 2024 have come a long way since the birth of Bitcoin. Much progress remains to be made, and regulations differ from country to country. The US and the European Union (EU) have so far led the way when it comes to crypto regulation. Time will tell if these regulations grow to be too restrictive, as some fear, or if they will take a more productive form.

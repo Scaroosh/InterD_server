@@ -1,0 +1,8 @@
+Article Title: Surge in Bitcoin to OTC desks potentially marks a local peak
+
+Article Text:
+The recent stagnation in Bitcoin’s price has been accompanied by a significant influx of Bitcoin (BTC) into the over-the-counter (OTC) trading desks, a trend that has historically signaled the approach of local tops and bottoms.
+According to data from CryptoQuant, shared by Head of Research Julio Moreno, the amount of BTC sitting on OTC desks currently stands at 205,000 BTC, a level not seen since the aftermath of the FTX collapse in November 2022. Over the past 30 days alone, approximately 43,000 BTC has been transferred onto these desks, marking the largest monthly inflow since May 2022, when BTC bottomed around $15,000 following the implosion of the Terra/LUNA ecosystem.
+
+This pattern is reminiscent of the bull run that peaked in early 2021. During that period, the OTC desk balance swelled from 220,000 BTC in December 2020 to a high of 420,000 BTC by May 2021 as institutional investors sought to cash in on their profits, ultimately marking the top of the 2021 market cycle.
+With Bitcoin retracing over 20% from its all-time high in March, the current surge in OTC desk balances could signal that a local peak has occurred, at least in the near term.

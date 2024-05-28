@@ -1,0 +1,18 @@
+Article Title: Buy Or Sell Bitcoin Quant Reveals What Leading Metric Says
+
+Article Text:
+A quant has explained what a potential leading Bitcoin indicator could say about what’s next for the cryptocurrency’s price.
+In a CryptoQuant Quicktake post, an analyst has talked about the trend currently taking place in the Bitcoin Coinbase Premium. “We can use the trend of Coinbase Premium as a leading indicator of the future direction of BTC price,” notes the quant.
+The “Coinbase Premium” is a metric that keeps track of the difference between the Bitcoin price listed on the cryptocurrency exchanges Coinbase (USD pair) and Binance (USDT pair).
+When the value of this indicator is positive, it means that the price listed on Coinbase is higher than on Binance right now. Such a trend suggests the buying pressure is higher (or the selling pressure is lower) on the former platform than on the latter.
+On the other hand, the negative premium implies Coinbase might be observing a higher amount of selling than Binance, as the asset is currently trading at a lower price there.
+Now, here is a chart that shows the trend in the 30-day moving average (MA) of the Bitcoin Coinbase Premium over the last couple of years:
+
+The 30-day MA value of the metric seems to have been going down in recent weeks | Source: CryptoQuant
+As displayed in the above graph, the 30-day MA Bitcoin Coinbase Premium has been positive recently, suggesting that Coinbase users have supported the asset through the rally.
+Coinbase is popularly known as the preferred platform of the US-based institutional entities, while Binance has a more global user base. As such, the premium’s value can provide hints about how the behavior of the American whales differs from that of the rest of the world.
+From the chart, it’s visible that the buying pressure from these institutional traders peaked alongside the price top but has since been declining. The metric continues to be positive overall, although it’s now quite close to the neutral zero mark.
+In the graph, the quant has highlighted an interesting pattern that the cryptocurrency has followed regarding the Coinbase Premium during the last two years. It would appear that whenever the indicator has hit bottom in negative territory and reversed back to an uptrend, the coin’s price has observed a rebound.
+An example of this trend also played out just earlier in the year, when a reversal in the indicator led to Bitcoin observing a rally in which the asset would eventually break its all-time high.
+The Coinbase Premium is currently riding a downtrend, but it’s yet to dip into negative territory. The analyst explains that BTC is in a “wait and see” phase, where a rebound might be a bit longer out. The metric has to first decline more and reach a reversal point, at least if the historical pattern has to repeat.
+Bitcoin had slipped under $61,000 earlier, but the asset has found a slight rebound in the past day, returning above $62,700.

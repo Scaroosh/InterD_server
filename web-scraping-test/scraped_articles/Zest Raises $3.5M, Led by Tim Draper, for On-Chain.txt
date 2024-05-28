@@ -1,0 +1,11 @@
+Article Title: Zest Raises $3.5M, Led by Tim Draper, for On-Chain Bitcoin Lending Using Stacks
+
+Article Text:
+Zest Protocol uses the Nakamoto upgrade by Bitcoin layer-2 Stacks and bridging asset sBTC.
+Projects like Zest are attempting to use layer 2 networks such Stacks to bring DeFi features to Bitcoin that are prominent on other chains like Ethereum.
+Bitcoin lending protocol Zest has raised $3.5 million to enable bitcoin (BTC) holders to deploy their assets in on-chain and generate yield.
+The seed raise was led by billionaire investor Tim Draper with participation from Binance Labs, Flow Traders, Trust Machines and others, Zest Protocol announced by email on Monday.
+Zest Protocol uses the Nakamoto upgrade by Bitcoin layer 2 Stacks and bridging asset sBTC (pegged 1:1 to bitcoin) to create a lending experience fully native to the world's largest blockchain network.
+Users will rely on sBTC to send bitcoin to fund their balance on Zest Protocol, which lives on the Stacks mainnet, and thereafter will be able engage in lending or other yield-generating activities.
+“Bitcoin L2s like Stacks are set to play a key role in unlocking Bitcoin DeFi,” said Tycho Onnasch, founder of Zest Protocol. “Unlike on Ethereum, the creation of basic DeFi primitives such as liquidity pools isn’t possible on Bitcoin L1. The Stacks sBTC upgrade is set to be a watershed moment for Bitcoin DeFi, which is what it was designed for from the beginning.”
+Read More: Bitcoin L2s Are Poised to Break Out, Stacks Creator Muneeb Ali Says

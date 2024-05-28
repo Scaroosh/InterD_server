@@ -1,0 +1,17 @@
+Article Title: Short squeeze alert for two cryptocurrencies this week
+
+Article Text:
+High open interest volume, negative funding rates, and upward accumulated liquidations can indicate a potential short squeeze for cryptocurrencies. In particular, Finbold spotted significant indicators for BNB Chain (BNB) and Toncoin (TON), signaling a short squeeze could happen soon.
+The cryptocurrency market has followed Bitcoin (BTC) in a downtrend since April 9. The leading digital asset trades at $61,405, below its 30-day exponential moving average (30-EMA), which has become resistance. Moreover, it is condensed between the 30-EMA and a 3-month range’s bottom at the psychological support of $60,000.
+This diminishing volatility will soon ignite an aggressive movement either upwards or downwards. Other cryptocurrencies will likely follow the move, which could trigger a short squeeze for some coins.
+
+First, BNB has the seventh-largest open interest and the second-highest negative funding rate in the market. Short sellers pay a 64% APR to long-position traders as of this writing due to the higher weight of opened-short positions.
+
+Therefore, a short squeeze is likely and could drive BNB to a relevant liquidation pool at nearly $610 per token. This would result in around 5% gains for traders entering at current prices.
+
+Meanwhile, Toncoin has a negative funding rate of 111.95%, the worst among cryptocurrency derivatives, despite a lower open interest. If the downtrend reverts, this data makes TON a potential candidate for a short squeeze this week.
+
+Interestingly, Telegram’s crypto project has two notable liquidity pools for short liquidations. First at $7.2 and the second at $7.4 per token. These are two short-term targets for TON, currently trading at $6.7. A bull rally could make Toncoin surge by 10% in a few hours, aiming for longer time frames later.
+
+However, other factors could prevent the forecasted trend reversal and short squeezes for BTC, BNB, TON, or other cryptocurrencies. Traders must remain cautious while opening leveraged positions and speculating in this volatile landscape.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.

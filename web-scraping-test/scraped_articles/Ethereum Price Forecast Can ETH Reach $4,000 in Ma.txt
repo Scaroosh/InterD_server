@@ -1,0 +1,20 @@
+Article Title: Ethereum Price Forecast Can ETH Reach $4,000 in May 2024
+
+Article Text:
+Ethereum price hangs precariously above the $2,900 territory on May 10, on course to close the week with 9.8% losses, on-chain metrics reveal the key catalysts behind ETH’s underwhelming performance.
+The global altcoin market made a positive start to May 2024, as investors piled on capital inflows in excess of $150 billion within the first week. However, since May 7, the market rally has tapered off, with bears clawing back majority of the gains recorded in the first week of May.
+Notably, the bearish pressure currently surrounding Ethereum seems to be more intense than the broader market average.
+TradingView’s TOTAL2 metric tracks the movements in the total market cap of all listed crypto assets, excluding Bitcoin. This provides insights into the real-time performance of the global altcoin market.
+The TOTAL2 chart above shows that the global altcoin market shrank by $73.3 billion over the past week between May 6 and May 11, which accounts for a 6.9% decline. Interestingly, in comparison, Ethereum’s price declined by 9.8% during that same timeframe.
+Effectively, this means that the ETH price is performing below the market average. This underwhelming performance could be attributed to negative sentiment and multiple delays surrounding Ethereum ETF approval prospects in the US.
+In early May, regulators in Hong Kong approved spot ETH ETFs for trading, raising hopes that it could set precedence for the US SEC to take on a softened stance and accelerate the approval process. But with significantly lower volumes in Hong Kong compared to the US market, it has failed to move the needle.
+However, news emerged this week that Grayscale, the largest Digital Assets Manager in the US had withdrawn its Ethereum ETF application, further casting a dark cloud on the prospects of an approval in 2024.
+Looking away from the poignant Ethereum news headlines circulating in the media this week, on-chain data shows investors’ negative reaction to this development may have catalyzed the ongoing ETH price downtrend.
+IntoTheBlock’s Open Interest ratio measures the value of capital invested in ETH derivatives contracts against the spot market capitalization. Increasing the open interest ratio signals bullish sentiment, and vice versa.
+The chart above shows how the ETH open interest ratio has been in decline since mid-April. Historical data shows that the ETH price has often failed to stay above $3,000 when the open interest ratio falls below 0.2%. The last time the ETH open interest ratio reached that threshold was April 14.
+The latest data, at the time of writing, shows Ethereum’s open interest ratio trending at 0.18% on May 10. This suggests that with the ETH ETF decision still hanging in the balance, speculative traders are pessimistic about Ethereum short-term price prospects, hence there are unwilling to invest in new futures contract positions.
+Ethereum price is trading at $2,910 at the time of writing on May 10, down 9.8% for the week. However, the persistent decline in ETH open interest relative to spot market activity dampens prospects of Ethereum price breaking above $3,100 in the near term.
+After a 9.8% decline over the past week, IntoTheBlock’s GIOM data shows ETH bulls could now count on the looming buy-wall at $2,850 for short-term support.
+As seen above, 1.32 million active addresses had bought 1.08 million ETH at an average price of $2,860. If ETH fails to stay above the $2,900 level, bulls could start making rapid covering purchases to prevent a breakdown below $2,850, possibly triggering an instant rebound phase.
+But on the contrary, the looming sell-wall at $3,100 could slow down any short-term rebound breakout.
+In summary, Ethereum open interest ratio in decline is likely to slow down Ethereum price movements in either direction. Hence, ETH price action during the weekend will likely be subdued within the $2,800 to $3,100 narrow channel.

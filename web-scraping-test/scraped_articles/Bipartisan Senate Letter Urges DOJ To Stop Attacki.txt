@@ -1,0 +1,20 @@
+Article Title: Bipartisan Senate Letter Urges DOJ To Stop Attacking Bitcoin Privacy Software
+
+Article Text:
+Two crypto-supportive senators have urged the Justice Department (DOJ) to reconsider its recent enforcement action against a popular Bitcoin privacy service.
+On Monday, Senator Cynthia Lummis (R-WY) publicly shared a letter arguing that the DOJ’s “unprecedented interpretation” of what constitutes an unlicensed “money services business” (MSB) contradicts both Treasury Department guidance and the intent of Congress.
+“This interpretation threatens to criminalize Americans offering non-custodial crypto asset software services,” read the letter, co-authored by Lummis and Senator Ron Wyden (D-OR).
+President Biden's DOJ steamrolling the longstanding interpretation of FinCEN is legally wrong and threatens to criminalize Bitcoin software development in America. @RonWyden and I have sent a bipartisan letter to DOJ urging it to drop this interpretation immediately. ⬇️ pic.twitter.com/iazbBhMcOv
+— Senator Cynthia Lummis (@SenLummis) May 13, 2024
+Late last month, the DOJ arrested the founders of Bitcoin mixer Samourai Wallet for allegedly operating an unregistered MSB, allowing criminals to use their service for money laundering.
+Specifically, Samourai used CoinJoin transactions to enhance user privacy, which involves multiple parties combining the inputs and outputs of their transactions into one transaction, making the flow of funds difficult to trace on the blockchain.
+While Samourai’s wallet did require a centralized server to coordinate CoinJoin transactions, the service never involved taking control of users’ actual funds.
+That makes Samourai’s case a tricky legal topic, since the Bank Secrecy Act (BSA) defines “money transmission” as “the acceptance of currency…and the transmission of currency…to another location or person by any means.”
+The senators argued in their letter that such definitions were clear, and required so that other groups like internet service providers and postal code carriers weren’t caught up in the definition of an MSB. By the same logic, the definition would fail to capture that of crypto wallets where users maintain control of their private keys.
+“Subjecting developers of non-custodial crypto asset software to potential criminal liability… will only serve to stifle innovation and shake confidence in the DOJ’s respect for the rule of law,” the letter concluded.
+By contrast, the DOJ’s interpretation of the money-transmitting business statute posits that a money transmitter need not have actual control of the funds that it transfers. It likened money transmission to a USB cable transferring data between devices, or a frying pan transmitting heat from a stove the the pan’s contents.
+Custodial vs self-custodial doesn't matter, legally
+The DOJ also makes it crystal clear that a service does not have to be custodial in any way to be considered a money transmitter, and thus required to implement KYC/AML, register with FinCEN, etc.
+If this definition of a money… pic.twitter.com/A9D5xukhM4
+— Seth For Privacy | #FreeSamourai (@sethforprivacy) April 27, 2024
+The DOJ has since issued a warning to crypto users that they could lose funds in wallets provided by non-regulated entities, which could face future prosecution by the department.

@@ -1,0 +1,23 @@
+Article Title: Bitcoin Network Fundamentals Could Sustain $265,000 Price, CryptoQuant CEO Explains
+
+Article Text:
+The CEO of analytics firm CryptoQuant has explained how the Bitcoin network fundamentals could support a market cap three times the current size.
+In a new post on X, CryptoQuant founder and CEO Ki Young Ju has talked about what the network fundamentals could reveal about how much more market cap Bitcoin can sustain.
+BTC is a cryptocurrency that runs on the proof-of-work (PoW) consensus mechanism, meaning that validators called miners compete with each other using computing power to get the chance to add the next block to the blockchain.
+Miners have to pay constant electricity costs to run this computing power. Generally, these chain validators do so by selling their block rewards. These rewards are fixed in BTC value and given out at a more or less constant rate, so the main variable in miner finances is the asset’s USD value.
+Mining-related economics are very much related to the cryptocurrency’s price. A metric central to the miners is the Hashrate, a measure of the computing power this cohort has connected to the Bitcoin blockchain.
+Below is a chart that shows the trend in the 7-day average value of this BTC indicator over the past year.
+
+The value of the metric seems to have been going down in recent days | Source: Blockchain.com
+As the graph shows, the Bitcoin Hashrate has been riding an uptrend during this period, largely due to the rally that the asset’s price has enjoyed in this window.
+To relate this fundamental metric with the price of the asset, the CryptoQuant CEO has referred to the “Hashrate/Market Cap Ratio,” which is an indicator that keeps track of how the market cap (that is, the total valuation) of the cryptocurrency compares against its Hashrate.
+Here is the chart shared by Ju that shows the trend in this metric over the last few years:
+
+Looks like the value of the metric has been at relatively low levels recently | Source: @ki_young_ju on X
+The graph shows that the Bitcoin Hashrate/Market Cap Ratio has been at low levels compared to the highs the metric achieved during the 2021 bull run.
+This is despite the fact that the asset’s price is currently at similar levels to back then. The reason behind this trend is that the network’s Hashrate is now more than three times what it was then.
+If the ratio’s high from the previous cycle top is where the cycle peak will also be observed this time around, then it means that the asset’s market cap could increase over three times from its current value.
+Based on this, Ju suggests that the current network fundamentals could potentially sustain a price of $265,000.
+At the time of writing, Bitcoin is trading at around $62,300, up more than 9% over the past week.
+
+The price of the coin appears to have registered a drawdown over the last few days | Source: BTCUSD on TradingView

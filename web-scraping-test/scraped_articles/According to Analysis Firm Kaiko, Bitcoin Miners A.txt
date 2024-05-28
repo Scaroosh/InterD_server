@@ -1,0 +1,15 @@
+Article Title: According to Analysis Firm Kaiko, Bitcoin Miners Are in a Difficult Situation After the Halving! Here's Why
+
+Article Text:
+According to information provided by researcher Kaiko, Bitcoin miners are facing increasing pressure as they struggle with low token rewards, which has significant impacts on market liquidity and trading activity.
+A significant portion of Bitcoin mining revenue has been experiencing a significant decline recently following the halving at the end of April.
+This event, known as the halving, occurs approximately every four years and reduces mining rewards by half.
+The latest halving, the fourth since 2012, reduced daily production from 900 tokens to 450, resulting in a loss of annual revenue of approximately $10 billion based on then-current prices.
+In response to this revenue decline, Bitcoin miners have attempted to offset their losses by taking advantage of transaction fees, an alternative revenue stream beyond the mining subsidy.
+However, due in part to the introduction of memecoins on the Bitcoin network, the post-halving surge in transaction fees has since subsided, contributing to further revenue problems for miners.
+Kaiko's analysis suggests that potential selling pressure from miners, especially those with significant Bitcoin reserves, could have a negative impact on cryptocurrency markets.
+This scenario is further complicated by the seasonal slowdown in trading activity and liquidity, which is usually observed during the summer months.
+Despite the recent revenue decline, Bitcoin miners have tended to hold on to their reserves, unlike the sell-offs observed during the 2022 crypto market downturn.
+Over the past two years, major Bitcoin mining companies such as Marathon Digital and Riot Blockchain have increased their holdings, demonstrating renewed confidence in the digital asset market.
+According to Kaiko's data, Marathon reportedly owns 17,631 Bitcoins worth over $1.1 billion, while Riot owns 8,872 Bitcoins worth over $500 million.
+*This is not investment advice.

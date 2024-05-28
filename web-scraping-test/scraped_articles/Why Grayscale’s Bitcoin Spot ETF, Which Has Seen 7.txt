@@ -1,0 +1,12 @@
+Article Title: Why Grayscale’s Bitcoin Spot ETF, Which Has Seen 78 Days of Outflows, Is Starting to See Net Inflows Here Are The Theories
+
+Article Text:
+Grayscale's spot Bitcoin ETF recently broke its 78-day outflow streak, recording two days of net inflows in a row. The sudden change in the fund's performance sparked controversy among market analysts.
+While Bloomberg ETF Analyst James Seyffart is unsure about the exact cause of the volatility, he suggested several possible explanations:
+It could be a short-term tactical trade or some form of binary trading. “It may have happened over shorter time frames, where the transaction fee was much less important.”
+Grayscale launched its ETF in January, turning its flagship GBTC fund into a spot Bitcoin ETF. At launch, the fund managed approximately $30 billion in assets. However, it later experienced a billion-dollar outflow. Notably, Grayscale's product charges a higher fee than competing funds issued by firms like BlackRock and Fidelity.
+Seyffart also speculated about the reasons for the recent entries:
+“If market makers are using GBTC as part of market making, this could result in inflows. “It could also be one of those platforms where GBTC is the only approved means to gain spot Bitcoin access.”
+While recent inflows into Grayscale's fund did not significantly impact the “big picture,” Seyffart noted that overall capital flowing into U.S.-based spot BTC ETFs appears to have diminished somewhat amid a more stagnant Bitcoin market.
+However, in a recent development, it was revealed that the trading company Susquehanna International Group purchased over 1 billion dollars of BTC from the GBTC product. This may be a factor affecting the inflows into GBTC.
+*This is not investment advice.

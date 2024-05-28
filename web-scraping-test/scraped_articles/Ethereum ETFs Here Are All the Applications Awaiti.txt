@@ -1,0 +1,34 @@
+Article Title: Ethereum ETFs Here Are All the Applications Awaiting SEC Approval
+
+Article Text:
+Following the historic approval of 11 spot Bitcoin exchange-traded funds in January, industry observers are now wondering when the United States Securities and Exchange Commission (SEC) could give the green light to an Ethereum equivalent.
+For those who don’t know, an exchange-traded fund (ETF) is a popular investment vehicle that trades on a stock exchange. It allows investors to buy shares that track the price of an underlying asset—which could be anything from gold and foreign currencies to crypto and tech stocks.
+If approved, a spot Ethereum ETF—just like a Bitcoin one—would mean a fund manager would take care of buying and storing the ETH digital coins, and invite people to buy shares that track their value. This would give people exposure to the second biggest cryptocurrency by market cap.
+Several prestigious financial firms have filed S-1 forms with the SEC. In short, companies file such forms to alert the regulator that they plan to offer securities to the public, and to provide a detailed breakdown of their business.
+Here are the filings currently sitting on the SEC’s desk awaiting approval. The SEC decision deadline for the proposed products varies from end of May to early August.
+BlackRock, the world’s biggest asset manager, filed an S-1 form for its proposed iShares Ethereum Trust back in November.
+The SEC delayed making a decision on the fund manager’s potential product earlier this year and now has until August 7.
+The firm’s CEO, Larry Fink, is seemingly enthusiastic about the cryptocurrency and its network, and has said that there is “value in having an Ethereum ETF.” He has also talked about “tokenization” being inevitable.
+Crypto asset manager Grayscale is awaiting an answer from the SEC after filing a proposal in October to convert its Grayscale Ethereum Trust into a spot Ethereum ETF.
+The current trust right now operates like a closed-end fund; the idea is that as an ETF, it would be easier for investors to redeem shares. Its Bitcoin Trust converted into an ETF in January, so there’s already precedent for how such a crypto vehicle can transition over to a spot ETF.
+Grayscale is a big part of the reason why Bitcoin ETFs are trading in the U.S. right now. In a landmark moment for the crypto industry last year, a judge sided with the firm in a lawsuit, agreeing with the firm that Wall Street’s biggest regulator lacked a coherent explanation for denying its proposed conversion to a Bitcoin ETF after years of denials.
+We believe the case for spot #Ethereum ETFs is just as strong as it was for spot #Bitcoin ETFs. Today we submitted new regulatory filings that would further expand our product suite. (1/5) pic.twitter.com/AxhQx4HNqk
+— Grayscale (@Grayscale) April 23, 2024
+The ruling paved the way for the SEC to give the green light to spot Bitcoin ETFs.
+Despite this, the SEC doesn’t appear to be in a hurry to say yes to the latest approval—it pushed back on giving a decision in January. The regulator now has until June 18 to say yes or no.
+And just last month, the firm filed for a “mini” Ethereum Trust as well. The idea with the fund is that it would have lower fees for shareholders.
+Cathie Wood’s heavyweight tech investment management firm, ARK Invest, filed a proposal with the SEC for an Ethereum ETF back in September.
+The ETF is in partnership with crypto ETF issuer 21Shares and names Coinbase, America’s biggest digital asset exchange, as its custodian—meaning that the recognized company would hold and store the ETH in the product. The decision deadline for the product is May 24.
+Financial services giant Fidelity made it clear that it wanted to drop an Ethereum ETF back in November when Cboe—the exchange where the product would trade—filed a 19b-4 on behalf of the firm.
+Then, in March, the massive firm filed its S-1 with the SEC for its Fidelity Ethereum Fund. The SEC will make a decision on the product on August 3.
+Asset manager VanEck was the first fund manager to file a proposal for an Ethereum ETF with the SEC back in 2021. It later that year withdrew its proposal and has since filed again.
+The firm’s Bitcoin ETF has been a successful product, and VanEck even waived its fees to better compete with the other funds on the market. On May 23, the SEC is due to give a decision on the product.
+The Nasdaq in September filed a proposal on behalf of Brazilian fund manager Hashdex for its Hashdex Nasdaq Ethereum ETF.
+Hashdex has several crypto ETFs already trading in Brazil. In the U.S., its Hashdex Bitcoin ETF was given the green light by the SEC in January but isn’t yet trading on a stock exchange. It said in March that it would convert its Bitcoin futures ETF into the spot ETF at a later date. The SEC will give a decision on May 30.
+Wall Street giant Franklin Templeton entered the race in February when it filed a proposal with the SEC. Its filing for the proposed Franklin Ethereum Trust mentions staking, the process of locking up digital coins or tokens to keep a blockchain ticking along.
+Its proposal says that it “may, from time to time, stake a portion of the Fund’s assets through one or more trusted staking providers.” The SEC will make a decision on the product on June 11.
+Asset management giant Invesco submitted a proposal with Mike Novogratz’s Galaxy Digital for an ETH ETF back in September. The S-1 form mentions that Invesco would be the sponsor for the product, while Galaxy Digital would work as its “execution agent”—selling ETH to pay the Invesco Galaxy Ethereum ETF’s expenses.
+The SEC will approve, deny, or delay the product on July 7.
+Digital asset investment firm Bitwise filed its S-1 form with the SEC to offer a spot Ethereum ETF back in March. Like Franklin Templeton’s filing, Bitwise also mentions staking, noting that its Bitwise Ethereum Trust may stake a portion of the fund's assets through trusted staking providers to earn additional rewards.
+Matt Hougan, Chief Investment Officer at Bitwise, has said that he expects ETH ETFs to launch in December—and predicted they would be more successful if approved later in the year anyway.
+Edited by Andrew Hayward

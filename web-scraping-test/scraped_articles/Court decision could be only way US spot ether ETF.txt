@@ -1,0 +1,36 @@
+Article Title: Court decision could be only way US spot ether ETFs see light of day
+
+Article Text:
+The advent of bitcoin ETFs came only after a legal victory over the Securities and Exchange Commission.
+A similar action could be what it takes to get US spot ether ETFs over the finish line, law professionals told Blockworks.
+And let’s not forget Consensys’ lawsuit against the US securities regulator, which they added could play a role in helping sort out the ether ETF question.
+In a world where the SEC and crypto companies constantly appear to be at odds, the courts have been able to offer some clarity.
+Judges in the DC Circuit Court of Appeals ruled last August that the SEC’s decision to deny the conversion of the Grayscale Bitcoin Trust (GBTC) to an ETF, but allow bitcoin futures ETFs, was “arbitrary and capricious.”
+SEC Chairman Gary Gensler said in a January statement that approving bitcoin ETFs was “the most sustainable path forward” given that court decision. He added that the regulator “acts within the law and how the courts interpret the law.”
+Enter: proposed funds that would directly hold ETH — the second-biggest crypto asset by market capitalization.
+Investment firm VanEck first filed for a spot ether product in 2021. The company, along with Ark Invest and 21Shares, renewed the efforts last September. BlackRock and Grayscale were among those to follow suit.
+The SEC, as expected, delayed its decision on Monday for a spot ether fund filed by Invesco and Galaxy Digital. A ruling on other similar planned offerings by Ark Invest, VanEck, Grayscale, BlackRock and others is expected by the end of the month.Various segment observers have said they don’t expect the US regulator to approve them. This is due to concerns over the liquidity of ETH’s spot and futures markets and the question of its status as a security or commodity.
+Read more: Ether ETFs coming in May? Here’s why many are bearish
+The “cleanest path” for the SEC to deny the spot ether ETFs would be solely based on the correlation between the ETH futures and spot markets, Van Buren Capital general partner Scott Johnsson said in an April 25 X post.
+Bitwise, a fund group with its own ether ETF filing, submitted a data analysis showing what it called a correlation between the ETH futures and spot markets that are “substantially similar” to that of bitcoin.
+“They probably overextend, and push for more reasons, because correlation concerns will only result in a temporary delay (and they know this),” Johnsson added at the time.
+Court intervention is of course not needed for the SEC to greenlight spot ether funds, noted Liz Boison, a partner at law firm Hogan Lovells.
+But it appears it could come to that.
+“We should expect that one of the applicants will sue the SEC if the SEC either unreasonably extends the deadline or disapproves the application,” Boison told Blockworks. “Just as the Grayscale suit succeeded in giving the SEC a court-ordered deadline, the ether spot funds will want the same.”
+A Grayscale spokesperson did not immediately return a request for comment.
+Hailey Lennon, a corporate partner in Brown Rudnick’s digital commerce unit, said she too thinks issuers will consider fighting a potential ether ETF application denial in court.
+“The SEC has typically regulated the cryptocurrency industry through enforcement action and has not provided regulatory clarity until it’s pressured to do so by the courts,” Lennon said. “I do think a decision by the court may be the only way we see the spot ether ETFs approved.”
+Many of the same arguments can be made for a spot ether ETF, she contended. After all, the SEC approved ether futures-based ETFs in October, and companies may argue — like in the Grayscale lawsuit — that those approvals set a precedent for spot ether products.
+Muddying the water is additional complexities around the SEC possibly looking to treat ETH as a security, whereas the regulator had clearly labeled bitcoin a commodity.
+Not all agree that issuers suing the SEC — should the regulator deny the ether funds — is a foregone conclusion.
+Bloomberg Intelligence analyst Eric Balchunas questioned that assumption in an April 10 X post, noting the disparity between the assets in ether futures ETFs compared to bitcoin futures ETFs.
+The largest bitcoin futures ETF — the ProShares Bitcoin Strategy ETF (BITO) — has grown to nearly $1.9 billion in assets. ProShares’ ETH futures fund, also the largest in that category, has $70 million.
+“That’s a lot of time and money for something that may only get a fraction of the [assets under management],” he added.
+Read more: What Hong Kong crypto ETFs may tell us about US ETH fund appetite
+Whether prospective ether ETF issuers choose to sue the SEC or not, another court case could help efforts to launch such products.
+MetaMask developer ConsenSys sued the SEC last month in a case alleging regulatory overreach. The suit is expected to put pressure on the SEC to defend any position it might have that ETH is a security.
+“The SEC has been notoriously tight-lipped about their classification of ETH,” Lennon said. “The SEC is likely trying to retain their stance that Ethereum and bitcoin are not the same, especially after the Ethereum Merge in September 2022 when Ethereum moved from proof of work to proof of stake.”
+Read more: SEC has been investigating ETH for over a year, new court filing shows
+The portion of the suit requesting a declaratory judgment that ETH is not a security likely will require the SEC to shed light on its stance, Boison explained.
+Approval of spot ether ETFs could take place before briefing in the Consensys case is complete, she noted.
+Boison added: “The SEC can theoretically approve spot ether ETFs, file charges regarding staked ether and still have a court declare that ETH, itself, is not a security.”

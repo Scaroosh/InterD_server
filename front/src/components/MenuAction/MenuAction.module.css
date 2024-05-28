@@ -1,0 +1,24 @@
+.user_action_list_text{
+    background-color: #E4E2DF;
+    border: 3px solid #FFF;
+    border-radius: 8px;
+    padding: 3px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.user_action_table{
+    display: flex;
+    gap: 50px;
+}
+
+.user_action_list{
+
+}
+
+.container{
+    display: flex;
+    gap: 50px;
+}

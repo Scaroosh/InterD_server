@@ -1,0 +1,28 @@
+Article Title: Strong start, slowing demand The first 4 months of US spot bitcoin ETFs
+
+Article Text:
+The financial world prefers quarterly reviews. But US spot bitcoin ETFs have been alive for one-third of a year, and now seems as good a time as any for a look back.
+The sample size captures bitcoin hitting a new all-time high and seeing some corrections since the Jan. 11 ETF launches.
+Oh yeah, and adding a fourth month captures the demand (or lack thereof) for bitcoin ETFs after per-block rewards for mining the asset were cut in half last month.
+One headline number: US spot bitcoin ETFs have notched net inflows of about $11.7 billion.
+Another noteworthy stat: Those inflows occurred despite the Grayscale Bitcoin Trust ETF (GBTC) enduring net outflows of $17.6 billion.
+Profit-taking by ETF investors, as well as the Federal Reserve’s likely higher-rates-for-longer posturing, have resulted in a demand drop-off for BTC in recent weeks, according to analysts. Bitcoin’s price (BTC) — at roughly $63,000 Monday at 12 pm ET — is down about 6% from a month ago.
+Industry watchers had said it would be hard to sustain the pace of some of the most successful ETF launches of all time.
+Read more: Macro headwinds could spur a ‘boring’ bitcoin summer — or something worse
+The category’s inflow total once stood above $12.5 billion before a month-plus of outflows brought the category back down to Earth.
+Net money exiting the funds over the last five weeks (since April 8) stands at $931 million, according to Farside Investors data. Last week’s positive flows of $117 million broke a four-week bleeding streak.
+Crypto exchange-traded product (ETP) volumes — the majority of which come from US spot bitcoin ETFs — have continued to slide, CoinShares research head James Butterfill wrote in a Monday report.The offerings saw volumes of roughly $8 billion last week, compared to the $17 billion average in April.“These volumes highlight ETP investors are participating less in the crypto ecosystem at present, representing 22% of total volumes on global trusted exchanges, relative to 31% last month,” Butterfill added.
+Perhaps as expected, products by BlackRock and Fidelity were able to capitalize on their renowned brands and deep client networks out of the gate to attract the most investor assets.
+BlackRock’s iShares Bitcoin Trust (IBIT) and the Fidelity Wise Origin Bitcoin Fund (FBTC) so far have net inflows amounting to $15.5 billion and $8.1 billion, respectively.
+Both offerings enjoyed unprecedented inflow gains for new ETFs.
+FBTC saw net inflows during its first 63 days before the streak ended on April 12. The takeaway: It saw about $8 billion of net money enter the fund in those first 63 days, and just $94 million in the 21 trading days since.
+IBIT’s run lasted 71 days, before the fund notched a zero in that category on April 24.
+So, the fund’s net inflows were nearly $15.5 billion in the first 71 trading days. They are $24 million in the last 13 trading days.
+BlackRock’s bitcoin ETF looked poised to pass GBTC in assets under management weeks ago. But the recent demand slowdown has kept Grayscale’s fund in the lead — at about $17.6 billion to $16.6 billion, as of market close on Friday.
+IBIT’s trading volumes were roughly $3.6 billion last week, a Blockworks analysis of Yahoo Finance data shows. That gave it a daily average of $720 million, down from a nearly $1.1 billion daily volume average the week before.
+GBTC saw its lowest weekly outflow since January from May 6 to May 10, at $171 million. The fund saw its first daily net inflow, gaining $63 million on May 3.
+Read more: Bitcoin ETF snapshot: GBTC surprise helps end sector’s seven-day outflow run
+Still, like IBIT, the Grayscale fund’s daily volumes average dipped to $338 million last week, according to Yahoo Finance data — down from a daily mark of $446 million from April 29 to May 3.
+Financial advisers are expected to contribute massively to future inflows, with some revealing in recent filings that they already hold millions of dollars worth of positions in various BTC funds.
+Christopher Jensen, crypto research director at bitcoin ETF issuer Franklin Templeton, told Blockworks in an April interview that more institutional investors are considering including bitcoin within long-term investment portfolios.
+“There are lots of platforms, there are lots of institutions that are interested and are doing work,” Jensen said at the time. “So we don’t think the flows for the ETPs are done even though they’ve cooled off in recent weeks.”

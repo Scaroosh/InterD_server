@@ -1,0 +1,34 @@
+Article Title: The CEO of Chainalysis shares his vision about the future of the crypto industry and Web3
+
+Article Text:
+This morning, Michael Gronager, CEO of the on-chain analysis company Chainalysis, kicked off the long-awaited event “Links NYC 2024” by delivering a speech in which he discussed his perspectives on the current state and future of the crypto and Web3 industry.
+Let’s see all the details below.
+Couldn't make it to #Links24 in New York? Join us for the Links digital premiere in May!Gain access to main stage keynotes, case studies, panel discussions, live demos, and more. Register for free now: https://t.co/8b9LEgJh53 pic.twitter.com/nWUEwBndXQ
+Summary
+Today Michael Gronager, co-founder and CEO of Chainalysis, one of the most well-known and respected on-chain analysis companies in the world, opened the event “Links NYC 2024” by giving a recap of how his company has evolved in recent years and presenting his perspectives on the future of the crypto market and Web3.
+Over 10 years of activity, Chainalysis has grown from a staff of 3 people to expand to a total of 750 individuals including employees and contributors, given the need to cover the increasingly vast and dense field of the web3 sector with new market players.
+The adoption curve of blockchain technology and cryptocurrencies, which is calculated by taking as reference the growth of the total market capitalization and the value of assets transferred on-chain, shows an extremely positive overall outlook with numbers constantly growing despite years of bear market.
+In particular, it seems that adoption rewards more the side of transactions made rather than the capitalization of funds stored in crypto, with users appearing increasingly inclined to move large amounts of assets on cryptographic networks.
+According to Chainalysis CEO the last months of 2023 and the beginning of 2024 have been particularly exciting for the entire cryptocurrency industry, with most of the market attention focused on the narrative of Bitcoin spot ETFs in the United States.
+5 months after the approval of these new regulated investment tools, we can observe the fastest growth in the history of ETFs for the Bitcoin asset class.
+Already in March we could count an inflow of capital equal to 12 billion dollars, an extremely high figure if we think about the capital raised by ETFs on gold in the first months of trading in 2014.
+Gronager then focused on the unchecked growth of stablecoins compared to other types of cryptographic tokens, which have recently dominated the blockchain transaction space.
+According to Chainalysis studies, stablecoins represent approximately 60% of all transactions involving an amount exchanged between 1000 and 100,000 dollars.
+This represents a strong indicator of the growth of exchanges in stablecoins and the growth of a use case becoming dominant within this industry.
+It is important to underline how according to the co-founder of Chainalysis this trend will increase more and more over time, with stablecoins becoming the most traded cryptographic asset on-chain, while Bitcoin will increasingly take on the characteristics of a store of value asset.
+From Michael Gronager’s speech emerges a strong optimism for the future of the web3 sector.
+Although the crypto world until a few years ago represented a niche sector mostly participated by industry experts and occasional speculators, now it seems to be more integrated into the realm of real finance.
+Investors, market makers, companies of various types from all over the world, retail investors, institutional investors, regulators, advisors, and modern influencers all contribute together to form a completely new industry compared to what we could recently observe.
+In addition to all this, we can see a set of technologies constantly improving, and a DeFi environment decidedly more technical and enriched compared to its beginnings in 2021.
+One of the factors that most demonstrate the evolution and growth of the web3 industry is the metric of the TVL of the decentralized finance marketwhich in 2021 marked a sum of locked capital equal to 24 billion dollars, of which 96% was stored within the Ethereum blockchain.
+In January 2024, we could count a total of 98 billion dollars in TVL, with only 57% included within Ethereum, while the remaining 43% is divided among over 5000 tokens on more than 60 EVM chains, demonstrating how the broader blockchain landscape is experiencing strong growth and is able to attract new investment capital.
+The growth of the “wealth” in the cryptographic environments has inevitably led to an expansion of illicit activities carried out in this field, although they now make up a small portion of all regular transactions initiated through blockchain technology.
+Until 2014, in the early years of cryptocurrency popularity, the total sum of exchanges in digital assets was drastically smaller, but the main use cases were directed towards exchange activities on the darknet.
+Today, however, the situation seems to have changed significantly: according to the “Crypto Crime Report” by Chainalysis, in 2024 illicit activities totaling approximately $24.2 billion were identified, representing 0.34% of all cryptocurrency activities.
+One change, in addition to the overall weight compared to legal activities, has been the type of “cryptographic crime” that has emerged in recent years.
+Today, the most common types of illicit activities in the crypto world according to Chainalysis are represented by illegal gambling, violent crimes, CSAM, terrorism financing, drug trafficking facilitation, fraudulent shopping.
+The hard work carried out by Chainalysis in the past year, consisting of continuous updates regarding the refinement of digital crimes and increasingly detailed on-chain analysis, has allowed the analysis company to help international law enforcement agencies seize crypto assets worth over $10 billion.
+Among the most noteworthy operations, we can highlight the seizure of 3.36 billion by the Silk Road hacker and the halt of money flows incentivized to support Iranian terrorism and circumvent economic sanctions on Russia and Palestine.
+This milestone highlights Chainalysis’ commitment to cleaning up the web3 from dishonest actors, aiming for an environment where legality and technological innovation prevail.
+These results are the result of an advancement in research techniques that have allowed to double the number of real-world entities identified on the blockchain with an additional $7 trillion in associated assets.
+In particular, Chainalysis monitors about 63,000 real-world entities operating on the blockchain for a total exchanged value of 29 trillion dollars.

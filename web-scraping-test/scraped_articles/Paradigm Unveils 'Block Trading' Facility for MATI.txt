@@ -1,0 +1,14 @@
+Article Title: Paradigm Unveils 'Block Trading' Facility for MATIC, SOL, XRP Options
+
+Article Text:
+OTC liquidity network Paradigm introduces block trading for linear altcoin options on the centralized crypto exchange Deribit.
+The inaugral trade between QCP Capital and Galaxy Digital involved MATIC call options expiring on May 31.
+Crypto over-the-counter liquidity network Paradigm announced on Monday a block trading facility on leading derivatives exchange Deribit for options tied to prominent alternative cryptocurrencies (altcoins), MATIC, SOL, and XRP.
+“Clients can now execute block trades in Polygon (MATIC), Solana (SOL), and Ripple (XRP),” Paradigm said on X, adding that the linear options will offer payouts that "directly correlate with the price movements of the underlying asset.”
+Options are derivative contracts that give the buyer the right, but not the obligation, to buy or sell the underlying asset by a specific date (expiration date) at a predetermined price. A call option gives the right to buy, and a put option offers the right to sell.
+Block trades are privately negotiated futures, options, or combination trades exceeding certain volume thresholds. Participants typically use communication technologies like Paradigm to request quotes bilaterally and agree on the price, following which the trade is submitted to an exchange, in this case, Deribit, for execution and clearing.
+Block trades reduce slippage or costs associated with executing transactions and ensure a minimal impact on the going market price.
+Since its inception in 2016, Paradigm’s OTC network has been a preferred venue for institutional investors to take block trades. The platform has registered nearly $400 billion in volume to date and, as of May, accounts for 17% of the cumulative bitcoin and ether options activity on Deribit.
+Paradigm’s new offering has already found takers. On Monday, the platform announced the successful completion of an inaugural trade involving 50,000 units of MATIC call spreads between Singapore-based QCP Capital and Galaxy Digital.
+The trade involved MATIC call options at strikes 80 cents and 95 cents, expiring on May 31. Paradigm facilitated the trade, which was printed on Deribit. MATIC is the native cryptocurrency of the Polygon Network, used for staking and to pay gas fees.
+"We are thrilled to see Paradigm expand its block trading services to include linear altcoin options, starting with the pioneering transaction in MATIC options on our platform. This expansion not only broadens our mutual offering but also sets the stage for upcoming inaugural blocks in SOL and XRP," Luuk Strijers, chief executive officer at Deribit, said.

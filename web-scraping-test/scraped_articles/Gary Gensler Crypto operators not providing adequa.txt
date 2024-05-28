@@ -1,0 +1,15 @@
+Article Title: Gary Gensler Crypto operators not providing adequate disclosures
+
+Article Text:
+Following multiple Wells notices, SEC Chair Gary Gensler shared rhetoric regarding the crypto industry and its supposed non-compliance with federal laws.
+On May 7, the U.S. SEC Chair told a CNBC Squawk Box host that crypto businesses failed to comply with disclosure requirements synonymous with America’s financial markets.
+Gensler maintained his status quo on crypto assets and insisted that existing policies provide sufficient oversight for the nascent digital currency industry.
+“Without pre-judging any one of them, many of those tokens are securities under the law of the land as interpreted by the U.S. Supreme Court.”
+The SEC Chair, in the usual fashion, refrained from categorically stating whether the Wall Street regulator classifies Ether (ETH) as a security or if investors can expect a spot Ethereum ETF soon.
+Instead of clarifying where ETH falls, security or commodity, Gensler stated that crypto intermediaries operating in a rather centralized market economy constantly engage in activities that regulated sectors like the New York Stock Exchange would be prohibited from.
+Gensler CNBC’s interview comes during several agency crackdowns on crypto businesses. Service providers like Consensys, Robinhood, and Uniswap received Wells notices, indicating the SEC’s intention to file lawsuits.
+The regulation by enforcement action tactic has prompted entities like Coinbase and Consensys to stage legal protests against Gensler’s commission, alleging that the regulator has refused to provide clear rules for the crypto market.
+Meanwhile, Commodity Futures Trading Commission (CFTC) Chair Rostin Behnam has publicly said that Ether, like Bitcoin (BTC), qualifies as a commodity. The CFTC also moved to establish itself as the leading voice on U.S. crypto regulation and oversight.
+While the CFTC has affirmed its stand on the matter, and Gensler’s commission continues litigation against the digital asset industry, members of Congress have espoused doubts regarding the SEC’s approach.
+A document from last year revealed an investigation into Ethereum 2.0 and suggested that Gensler has viewed the second-largest crypto asset as a security for at least a year.
+#ICYMI: New court filings indicate that @SECGov Chair Gary Gensler knowingly misled Congress when pressed on the classification of #ETH at a @FinancialCmte hearing to conduct oversight of his agency.📖 Read my full statement 👇 pic.twitter.com/8osMpbY6Iu

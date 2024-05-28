@@ -1,0 +1,35 @@
+Article Title: Bitcoin very positive forecasts on Lightning Network
+
+Article Text:
+A few days ago, some really optimistic forecasts were made regarding Lightning Network, the main second layer of Bitcoin.
+According to this prediction, LN will become the “neutral regulation level of interoperability” worldwide.
+Summary
+This prediction was made by David Marcus during the “Bitcoin for Corporations” conference by MicroStrategy.
+David Marcus became famous in the crypto sector because he had been put in charge of Facebook’s crypto project. When this project was abandoned, Marcus continued to work in the crypto field, eventually creating Lightspark, of which he is currently the CEO.
+In the past Marcus has also been president of PayPal, and vice-president of Facebook Messenger.
+According to Marcus, Lightning Network will become a sort of global, neutral and always active settlement layer that will interconnect other real-time payment systems.
+Note that this does not only refer to the crypto sector, but to all financial transactions worldwide, including fiat currency.
+LN is indeed a structure that allows for low-cost and almost instantaneous fund exchanges, and is solely based on Bitcoin.
+Marcus believes that in the future, “any company that needs to move money will end up using, directly or indirectly, LN”, and therefore Bitcoin.
+In theory LN works with BTC.
+However, Marcus’s company has developed a protocol, called UMA (Universal Money Address), which allows LN transactions to also involve foreign exchanges, thus enabling transactions in other currencies as well.
+The second layer are protocols or platforms developed by third parties, and solely based on Bitcoin.
+Specifically, Lightning Network simply writes the opening and closing transactions of LN channels on the Bitcoin blockchain, but then all other transactions do not have to go through the public blockchain and are settled privately and directly between senders and recipients.
+This implies that, in turn, anyone can develop on LN as they please, therefore UMA is a protocol based on LN, in turn based on Bitcoin.
+Indeed UMA includes all the compliance information required by various jurisdictions, while Bitcoin does not include them.
+Thanks to all this, according to Marcus companies that will use LN will have an advantage over others, due to fast and low-cost transactions, as well as the fact that the LN network is always active and allows to overcome the limits of current payment channels.
+It should be emphasized that Marcus’s current company, Lightspark, is a company that develops on LN.
+Their idea is to develop an open protocol for money on the Internet, based on the Lightning Network.
+LN is not only an open protocol, but it is also decentralized, and therefore cannot be controlled by anyone in particular.
+The goal of Lightspark is to help customers make payments on the Internet on a large scale, and to improve the financial system for everyone.
+It is worth noting that the recent integration of LN on Coinbase was made possible thanks to the work of Lightspark, which is therefore responsible for the LN trading platform of the main US crypto exchange.
+This means that their technology is already ready for mass use, and at this point it may not be particularly difficult to extend it to other companies.
+The key point of this expansion should be UMA, because on Coinbase LN will be used only for BTC, but companies worldwide also inevitably need to manage transactions in fiat currencies or other cryptocurrencies, especially stablecoins.
+Unfortunately, the spread of Lightning Network has suffered a setback.
+The number of active LN channels has been decreasing since January of last year.
+The peak occurred in the early months of 2022, when they reached nearly 88,000 units, but with the bear market the growth stopped. Starting from January 2023, a long and slow decline began, leading them to currently be less than 57,000.
+The number of nodes, on the other hand, has been fairly stable for about two years, because after the implosion of Earth/Moon the decline has stopped.
+It is important to remember that LN channels are actually active wallets, used for sending BTC, while nodes are the software that manage and validate transactions on LN.
+So while in the last year the number of LN users has decreased, the operators in the sector who validate transactions on LN have not decreased.
+Instead, the capacity of the LN network in BTC reached its peak in March 2023, with almost 5,500 BTC, and then dropped below 4,600 BTC in March 2024.
+The capacity indicates how many BTC are present on the LN network, and therefore exchangeable, because in order to exchange BTC on LN you must first send them to a LN wallet, since on the Lightning Network you can only send the BTC previously sent to LN channels.

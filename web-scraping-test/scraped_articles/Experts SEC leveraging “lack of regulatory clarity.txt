@@ -1,0 +1,16 @@
+Article Title: Experts SEC leveraging “lack of regulatory clarity” in crypto crackdown
+
+Article Text:
+The U.S. SEC has continued its crypto crackdown this year, but the agency’s current leverage may also be its biggest weakness in months to come.
+In addition to ongoing litigation against firms like Coinbase and Ripple, Gary Gensler and the U.S. SEC have issued Wells notices against Uniswap, Consensys, and Robinhood for alleged violations. The intention to sue pertains to broad cryptocurrency services offered by the three firms, but a specific purview revolves around the second-largest blockchain asset, Ethereum (ETH).
+“Given the regulator’s overall stance of viewing most cryptocurrencies as securities, platforms such as Uniswap, despite its decentralized nature, can be scrutinized for managing public trading activities. This, in turn, prompts the regulator to consider a case for registration and oversight to ensure compliance with securities regulations.”
+Much confusion exists around the commission’s classification of Ethereum and its native currency Ether. The SEC Chairman regularly argued that cryptocurrencies fall under federal laws, citing the Howey Test as proof.
+This take was axed in court during the agency’s protracted battle with XRP issuer Ripple. Still, a technological change may prove detrimental to Ethereum’s potential commodity status.
+“The SEC has already lost the credibility of the Howey Test during the Ripple lawsuit. By precedence, it could lose its attack against Uniswap and Ethereum. However, Ethereum switching from proof-of-work to proof-of-stake will likely be the biggest differentiating argument that the SEC could present since the Ripple lawsuit has established no precedence for it.”
+Over the years, crypto proponents and industry stakeholders have criticized Gensler and the Wall Street watchdog for adopting a “regulation by enforcement” approach to crypto oversight.
+Giants like Coinbase have even sued the commission, filing rulemaking petitions in a federal court. While the absence of a U.S. digital asset framework has arguably allowed Gensler’s agency to litigate en masse, things may change if Congress takes action.
+“The Security and Exchange Commission has the upper hand of being a regulatory authority, and further worsening the situation for the crypto market, is the lack of regulatory clarity in the United States. Nonetheless, multiple bills have been introduced to put an end to this issue.”
+In 2022, two bipartisan legislations were introduced that could shift crypto oversight away from Gensler’s commission. With the Digital Commodities Consumer Protection Act (DCCPA), the Commodity Futures Trading Commission (CFTC) would assume regulator authority over digital assets.
+If passed, the DCCPA would provide relief for Ethereum, especially as CFTC Chairman Rostin Behnam has publicly asserted that Bitcoin (BTC) and Ether are commodities.
+The Responsible Financial Innovation Act (RFIA) could also provide much-needed clarity for agencies supervising digital assets. Furthermore, De La Cruz opined that the Digital Trading Clarity Act and Financial Innovation and Technology for the 21st Century Act from 2023 might help to fill regulatory gaps.
+“If and when these laws come into effect, the crypto market will have a fair chance to defend itself against the attacks of the SEC.”

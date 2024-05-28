@@ -1,0 +1,29 @@
+Article Title: Bitcoin’s Future Is ‘Bleak’ and Ripe for Regulation, Core Developer Says
+
+Article Text:
+One of the most prolific contributors to Bitcoin development warns that the leading blockchain network is on a dark path toward global regulation.
+In a blog post on Saturday, Matt Corallo said Bitcoin’s long-assumed mission to be a private, scalable, and trustless monetary tool is now being called into question, with years of effort failing to implement that vision in any practical sense.
+“Sadly, all the ideas for making Bitcoin (or any cryptocurrency) actually useful for transacting trend towards having some untrusted party in the flow of funds,” wrote Corallo. “We just haven’t cracked building cryptocurrency payment rails without an (untrusted!) party being involved.”
+These next few years are as existential for bitcoin as the Blocksize Wars.
+Back then it was about who got to decide what bitcoin was, now it’s about what bitcoin is.https://t.co/1opMik2t5Y
+— Matt Corallo (@TheBlueMatt) May 11, 2024
+The end result will be regulatory capture, he predicts, a world where government authorities succeed in restricting or controlling crypto toward their own ends.
+“I’m not saying these things aren’t great or don’t provide scalability, they often are and do,” Corallo told Decrypt, “but that they rely on intermediaries, often of the centralized variety.”
+Bitcoin scaling technologies in use today—such as sidechains like Liquid or Rootstock—do enabling faster and cheaper payments, but also require users to trust a company or federation to not steal their funds. Meanwhile, Corallo adds, the more popular Lightning network has a notoriously poor user experience, requiring custodians and Lightning service providers (LSPs) to build front ends for practical use.
+Corallo’s criticism also extends to rollups, a newer form of Bitcoin scaling tech that takes inspiration from other blockchains. In fact, the developer believes trustless scaling remains elusive to cryptocurrencies at large, since even more programmable blockchains like Ethereum have failed to crack the code.
+“The point of highlighting that this is cryptocurrency-wide and not Bitcoin-specific is that this isn’t solvable with some kind of soft fork to increase expressivity,” Corallo told Decrypt. “This isn’t passing judgment on if we should or should not do any specific soft fork to increase expressiveness, but pointing out this is largely an unrelated problem.”
+Roadblocks in these areas have contributed to a visible change in how Bitcoin is perceived by its users. Many new participants, Corallo wrote, are “only interested in a 21M coins limit and seeing any form of non-KYC payment rails as hostile to the value of their investment.”
+Over the past year, some of Bitcoin’s most avid institutional supporters have outright dismissed the asset’s role as a medium of exchange.
+Paypal co-founder and Lightspark CEO David Marcus said in September that BTC “is not the currency that people will use to buy things," asserting that fiat currencies on the Lightning network will be the preferred payment rail of the masses.
+Earlier this year, MicroStrategy executive chairman Michael Saylor extolled Bitcoin’s role as a store of value while calling its role as currency “a distraction” that is “controversial” with regulators.
+Medium of exchange is a distraction?
+I swear the title of the white paper was.
+"Bitcoin: A Peer-to-Peer Electronic Cash System" pic.twitter.com/pRSUwXMe3l
+— Nicholas Gregory (@gregory_nico) May 8, 2024
+Indeed, the U.S. government recently arrested the developers of Samourai Wallet, a Bitcoin wallet designed to facilitate private transfers through CoinJoin transactions.
+Samourai’s software never took control of user funds, though it did require a centralized server to coordinate transaction mixing, giving it a single point of failure for regulators to target.
+The clampdown prompted a “final warning” from famous U.S. government whistleblower Edward Snowden, who pushed developers to implement a Bitcoin protocol-level privacy change.
+According to Corallo, the crypto industry has already squandered its chance to ensure regulatory protection for non-custodial crypto intermediaries, instead focusing its efforts on securities law reform.
+What’s worse, the present state of mining pool centralization has left even Bitcoin’s foundational layer “ripe for regulatory capture.”
+“With where Bitcoin is today, it's hard not to see a bleak vision of the future,” the developer concluded. “If Bitcoiners want to preserve what we’ve built and fight for it, the focus needs to be on drastic improvements to default wallet privacy across the ecosystem, aggressive investment in regulatory change, and operation of scalability solutions across the world.”
+Edited by Ryan Ozawa.

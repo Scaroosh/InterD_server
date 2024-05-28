@@ -1,0 +1,48 @@
+Article Title: Altcoin market blues what lies ahead for Ethereum and other cryptos
+
+Article Text:
+What factors are driving the bearish trend in altcoins, and when can we expect a turnaround?
+In the past month, the crypto market, especially altcoins, has faced a prolonged downturn, with many seeing striking losses.
+Ethereum (ETH), the second-largest crypto by market cap, lost almost 10% of its value in the last 30 days, trading at around $2,960 as of May 13.
+However, Ordinals (ORDI) has been hit the hardest, dropping by 40% and now trading at just $36.80.
+This market downturn aligns with global economic trends, such as the recent decision by the Federal Reserve (Fed) to maintain its interest rates between 5.25% to 5.50%.
+The Fed’s cautious approach to monetary policy, aimed at addressing inflation and economic growth, may have created uncertainty among crypto investors, leading them to favor more established assets like Bitcoin (BTC).
+BTC has largely traded above $60,000 levels during this downturn, with BTC dominance even reaching a high of nearly 57% in April, a major increase from last year’s 45-46% levels. As of May 13, BTC dominance stands at over 55%.
+Furthermore, the Fed’s announcement regarding its bond holdings reduction strategy, slowing the pace of allowing maturing bond proceeds to roll off without reinvestment, could indicate potential economic challenges ahead.
+This signal may have further reduced investor confidence in altcoins, diverting attention and capital away from riskier assets.
+As the crypto market faces this downturn, the question arises: when will altcoins bounce back? Let’s explore.
+Analysts have offered a variety of perspectives on the current state of the altcoin market. Here’s what they think
+Patric H. remains bullish on the overall market, anticipating a continuation of the bull market until mid-Q3/Q4 2024.
+🚨 Contrarian opinion: The bottom is not in. May is going to be emotionally tough for many #Bitcoin and #Altcoins investors. Sometime in the next 2-6 weeks, we'll witness the final shake-out before the breakout. 🧵Here’s what to anticipate in this turbulent phase.
+However, he warns of a turbulent phase in the short term, particularly in May. He predicts a final shake-out in the next 2-6 weeks, possibly revisiting $52k for Bitcoin and $2 trillion for the total market cap.
+He attributes the delay in reaching the bottom to the lack of sufficient pain in the market, indicating that sentiment remains too euphoric.
+Patric advises monitoring the Fear and Greed Index for signs of a shift towards ‘fear’. He also mentions to keep a check on divergence in sentiment and traded volumes, which could suggest a potential reversal.
+Benjamin Cowen draws parallels to the previous cycle, noting that ALT/BTC pairs tend to capitulate just before rate cuts. He suggests that ALT/BTC pairs could drop another 40% from current levels over the next few months.
+Last cycle, we saw #ALT /#BTC pairs capitulate just before rate cuts.Perhaps this time is not different? This would mean ALT/BTC pairs drop another 40% from here over the next few months.Short-term countertrends do not invalidate this view. pic.twitter.com/BK3VIrCBJ2
+Cowen attributes the ongoing struggles of altcoins to a decline in social interest, likening the current market movement to that of 2019.
+Altcoins keep on struggling because the social risk is plummeting. People just do not really seem to care.This whole move still looks 2019-esque to me. Social interest also dropped then just before rate cuts arrived, and then ALT/BTC pairs finally bottomed when the Fed pivoted pic.twitter.com/SEKbLRMTaX
+He points out that social interest declined before rate cuts in the past, hinting at a potential bottoming for ALT/BTC pairs coinciding with a pivot in Fed’s policy.
+Go read the comments in the quoted tweet below from January. Basically no one believing that #ETH / #BTC would keep on fading and laughing at the idea presented.WHERE ARE THEY NOW?Probably calling the bottom on ETH/BTC again. https://t.co/4ySS6XiNxz pic.twitter.com/nkmW9ryo6h
+Michaël van de Poppe notes that altcoins are experiencing a regular correction in USD valuations, but in BTC valuations, they are down sharply, nearing cycle lows.
+The #Altcoin market capitalization is having a regular correction (in USD valuations).In BTC valuations, they are down a lot and on cycle lows.Undervaluation vs. Reality. This is not the moment to turn away from crypto, but to attack the markets by higher risk. pic.twitter.com/h298e63ory
+He suggests that this undervaluation presents an opportunity to attack the markets with higher risk rather than turning away from crypto.
+These analyses suggest a cautious outlook for the altcoin market in the short term, indicating that more corrections could be coming.
+However, they also point to a possible bullish trend in the medium to long term. This means that you should stay alert and flexible as the market evolves.
+The next few weeks will be important for the altcoin market, with factors like sentiment, trading volumes, and external economic events likely to have a key impact.
+The crypto market is at a critical juncture, with potential catalysts that could restore normalcy and revive bullish sentiment.
+One major development is the progress of the Financial Innovation and Technology for the 21st Century (FIT21) Act in the U.S. House, which aims to bring regulatory clarity to digital assets.
+If passed (could be in may itself), the bill could set federal standards for digital assets, clarify the jurisdiction of regulatory bodies like the Commodity Futures Trading Commission (CFTC) and the Securities and Exchange Commission (SEC), and establish a regulatory framework for digital asset markets.
+The crypto industry has long sought regulatory clarity, and the FIT21 Act could offer much-needed certainty for market participants and investors, potentially boosting confidence and investment in the sector.
+Furthermore, the bill’s provisions for allowing secondary market trading of digital commodities and imposing requirements on registered entities could improve market transparency and integrity.
+Another potential market mover is the upcoming decision by the SEC on VanEck’s spot ETH exchange-traded fund (ETF) application, scheduled for May 23, 2024. A favorable decision could ignite a rally in ETH prices, similar to the ETF-driven Bitcoin surge earlier in 2024.
+Concerns linger regarding the SEC’s classification of ETH as a commodity or security, which could impact the approval of spot ETH ETFs.
+The current sentiment surrounding the launch of spot ETH ETFs in the U.S. is largely pessimistic, with worries about regulatory uncertainty and the SEC’s stance under Chair Gary Gensler.
+Nonetheless, industry experts believe that a spot ETH ETF will eventually be greenlit, mirroring the path of spot BTC ETFs, which initially faced rejections before prevailing in a lawsuit against the SEC.
+In the short term, a rejection of the spot ETH ETF could trigger heightened price volatility and a decline in ETH prices as the market absorbs the news.
+Meanwhile, regulatory clarity and the approval of spot ETH ETFs could propel altcoin market recovery and bullish trends in the upcoming months.
+As of May 13, Ethereum is trading at around $2,970. ETH has been following a descending pattern, leading to concerns that it might drop below the $2,500 mark.
+The recent trend in ETH prices has been bearish, with weekly trades opening lower than the previous week’s closing, suggesting a lack of bullish momentum.
+In the previous 24-hours, ETH/USD has been trading positively, breaching $2900 levels, but facing solid resistance around the EMA50 at $2990. For a bearish trend to resume, ETH needs to break below $2900, potentially heading towards $2800 and $2620 levels.
+On the other hand, a continuation of the rise and a breach of $2990 could lead to further gains up to $3130 levels.
+The expected trading range for ETH is between $2800 (support) and $3050 (resistance), with the trend forecast remaining bearish.
+ETH analysis suggests that prices may face continued downward pressure, impacting other altcoins in the market as well.

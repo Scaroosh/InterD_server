@@ -1,0 +1,13 @@
+Article Title: Bipartisan Senators probe FinCEN crypto mixer lawsuits
+
+Article Text:
+A pair of Senators wrote a letter to the Department of Justice, challenging FinCEN’s “unprecedented interpretation” of rules used to sue crypto mixers.
+Senators Cynthia Lummis (R-Wyo.) and Ron Wyden (D-Ore.) petitioned U.S. Attorney General Merrick Garland and the Department of Justice (DOJ) regarding an ongoing crackdown on crypto mixers allegedly operating as illegal money transmitters.
+Sen. Wyden stressed that holding non-custodial crypto asset software developers liable for supposed criminal activity raised may violate the First Amendment and upset years of lawful precedent.
+The issue stems from the Financial Crimes Enforcement Network (FinCEN) view that any crypto mixers or services allowing asset transactions satisfy the requirement of a money transmitter and would thus be subject to registration with authorities.
+President Biden's DOJ steamrolling the longstanding interpretation of FinCEN is legally wrong and threatens to criminalize Bitcoin software development in America. @RonWyden and I have sent a bipartisan letter to DOJ urging it to drop this interpretation immediately. ⬇️ pic.twitter.com/iazbBhMcOv
+Both Senators argued that FinCEN’s latest view, as confirmed in a filing last month, directly contradicted this law’s actual meaning. According to a bipartisan letter dated May 9 and disclosed on May 13, a service must exercise control of the assets to qualify as a money transmitter under this provision.
+“Wallet software is no more to blame for illicit finance than a highway is responsible for a bank robber’s getaway car.”
+Senators Lummis and Wyden have questioned the DOJ’s methods through FinCEN following cases against crypto mixers like Samourai Wallet and Tornado Cash. Five founders credited with developing the platforms have either been arrested or await a verdict in their respective court cases.
+Industry proponents insist that builders should not be held responsible for the criminal use of their software, noting that blaming an individual for writing lines of code could stunt innovation and technological advancement.
+Some on-chain participants also opined that users have been left out to dry due to a lack of clear digital assets policies in the United States. Several bills in Congress seek to address these concerns but experts are doubtful that concrete legislation will be decided during an election year.

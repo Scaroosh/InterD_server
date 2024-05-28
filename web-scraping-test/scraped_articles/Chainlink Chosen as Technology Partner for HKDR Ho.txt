@@ -1,0 +1,21 @@
+Article Title: Chainlink Chosen as Technology Partner for HKDR Hong Kong Dollar Stablecoin
+
+Article Text:
+On May 7, the crypto oracle solutions provider announced that RD Technologies was integrating Chainlink CCIP and Proof of Reserve to power its Hong Kong dollar stablecoin.
+Chainlink’s Cross-Chain Interoperability Protocol will be integrated to enable secure and reliable cross-chain transfers of HKDR and easier access to the new stablecoin.
+Additionally, the firm is also adopting Chainlink’s Proof of Reserve (PoR) to help provide reliable on-chain verification of HKDR’s reserve backing, according to the announcement.
+The collaboration aims to enable more businesses and merchants to settle payments in HKDR, enjoy faster and cheaper cross-border payments, and enable reliable transfer of tokenized real-world assets (RWA) using the stablecoin.
+The Hong Kong-based fintech firm stated it had made agreements with “several globally renowned cross-border payments, virtual assets, and wealth management players” to use the HKDR for cross-border payments.
+.@RD_Technologies is integrating #Chainlink CCIP and Proof of Reserve to power HKDR, a stablecoin backed 1:1 by the Hong Kong dollar.
+Explore how this strategic collaboration unlocks secure cross-chain and cross-border payments of HKDR ⬇️
+— Chainlink (@chainlink) May 7, 2024
+RD Technologies CEO Rita Liu said that the “integration will help facilitate the adoption of HKDR in cross-border payments, real-world assets tokenization, and other on-chain finance applications.” It will also help facilitate the development of Hong Kong as a global Web 3 and virtual assets hub, she added.
+Colin Cunningham, Head of RWA and Alliances at Chainlink Labs, added:
+“Settling transactions across chains with HKDR will accelerate the adoption of tokenized assets and enable faster, more cost-efficient cross-border payments.”
+Chainlink CCIP allows smart contracts to securely access data from external systems to facilitate trustless data connectivity between blockchains.
+In April, Chainlink launched a new CCIP-powered cross-chain bridge app called ‘Transporter’ to improve token transfer safety.
+On May 6, Chainlink’s adoption update revealed that there were seven integrations of four Chainlink services across three different chains: Arbitrum, BNB Chain, and Polygon.
+The network’s native token, LINK, did not react to the news, however. The asset had dropped 2% on the day in a decline to $14.28 at the time of writing amid a broader altcoin market retreat.
+LINK prices have been weak recently, having lost almost 30% over the past month as crypto markets corrected from their mid-March highs.
+LINK remains down 73% from its May 2021 all-time high of $52.70 and has failed to gain much traction in 2024 despite Bitcoin hitting a new all-time high.
+However, analysts have predicted that the altseason is just around the corner when this asset usually performs well.

@@ -1,0 +1,31 @@
+Article Title: Price prediction of Bitcoin possible scenarios after the halving
+
+Article Text:
+On April 20th, the fourth halving in Bitcoin’s history went live, leading to the halving of the block reward from 6.25 BTC to 3.125 BTC.
+Usually, the halving creates conditions for an increase in the price of the currency on the market, or at least that’s what has happened in recent years.
+What are the post-halving price predictions for Bitcoin in this cycle?
+SPOILER: there is someone who hypothesizes 150,000 USD
+All the details below.
+Summary
+Last week Bitcoin hit a new local low at 56,500 USD, breaking a ranging graphic structure that started at the beginning of March 2024, and then quickly recovered the points lost in early May, returning above the price of 64,000 USD.
+The canonical quadrennial event of new issuances reduction of the network, known in jargon as “halving”, did not immediately bring the desired effects from the community, especially considering the difficult outlook of the crypto which is in the midst of important geopolitical conflicts and macroeconomic tensions.
+The result, unexpected by most forecasts, was a retracement of 21.7% since the beginning of April. This bearish movement is now the heaviest of this cycle, surpassing the correction of September 2023.
+Indeed, the dip in recent days has been emphasized by the increase in the Labor Cost Index in the United States and the announcement by the Federal Reserve to continue fighting inflation without starting a quantitative easing policy which would involve a cut in interest rates on government bonds (possibly postponed to September)
+Throughout all of this, we also witnessed the launch of the Hong Kong Bitcoin spot ETFs, with data that initially disappointed expectations due to low volumes recorded, later contradicted by metrics on the first day of trading inflows that indicated incoming flows (seed capital) of $292 million.
+Pushed by these dynamics, Bitcoin has encountered difficulties in finding a price balance, while miners are preparing to face a season with halved earnings due to the protocol’s halving.
+Despite all this, however, it seems that crypto is preparing the ground for a comeback in a big way, which would send it straight to record new all-time highs.
+On the macro front, the cooling of the labor market gives hope that the FED may provide the necessary fuel for risk-on markets to face the second half of 2024.
+From a more technical analysis and on-chain data perspective, we can see how the open interest, funding rate, and liquidation data have undergone a reset after the excessive speculation seen in the first quarter of the year, suggesting a possible restart in the near future.
+The halving effect, which reduces the supply of new coins by 50%, will have its effects in the coming months and potentially cause a supply shock if we also have an increase in demand pressure for spot ETFs in the USA and Hong Kong.
+In such a scenario, analyst Bernstein has released his forecast for the Bitcoin bull market, explicitly stating that the crypto will reach $150,000 as the cycle peak in the next year.
+JUST IN: Bernstein analysts say #Bitcoin is back on course to reach $150,000 by next year 🐂 pic.twitter.com/9HJuKyHhza
+According to the analysis of the cryptocurrency exchange Bitfinex, following the halving, the implied volatility of Bitcoin has substantially decreased, finding a new acceleration in price fluctuations only in the last few days.
+In a context of graphic uncertainty weighed down by complex macroeconomic issues, while traders were trying to establish a price balance for Bitcoin and other assets, the volatility index has dropped sharply suggesting the beginning of a phase of stagnation before the restart.
+This is what was reported by Bitfinex analysts, who observed how these dynamics reflect a less worrying expectation from market participants.
+“The halving of Bitcoin has not only changed the supply mechanism of Bitcoin, but has also played a crucial role in recalibrating the dynamics of the cryptocurrency market and investors’ expectations”
+It is clear that after the halving on April 20, it acted as an event of uncertainty resolution, significantly influencing the volatility and market dynamics of cryptocurrencies.
+In particular, the volatility index has dropped by 24.3%, going from 74.54 points to 56.47 points in just a few days. This change indicates the expected market sentiment regarding future price fluctuations, but it has not been reflected by substantial price movements, suggesting a stabilization effect.
+Similarly, the implied volatility of Ethereum (EVIV) has also decreased by 15.9 percent in the same period, dropping from 61.94 points to 52.08 points, even though its price has been more influenced by an upward trend with forecasts indicating the possibility of greater growth in ETH compared to BTC.
+These declines suggest a lower degree of connection between price levels and volatility, and a greater reduction in market uncertainty.
+In summary, Bitcoin’s halving not only reduced the potential supply pressure by decreasing the block reward, but also played a crucial role in recalibrating market dynamics and resetting investor expectations.
+Now the market is healthy to start again and aim for the long-awaited $100,000 break.

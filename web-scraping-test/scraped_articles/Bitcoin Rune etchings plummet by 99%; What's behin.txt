@@ -1,0 +1,24 @@
+Article Title: Bitcoin Rune etchings plummet by 99%; What's behind the dramatic fall
+
+Article Text:
+In less than a month following its launch on the Bitcoin (BTC) blockchain, the Bitcoin Runes protocol has seen a staggering 99% drop in daily etchings, with numbers plummeting from a peak of 23,061 to just 157.
+Launched on April 20 to coincide with Bitcoin’s fourth halving event, the Runes protocol initially had robust activity. However, recent data from Dune Analytics has highlighted a sharp decline, raising concerns about its sustainability and the impact on miners’ revenues.
+Launched less than 30 days ago, the Bitcoin Runes has recorded a massive decline in activity. According to data sourced from Dune Analytics, the number of new Runes etched daily has sharply fallen to below 250 for the past six days, culminating in only 157 etchings recorded on Monday.
+
+This marks a significant downturn of 99% from the late April peak when 23,061 Runes were etched in a single day.
+The protocol, launched to coincide with Bitcoin’s fourth halving event, initially sparked excitement among cryptocurrency enthusiasts. It enabled the etching of memecoins, non-fungible tokens (NFTs), and multimedia content directly onto Bitcoin’s blockchain, heralding new utility for the network.
+In its first 10 days, the protocol issued more than 85,000 tokens and generated over $3 million in fees. At a time when the recent halving had reduced the block subsidy to 3.125 BTC (about $196,800 at current rates), the high volume of Runes transactions provided an essential boost to miners’ revenues.
+
+Initially, other fees on the blockchain accounted for only 22.7% of total fees. However, the situation has since changed dramatically, with other fees now holding a share of 78.9%, while Runes account for just 21.1%.
+
+Finbold retrieved data from Glassnode that confirms this shift. On May 11, miners’ revenue was 533.69 BTC, a significant decline from 1677.09 BTC on April 20, which can be linked to the decreasing activity in the Runes protocol.
+Over the past two weeks, all metrics—including fees, new Runes, and user activity—have dropped by more than 50%. Since May 1, only about 5,000 new Runes have been issued, generating just under $100,000 in fees.
+It’s worth noting that this downturn occurred amid a general market decline, characterized by falling Bitcoin prices and slow growth in alternative tokens, which may have contributed to a drop in sentiment towards novel technology.
+
+The decrease in Runes activity is not isolated but correlates with broader market trends. Bitcoin’s network activity has hit a five-year low, according to Santiment, indicating reduced trader interest and potential market anxiety.
+Additionally, the general sentiment towards cryptocurrency innovations like spot Bitcoin ETFs has cooled, with trading volumes declining and some funds experiencing outflows.
+Despite these challenges, it’s premature to deem the Runes protocol a failure. According to Rodarmor, the inventor of Runes, speaking at a recent Ordinals event, new developments are underway that could invigorate the protocol.
+Furthermore, several Runes collections have already achieved notable market capitalizations in the millions, as per Magic Eden.
+As the market anticipates upcoming economic indicators such as the US Consumer Price Index and comments from Federal Reserve Chair Jerome Powell, the cryptocurrency sector remains vigilant.
+These economic factors could significantly influence both traditional and digital asset markets in the coming days.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.

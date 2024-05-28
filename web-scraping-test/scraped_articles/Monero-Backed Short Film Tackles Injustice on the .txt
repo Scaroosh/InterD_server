@@ -1,0 +1,27 @@
+Article Title: Monero-Backed Short Film Tackles Injustice on the Mexican-American Border
+
+Article Text:
+A Mexican teenager is lured into a web of cross-border crime with tragic consequences, in George Nicholas’ Monero-backed short film “Límite.”
+The film follows 16-year-old Manuel, whose desire to assert his independence and face down neighborhood toughs draws him out of his grandfather’s orbit and into the clutches of a cartel drug-running operation.
+Director George Nicholas was inspired by the case of Cruz Velazquez Acevedo, who died in U.S. custody after customs agents coerced him into drinking the liquid meth he was carrying when stopped at the border.
+“I don't know if inspiration is the right word—it was more of a necessity,” he told Decrypt's SCENE “I probably made it out of a feeling of guilt,” he added. “You know, just being an American myself and seeing how these kids are treated at the border.”
+Nicholas, who’s originally from Bulgaria, drew parallels between the situation in Mexico and that of Bulgaria in the 1990s.
+“It was similar, right after the fall of communism, just gangs running the whole country and that sort of thing,” he said. “So I guess it was a combination of both remembering my youth, and also feeling that, as an American, I bear some responsibility for what's going on at the border.”
+Shot with a local crew and actors on location in Tijuana, Límite received backing from the Monero community, and features the cryptocurrency in a starring role.
+“After I'd made the film, I was looking for support to release it—because, you know, festival submissions are expensive and publicists are expensive,” Nicholas explained. After submitting a proposal to the Monero Community Crowdfunding System (CCS), Nicholas said, “I was lucky enough to receive support from them.”
+Nicholas requested 154 XMR, which was worth approximately $25,000 at the time of the request. That much Monero was worth slightly more, about $26,000, when the funds were ultimately paid out in November 2023.
+“There was no other cryptocurrency I would have put in my movie,” Nicholas said, adding that the privacy-centric Monero is “the cryptocurrency project that gives me hope for the future.”
+The film features Monero in the form of a physical coin, given to Manuel by his absent father; because it’s emblazoned with the cryptocurrency’s “M” logo, he assumes it’s “memorabilia, or something specific to him,” without understanding its true value, Nicholas explained.
+“The coin in the film symbolizes Manuel's potential and his unrealized gifts,” he said. “He was lusting after cars and shiny things and clothes and so on, and it turns out he had it in his pocket, just not realizing what it is and not knowing how to unlock it.”
+“I guess the metaphor there is that with crypto, as with almost anything else, you need a certain level of knowledge to unlock the potential of whatever you have,” Nicholas added.
+The name of the cryptocurrency isn’t mentioned in the dialogue—a deliberate decision on the director’s part. “I didn't want it to feel like a product placement,” he said. “I wanted the audience to be exposed to the idea and to see the logo, and to hear that it's untraceable and it's better than Bitcoin. And that's it.”
+The “untraceable” Monero is widely referred to as a privacy coin; unlike Bitcoin, which has a public ledger with pseudo-anonymous addresses that can be linked to users’ identities, Monero uses an array of cryptographic techniques to shield users’ identities.
+That’s landed it in hot water with lawmakers and regulators around the world; many crypto exchanges have delisted it, while just this month, the UK government singled out privacy coins as "not conducive to the public good."
+Nicholas takes issue with Monero’s “privacy coin” definition, though.
+“It's so much more, because privacy is really the fundamental thing that you need before you have any of those nice things like freedom of expression and rights to ownership and censorship resistance,” he said. “All of these things that people talk about in the cryptocurrency space are sort of kneecapped by the lack of privacy.”
+The arrest last month of the founders of Bitcoin mixer Samourai Wallet, and the ongoing case against Tornado Cash developer Roman Storm has sparked fears of a crackdown on privacy projects by U.S. law enforcement.
+In recent days, multiple coin mixing tools have cut off access to U.S. citizens, with CIA whistleblower Edward Snowden taking to Twitter to issue a “final warning” on Bitcoin privacy. Just this week, Monero P2P exchange LocalMonero announced that it was "winding down" its operations, citing "a combination of internal and external factors" for its decision to close.
+In Nicholas’ eyes, Bitcoin privacy tools such as Samourai Wallet are “fundamentally flawed.” He pointed out that, “They were never actually censorship resistant—it was a server run by some guy somewhere, and the government could come in and say, enough of that.”
+In his view, the power of crypto—and Monero, more specifically—is “about people banding together and forming something that is unstoppable.”
+“I really hope that cryptocurrency has a positive impact on people's lives,” he added. “One of the only ways I see that, other than number go up, is for some level of privacy and autonomy to be provided to people by these technologies.”
+Edited by Andrew Hayward

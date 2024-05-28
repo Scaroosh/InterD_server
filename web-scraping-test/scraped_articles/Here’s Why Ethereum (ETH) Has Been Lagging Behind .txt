@@ -1,0 +1,13 @@
+Article Title: Here’s Why Ethereum (ETH) Has Been Lagging Behind Bitcoin (BTC), According to Glassnode
+
+Article Text:
+Market intelligence firm Glassnode says Ethereum (ETH) has been lagging behind Bitcoin (BTC) for one key reason.
+In a new analysis, Glassnode says that Ethereum has not seen the same level of increased capital from new buyers that Bitcoin has in the current market cycle, which drove the crypto king to new all-time highs (ATHs).
+The analysts say that the approval of spot Bitcoin exchange-traded funds (ETFs) was likely a main driver for the increase in short-term holders who bought BTC in the last 155 days.
+“In the run-up to Bitcoin’s all-time high on March 14th, there was a noticeable increase in speculative activity. Specifically, capital accumulation has been observed among short-term holders (STHs), with the USD wealth held within coins moved within the last six months approaching $240 billion, near ATHs. However, this trend has not been mirrored for ETH, which has not yet seen price break above the 2021 ATH.
+Whilst Bitcoin’s STH-Realized Cap is nearly on par with the last bull run peak, ETH’s STH-Realized Cap has barely lifted off the lows, suggesting a markedly lackluster inflow of new capital. In many ways, this lack of new capital inflows is a reflection of the underperformance of ETH relative to BTC. This is likely in part due to the attention and access brought about by the spot Bitcoin exchange-traded funds.”
+The Realized Cap metric records the price at which each coin moved and aims to gauge how many holders are in profit or at a loss.
+The analysts suggest ETH could see a large capital inflow if the U.S. Securities and Exchange Commission (SEC) approves spot Ethereum ETF applications later this month.
+“The market is still awaiting the SEC’s decision for approval of a suite of ETH ETFs expected towards the end of May.”
+Bitcoin is trading for $61,454 at time of writing, down more than 2.6% in the last 24 hours. Meanwhile, Ethereum is trading for $2,970 at time of writing, down more than 2.7% on the day.
+Generated Image: DALLE3

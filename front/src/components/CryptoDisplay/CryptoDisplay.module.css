@@ -1,0 +1,81 @@
+.title{
+    display: flex;
+
+    color: #FFF;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.crypto_details{
+    display: flex;
+    margin: 10px 0 0 0;
+
+    color: rgba(30, 33, 21, 0.60);
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.price{
+    display: flex;
+
+    color: #FFF;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.price>span{
+    color: #A7AA57;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.percent{
+    display: flex;
+
+    color: #1E2115;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.market_status{
+    display: flex;
+    width: 176px;
+    height: 35px;
+
+
+    color: #A7AA57;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.market_status>span{
+    color: #1E2115;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.value_table{
+    display: flex;
+    gap: 80px;
+    margin: 20px 0 10px 0;
+}

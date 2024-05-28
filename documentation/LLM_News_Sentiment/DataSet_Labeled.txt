@@ -1,0 +1,103 @@
+The following articels will be exzerpt of websites providing news regarding the coin market. These articels are analysed based on the three possible actions: buy, sell, hold and if needed additional information will be added accrording to the confindence.
+
+Articel 1: 	https://news.bitcoin.com/bitcoin-market-update-post-halving-price-dynamics-and-market-movements/
+		Prediction: hold
+		Featured coin: btc
+
+Bitcoin’s market value has experienced significant shifts following the recent halving event at block height 840,000, which saw onchain fees soar beyond $240 per transaction. This pivotal change coincides with a notable fluctuation in price, demonstrating a complex interplay of supply and demand forces at work. Currently, bitcoin is trading at $64,488, down 4.5% this week, with an intraday range stretching from $63,161 to $64,968.
+
+Bitcoin Price Shows Bullish Signals Following the Halving
+The 1-hour and 4-hour charts depict a market teeming with instability and rising buying interest. Specifically, bitcoin’s (BTC) 1-hour chart shows a significant price spread from $61,885 to $65,506, ending recently with a vigorous uptick that signals increasing purchase activities. On the other hand, the 4-hour view supports a bullish stance with ascending lows and a fresh uptrend, pointing to strong buying interest that may continue to propel prices higher, though traders should watch for potential retracements.
+
+A review of the daily chart reveals a notable rebound from a recent low of $59,629, with current trends marked in green, indicating a bullish projection for the long term. Astute crypto traders might find opportunities if the price revisits and sustains the $59,629 level as support. However, they should be ready to strategize exits around the $72,756 threshold if signs of price resistance appear, suggesting a possible decline.
+
+Market oscillators mostly indicate a neutral stance, with the relative strength index (RSI) at 47, and other metrics like the Stochastic and commodity channel index (CCI) mirroring this equilibrium. This neutrality in oscillators recommends traders leverage a cautious wait-and-see tactic. Moving averages (MAs) deliver a divided outlook, with shorter durations (EMA and SMA for 10 and 50 days) hinting at bullish prospects, whereas longer periods (20 and 30 days) imply selling pressures, highlighting the market’s uncertainty post-halving. Presently, BTC bulls are attempting to break the $65,000 range and hold it.
+
+Bull Verdict:
+Given the resilience of Bitcoin prices post-halving and the strong buying signals evident on both the 1-hour and 4-hour charts, there is a credible case for optimism. If the market maintains support at $59,629 and continues to exhibit bullish behavior, we could foresee an upward trajectory toward previous highs.
+
+Bear Verdict:
+Despite the current bullish indicators, the substantial rise in transaction fees following the halving poses significant concerns. Coupled with mixed signals from moving averages and a general trend of neutrality from oscillators, there is a substantial risk of a market downturn. If Bitcoin fails to hold key support levels and faces resistance near its recent high, this could trigger a bearish reversal, potentially leading to a downward correction in prices.
+
+
+
+
+Articel 2:	https://news.bitcoin.com/market-of-extreme-greed-persists-amid-unprecedented-june-bitcoin-perpetual-futures-sell-off/	
+		Prediction: buy
+		Featured coin: btc
+
+In the past 24 hours, the cryptocurrency market experienced a modest increase of 2.16% against the U.S. dollar, with bitcoin’s value lingering slightly above the $69,000 threshold. The Crypto Fear and Greed Index (CFGI) indicates that the market’s mood remains in an “extreme greed” phase.
+
+Market Sentiment Swings Between ‘Greed’ and ‘Extreme Greed’ Despite Bitcoin’s Dips
+Despite last week’s dip in bitcoin prices, market sentiment as indicated by the CFGI hosted on alternative.me remains at a score of 78, denoting “extreme greed.” On Friday, the score reached 79, marking a state of “extreme greed” according to the fear and greed index. Over the past month, the CFGI score has fluctuated between “greed” and “extreme greed,” with the figure standing at 81, or “extreme greed,” 30 days ago.
+
+The CFGI assesses market mood using various indicators such as volatility, market momentum, and volume, as well as social media trends. Typically, if the CFGI observes high buying activity in a buoyant market, it interprets the behavior as “overly greedy” or excessively optimistic. Despite the CFGI indicating levels of “greed,” bitcoin’s market performance has dipped by 1.4% against the U.S. dollar this week.
+
+Currently, BTC is valued at 5.3% below its peak of $73,794 per coin, reached on March 14, 2024, just 23 days ago. In the derivatives market, there’s an equilibrium with 52.23% of positions being long and 47.77% short against the leading crypto asset. In the last 24 hours, about $28.02 million in bitcoin short positions were liquidated. QCP Capital reported on April 5 that there has been a significant uptick in the sale of perpetual futures contracts set to expire in June for both BTC and ETH.
+
+“This has compressed the front end and flattened the whole forward curve to 15-17% across the board,” QCP added.
+
+
+
+Articel 3:	https://news.bitcoin.com/fidelity-digital-assets-signals-report-revises-bitcoin-outlook-to-neutral/	
+		Prediction: sell
+		Featured coin: btc
+
+The latest quarterly report from Fidelity Digital Assets (FDA) Research reveals key insights into the bitcoin and ethereum markets as of Q1 2024. With a detailed analysis of market conditions and future outlooks, FDA’s research report provides several predictions for short and long-term trends.
+
+Fidelity Digital Assets Spotlights Bitcoin and Ethereum Market Shifts in New Q1 2024 Report
+Fidelity Digital Assets (FDA) Research starts the quarter with a nuanced look at bitcoin’s (BTC) performance, which saw a notable 64% increase by mid-March, slightly trailing behind ether’s 74%. Despite a slight retraction, the market conditions remain buoyed by the approval of several spot bitcoin exchange-traded products (ETPs).
+
+Alongside this FDA researchers attribute some of the market strength is due to a persistent decrease in BTC’s supply on exchanges. The FDA report further examines selling pressure within the crypto markets, highlighting that currently, this pressure originates from bitcoin miners.
+
+“Bitcoin began 2024 playing catch-up to ether’s run of 74%, stopping just short at 64% mid-March,” the report explains. “Since then, bitcoin has retraced 2% while ether has fallen roughly 19%. The high fee environment has subsided, but increased spot prices combined with the 2024 halving continue to incentivize miners to take profits. Therefore, miners remain a notable portion of the current sell pressure.”
+
+On ethereum’s (ETH) front, the report highlights the successful Deneb-Cancun upgrade which has been a boon for ether’s fundamentals, leading to a 55% price increase in Q1. The researchers say that the Ethereum network now boasts a higher burn rate than issuance post-Merge, enhancing its deflationary status. This, coupled with an 8% increase in validator numbers, strengthens the network’s long-term health, according to the FDA study.
+
+The FDA’s findings emphasize the role of technological improvements and regulatory changes in shaping market dynamics. The adoption of layer two (L2) platforms post-Deneb-Cancun upgrade is particularly notable, making up about 80% of ether transactions and contributing to a significant reduction in transaction fees. In addition, the FDA researchers claim that BTC is not cheap and the group has changed its overall outlook from “positive” to “neutral.”
+
+Looking forward, Fidelity Digital Assets’ analysis indicates a measured optimism. The report observes that although the markets have demonstrated robust growth in Q1, market participants should stay alert to possible selling pressures and corrections. It concludes that the continuous rise in staking is likely to impact market dynamics further, presenting an engaging period for both existing participants and newcomers to the cryptocurrency markets.
+
+
+
+Articel 4:	https://news.bitcoin.com/bitcoins-leap-beyond-its-former-price-record-signals-new-positive-market-cycle-says-chainlinks-sergey-nazarov/
+		Prediction: buy
+		Featured coin: btc 
+
+Having achieved its highest value ever on March 5, 2024, precisely at 10:03 a.m. Eastern Time (ET) on Tuesday, the price of bitcoin has declined by more than 11% against the greenback at 3:00 p.m. ET. Currently, bitcoin boasts a global trading volume of $52.34 billion, contributing to the total $275 billion exchanged throughout the entire cryptocurrency ecosystem.
+
+Bitcoin’s Historic Surge Signifies New Growth Phase
+Bitcoin’s ascent beyond the $69,000 mark was short-lived, as its value swiftly descended upon reaching this new peak. Records indicate that BTC’s pinnacle price hit $69,210 on Bitstamp. The most frequently traded pairs against BTC were USDT, FDUSD, USD, and USDC, with the South Korean won ranking as the fifth most popular trading pair with bitcoin on Tuesday. Following this peak, a considerable sell-off ensued, driving BTC down to $59,772.
+
+In correspondence shared with Bitcoin.com News, Sergey Nazarov, co-founder of Chainlink, weighed in on this latest pricing achievement. “Bitcoin’s price often reaches new highs that are not just small bumps, but large leaps beyond the previous records,” Nazarov remarked. “This suggests that we may be at the beginning of a new positive market cycle for bitcoin. When bitcoin’s price surges, it attracts more capital to the ecosystem, which fuels innovation and development within the space.”
+
+Nazarov noted that at the same time, we’re witnessing a fusion of macroeconomic factors underpinning bitcoin’s growth. The co-founder of Chainlink elaborated that a blend of global economic trends, regulatory progress, and market shifts is aligning with the introduction of spot bitcoin exchange-traded funds (ETFs). Nazarov added:
+
+These ETFs are more than investment tools; they’re bridges linking traditional finance with the crypto world, broadening bitcoin’s appeal and accessibility. This convergence of supportive macro factors and the innovation and capital within the bitcoin ecosystem is creating a reinforcing loop and setting the stage for bitcoin’s continued ascent in the financial landscape.
+
+Data reveals that in the last four hours, $179 million worth of BTC long positions have been liquidated across bitcoin’s derivatives markets. Despite the significant 10% decline following the all-time high, the cryptocurrency community remains optimistic. The breach of the all-time high has sparked a wave of even loftier forecasts for bitcoin’s value, with speculations of it reaching six-figure sums flooding social media platforms and discussion forums like Reddit. This trend of bullish optimism aligns with a quote by Satoshi Nakamoto, suggesting the power of collective belief in shaping financial futures.
+
+“It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy,” Nakamoto remarked in 2009.
+
+
+
+Articel 5: 	https://news.bitcoin.com/brazilian-neobank-nubank-introduces-new-crypto-wallet-features-for-bitcoin-ether-and-solana/
+		Prediction: buy/hold
+		Featured coin: btc 
+
+Nubank, a Brazilian neobank, has introduced new features for its cryptocurrency customers. The Sao Paolo-based organization recently enabled deposits and withdrawals of bitcoin, ether, and solana in its cryptocurrency service, broadening the use cases of its platform. Before, the company only allowed users to purchase, hold, and sell cryptocurrency assets.
+
+Nubank Enhances Cryptocurrency Features: Opens Deposits and Withdrawals for Bitcoin, Ether, and Solana
+Nubank, a Brazilian fintech institution, is preparing to offer full cryptocurrency wallet services to its users. The company, which had already opened cryptocurrency purchases and sales services for some of its customers, has decided to broaden the functionality of its crypto offering.
+
+According to an announcement made by the bank on April 22, the company opened deposits and withdrawals for bitcoin, ether, and solana for its customers. Nubank reinforced that crypto transfers can take approximately 60 minutes to complete, depending on the status of the chosen blockchain network. Also, it informed that users must always check the destination wallet before completing a transfer, given that crypto transactions are irreversible.
+
+However, the functionality is still not available for all of its customers. Nubank explained:
+
+We are gradually releasing this functionality to ensure a better experience for you, and we ask that you follow updates on the app and here in the community.
+
+It also stated that it plans to add this kind of support for other cryptocurrencies soon.
+
+Nubank launched cryptocurrency trading in May 2022, supporting only bitcoin and ether. However, it has grown and now has 15 different digital assets on its platform, and an in-house issued cryptocurrency, Nucoin. In December, the organization announced a partnership with Circle, the issuer of USDC, a top dollar-pegged stablecoin, to increase the access of Brazilians to digital dollar alternatives.
+
+While the bank has not issued new numbers about the number of its cryptocurrency customers, by September 2022 almost 2 million had already made at least one cryptocurrency purchase using Nubank’s app.

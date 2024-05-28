@@ -1,0 +1,18 @@
+Article Title: Grayscale Withdraws Ethereum Futures ETF Application to SEC
+
+Article Text:
+The notice of withdrawal for the proposed Grayscale Ethereum Futures Trust ETF does not articulate why Grayscale changed its plans, only recounting the multiple delays invoked by the SEC since it was first filed September 19, 2023. The federal regulator declared it would need more time to review the proposal on November 15, December 18, and finally March 22 of this year.
+James Seyffart, ETF analyst for Bloomberg, said it was an interesting move.
+“This was essentially a trojan horse filing in my view, in order to create the same circumstances that allowed Grayscale to win the GBTC lawsuit,” he said.
+UPDATE This is interesting. @Grayscale just withdrew their 19b-4 filing for an #Ethereum futures ETF. This was essentially a trojan horse filing in my view, in order to create the same circumstances that allowed Grayscale to win the $GBTC lawsuit (approve futures deny spot) pic.twitter.com/Kihj2dlQx1
+— James Seyffart (@JSeyff) May 7, 2024
+A federal appeals court had sided with Grayscale in its case against the SEC in August after the firm called the agency out for previously approving Bitcoin futures ETFs—allowing traditional investors to buy shares that track the anticipated value of the digital asset—while denying Bitcoin spot ETFs, which are tied to the current price of BTC.
+Seyffart said he thought Grayscale wanted the SEC to “approve futures, deny spot” again, setting up another legal showdown.
+“This is a good sign they’re not gonna pursue a lawsuit this time around,” he tweeted.
+It is possible Grayscale withdrew its Ethereum futures ETF application in order to re-file an amended one, Seyffart acknowledged.
+”Withdrawing and re-filing is less work for the SEC, but at same time it means there's no way for Grayscale or anyone to sue now,” he observed.
+When a Twitter commenter suggested that Grayscale withdrew its application because the SEC was going to approve Ethereum spot ETFs, Seyffart scoffed.
+“I do not think that's gonna happen (though odds aren't zero), so I do think it was something else,” he wrote. “That said, honestly, that's one of the very few reasons that I'd voluntarily withdraw this if I were Grayscale.”
+Indeed, the move comes amid increasing skepticism that the SEC will authorize the creation of Ethereum spot ETFs, which were once a promising prospect after the agency allowed the sale of Bitcoin spot ETFs in January. The launch of Bitcoin spot ETFs set off a bull run for the top cryptocurrency, credited with helping it set a new all-time high price in March.
+Odds of approval of a Ethereum spot ETF have continued to fall, with hopes dimmed most recently by the revelation that the SEC allegedly classified Ethereum as a regulated security last year, despite public statements that no decision had been made.
+Edited by Ryan Ozawa.

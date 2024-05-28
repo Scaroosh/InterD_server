@@ -1,0 +1,16 @@
+Article Title: Monero Exchange LocalMonero Is 'Winding Down' Its Operations
+
+Article Text:
+Monero-based peer-to-peer (P2P) exchange LocalMonero is shuting down, the platform announced in a blog post.
+Citing "a combination of internal and external factors," LocalMonero stated that it would be "winding down" its exchange after almost seven years of operation.
+The project is immediately disabling all new sign-ups and ad postings. Starting on May 14, new trades will be disabled and the website itself is scheduled to be taken down on November 7, 2024.
+The LocalMonero team urged users to recover their funds from their arbitration bond wallets before November 7, 2024, "otherwise the funds may be considered abandoned/forfeited." Support will be available for users until the November 7 closure date.
+LocalMonero is a P2P exchange on which users can buy and sell the privacy coin Monero (XMR). The platform does not perform know-your-customer (KYC) checks. That's a feature, not an oversight. The exchange advertises itself as enabling users to purchase Monero "anonymously without ID verification."
+Cryptocurrencies such as Bitcoin and Ethereum have a public ledger of transactions, with pseudo-anonymous wallet addresses. Once KYC checks are performed on those wallets, an individual's identity can be linked to a complete record of their wallet's transaction history.
+Privacy coins such as Monero use an array of cryptographic techniques to shield identifying information, enabling users to transact anonymously.
+Monero has come under scrutiny from lawmakers and regulators; in 2020, the IRS offered a reward for anyone able to crack Monero's privacy features, while crypto exchanges such as Binance have delisted it. Just this month, the UK government singled out privacy coins as "not conducive to the public good."
+LocalMonero's closure comes as crypto privacy projects are coming under increased pressure from law enforcement. Last month, the founders of Bitcoin mixer Samourai Wallet were arrested and charged with conspiracy to commit money laundering, following the arrest last year of Tornado Cash developer Roman Storm on similar charges.
+In both cases, U.S. prosecutors have adopted a wider interpretation of money transmitting laws, encompassing developers who have no direct control over user assets—sparking fears of a crackdown on crypto privacy. Following the arrests, multiple crypto privacy projects have shut down, or cut off access to U.S. citizens.
+In a statement accompanying the announcement of LocalMonero's closure, the team behind the platform argued that the Monero ecosystem is in rude health.
+They pointed to the imminent launch of Monero DEXs including Haveno and Serai, as well as the development of new privacy features such as Full-Chain Membership Proofs (FCMP), stating that, "We're confident that Monero's future is bright, with or without our platform."
+Edited by Stacy Elliott.

@@ -1,0 +1,15 @@
+Article Title: Metaplanet Makes Bitcoin a Reserve Asset As Japan’s Debt Mountain Grows
+
+Article Text:
+Metaplanet adopts bitcoin as a reserve asset to hedge against Japan’s debt burden and yen volatility.
+At over 250%, Japan's debt-to-GDP ratio is the highest among advanced countries, according to the IMF.
+Tokyo-listed Web3 infrastructure provider Metaplanet has adopted bitcoin (BTC) as a strategic reserve asset as a hedge against Japan's debt burden and the resulting volatility in the yen.
+"Metaplanet has adopted bitcoin as its strategic reserve asset. The move is a direct response to sustained economic pressures in Japan, notably high government debt levels, prolonged periods of negative real interest rates, and the consequently weak yen," the company said in the press release on Monday.
+Since April, Metaplanet has acquired 117.7 BTC ($7.19 million), following the strategy pursued by U.S.-listed MicroStrategy (MSTR), which has acquired several billion dollars worth of bitcoin, per Bitcointreasuries.net.
+The move stands out because it comes at a time when Japan's fiscal crisis is said to be playing out in the currency market. Crypto propounders have long hailed bitcoin as a hedge against fiscal and monetary imprudence.
+The ratio between Japan's gross debt and gross domestic product (GDP) currently exceeds 254%, the highest in the advanced world, according to data tracked by the International Monetary Fund. The U.S. debt-to-GDP ratio has exceeded 123%.
+The relatively higher debt has kept the Bank of Japan (BOJ) from raising interest rates in lockstep with the Federal Reserve (Fed) and other major central banks. Higher interest rates raise the cost of servicing debt, further complicating the fiscal issues.
+While the Fed has lifted rates above 5% since early 2022, the benchmark borrowing cost in Japan remains near zero. As such, the yen, one of the top five global reserve currencies, has depreciated sharply. Interest rate differentials heavily impact fiat currency exchange rates.
+Data from the charting platform TradingView show that the Japanese yen has depreciated by 50% against the U.S. dollar since early 2021. The yen recently slipped past 155 per U.S. dollar, reaching a 34-year low. The sell-off reportedly saw BOJ sell dollars to put a floor under the yen in a classic currency market intervention.
+"As the yen continues to weaken, Bitcoin offers a non-sovereign store of value that has, and may continue, to appreciate against traditional fiat currencies," Metaplanet said, adding that BOJ's strategy of keeping rates low while intervening in the FX markets represents an "unsustainable monetary paradox."
+The company plans to hold bitcoin for the long term to ensure minimally realized taxable gains and to acquire more bitcoin by issuing long-dated yen liabilities when the opportunity arises.

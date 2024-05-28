@@ -1,0 +1,13 @@
+Article Title: Crypto Exchange Spot Volumes Plunge 60% in Just One Month
+
+Article Text:
+After a record-breaking March driven by equally impressive Bitcoin (BTC) performance, spot volumes on the top 10 cryptocurrency exchanges dropped by more than 60% in April. According to a benchmark by Finance Magnates Intelligence, their trading volume fell from $2.1 trillion in March to just under $1.3 trillion in April.
+In March, volumes on the largest cryptocurrency platforms reached their highest levels in nearly four years, increasing by an average of 120%. This surge coincided with a new all-time high (ATH) for Bitcoin, recorded on March 14, when the price tested nearly $74,000, sparking significant investor activity.
+In April, anticipation centered on Bitcoin's halving, which reduced the reward for mining new BTC blocks, historically leading to strong price increases. However, post-halving, the price has dropped, losing over 16% from its ATH.
+Consequently, volumes on major exchanges also declined, with monthly drops averaging 64%. KuCoin saw the most significant decline, with a 150% decrease to $30 billion, and Upbit experienced a 135% drop to $94 billion.
+“This decline followed unexpected macroeconomic data, an escalation in the geopolitical crisis in the Middle East, and negative net flows from U.S. spot Bitcoin ETFs, leading to major crypto assets retracing the gains they made in March,” commented CCData in its newest crypto exchange volumes report.
+Binance remains the market leader, accounting for 54% of total trading volume with $699 billion in April 2024. ByBit secured the second spot with 11%, followed by OKX with 9%. This reshuffling saw Upbit fall from second to fifth place, ByBit rise to second, and OKX take third.
+“The spot trading volume on Binance fell, recording the first decline in spot volumes,” on the exchange since September 2023,” CCData added.
+Comparing April 2024 to April 2023, the results are not as bleak. Average year-over-year (YoY) volumes grew by 155%, demonstrating a robust growth trend compared to the previous year.
+ByBit led the charge with a 610% increase, rising from just under $20 billion to $138 billion over the year. Huobi saw nearly a fourfold increase in spot volumes from $15 billion, and OKX's volumes doubled.
+“Bitcoin failed to build on the momentum of the week prior, with the price not able to make a ‘higher-high’ above the $66,800 level,” commented Simpon Peters, Market Analyst at eToro. “Instead we’ve seen a retreat back towards the $60,000 mark, which has been tested on numerous occasions since March.”

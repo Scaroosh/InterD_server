@@ -1,0 +1,11 @@
+{
+	"title": string
+	"timestamp": string
+	"link": string
+	"content": string
+}
+
+"title" - title of the arcticle
+"timestamp" - timestamp should be in format (yyyy.mm.dd, hh:mm:ss)
+"link" - url
+"content" - content of that

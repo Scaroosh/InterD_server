@@ -1,0 +1,11 @@
+Article Title: Fidelity leads as spot BTC ETFs start the week with positive flows
+
+Article Text:
+Market data shows Fidelity’s Wise Origin Bitcoin Fund (FBTC) registered the largest inflow on May 13, with the broader exchange-traded fund (ETF) market seeing $66 million in positive flow despite multiple products witnessing zero flows for the day.
+According to Farside Investors, Bitcoin (BTC) ETFs saw a combined net inflow of $66 million after consecutive days of net outflows, with Fidelity’s FBTC recording the largest inflow on May 13.
+FBTC logged an inflow of $38.6 million, one of the few ETFs not to record zero flows that day. Bitwise Bitcoin ETF (BITB) followed with an inflow of $20.3 million, while VanEck Bitcoin Trust (HODL) also saw inflows after multiple days of zero flows from May 7 to May 10.
+Moreover, the inflows ended a two-day streak of consecutive net outflows for Bitcoin ETFs triggered by capital exit from the Grayscale Bitcoin Trust (GBTC). GBTC saw zero flows yesterday, allowing the inflows from other products to reflect positively in the cumulative flow for the day.
+Interestingly, the BlackRock iShares Bitcoin Trust (IBIT) saw a day of zero flows for the third time this month. This followed two straight days of inflows. Similarly, the Ark 21Shares Bitcoin ETF (ARKB) reported its second consecutive day of zero flows.
+On May 3, all Bitcoin ETFs recorded inflows for the first time since January — when the ETF launched in the U.S. GBTC saw its first inflow after a string of consecutive outflows that significantly depleted its Bitcoin holdings and negatively affected the daily performance of the broader spot Bitcoin ETF market.
+Despite the recent uncertainty surrounding the market, institutional adoption has been prevalent. Crypto.news previously reported on Wells Fargo’s recent investment in the Grayscale Bitcoin ETF, totaling over $143,000, alongside 52 shares of Bitcoin Depot on its balance sheet.
+The company holds 37 ProShares Bitcoin Strategy ETF shares, providing exposure to Bitcoin futures, and 2,245 shares of the Grayscale Bitcoin Trust, which have been converted into an ETF.

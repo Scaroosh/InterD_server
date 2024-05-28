@@ -1,0 +1,131 @@
+.account_page {
+  height: 100vh;
+}
+
+.title {
+  color: #1e2115;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  flex-direction: column;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.label_text {
+  margin-top: 10px;
+  color: #1e2115;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.input_form {
+  padding: 10px;
+  margin-top: 10px;
+  width: 411px;
+  height: 50px;
+  border-radius: 8px;
+  border: 2px solid #fff;
+  background: #e4e2df;
+}
+
+.btn_align {
+  margin-top: 37px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  font-size: 24px;
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  color: black;
+}
+
+.error {
+  color: #bf1650;
+  margin: 0;
+}
+
+.error::before {
+  display: inline;
+  content: "⚠ ";
+}
+
+.button {
+  color: #fff;
+
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  width: 200px;
+  height: 65px;
+
+  border-radius: 8px;
+  border: 2px solid #fff;
+  background: #1e2115;
+}
+
+.button:active {
+  background: #ffe9e9;
+  transform: translate(0em, 0.75em);
+}
+
+@media (max-width: 768px) {
+  .backgroundImage {
+    background-size: cover;
+    background-position: top center;
+  }
+
+  .title {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .container {
+    padding: 20px;
+  }
+
+  .form {
+    width: 100%;
+  }
+
+  .icon {
+    right: 35px;
+    bottom: 16px;
+  }
+
+  .input_form {
+    width: calc(100% - 20px);
+  }
+
+  .btn_align {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}

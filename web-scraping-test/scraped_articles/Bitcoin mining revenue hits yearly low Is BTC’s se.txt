@@ -1,0 +1,21 @@
+Article Title: Bitcoin mining revenue hits yearly low Is BTC’s security at risk
+
+Article Text:
+Bitcoin’s (BTC) mining revenue plunges to new lows following the halving event, raising concerns about the network’s security and profitability for miners.
+Daily revenue from Bitcoin mining has dramatically fallen to under $3 million from an average of roughly $6 million in early 2024, marking a significant decline. This downturn follows the Bitcoin halving on April 20, 2024, which reduced the block reward from 6.25 BTC to 3.125 BTC, effectively halving the miners’ income from block rewards.
+Despite a brief surge in transaction fees due to the introduction of a new token standard called Runes, which spiked the daily transaction fees to an all-time high of $78.3 million on April 20, the hype was short-lived.
+
+Hashprice—a measure that miners use to determine the earnings potential of their operations—rose to $182/PH/Day the day after the halving, but Runes activity and transaction fees have since diminished, and the Hashprice hit an all-time low of $49/PH/Day on May 07, 2024, according to Luxor‘s index.
+The reduction in mining rewards has prompted miners to rethink their strategies to remain profitable. Many have resorted to upgrading their equipment to more energy-efficient models to cut operational costs. However, the lower profitability might lead some miners to exit the industry, which could have significant implications for Bitcoin’s network security.
+Industry leaders are voicing their concerns in light of the recent decline in mining revenue. Ki Young Ju, CEO of CryptoQuant, said that miners are presented with two choices: either exit the market (capitulate) or hold out for a potential rise in Bitcoin’s price to offset their operational costs.
+
+First, Cleanspark has managed to maintain healthy profit margins by acquiring more efficient mining equipment and expanding its facilities, despite industry challenges. Riot Blockchain has stayed competitive by continuously investing in the latest mining technology and making operational adjustments.
+Meanwhile, Core Scientific, despite its financial challenges and a recent Chapter 11 bankruptcy, is restructuring to lower operational costs and improve mining efficiency for long-term sustainability.
+
+The primary concern stemming from reduced mining profitability is the potential decrease in the hash rate—the total computational power used to mine and process transactions on Bitcoin’s blockchain.
+A lower hashrate signifies fewer miners securing the network, which can increase vulnerability to attacks, such as the 51% attack, where an attacker could potentially control the majority of the hash rate and influence transaction verification.
+Despite the drop in mining revenue, the overall hashrate has not shown a proportional decline, largely due to technological advancements and efficiency improvements in mining hardware.
+However, the profitability squeeze could lead to smaller or less efficient miners exiting the market, which might concentrate hashing power among larger mining operations. This centralization could pose additional security risks by making the network more susceptible to coordinated attacks or failures.
+Historically, Bitcoin’s price has tended to increase following halving events, potentially offsetting the reduced block rewards. However, the unique circumstances of each halving mean outcomes can vary. The current halving occurs amidst a backdrop of high inflation and economic uncertainty, factors that could influence Bitcoin’s price differently compared to previous events.
+Investors and participants in the Bitcoin ecosystem will need to monitor how these dynamics evolve. The network’s resilience in maintaining security and miner profitability will be crucial for its long-term viability and trustworthiness.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.

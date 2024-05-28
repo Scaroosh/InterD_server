@@ -1,0 +1,12 @@
+Article Title: SEC Delays Decision on Ethereum ETF Proposal
+
+Article Text:
+The recent filing from the U.S. Securities and Exchange Commission indicates a postponement in the decision-making process regarding the proposal for the Invesco Galaxy Ethereum ETF.
+This delay extends the evaluation period by an additional 60 days. Similar actions were taken last month with proposals from Franklin Templeton and Grayscale, as the SEC deferred their decisions on spot Ethereum ETFs.
+Insider reports, as cited by Reuters, suggest that Ethereum ETF proposals from VanEck and ARK may face denial by the SEC later this month.
+Experts had anticipated the SEC’s inclination towards denying these ETFs, citing lower engagement levels compared to the situation preceding Bitcoin ETF approval.
+Analysis suggests that mechanical reasons may contribute to the likely rejection of spot Ethereum ETFs. Matt Hougan from Bitwise foresees the SEC’s demand for more data as a potential reason for denial.
+READ MORE: Bitcoin Surpasses One Billion Transactions After 800 Weeks
+It’s noteworthy that the SEC is currently entangled in a legal dispute with Consensys, a major Ethereum supporter, over the classification of Ethereum as a security.
+Despite this legal battle, BlackRock CEO Larry Fink remains optimistic about the possibility of launching a spot Ethereum ETF, even if Ethereum were deemed an unregistered security.
+Notably, spot Bitcoin ETF approval took the SEC over a decade, culminating earlier this year in a successful venture. However, it appears that the SEC is hesitant to greenlight Ethereum ETFs at this time.

@@ -1,0 +1,19 @@
+Article Title: Bitcoin Runes activity drops significantly, weeks after generating $135m in fees
+
+Article Text:
+Activity on Bitcoin’s Rune protocol has dropped significantly, with data showing it reached its lowest level on May 11.
+The Runes protocol has been making waves in the crypto space since its launch on April 19, coinciding with the latest Bitcoin (BTC) halving event. The protocol’s debut on April 19, which coincided with the latest Bitcoin halving, was nothing short of a blockbuster. It drove a surge in Bitcoin transaction fees, raking in a record $107 million in a single day and $135 million within the first week.
+However, the enthusiasm surrounding Runes seems to have cooled off in the weeks following its launch. According to data compiled by crypto analyst Runes Is on a Dune analytics dashboard, activity has tapered off since the initial frenzy, with crucial growth metrics witnessing a noticeable decline.
+The Runes protocol generated $135 million in fees in its first week after the bitcoin halving, but activity has dropped dramatically since then, with May 10 being the lowest day for activity and only two times in the last twelve days generating over $1 million in fees.…
+Per the data, since May 1, only 5,023 Runes had been etched, compared to the 9,639 etched on April 30 alone. In that time, May 11 recorded the lowest etching activities at 129.
+In terms of transaction volumes, April 20 and April 23 were good days for Runes, with the protocol asserting its dominance by claiming a staggering 77% and 69%, respectively, of transaction share on the Bitcoin network.
+This shift was warmly welcomed by the mining community, who had seen their earnings take a hit after the Bitcoin halving that reduced block rewards to 3.125 BTC.
+Additionally, the Rune protocol had an effect on Bitcoin’s average transaction fee. In early April, transaction fees hovered at approximately $5. However, they skyrocketed to over $128 on April 20, following the launch of Runes, and marking a historic high, as reported by YCharts.
+However, the subsequent days witnessed a consistent decline in Runes transactions, making up less than 30% of total transactions on the Bitcoin network until May 5, when a reversal occurred.
+May 11 marked a new low for Runes activity, with the protocol experiencing its lowest levels of engagement yet. New mints dwindled, and fewer new wallets interacted with the protocol, resulting in a decrease in generated fees.
+While analysts are still figuring out the exact cause of the decline in Runes activity, it comes against a backdrop of reduced on-chain activity on the Bitcoin network, where various metrics, including transaction volumes, daily active addresses, and whale transaction count, are approaching their lowest levels in almost a decade.
+Although unconfirmed, it is not farfetched to surmise that the general slowdown in the broader Bitcoin ecosystem may also have affected activity on the Rune protocol.
+The fungible token protocol represents a significant leap forward in technology on the Bitcoin blockchain by enabling various token standards through the UTXO model and the OP_RETURN opcode.
+This innovation offers a more efficient tokenization solution compared to older standards like BRC20, primarily catering to meme coin trading on the Bitcoin network.
+Despite the slowdown, certain Rune collections continue to command high market valuations, hinting at a resilient niche market within the protocol’s ecosystem.
+Furthermore, Casey Rodarmor, the brain behind Bitcoin Ordinals and the Runes protocol, has also hinted at an audio-reactive generative art project at a recent Ordinals event in Hong Kong, further underscoring the innovative spirit driving the Runes ecosystem forward.

@@ -1,0 +1,12 @@
+Article Title: Wintermute to Provide Liquidity for Hong Kong-listed Crypto ETFs
+
+Article Text:
+Crypto market maker Wintermute is providing liquidity and supporting the newly launched Hong Kong spot Bitcoin and Ethereum exchange-traded funds (ETFs).
+In an announcement shared with CryptoNews, London-based Wintermute said it is providing liquidity to two Hong Kong licensed digital asset platforms; OSL Digital Securities and HashKey HK Exchange.
+Wintermute said both OSL Digital Securities and HashKey will be acting as sub-custodians and virtual asset trading platforms helping with the launch and operation of the Hong Kong-listed ETFs.
+“ETFs play a key role in bringing the next wave of investors into the crypto space, both institutional and retail, and without companies like Wintermute providing liquidity, this would not be possible,” said Evgeny Gaevoy, CEO of Wintermute, in a statement.
+“Increasing access to digital assets will play a critical function in further accelerating growth, and Wintermute is excited to play a key role in that process,” added Gaevoy.
+The role of a liquidity provider involves being a market broker or institution which behaves as a market maker in a chosen asset class. Wintermute said as the liquidity provider for the ETFs, it will be working with OSL Digital Securities and HashKey on buying, selling, and the delivery of underlying spot Bitcoin and Ethereum.
+In April, the Hong Kong Stock Exchange announced the launch of new spot Bitcoin and Ethereum ETFs. In an official announcement by Hong Kong Exchanges and Clearing Limited, the Bitcoin and Ethereum ETFs marked the introduction of the first spot virtual asset (VA) ETFs in Asia.
+The products were listed by Harvest Global Investments, China Asset Management and Bosera Asset Management. On Monday, Hong Kong’s spot Bitcoin ETFs secured $230 million in assets under management (AUM) in their inaugural week.
+“Hong Kong has established itself as a leading advocate for crypto in the APAC region, and we are hopeful that other countries will follow their lead in the near future,” added Gaevoy.

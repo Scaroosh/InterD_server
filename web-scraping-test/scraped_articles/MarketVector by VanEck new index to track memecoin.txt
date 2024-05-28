@@ -1,0 +1,24 @@
+Article Title: MarketVector by VanEck new index to track memecoins
+
+Article Text:
+MarketVector by VanEck has recently introduced an index dedicated to memecoins, which has seen a 195% increase on an annual basis. The index includes a variety of popular tokens such as Dogecoin, Shiba Inu, Pepe, Floki Inu, Dogewifhat, and BONK.
+Let’s see below all the details.
+Summary
+As anticipated, VanEck’s MarketVector has followed the trend of memecoins by introducing a new index dedicated to this popular category of tokens.
+The Meme Coin Index by MarketVector, identified by the symbol MEMECOIN, tracks the six most important meme tokens, including Dogecoin (DOGE), Shiba Inu (SHIB) and Pepe (PEPE). Other components of the index include Dogwifhat (WIF), Floki Inu (FLOKI) and BONK.
+Considering the performance of its components, the new MarketVector index has risen by over 195% on an annual basis.
+For comparison, the CoinDesk 20, which tracks the 20 largest tokens excluding stablecoins, grew by 97% in the same period, while Bitcoin (BTC) recorded an increase of 123%.
+Meme coins have a total market capitalization of about 51 billion dollars, according to CoinGecko, with the MarketVector index tracking 44.67 billion dollars.
+Some investment managers have recently reported that the popularity of memecoins could continue thanks to the low fees on the Solana blockchain.
+Which allow users to make small bets with the potential for high earnings, unlike previous crazes limited by high fees on Ethereum.
+Furthermore, a new category of meme tokens called PoliFi is emerging with the approaching election season. The market capitalization of this new category has reached 586 million dollars.
+A specific token, BODEN, has increased by 16% after former president Donald Trump mentioned it during an electoral event. At the same time, MAGA, a token inspired by Trump, has risen by 28% and TREMP has experienced a surge of 142%.
+According to the CEO of VanEck, Jan van Eck, investing in semiconductors could be the most effective strategy to take advantage of the artificial intelligence (AI) boom. In particular, during an interview on CNBC’s ETF Edge, he stated:
+“Semiconductors have become the heart of artificial intelligence commerce.”
+The VanEck Semiconductor ETF (SMH) fund, which includes 25 of the top chip manufacturers in the United States, has grown by 21% this year. Although it experienced a 6% drop in May, dragged down by declines from giants like Intel, AMD, and Nvidia.
+Van Eck argues that this weakness could be only temporary, as the increasing demand for AI chips offers potential long-lasting returns:
+“They have gone from being a highly cyclical business with short-lived products to an integral part of the growing commerce, with higher recurring revenues, so they can maintain high profits despite some short-term fluctuations.”
+Mike Akins, co-founder of ETF Action, shares a similar point of view, highlighting that limited competition among major chip producers could support the group, as explained:
+“Until competition significantly increases, it is difficult to see this sector losing momentum.”
+However, Akins warns to carefully monitor the flows of funds in semiconductors as an indicator of future performance.
+It suggests that very low flows can indicate a buying opportunity, while high flows can suggest that it is time to reduce positions.

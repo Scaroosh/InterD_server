@@ -1,0 +1,13 @@
+Article Title: Bitcoin Layer-2 Builder Botanix Labs Raises $8.5M From Polychain Capital, Others
+
+Article Text:
+Botanix Labs' Spiderchain is designed to allow any application or smart contract running on an Ethereum layer to be in effect copied and pasted onto Bitcoin.
+Botanix Labs and Spiderchain are part of the movement to bring greater utility to the Bitcoin network, introducing elements such as smart-contract capabilities that are more commonly associated with Ethereum.
+Bitcoin development startup Botanix Labs said it raised $8.5 million toward building of layer-2 network Spiderchain, taking its total backing to $11.5 million after a $3 million pre-seed round last year.
+The most recent round included Polychain Capital, Placeholder Capital, Valor Equity Partners and ABCDE, Botanix announced on Tuesday.
+The New York-based company built Spiderchain to be compatible with Ethereum Virtual Machine (EVM) layers. EVM is the software that sets the rules for powering the Ethereum network and allows smart-contract functionality.
+Spiderchain is designed to allow any application or smart contract running on an Ethereum layer to be in effect copied and pasted onto the Bitcoin blockchain.
+Its testnet, which started in November last year, has garnered over 200,000 active addresses and more than 10,000 experimental token launches, ahead of the release of the first mainnet version in coming months.
+Botanix Labs and Spiderchain form part of the movement to bring greater utility to the Bitcoin network, introducing elements such as smart-contract capabilities that are more commonly associated with Ethereum.
+“Bitcoin has proven itself to be the most secure monetary network in history," Armin Sabouri, co-founder of Botanix said. "Now it’s time to put bitcoin to work by transforming it from only being a store of value into a global monetary network that empowers the sovereignty of individuals.”
+Read More: OP_CAT Proposal to Bring Smart Contracts to Bitcoin Finally Gets a 'BIP Number'

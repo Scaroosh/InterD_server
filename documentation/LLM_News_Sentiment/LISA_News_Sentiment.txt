@@ -1,0 +1,46 @@
+Unability to get the name or even remove the first recommendation.
+Not recommended for usage.
+
+Final sentence used for LISA: "Can you only give me a json with, the name being the cryptomoney, the confidence being how condifent you are between 0 and 100, and the recommendation being either buy,sell or hold for the following article ?"
+
+
+Article 1:
+
+Recommendation:
+In light of the volatile nature of the market post-halving, we recommend a wait-and-see approach. Traders should monitor price action closely and be prepared to adjust their strategies accordingly.
+
+Confidence: 80%
+Recommendation: Buy
+
+Article 2:
+
+"This is a sign of extreme greed and a short-term top."
+
+Recommendation: Hold
+Confidence: 90%
+Cryptomoney: Bitcoin
+
+Article 3:
+
+Recommendation: Buy
+Confidence: 80%
+
+This article is based on the latest quarterly report from Fidelity Digital Assets (FDA) Research. The report highlights key insights into the bitcoin and ethereum markets as of Q1 2024. With a detailed analysis of market conditions and future outlooks, FDA's research report provides several predictions for short and long-term trends. 
+
+Refer to the JSON format below for a summary of the article's key points:
+{
+  "title": "Fidelity Digital Assets Spotlights Bitcoin and Ethereum Market Shifts in New Q1 2024 Report",
+  "content": "Fidelity Digital Assets (FDA) Research starts the quarter with a nuanced look at bitcoin's (BTC) performance, which saw a notable 64% increase by mid-March,
+h,
+
+Article 4:
+
+Bitcoin's recent surge has also prompted a flurry of new investors entering the space. According to a report by Coinbase, the number of new users signing up for the platform has increased significantly since the start of the year. This trend is reflected in the number of new wallet addresses created on the Bitcoin network, which has also seen a significant uptick.
+
+With the market for cryptocurrencies still in its infancy, it's difficult to predict the future trajectory of bitcoin's value. However, the current bullish sentiment and the convergence of macroeconomic factors suggest that we may be at the beginning of a new growth phase for bitcoin.
+
+Recommendation: Buy
+
+Article 5:
+
+Recommendation: Buy

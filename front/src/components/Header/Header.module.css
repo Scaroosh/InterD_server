@@ -1,0 +1,36 @@
+.title{
+    color: #1E2115;
+    font-family: "Source Code Pro", serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+}
+
+.header{
+    display: flex;
+    padding: 35px 0 90px 0;
+    justify-content: space-between;
+
+}
+
+.menu_action{
+    display: flex;
+}
+
+.burger_menu{
+    display: none;
+}
+
+
+@media (max-width: 980px) {
+    .menu_action{
+        display: none;
+    }
+
+    .burger_menu{
+        display: block;
+    }
+}

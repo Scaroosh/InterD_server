@@ -1,0 +1,40 @@
+Article Title: TON What is The Open Network's crypto
+
+Article Text:
+In the last few months there is a crypto that has entered the top 10 of those with the highest capitalization: TON by The Open Network.
+TON has a very curious story behind it, and above all it is a very interesting crypto project.
+Summary
+It all started in 2018, when Telegram launched its own ICO (Initial Coin Offer).
+Telegram has long been the second largest messaging app in the world after WhatsApp, and has been looking for its own business model for some time.
+In 2018, he decided to start his own crypto project, based on the GRAM token.
+However, that ICO had many issues, especially with the US authorities, so much so that two years later Telegram was fined by the SEC for 18.5 million dollars.
+The accusation was that of offering the public an unregistered security.
+Telegram was then forced to close its crypto project, but since in those two years they had already made giant strides from a technical point of view, they decided not to abandon it completely.
+In addition to the GRAM token, which never landed on the markets, they had developed the TON blockchain, an acronym that at the time stood for Telegram Open Network.
+In reality, Telegram did not completely abandon the TON project, but transformed it into a decentralized project, renamed the blockchain The Open Network (keeping the acronym TON), and created the cryptocurrency Toncoin.
+And so in 2020 The Open Network project and the Toncoin cryptocurrency were born, which landed on the crypto markets the following year.
+The GRAM token no longer exists, but the Telegram Open Network has transformed into today’s TON.
+Toncoin, which has the ticker TON, is the native cryptocurrency of The Open Network, and over time has shown very interesting market performance.
+Currently it is in eighth place overall for market capitalization, ahead of Dogecoin, Cardano, Shiba Inu, Avalanche, Tron, Polkadot, and others. However, if stablecoins are excluded, it would be in sixth place, with 24 billion dollars which is not far from XRP. For now, Solana and BNB are still significantly distant.
+Initially, in August 2021, the price was below 0.8$, but since the last major speculative bubble was underway, in November it exceeded 4.5$, with an immediate gain of 460% in less than three months.
+During the bear-market of 2022, however, the price dropped, ending up returning to those $0.8 from which it had started.
+At that point, one could have also believed that that performance was just a bubble, so much so that a year later the price was still only slightly above $1.
+However, things started to change between September and October 2023, just before the last bull run began.
+The fact is that since Telegram officially abandoned the Telegram Open Network project, it was not clear if it had a role in the new project The Open Network, even though the latter seemed to actually continue the previous one, as revealed by the acronym kept identical.
+As soon as Telegram made it clear that it also supported the new TON project, things changed.
+In September of last year, the price had already risen to $2.4, but had closed the year at $2.2, still far from the $4.5 of November 2021.
+Everything changed when in recent months Telegram announced not only the integration of TON into its official wallet, but also a real marketing campaign in favor of this cryptocurrency.
+It should not be forgotten that Telegram has 900 million active users worldwide every month, more than the total number of cryptocurrency investors.
+Starting from the end of February, a new bullrun of TON has begun, bringing the price first to 4.3$, then surpassing 4.5$ establishing a new all-time high, and then reaching 7.6$ in April.
+Since then, it has only lost 9%, also because after returning to $4.6 at the beginning of May, in the last seven days it has recorded a significant +33%.
+In other words, it doesn’t seem like the one in 2024 was a bubble similar to the one at the end of 2021, although a new return to $4.5 is always possible.
+However, a lot will also depend on the general trend of the crypto markets, because in case of a new bull run it is easy to imagine that TON will follow the other cryptos, but in case of a new retracement TON will hardly remain unaffected.
+Technically, The Open Network is a crypto platform based on its own blockchain.
+The technological peculiarity of this decentralized blockchain is the ability to approve a very high number of transactions per second, with very low fees.
+On TONscan.org it can be read that the TON blockchain already hosts more than half a billion transactions, despite being launched only four years ago. For example, the Bitcoin blockchain was launched fifteen years ago and hosts about one billion transactions.
+The average cost of a single transaction is around 0.005 TON, which is 3.5 cents in dollars.
+Although there are other chains that are able to allow transactions at even lower costs, 0.035$ is close to Solana’s 0.020$ and less than Ethereum’s 0.750$. Ethereum.
+What TON aims for is to ensure extreme speed in transactions without congesting the network.
+However, its real strength lies in having Telegram behind it, and since TON is able to support many low-cost transactions, Telegram’s support could really prove to be very effective in the long run.
+Moreover, with the powerful promotional campaign launched by Telegram last month, it is possible that many people will become aware of TON and may also want to start using this network, especially now that it also supports USDT.
+Finally, the Launchpool of Binance could also play a role, which announced the listing of Notcoin (NOT). NOT is a token on TON, although for now Binance has not yet listed TON.

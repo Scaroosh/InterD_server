@@ -1,0 +1,4 @@
+Article Title: Bitcoin Runes Sees Slowdown in Activity After Initial Surge
+
+Article Text:
+Bitcoin’s novel Runes protocol, launched in conjunction with Bitcoin recent halving on April 19, has witnessed a significant slowdown after its initial surge. The protocol’s debut catalyzed record transaction fees for Bitcoin miners as investors eagerly participated, generating over $135 million in fees in the first week alone. Despite this robust start, recent data points to a noticeable decrease in user engagement and transaction volumes.

@@ -1,0 +1,17 @@
+Article Title: Crypto wallet adds pay-per-use access to premium subscription AIs
+
+Article Text:
+The popular crypto wallet, Cake Wallet, has added support to a pay-per-use artificial intelligence (AI) platform that allows access to premium APIs like ChatGPT-4, Dall-E 3, Claude 3 Opus, and more. Finbold exclusively talked to the companies’ founders about using cryptocurrencies for payments in their services.
+Vik Sharma, founder of Cake Wallet, announced the implementation of NanoGPT in a post on X on May 12. The AI application is available on Cake’s Marketplace, below the Cake Pay service for pre-paid gift cards.
+
+Now, Cake Wallet users can pay-per-use premium AI chatbots directly from their cryptocurrency self-custody address with Nano (XNO). Moreover, it is possible to swap other supported cryptocurrencies in-app, such as Bitcoin (BTC), Monero (XMR), Litecoin (LTC), Bitcoin Cash (BCH), Polygon-based USDT, USDC, and others.
+“AI chatbots have become very popular and, in Cake Wallet, we believe cryptocurrencies like the ones supported by the app can be a great way to open up access for them [AI chatbots], more efficiently and privately – as we are fully committed to these attributes as a company. Also, nano is perfect for this micropayment use case due to having zero fees.”
+NanoGPT is a cryptocurrency service connected to multiple artificial intelligence APIs bridging crypto payments to a pay-per-use model. This allows users to avoid keeping numerous premium subscriptions to access different AIs according to their specific needs.
+
+Notably, Finbold reported about the tool when it was first launched as a simple Telegram bot that supported only ChatGPT-4. Thus, we again talked to NanoGPT’s founder, Mira Hurley, about the recent partnership with Cake Wallet.
+“NanoGPT has improved a lot since it was a simple Telegram bot. We’ve moved from a single model to users being able to select from a range of text and image models; you can continue any old conversation at any time; users can now track their usage to see to what extent our service is cheaper than subscription; we’ve added support via discord, email, and Twitter; and have added just a ton of quality of life improvements.”
+As of this writing, Hurley was giving away small amounts of XNO for new Cake Wallet users to try the tool for free.
+Hi Cake Wallet users! To celebrate NanoGPT being added to Cake Wallet I'm sending out Nano to let you try it out.Just post a screenshot showing your address/QR code like in the image below (open Cake Wallet, swipe left, NanoGPT, wallet). https://t.co/YiOyOgR76s pic.twitter.com/AASm7zVvvI
+Interestingly, pay-per-use services are increasingly becoming preferred alternatives to the popular subscription models broadly used by many industries. This model looks at feeless and instant crypto payments as a natural way to make it possible.
+In particular, access to premium AIs like ChatGPT-4, Dall-E 3, Claude 3 Opus, and others has earned the attention of developers and companies like Cake Wallet, NanoGPT, and PayPerQ. The latter offers a similar pay-per-use service while taking Bitcoin payments via the Lightning Network, as reported by Finbold in April.
+Should users start preferring this new model, companies will need to adjust their offerings and payment options to adapt. However, it is still soon to tell where the pay-per-use concept will lead the AI industry and if crypto payments will be part of that change.

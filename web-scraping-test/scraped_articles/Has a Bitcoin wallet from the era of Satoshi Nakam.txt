@@ -1,0 +1,35 @@
+Article Title: Has a Bitcoin wallet from the era of Satoshi Nakamoto woken up
+
+Article Text:
+Yesterday, news broke that a Bitcoin wallet from the so-called “Satoshi Nakamoto era” had been awakened.
+Satoshi Nakamoto is the pseudonym by which the creator of Bitcoin is known, who however disappeared into thin air in 2011.
+Summary
+Yesterday’s news concerns the Bitcoin address 15WZNLACuvcDrrBL2btDErJggnaMQtHh5G.
+A wallet that has been dormant for 10.3 years transferred all 687.33 $BTC($43.94M) out 10 mins ago.The whale received 687.33 $BTC($630K at that time) on Jan 12, 2014, when the price was $917.Address: 15WZNLACuvcDrrBL2btDErJggnaMQtHh5G pic.twitter.com/tEPqM0CrrK
+Just yesterday this wallet woke up, with a BTC send to two different addresses. It then received two incoming transactions, although of almost irrelevant amounts.
+Yesterday’s shipment was instead 687 BTC, equivalent to about 42.7 million dollars.
+These 687 BTC have been sent to two Segwit addresses, which are of a new generation, while the starting address is an old legacy address.
+It is worth noting that this wallet had actually received several other small amounts in BTC, especially between 2020 and 2021, and had also received others in 2018, 2016, 2015, and 2014.
+His only significant reception of BTC occurred in January 2014, when he received 687.33 BTC. Practically almost all the BTC received at that time were sent yesterday to two new addresses.
+It can therefore be hypothesized that this wallet was created in 2014.
+An anonymous person who identified themselves with the pseudonym Satoshi Nakamoto made the Bitcoin white paper public at the end of October 2008.
+At the beginning of 2009, he was the first to mine BTC, thus starting the Bitcoin blockchain.
+Throughout 2009, it was the reference point for the development and growth of the Bitcoin project, but already starting from 2010 it began to make room for others, so much so that its last contribution in this sense dates back to December 2010.
+In April 2011, he sent his last known email, and since then no one has heard anything from him.
+Therefore the Satoshi era lasted from late 2008 to late 2010, with a small tail in the first half of 2011.
+In light of these numbers, it is evident that the wallet 15WZNLACuvcDrrBL2btDErJggnaMQtHh5G cannot be considered a wallet of the Satoshi era.
+It is enough to say that when Satoshi was created, he had already been missing for almost three years, and above all, there had already been the first halving (in November 2012) and the first major speculative bubble (in 2013).
+The real watershed between the truly pioneering era of Bitcoin, and those that followed, is precisely the 2012 halving, and since that wallet was created afterwards, it cannot be considered a Satoshi-era wallet.
+Actually, between 2009 and 2012, at least two other key events happened that put an end to the truly pioneering era of Bitcoin.
+The first was the landing of BTC on exchanges, in 2010, and the second was the definitive disappearance of Satoshi in 2011.
+It is worth noting that even the first speculative mini-bubble of the price of Bitcoin occurred after Satoshi’s disappearance, while before his disappearance the price of BTC had never exceeded $1.
+The truly pioneering era of Bitcoin effectively ended in the second half of April 2011, when the price of BTC exceeded $1 for the first time and soared to over $25 in just a few weeks, only to retrace heavily below $3 in the following weeks.
+The next bubble began to inflate a few months after the end of the 2012 halving.
+In light of this, it is evident that the news of the awakening of that 2014 wallet had no impact on the price of Bitcoin.
+However, it has already happened in the past that wallets from the Satoshi era have actually been reactivated, created between 2009 and the early months of 2011, and in fact movements of this kind can have some effect on the price of BTC.
+The key point is the amount of BTC that is being moved in those cases, because there is a risk that such movements indicate the intention to sell huge quantities of Bitcoin.
+For example, Satoshi Nakamoto from 2009 to 2011 managed to mine so many blocks of the Bitcoin blockchain that, with 50 BTC received as a reward for each block, it is estimated that he managed to collect more than a million in total.
+One million BTC is more than those owned collectively by all the existing ETFs in the world, and has a market value of over 60 billion dollars.
+So as long as a few hundred BTC are moving, it’s hard to imagine that it could have a significant impact on the price. But if thousands of Bitcoins were to start moving, or worse yet tens of thousands of BTC, then the risk of a negative impact on the price due to strong selling would be there.
+Today there are only a little over a hundred Bitcoin addresses that contain more than 10,000 BTC, although many of these are exchange wallets, and many holders of large amounts of BTC keep them fragmented across different addresses.
+There are more than 15,000 Bitcoin addresses that hold at least 100 BTC, so there is really no comparison between these two sizes.

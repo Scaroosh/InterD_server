@@ -1,0 +1,23 @@
+Article Title: Bitcoin Below $60K Could Trigger 'Panic' Selling, Crypto Analyst Says
+
+Article Text:
+Since March, the market has been range-bound between $60,000 and $70,000, with the halving event in April not providing the expected boost due to a general lack of market catalysts, a trader said.
+One firm said short-term bitcoin holders, who have historically influenced market trends, might play a significant role in the coming months.
+After periods when 94% of both long—and short-term holders were in profit, there has been a shift towards selling, leading to significant drawdowns in the following four to six months. The current cycle could follow a similar pattern if institutional demand and macroeconomic conditions weaken.
+Bitcoin (BTC) could see a panic sell-off if it closes under the $60,000 level in the coming days, according to FxPro trader Alex Kuptsikevich. Crypto traders are targeting a break above $65,000 before sentiment can be deemed bullish.
+BTC briefly jumped to over $63,000 in European morning hours on Monday, jolting alternative and major tokens. Ether (ETH), Solana’s SOL and dogecoin (DOGE) 3% in the past 24 hours, with most gains coming after BTC’s rise.
+TON, the token of the Tonchain blockchain closely related to the messaging service Telegram, rose 7%, leading the jump among majors.
+The CoinDesk 20 (CD20), a broad-based liquid index of the biggest tokens minus stablecoins, was up 2.24%.
+BTC has largely remained range-bound between $60,000 and $70,000 since March, with the highly-anticipated halving event in April turning out to be a sell-the-news play amid a general lack of market catalysts. Inflows from exchange-traded funds (ETFs) have waned in the past few weeks, as reported, adding to a bearish sentiment.
+Alex Kuptsikevich said in a Monday note to CoinDesk that price action has been characterized by a sequence of lower lows and lower highs, marking a sign of investors selling into strength on price rallies.
+“There is pressure likely related to asset sell-offs by miners and fears of tighter regulation of cryptocurrencies,” Kuptsikevich said, referring to the drop in mining difficulty after April’s halving.
+“A failure below $60K could trigger something of a panic sell-off. The positive scenario, in our opinion, will become the main one with a rise above $65K, fixing the price at the 50-day moving average and the reversal area in early May,” he added.
+Mining difficulty measures how difficult it is for miners to solve mathematical puzzles that accept and confirm transactions on a proof-of-work blockchain. The increase in resources required to solve these puzzles strains miners' businesses, making them unprofitable and resulting in fewer miners.
+Short-term holders may influence drawdowns
+Elsewhere, analysts at crypto investment firm Ryze Labs said in a weekly note that the behavior of short-term bitcoin holders—or those who hold the tokens for less than 155 days—could largely influence markets in the coming months.
+Ryze Labs said there have been three instances in which 94% of both long—and short-term Bitcoin holders were in profit: from mid-November 2017 to mid-April 2017, mid-February to mid-April 2021, and most recently, from the end of February 2024 to the beginning of April.
+The peak values of Bitcoin held by short-term investors were $117.8 billion in 2017 and $289.9 billion in 2021. During these times, long-term holders and miners sold Bitcoin to short-term holders, who held it for less than 155 days.
+However, following these peaks, short-term holder losses increased rapidly, leading to a cycle inversion in which short-term sellers sold to long-term holders. The team observed that this shift has historically resulted in significant bitcoin price drawdowns in the following four to six months.
+“In the most recent cycle, short-term holders had Bitcoin valued at $218.9 billion. While most were initially in profit, they started to sell actively. About one month after this period, the maximum price drawdown from the period's high is approximately -6%,” the analysts said.
+“The current cycle may differ from previous ones due to institutional demand supported by improving macroeconomic conditions. However, if these supportive factors weaken, a Bitcoin price drawdown similar to past cycles could occur,” they added.
+

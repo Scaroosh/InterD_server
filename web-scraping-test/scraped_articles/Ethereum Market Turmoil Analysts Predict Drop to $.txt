@@ -1,0 +1,16 @@
+Article Title: Ethereum Market Turmoil Analysts Predict Drop to $2500
+
+Article Text:
+The crypto market has recently witnessed a downturn, marked by significant price drops in major assets like Ethereum and Bitcoin.
+Particularly, Ethereum (ETH) seems to be grappling with pronounced bearish trends, leading many crypto analysts to predict further declines for the second-largest crypto by market capitalization.
+According to a recent investor advisory by crypto research firm 10X Research, Ethereum’s potential descent to $2500 is a concern due to its weakened fundamentals. They noted Ethereum’s inconsistent performance in the current market cycle, a departure from its role as a catalyst for bullish runs in previous cycles.
+The firm emphasized Ethereum’s impact on Bitcoin’s growth in this cycle, highlighting a strong correlation between the two, with an R-square of 95%. Ethereum’s declining fundamentals are seen as a hurdle to widespread fiat inflow into the crypto ecosystem, thereby impeding Bitcoin’s rise.
+“Ethereum: the No.2 token in the world continues to disappoint both from the fundamental and technical perspectives. The below Daily Chart looks particularly weak to me. If 2950 breaks, we will easily see 2500-2600 range in a crash,” Daniel Yan, the Founder and CIO at Kryptanium Capital said.
+Read more: Ethereum (ETH) Price Prediction 2024/2025/2030
+Meanwhile, the poor price forecast may stem from reduced network activity on the mainnet, leading to record-low average transaction fees. According to blockchain analytical platform IntoTheBlock, an increasing number of transactions are now settled on Ethereum Layer 2s, with the three largest L2s accounting for a record 82% transaction share of all Ethereum transactions last month.
+This coincides with developments concerning spot Ether exchange-traded fund (ETF) applications. On May 10, Ark 21 Shares revised their spot Ethereum ETF proposal, dropping staking plans.
+Bloomberg ETF analyst Eric Balchunas suggested that the alteration might aim to refine application documents based on SEC feedback, though there have been no comments on the application.
+“While it may seem like this is them getting their docs in shape based on SEC comments (which would be good news) there hasn’t been any comments. So its prob either a Hail Mary or maybe trying to give SEC one less thing to use in their rejection. Not sure (yet),” Balchunas said.
+Read more: Ethereum ETF Explained: What It Is and How It Works
+Despite this, the amendment seems to have increased the likelihood of spot Ethereum ETF approval on Polymarket, an on-chain predictions protocol. Data on the site indicated that the approval chances nearly doubled to 14% as of May 10 following the applicants’ move.
+Nevertheless, expectations for approval remain subdued due to the SEC’s reserved stance on Ethereum ETF applications.

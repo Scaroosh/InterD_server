@@ -1,0 +1,14 @@
+Article Title: CryptoPunks leads NFT sales for the second straight day
+
+Article Text:
+CryptoPunks dominated the market with a daily sales volume for the second consecutive day on Wednesday.
+The Ethereum-based non-fungible token (NFT) collection recorded over US$1.25 million in daily sales with eight total transactions attributed to seven unique buyers and sellers each.
+CryptoPunks led the market despite a 25% sales drop from the day prior. Its US$1.7 million daily sales volume also led the market on Tuesday, according to CryptoSlam data.
+CryptoPunks’ two-day dominance was not able to keep Ethereum, its host chain, at the top of the blockchain rankings for NFT sales. Bitcoin collections collectively achieved US$6.68 million in sales on Wednesday, edging out Ethereum’s US$6.04 million.
+The second-highest performing collection of the day was DMarket, with a daily sales volume of US$725,058, involving a staggering 4,147 unique buyers and 3,569 sellers across 31,734 transactions.
+DMarket is a NFT collection that represents in-game items for the Mythos chain.
+NodeMonkes on Bitcoin claimed the third spot with a daily sales volume of US$717,301.84, engaging 37 unique buyers and 35 sellers in 38 transactions. This is a slight decrease from the US$750,024.31 generated the day before. The collection’s all-time sales now stand at US$214.35 million, reflecting a strong market position.
+NodeMonkes is the all-time leading collection on the Bitcoin network, with US$214.5 million in sales. It is now about US$1 million away from overtaking CyberKongz, an Ethereum-based collection that currently holds the 26th spot on the all-time sales chart.
+Other notable collections that made Wednesday’s top 10 sales list include the $PMPS BRC-20 NFTs, which saw a daily sales volume of US$634,465, and Mad Lads, which generated US$518,697 in sales.
+Both collections experienced fluctuations in their daily performance, with $PMPS BRC-20 NFTs witnessing an increase in transactions from the previous day, while Mad Lads saw a decrease in sales from US$800,760.
+Solana Monkey Business, Bored Ape Yacht Club, Mutant Ape Yacht Club, DogeZuki Collection, and Guild of Guardians Avatars also featured in the day’s top-performing NFT collections

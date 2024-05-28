@@ -1,0 +1,23 @@
+Article Title: Stablecoin Expansion Stalls Ahead of U.S. Inflation Data
+
+Article Text:
+The expansion of the top three stablecoins, USDT, USDC and DAI, a powder keg used to fund token purchases, has stalled since the bitcoin halving.
+A potential soft U.S. CPI print on Wednesday may revive inflows into the market.
+China's plan to step up fiscal support to the economy may bode well for risk assets.
+The expansion of stablecoins, or the dollar-pegged cryptocurrencies, which played a crucial role in the crypto bull market of the first quarter, has halted since the Bitcoin blockchain implemented the supposedly bullish mining reward halving on April 20.
+The combined market value of the top three stablecoins, namely tether (USDT), USDC, and DAI (DAI), which dominate the stablecoin market with a share of over 90%, has been fluctuating between $149 billion and $150 billion for the past three weeks.
+The consolidation comes after several weeks of an uptrend and may have bearish implications for the market, according to 10x Research.
+"Since the halving, we have seen nearly zero growth in stablecoin inflows, and bitcoin futures leverage has been dramatically reduced. Contrary to the bullish tweets about a post-halving rally, crypto users have voted with their money by withdrawing or pausing inflows," Markus Thielen, founder of 10x Research, said in a note to clients Monday.
+Thielen added that bitcoin (BTC) could correct to $55,000 or lower in the coming weeks, and ether (ETH), the world's second-largest token, could drop to $2,500.
+Traders widely used stablecoins to fund cryptocurrency purchases and derivatives trading. Hence, the expansion of their supplies is said to represent an increase in inflows into the market, a bullish development, and vice versa.
+The combined market cap of the three stablecoins increased over 23% to nearly $149 billion in four months leading up to the halving. Market leader bitcoin's price rose by over 50% to $65,000 during that time, with the total crypto market capitalization increasing by 50% to $3.2 trillion.
+The stall in stablecoin expansion coincides with a marked slowdown in inflows into the U.S.-listed spot exchange-traded funds (ETFs).
+The chart by Coinglass shows daily flows into the ETFs have slowed notably in the weeks on either side of the fourth halving, taking the wind out of the bitcoin bull run. Since halving, the cryptocurrency has largely traded lackluster between $60,000 and $65,000.
+U.S. CPI and China stimulus may offer support
+Some observers expect a potential softer-than-expected U.S. consumer price index (CPI) print on Wednesday to lift bitcoin above $65,000.
+"Wednesday’s CPI will be key to see if we can break above the $65,000 and make progress back towards the year highs, in line with equities. The lack of leverage suggests the market is under positioned for a move higher and has been forced to chase this bounce this morning," the founders of newsletter service LondonCryptoClub told CoinDesk.
+According to Bloomberg, the consensus is for the data to show the cost of living likely increased 3.4% over the year in April, a moderation from March's 3.5%. The core CPI, which strips out the volatile food and energy component, rose 3.6% year-on-year, down from March's 3.8%.
+A renewed slowdown in inflation will likely raise hopes for Fed rate cuts this year, spurring inflows into risk assets, including cryptocurrencies.
+China's plans to inject liquidity into the system could help as well. According to Bloomberg, the world's second-largest economy aims to sell one trillion yuan of debt through December, the fourth such issuance in the past 26 years.
+"Bitcoin bounced to $63,000 early today probably because China is about to flood the market with liquidity in a "QE with Chinese characteristics," the founders at the LondonCryptoClub said.
+"This morning, China fired the starting gun to issue RMB 1trn ($140bn) in long-dated bonds to help stimulate the economy. The PBOC has also hinted under instruction from Xi that they will purchase these bonds in the secondary market. China is about to inject a wave of liquidity into markets," the founders added.

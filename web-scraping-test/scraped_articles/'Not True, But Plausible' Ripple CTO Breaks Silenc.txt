@@ -1,0 +1,9 @@
+Article Title: 'Not True, But Plausible' Ripple CTO Breaks Silence as to Whether He Is Satoshi
+
+Article Text:
+At the annual XRP Las Vegas 2024 conference, David Schwartz, Ripple's current Chief Technology Officer, found himself once again fielding inquiries regarding any potential connection to Satoshi Nakamoto, the elusive creator of Bitcoin.
+Schwartz, renowned for his contributions to cryptography and as one of the original architects of XRP Ledger, along with Arthur Britto and Jed McCaleb, responded to questions about his purported identity as Nakamoto with a firm denial. He clarified that while he possessed the requisite skill set, he only became aware of Bitcoin in 2011, well after its inception, stating that he wished he had discovered it earlier.
+His assertion stemmed from his admission that his introduction to Bitcoin occurred relatively late, and he also emphasized his unfamiliarity with the Qt interface, a crucial aspect of the early Bitcoin code, which further distanced him from any association with Nakamoto.
+The only skill I'm missing is that I don't know Qt. But I'm pretty sure @nbougalis knows Qt. So if you want to speculate that Nik and I are Satoshi (or are two of the Satoshi four or whatever) it's plausible. Not true, but it's plausible.
+Following the conference, Schwartz took to social media to expand on his stance, indicating humorously that the only skill he lacked in order to be Nakamoto was familiarity with Qt. However, he noted that Nik Bougalis, Ripple's former director of engineering, had the requisite knowledge, sparking speculation.
+Schwartz's statement, that it is "not True, but plausible" regarding any potential association with Satoshi Nakamoto, has reignited discussions within the cryptocurrency community. Despite his clear denials, his acknowledgment of his capabilities has reopened debates about the true identity of Bitcoin's creator.

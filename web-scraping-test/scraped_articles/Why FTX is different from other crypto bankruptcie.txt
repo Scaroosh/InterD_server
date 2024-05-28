@@ -1,0 +1,21 @@
+Article Title: Why FTX is different from other crypto bankruptcies
+
+Article Text:
+FTX is nearing the end of its bankruptcy proceedings almost two years after initiating the process. This comes just a few months after its founder, Sam Bankman-Fried, was sentenced to 25 years in prison.
+The former crypto exchange is just one of a handful of crypto bankruptcies throughout 2022. With the creditor payback plan revealed last week, FTX looks like it’s getting close to the finish line, joining the likes of other crypto bankruptcies like Celsius.
+Celsius, which exited bankruptcy back in January, was able to return roughly $3 billion to creditors. The bankruptcy plan, approved by creditors, sought to return between 67% and 85% to creditors. The bankrupt lender also spun out a bitcoin mining company called Ionic Digital.
+Read more: FTX debtors scrap reboot plans
+FTX’s hopes to relaunch as an exchange were dashed earlier this year when lawyers representing the estate said that they were unable to secure a bidder.
+BlockFi emerged from bankruptcy in October of last year, and announced last week that some creditors would be able to withdraw through Coinbase. Notably, the firm and FTX said that they’d reached a tentative agreement to settle litigation and disputes between the two former companies in March.
+According to an April status report filed by Voyager, FTX’s estate was also able to reach an agreement with the former lender. In May of last year, Voyager predicted that it would return 35% to customers.
+But it may be like comparing apples to oranges when looking at FTX versus the other 2022 bankruptcies. Jonathan Groth, a partner at DGIM law, told Blockworks that FTX is a “special case” in comparison.
+Read more: FTX bankruptcy almost across the finish line
+“This bankruptcy proceeding is a little differently situated than other bankruptcy and insolvency proceedings just because of the amount of assets that were located,” he said. Last week, the estate said it located between $14.5 billion and $16.3 billion in cash. Creditors are owed around $11 billion.
+A bankruptcy, like Celsius, may not be able to “realize the same benefit of asset location” that we’ve seen in FTX, Groth continued. “In any of these other insolvency proceedings where the state and the fiduciary may be lucky enough to still hold some crypto assets, they may be able to benefit from this market upswing that we’re seeing.”
+But there are a few other reasons why FTX stands out against the other bankruptcies, explained Erin Broderick, lead counsel for the FTX.com customer claim holders and a partner at Eversheds Sutherland.
+“I think there’s a lot of things that make FTX unique [among] the crypto companies that went under. There was a lot of value in its user base…and the assets that they put onto the exchange…but also a confluence of other factors that contributed to the drastically different recovery prospects of today versus as of the petition date,” she said.
+In addition to the top-level differences, there’s also the fact that FTX is the “first case, to my knowledge, that’s paid post-petition interest to a convenience class, demonstrating not only good outcomes for creditors overall, but also some rather novel treatment under the plan.”
+Read more: What’s next for FTX after the creditor payback proposal?
+Then there’s the fact that the crypto market seems to have entered into a bull market at the beginning of the year.
+The run “helped on the asset side of the equation for recoveries [as] a number of the venture investments have had more value than perhaps realized as of the petition date. There’s also been a tremendous effort by the debtors on an asset recovery basis, whether it was cash or crypto that needed to come back into the estate,” Broderick said.
+“So there’ve been a lot of recovery efforts that also have led to large amounts of cash coming into the estates,” she continued. “And on the liability side, the debtors have done a good job of negotiating settlements with creditors to increase recoveries to customers.”

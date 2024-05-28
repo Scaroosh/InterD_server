@@ -1,0 +1,11 @@
+Article Title: Hut 8’s Bitcoin Mining Output Drops 36% to 148 BTC in April
+
+Article Text:
+North American bitcoin miner, Hut 8, said it mined 148 bitcoins, or 36% coins less in April than it did in March. Hut 8 primarily attributes the decrease in the number of mined bitcoins to the relocation of its proprietary miners, which were previously hosted at the Kearney and Granbury sites.
+Hut 8, one of North America’s largest bitcoin miners, recently disclosed that its proprietary production for April fell by 36% to 148 bitcoins (BTC). The miner’s output for April suggests a realized hashrate of 3.44 EH/s, which is 51% lower than the 6.27 EH/s achieved in December following Hut 8’s merger with USBTC.
+A report in The Miner Mag attributes the drop in Hut 8’s output primarily to the relocation of proprietary miners previously hosted at the Kearney and Granbury sites. Rival miner Marathon purchased these sites from Generate Capital for $178.6 million in late December 2023. Earlier this year, Marathon reportedly paid Hut 8 a termination fee of $13.5 million to end the latter’s tenancy contract.
+The report also cited the recent BTC halving, which resulted in a 6% to 12% decline in key miners’ respective outputs, as one of the reasons for the drop in the number of bitcoins mined by Hut 8 in April.
+In remarks accompanying Hut 8’s operations update for April 2024, CEO Asher Genoot announced that the Bitcoin miner has completed the relocation process and has even added new mining capacity.
+“Amidst the backdrop of the halving, the operational capabilities of our team enabled us to maximize deployed hashrate as we completed the relocation of our fleet from hosted to owned facilities and brought new capacity online,” the Hut 8 CEO said.
+Genoot stated that in just over three months, Hut 8 had energized 63 megawatts, totaling nearly 18,000 miners. As a result, the current self-mining hashrate is at 5.5 exahash per second (EH/s), he said. The CEO also disclosed that the Bitcoin miner had partially energized a site in Ward County, Texas, which has a capacity of 215 megawatts.
+What are your thoughts on this story? Let us know what you think in the comments section below.

@@ -1,0 +1,12 @@
+Article Title: Rain Exchange Assures Safe Customer Funds Following a $14.8M Exploit Revelation
+
+Article Text:
+According to a recent revelation by crypto sleuth ZachXBT, the prominent Middle Eastern cryptocurrency exchange, Rain, was “likely exploited” on April 29 for $14.8 million. The sleuth reported that a suspicious flow of cryptocurrecies like Bitcoin, Ethereum, Solana, and XRP into two wallets has been identified.
+In ZachXBT’s Telegram page, the researcher shared insights on the stolen funds from Rain, which were reportedly transferred into two wallets holding 137.9 BTC and 1,881 ETH. Both wallets remained inactive since they received the stolen funds. ZachXBT’s statement read,
+“It appears the crypto exchange Rain was likely exploited for $14.8M on April 29, 2024 after their BTC, ETH, SOL, and XRP wallets saw suspicious outflows. Funds were quickly transferred to instant exchanges and swapped for BTC and ETH.”
+However, Rain shared an official blog post in response to ZachXBT’s report on the platform’s security breach. The platform assured that the situation was resolved and the customer funds were safe. Rain added, “This means that all your fiat currency and crypto assets are held with the highest standards of security and regulatory compliance.”
+
+Further, Rain narrated its efforts to tackle the situation and strengthen the platform’s security measures. The crypto exchange wrote,
+“As soon as we became aware of the incident, we isolated the issue and put additional controls to strengthen our security…All customer and operational activity including crypto buy, sell, send, receive, along with fiat deposit, and withdrawals, remain operational and uninterrupted across all our platforms.”
+Blockchain security firm CertiK’s report in April pointed out that the crypto market has witnessed a loss of $502,522,934 in a total of 223 onchain security incidents. The report also highlighted that the losses incurred in crypto attacks in 2024 Q1 are significantly higher than the losses in last year’s first quarter.
+Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.

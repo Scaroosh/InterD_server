@@ -1,0 +1,15 @@
+Article Title: Crypto Monthly Trading Volume Drops for First Time in Seven Months to $6.58T
+
+Article Text:
+Cumulative monthly spot and derivatives trading volume tanked by 43.8%, CCData said.
+Binance’s spot market volume registered its first decline since September 2023.
+Cryptocurrency trading volume cooled in April, registering the first decline in seven months as escalating geopolitical tensions and slower inflows into U.S.-listed spot ETFs weighed over the digital assets market.
+The cumulative volume in spot and derivatives markets fell by 43.8% to $6.58 trillion, a sharp retracement from March’s record high of $9.12 trillion, according to a report by London-based digital assets data provider CCData.
+Derivatives fell out of investor favor again as activity in the futures and options market declined by 47.6% to $4.57 trillion. Meanwhile, the spot market volume suffered a relatively measured drop of 32.6% to $2.01 trillion.
+“This decline followed unexpected macroeconomic data, an escalation in the geopolitical crisis in the Middle East, and negative net flows from U.S. spot bitcoin ETFs, leading to major crypto assets retracing the gains they made in March,” CCData said in a report shared with CoinDesk.
+Bitcoin (BTC), the leading cryptocurrency by market value, fell nearly 15% to under $60,000 last month, snapping a seven-month winning trend. The sell-off came as an overheated bull market ran into broad-based risk aversion characterized by renewed tensions in the Middle East, dwindling probability of rapid Fed rate cuts this year and strength in the dollar index.
+The CoinDesk 20 Index, a measure of the most liquid digital assets, traded nearly 20%, and the total crypto market capitalization slipped by 16.8% to $2.177 trillion.
+While Binance remained the largest crypto exchange by volume, its combined spot and derivatives market share fell to 41.5%. The exchange’s spot market trading volume tanked 39.2% to $679 billion in April, recording the first decline since September 2023.
+“The decline in Binance’s market share also coincided with the news that its founder and previous CEO, Changpeng Zhao, was sentenced to four months in prison for the violation of U.S. money laundering laws,” CCData noted.
+Binance CEO Changpeng “CZ" Zhao stepped down after pleading guilty to U.S. criminal charges in November and was replaced by Richard Teng. Since then, Binance’s spot market share has increased from 30.8% to 33.8%, CCData said.
+

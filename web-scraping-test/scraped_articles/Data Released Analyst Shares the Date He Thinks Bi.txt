@@ -1,0 +1,9 @@
+Article Title: Data Released Analyst Shares the Date He Thinks Bitcoin Will Hit All-Time Price High
+
+Article Text:
+According to one analyst, the latest options data from Binance shows that Bitcoin options traders are betting that BTC could surpass its all-time high by the end of June. Open interest is concentrated at a $75,000 strike price for late June expiration.
+YouHodler's market chief Ruslan Lienkha stated that open interest concentration is focused on Bitcoin's all-time high. Bitcoin hit an all-time high of over $73,000 in mid-March.
+“There is significant open interest dominance and many options traders expect the Bitcoin price to exceed its all-time high by the end of June,” Lienkha said.
+However, Lienkha predicts that the BTC price will likely continue to consolidate around current levels over the next few weeks.
+Options are derivative contracts that give a trader the right, but not the obligation, to buy or sell the underlying asset at a predetermined price on or before a certain date. A call option gives the right to buy, while a put option gives the right to sell. It is generally assumed that an investor who purchases a call option is indirectly bullish on the market, while a put option buyer is indirectly bearish.
+*This is not investment advice.

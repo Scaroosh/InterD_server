@@ -1,0 +1,16 @@
+Article Title: Bitcoin Mining Difficulty Slumped Last Week in Biggest Decline Since Crypto Winter Bernstein
+
+Article Text:
+Bitcoin mining difficulty fell about 6% last week, the report said.
+The broker noted that bitcoin miners with the lowest costs have increased market share since the halving.
+Bernstein said a pause in the bitcoin rally is good for lower cost miners as hashrates remain capped.
+Bitcoin (BTC) mining difficulty fell around 6% last week in the most significant decline since the crypto winter of December 2022, and this is a positive development for some of the miners, broker Bernstein said in a research report on Monday.
+The broker noted that with lower bitcoin prices and an almost doubling of costs since the halving, higher cost mining equipment has shut down, resulting in a drop in hashrate.
+“With the decrease in hashrate, market share of our 3 covered miners has gone up after halving by almost 20 basis points (bps),” analysts Gautam Chhugani and Mahika Sapra wrote, adding that “we expect the top 3 listed bitcoin miners to continue to consolidate market share via organic and M&A led expansion.”
+Hashrate refers to the total combined computational power that is being used to mine and process transactions on a proof-of-work blockchain.
+The leading bitcoin miners, Riot Platforms (RIOT) and CleanSpark (CLSK), have the lowest cost of production with strong balance sheets and cash positions, the report said.
+“A temporary pause in bitcoin price is actually good for the incumbent lower cost bitcoin miners, as hashrates remain capped and strong miners can execute on their aggressive capex and M&A plans to grow market share,” the authors wrote.
+“And finally, when bitcoin price momentum picks up, miners can harvest high dollar revenues over higher production,” the report added.
+The broker doesn’t predict a major drawdown in the bitcoin price, expecting the cryptocurrency to remain range-bound and to break out to the upside once spot exchange-traded funds (ETFs) see allocations from registered investment advisors (RIAs), wealth platforms and other institutional funds.
+Bernstein has an outperform rating on CleanSpark and Riot Platforms and a market-perform rating on Marathon Digital (MARA).
+Read more: Bitcoin Miners Have Raked in Abnormal Transaction Fees Since Halving: Bernstein

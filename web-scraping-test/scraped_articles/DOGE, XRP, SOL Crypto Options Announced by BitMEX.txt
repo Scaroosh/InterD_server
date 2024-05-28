@@ -1,0 +1,13 @@
+Article Title: DOGE, XRP, SOL Crypto Options Announced by BitMEX
+
+Article Text:
+Cryptocurrency exchange BitMEX has announced the rollout of options trading in partnership with derivatives platform PowerTrade.
+Options are popular derivatives that allow traders to buy or sell the underlying cryptocurrency at a predetermined price in the future.
+The exchange offers options for Bitcoin (BTC) and Ethereum (ETH) as well as more arcane cryptocurrencies of the likes of Dogecoin (DOGE), Ripple-affiliated XRP and Solana (SOL).
+By launching these new products, BitMEX is taking on Panama-based crypto giant Deribit, which accounts for the vast majority of the total crypto options volume.
+All options products are priced in Circle's USDC, which is currently the second-biggest stablecoin by market cap. The options can be margined with Bitcoin, USDT as well as USDC.
+Relatively low minimum trade sizes (just 0.01 for Bitcoin) are supposed to be the key selling point of BitMEX options.
+This month, BitMEX users will be able to trade options with zero fees. Those who deposit at least $1,000 and execute at least a single trade will be able to get a 20 USDC bonus.
+BitMEX has also touted its "industry-leading security," claiming that it has never lost crypto since 2014.
+Back in 2022, PowerTrade forged a partnership with British custody firm Copper in order to offer custodial services to institutions.
+Last December, BitMEX announced a strategic tie-up with PowerTrade in order to enhance the trading experience for professional players.

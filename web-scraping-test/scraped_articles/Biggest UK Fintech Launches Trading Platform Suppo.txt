@@ -1,0 +1,17 @@
+Article Title: Biggest UK Fintech Launches Trading Platform Supporting XRP
+
+Article Text:
+Revolut, the largest fintech company in the U.K., has launched a new crypto trading platform that allows professionals to trade XRP among other digital assets.
+Revolut has marked its territory in the cryptocurrency exchange arena by unveiling Revolut X, a crypto trading service catering to professional crypto traders. The firm announced this development via a press statement on its official website on May 7.
+The announcement detailed that Revolut’s objective in launching this professional-grade trading platform is to rival top exchanges by providing seamless transitions into and out of crypto positions, coupled with competitive fees.
+Specifically, Revolut X charges a zero maker fee and a 0.09% taker fee, applicable regardless of the trade size. The company emphasizes that current Revolut users can benefit from the integrated trading experience within the Revolut ecosystem without any fees, restrictions, or impediments.
+Notably, traders on Revolut X are required to hold a Revolut retail account to access the new exchange. They will benefit from real-time trading and sophisticated analytics. In particular, Revolut X incorporated TradingView charts to offer a suite of market tracking tools and technical indicators.
+Following the launch, seasoned crypto traders will have the opportunity to purchase and sell over 100 crypto assets, including XRP, for the first time via a desktop. It is worth noting that the new stand-alone exchange platform is optimized explicitly for larger screens such as laptops. Essentially, Revolut X is not compatible with smaller devices like mobile phones.
+Furthermore, Revolut has stated that most users’ assets are secured in cold storage. Revolut’s decision to feature XRP among the 100 cryptocurrencies supported in the initial launch phase has elicited a reaction from the XRP community.
+Prominent community figure WrathofKahneman suggested that Revolut X’s zero maker fees and nominal 0.09% taker fee could position it as a formidable rival to Uphold, a U.S.-based crypto platform known for supporting XRP.
+Revolut has launched Revolut X, a crypto trading app in the UK including #XRP as an offering. The p/r is a bit awkward claiming it's a pro app, for use by amateurs & experts. Paid, but at 0% make & .09% taking fee could create a real Uphold competitor! https://t.co/Z48N3rUXl7
+— WrathofKahneman (@WKahneman) May 8, 2024
+Notably, other supported digital assets include Bitcoin (BTC), Ethereum (ETH), Shiba Inu (SHIB), and Dogecoin (DOGE).
+Revolut started out as a money transfer service in the U.K. in 2015. Over the years, it has expanded to become one of the most prominent fintech enterprises in the U.K., with a global user base of over 40 million.
+In 2017, Revolut entered the crypto space to enable users to purchase, hold, and exchange digital currencies. Now, it has introduced a stand-alone trading platform. The company then added XRP alongside Bitcoin Cash (BCH) to its list of tradeable assets in May 2018.
+The company views Revolut X as a significant stride towards establishing itself as the premier financial application for novice and expert cryptocurrency users.

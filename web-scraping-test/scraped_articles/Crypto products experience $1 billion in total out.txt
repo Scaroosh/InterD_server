@@ -1,0 +1,8 @@
+Article Title: Crypto products experience $1 billion in total outflows over four weeks
+
+Article Text:
+Crypto products registered outflows for the fourth consecutive week, totaling over $1 billion in the period, according to asset management firm CoinShares. Despite the start of spot Bitcoin and Ethereum exchange-traded funds (ETFs) trading in Hong Kong, Bitcoin ETFs saw $156 million in outflows globally last week.
+James Butterfill, head of research at CoinShares, suggests that the average purchase price of these ETFs since their inception has been around $62,200 per Bitcoin. With the price dipping 10% below this threshold, it likely activated a wave of automatic sell orders.
+Bitcoin (BTC) saw $284 million in outflows, while Ethereum ended its seven-week streak of outflows, securing $30 million in inflows. A variety of altcoins also experienced positive investment, with Avalanche, Cardano, and Polkadot leading the pack with inflows of $0.5 million, $0.4 million, and $0.3 million, respectively.
+Regionally, the US bore the brunt of the outflows, totaling $504 million. Canada, Switzerland, and Germany also experienced outflows of $9.6 million, $9.8 million, and $7.3 million, respectively.
+In contrast, Hong Kong’s market shone with the successful debut of spot-based Bitcoin and Ethereum ETFs, which garnered $307 million in inflows in their first trading week.

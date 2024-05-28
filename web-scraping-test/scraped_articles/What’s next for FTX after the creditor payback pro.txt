@@ -1,0 +1,28 @@
+Article Title: What’s next for FTX after the creditor payback proposal
+
+Article Text:
+FTX’s latest plan to pay back its creditors is another step in a process that could require plenty more negotiation…and time.
+In other words, the saga is not over.
+Creditors will have a chance to weigh in on the bankrupt crypto exchange’s joint reorganization plan — filed late Tuesday — before it gets presented before a court in June.
+The new plan could fully reimburse creditors — at November 2022 prices — with some receiving interest. The FTX estate owes creditors roughly $11 billion, though it has managed to cobble together between $14.5 and $16.3 billion in cash.
+The returns are “really unheard of,” Jonathan Groth, partner at DGIM Law, told Blockworks.
+A crypto bull run and the potential subordination of big government claims have spurred the estates projecting better-than-expected returns, noted Erin Broderick, a partner at Eversheds Sutherland and lead counsel for the FTX.com customer claim holders.
+“But to deliver the prospective recoveries, the debtors need stakeholder support,” she told Blockworks. “Delays in achieving that support are a threat to the value to ultimately be given back to customers.”
+FTX said in a Wednesday press release that its plan would end disputes “without costly and protracted litigation.”
+Matthew Gold, a partner at Kleinberg Kaplan, said FTX could be referring to several potential legal actions — including ongoing mediation regarding priority tax claims.
+The FTX proposal would resolve the $24 billion claim by the Internal Revenue Service for periods prior to the Chapter 11 proceedings. This resolution would be in return for $200 million in cash and a $685 million subordinated claim that would rank below all other claims.
+“Also, the plan is in essence a proposed settlement of disputes regarding the relative priority of creditors of the various silos,” Gold added. “If those allocations are challenged, the litigation could be costly and protracted.”
+Groth noted that while some creditors pushed for the estate to pay back claims at current prices (bitcoin, for example, was trading under $20,000 when FTX declared bankruptcy, but is now over $60,000) the FTX estate just didn’t have the crypto.
+“When FTX went into bankruptcy, they were holding a fraction of the percent of the coins that they were claiming to have,” he said. “The fund they amassed to repay creditors is really based more on liquidation of securities holdings…and other recoveries from third-party claims and selling off other assets.”
+Even if some creditors are unhappy with the plan, Groth said “it’ll be really difficult for a court to look at this and say, ‘How unhappy can you be?…You’re being made whole.’”
+Overall, Broderick said she believes the plan is “a good outcome for customers” that came as a result of “hard-fought negotiations” concerning the interest of all stakeholders.
+“We will continue to be closely involved in plan developments, including with the governmental agencies, and have been focused on assisting the estates with distribution mechanics and potential issues to ensure that customers get the largest initial distribution possible as soon as possible,” Broderick noted
+While the FTX debtors have proposed a “confirmation timeline,” bankruptcy code procedural requirements take time. The court must first hold a disclosure statement hearing — currently scheduled for June 25 — at which point it can pencil in a confirmation hearing date.
+Those hearings could be 60 days apart in a large case like this, Gold said.
+According to the current court docket, there are other hearings planned for July and August as well.
+The plan also contains what Gold called “controversial elements,” like release and injunction provisions that would shield many non-debtor entities from lawsuits.
+The question of whether a bankruptcy court can impose releases of claims against non-debtors in this way, and to what extent, is before the Supreme Court in a case involving Purdue Pharma.
+Whether the releases in the FTX plan are lawful will depend on how the court rules, Gold said.
+“This plan and disclosure statement are best understood as negotiation documents,” he added. “They are signed as draft versions, and have many blanks in them. Further negotiations will likely be required before they are finalized.”
+Though the plan could be the final one filed with the bankruptcy court, Groth said, that’ll depend on factors including the creditor vote and the government negotiations.
+Such details will be up for discussion at the upcoming hearing to decide whether the current iteration should be “rejected or needs to be modified in some significant way.”

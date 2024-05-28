@@ -1,0 +1,15 @@
+Article Title: Is It Time To Invest In Altcoins According to Santiment Data, These Two Altcoins Are in the Buy Zone!
+
+Article Text:
+While Bitcoin has been in a downward trend since approaching $65,500 at the beginning of the week, altcoins are also keeping up with the downward trend.
+At this point, the decline in BTC and altcoin prices offers an opportunity to investors who want to buy at bottom prices. Because, according to the data, BTC and some altcoins are giving a buy signal.
+Popular on-chain platform Santiment said in its post that, according to the Relative Strength Index (RSI), Bitcoin and some popular altcoins look extremely cheap and are in the buy zone.
+Accordingly, Santiment data shows that the RSI indicator for Bitcoin, Ethereum (ETH), BNB, Solana (SOL), XRP, Dogecoin (DOGE), Toncoin (TON), Cardano (ADA), Shiba Inu (SHIB) and Avalanche (AVAX) is falling. .
+RSI level is 41.3 on BTC; 41.5 in ETH; 44.8 in BNB; 48.7 in SOL; 46 in XRP; 49 in DOGE; 55.1 in TON; 42.6 on AVAX; It measured 38.4 in SHIB and 32.3 in ADA.
+“According to the Relative Strength Index, the majority of top cryptocurrencies are in slightly overbought zones.
+The popular indicator RSI, widely used in technical analysis; “It shows that Cardano is a potential buy candidate with the lowest RSI.”
+RSI, expressed as Relative Strength Index, is among the most frequently used technical indicators in predicting the direction in which the price will move.
+It is calculated by taking the highest and lowest levels of the price of the asset you follow on the chart according to the period you specify.
+If the RSI value between 0 and 100 is above 70, it is in the overbought zone; If it is below 30, it indicates an oversold area.
+When the RSI indicator reaches the overbought and oversold zones, it signals that the price will move in the opposite direction. If the RSI exceeds the 70 level and moves towards the 80-100 range, which is the critical region, the RSI signals that the price has risen too much and a correction will occur as soon as possible. On the other hand, if the RSI has fallen below the 30 level and moved towards the 20-0 range, the signal signals that the trend will change and the price will rise.
+*This is not investment advice.

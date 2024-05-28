@@ -1,0 +1,316 @@
+The first tested promt for ChatGPT was:
+ 
+You are a finance advisor giving advices in the following json structure about coin news.
+The structure of the json file should be the following:
+
+json 
+{	
+	"name" : ,
+	"confidence" : ,
+	"recommendation" : 
+		
+}
+
+The Name will be filled with the name of the coin which the language model indentified in the news articel and for which it will give the recommendation.
+
+The confidence parameter will give an number between 0-100. 0 means that the model is not sure about its prediction.
+
+The recommendation parameter will give either buy, hold or sell as an reccommendation.
+
+
+The overall results with the label data sets were:
+
+Articel 1: wished outcome hold of btc
+{
+"name": "Bitcoin",
+"confidence": 100,
+"recommendation": "hold"
+}
+
+Articel 2: wished outcome buy of btc
+{
+"name": "Bitcoin",
+"confidence": 100,
+"recommendation": "hold"
+}
+
+Articel 3: wished outcome sell of btc
+{
+"name": "Bitcoin",
+"confidence": 95,
+"recommendation": "hold"
+}
+
+{
+"name": "Ethereum",
+"confidence": 90,
+"recommendation": "hold"
+}
+
+Articel 4: wished outcome buy of btc
+{
+"name": "Bitcoin",
+"confidence": 100,
+"recommendation": "hold"
+}
+
+Articel 5: wished outcome buy/hold of btc 
+
+
+{
+"name": "Bitcoin",
+"confidence": 100,
+"recommendation": "hold"
+}
+
+{
+"name": "Ethereum",
+"confidence": 100,
+"recommendation": "hold"
+}
+
+{
+"name": "Solana",
+"confidence": 100,
+"recommendation": "hold"
+}
+
+Result: just saying hold and way too confident with its decision
+
+
+
+2. Promt: 
+You are analysing finance new about the latest crypto currenties and are giving advices about the coins which are written about in a json file.
+The structure of the json file should be the following:
+json 
+{	
+	"name" : ,
+	"confidence" : ,
+	"recommendation" : 
+		
+}
+in the name parameter you are goint to name the crypt currenty which is used in the articel.
+in the recommendation parameter you are giving an advice if the named coin should be bought sold or held via the word buy sell and hold.
+in the recommendation parameter you are giving a score between 0 and 100. 100 means you are 100% sure that the recommendation is benefiting. 0% you are complete unsure of your recommendation.
+
+Articel 1: wished outcome hold of btc
+
+{
+		"name": "Bitcoin",
+		"confidence": 80,
+		"recommendation": {
+			"advice": "hold",
+			"score": 70
+		}
+	}
+
+Articel 2: Articel 2: wished outcome buy of btc
+{
+		"name": "Bitcoin",
+		"confidence": 75,
+		"recommendation": {
+			"advice": "hold",
+			"score": 60
+		}
+
+Articel 3: wished outcome sell of btc
+{
+		"name": "Bitcoin",
+		"confidence": 85,
+		"recommendation": {
+			"advice": "hold",
+			"score": 75
+		}
+
+"name": "Ethereum",
+		"confidence": 90,
+		"recommendation": {
+			"advice": "buy",
+			"score": 80
+		}
+
+Result: still wrong but less confindent and wrong json format
+
+
+
+
+3. Promt
+
+User
+You are a risk taking finance advisor giving advices in the following json structure about coin news you will get. Your main goal is to make as much profit as possible.
+The structure of the json file should be the following:
+
+json 
+{	
+	"name" : ,
+	"confidence" : ,
+	"recommendation" : 
+		
+}
+
+The Name will be filled with the name of the coin  of the news articel and for which you will give the recommendation.
+
+The confidence parameter will give an number between 0 - 100.  0 mean that you are not sure about you decision and 100 means you are to 100% sure that the prediction works.
+
+The recommendation parameter is either buy, hold or sell.
+
+
+
+Articel 1: wished outcome hold of btc
+{
+	"name": "Bitcoin",
+	"confidence": 80,
+	"recommendation": "buy"
+}
+
+Articel 2: Articel 2: wished outcome buy of btc
+{
+	"name": "Bitcoin",
+	"confidence": 70,
+	"recommendation": "hold"
+}
+
+Articel 3: wished outcome sell of btc 
+{
+	"name": "Bitcoin",
+	"confidence": 60,
+	"recommendation": "sell"
+}
+
+
+Articel 4: wished outcome buy of btc
+{
+	"name": "Bitcoin",
+	"confidence": 85,
+	"recommendation": "hold"
+}
+
+
+Articel 5: wished outcome buy/hold of btc 
+{
+	"name": "Nubank",
+	"confidence": 90,
+	"recommendation": "buy"
+}
+
+result: better than tests before but now are names wrong and multiple coins are not detected.
+
+Promt 4.
+
+User
+You are a risk taking finance advisor about btc and you are giving advices in the following json structure about coin news you will get. Your main goal is to make as much profit as possible.
+The structure of the json file should be the following:
+
+json 
+{	
+	"name" : ,
+	"confidence" : ,
+	"recommendation" : 
+		
+}
+
+The Name will be filled with the name of the coin  of the news articel and for which you will give the recommendation. Mainly btc.
+
+The confidence parameter will give an number between 0 - 100.  0 mean that you are not sure about your decision and 100 means you are to 100% sure that the prediction works and will make margins.
+
+The recommendation parameter is either buy, hold or sell. This parameter is the most important on defining your decision.
+
+
+
+Articel 1: wished outcome hold of btc
+{
+	"name": "Bitcoin",
+	"confidence": 80,
+	"recommendation": "hold"
+}
+
+Articel 2: Articel 2: wished outcome buy of btc
+{
+	"name": "Bitcoin",
+	"confidence": 70,
+	"recommendation": "hold"
+}
+
+Articel 3: wished outcome sell of btc 
+{
+	"name": "Bitcoin",
+	"confidence": 60,
+	"recommendation": "hold"
+}
+
+Articel 4: wished outcome buy of btc
+{
+	"name": "Bitcoin",
+	"confidence": 50,
+	"recommendation": "sell"
+}
+
+
+Articel 5: wished outcome buy/hold of btc 
+{
+	"name": "Bitcoin",
+	"confidence": 80,
+	"recommendation": "buy"
+}
+
+
+promt 5. 
+You are a risk taking finance advisor about btc and you are giving advices in the following json structure about coin news you will get. Your main goal is to make as much profit as possible in a short term. Agressive decionsion will be important to achieve that goal.
+The structure of the json file should be the following:
+
+json 
+{	
+	"name" : ,
+	"confidence" : ,
+	"recommendation" : 
+		
+}
+
+The Name will be filled with the name of the coin  of the news articel and for which you will give the recommendation. Mainly btc.
+
+The confidence parameter will give an number between 0 - 100.  0 mean that you are not sure about your decision and 100 means you are to 100% sure that the prediction works and will make margins.
+
+The recommendation parameter is either buy, hold or sell. This parameter is the most important on defining your decision.
+
+Articel 1: wished outcome hold of btc
+{
+	"name": "Bitcoin",
+	"confidence": 80,
+	"recommendation": "buy"
+}
+
+Articel 2: Articel 2: wished outcome buy of btc
+{
+	"name": "Bitcoin",
+	"confidence": 70,
+	"recommendation": "hold"
+}
+
+Articel 3: wished outcome sell of btc 
+{
+	"name": "Bitcoin",
+	"confidence": 60,
+	"recommendation": "hold"
+}
+	
+
+Articel 4: wished outcome buy of btc
+{
+	"name": "Bitcoin",
+	"confidence": 75,
+	"recommendation": "buy"
+}
+
+
+Articel 5: wished outcome buy/hold of btc 
+{
+	"name": "Nubank",
+	"confidence": 90,
+	"recommendation": "buy"
+}
+
+Result: improvments in some cases but the naming issue still occurs
+
+
+
+Conclusion: maybe get multiple outcomes and take the one with which the model is the most donfident.

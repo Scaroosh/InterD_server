@@ -1,0 +1,13 @@
+Article Title: BitMEX launches options trading, offers zero fees for all users
+
+Article Text:
+Cryptocurrency derivatives exchange BitMEX has recently begun offering options trading to its user base.
+BitMEX has launched options trading, developed in partnership with PowerTrade, a crypto options platform. The cryptocurrency platform, known for its high-leverage perpetual swaps, offers crypto options margined in Bitcoin (BTC), USDT, or USDC.
+BitMEX invented the perp – now we’re reinventing options.In partnership with @PowerTradeHQ, we’re excited to introduce BitMEX Options – where you can trade a wide range of crypto options margined in Bitcoin, USDT, or USDC.➕ We’ve got some exciting rewards for our first… pic.twitter.com/flKnbdLgVE
+Along with the launch of trading, BitMEX offers zero commissions on all options until the end of May. In addition, users who deposit $1,000 or more and trade with at least one option will receive a 20 USDC sign-up bonus.
+The exchange will also provide educational resources for users new to options trading or the BitMEX platform.
+The exchange offers trading options on cryptocurrencies such as Dogecoin (DOGE), Solana (SOL), Ripple (XRP), and Binance Coin (BNB).
+“Our minimum trade sizes are one of the lowest in the industry (e.g. 0.01 for BTC and 0.1 for ETH).”
+Interest in cryptocurrency options continues to grow in the crypto industry. Previously, several American stock exchanges, including Cboe, BOX, MIAX, Nasdaq ISE, and NYSE American, filed applications with the U.S. SEC to launch options on spot cryptocurrency ETFs.
+However, the regulator has not yet taken action on applications, with public comments being collected regarding the launch of such products.
+As the U.S. lags in offering options on crypto ETFs, two American congressmen—Mike Flood and Wiley Nickel—sent SEC Chairman Gary Gensler a letter demanding approval of options on spot Bitcoin ETFs.

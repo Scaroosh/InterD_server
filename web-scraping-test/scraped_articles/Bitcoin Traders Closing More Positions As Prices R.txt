@@ -1,0 +1,11 @@
+Article Title: Bitcoin Traders Closing More Positions As Prices Range Above $60,000
+
+Article Text:
+Bitcoin has been trending lower after failing to break above $66,000 in early May, deflating hopes of immediate price gains post-Halving. Taking to X, one analyst shared on-chain data that paints a more nuanced picture than a simple loss of confidence in recent weeks.
+The analyst, pointing to CryptoQuant data, observes that leveraged traders on perpetual trading platforms like Binance appear to be closing their positions more than opening new ones. The analyst notes that the reading is at -20% at the monthly change in Open Interest.
+
+At this level, it shows that more traders are closing more positions than opening new ones. This development suggests that most traders adopt a strategic wait-and-see, watching prices evolve.
+However, the more short positions there are, the higher the possibility of a “short squeeze” forming. When this happens, there will be a sudden price spike, liquidating shorts and forcing sellers to buy back into the market to prevent further damage.
+Despite the potential upside hinted by on-chain data, prices remain confined within a narrow range. Last week, bulls failed to close above $66,000, confirming the impressive march from May 3.
+Bitcoin found resistance and is moving lower toward the psychological $60,000 level. From price action, losses below this line might fast-track the collapse toward $56,500 registered in early May.
+Going forward, traders will closely monitor how prices evolve after the all-important Halving on April 20. Considering the approval of spot Bitcoin exchange-traded funds (ETFs) and the involvement of institutions, some analysts expected prices to shoot higher immediately.

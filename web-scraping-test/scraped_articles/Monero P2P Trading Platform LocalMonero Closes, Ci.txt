@@ -1,0 +1,28 @@
+Article Title: Monero P2P Trading Platform LocalMonero Closes, Citing ‘Internal and External’ Factors
+
+Article Text:
+LocalMonero, a peer-to-peer trading platform for the privacy-focused cryptocurrency Monero, has decided to shut down its services with immediate effect.
+In a Tuesday announcement, the exchange informed its users that new signups and advertisement postings for Monero trades would be disabled immediately.
+Furthermore, starting from May 14, the platform will no longer support trading of the privacy-focused cryptocurrency.
+While the company cited a combination of internal and external factors for its decision, it did not provide specific details regarding the reasons behind the closure.
+“After almost 7 years of operation, due to a combination of internal and external factors, we have made the difficult decision to close our platform,” the company said.
+Additionally, LocalMonero stated that on November 7, the website would be taken down completely.
+It urged users to reclaim any funds from their wallets before that date to avoid potential loss, as unclaimed funds might be considered abandoned.
+Established in 2017 as the Monero equivalent of LocalBitcoins, LocalMonero acknowledged the growth and maturation of the Monero ecosystem over the years.
+The platform’s team expressed confidence in Monero’s future, pointing to the imminent launch of decentralized exchanges such as Haveno and Serai, as well as the recently announced privacy update called Full-Chain Membership Proofs (FCMPs).
+They believe that Monero will continue to thrive, with or without their platform.
+The closure of LocalMonero is perceived by some as another blow to privacy coins and protocols, following Kraken’s termination of support for Monero in April for customers based in Ireland and Belgium, as well as recent legal action against Tornado Cash.
+Privacy advocate “Seth For Privacy” expressed sadness about the closure, highlighting LocalMonero’s significance as a cornerstone of the no-KYC Monero ecosystem.
+He noted that there is currently no direct fiat-to-XMR alternative available, emphasizing the platform’s importance to the Monero community.
+While LocalMonero did not provide a specific reason for its closure, users have been left to speculate about the underlying causes.
+Wow, p2p exchange platform LocalMonero is ceasing operations. This just further shows the challenges faced by platforms that, despite dealing in Monero, are not entirely decentralized. It appears that centralization aspects, coupled with the increasingly stringent regulatory… pic.twitter.com/Y4WXSMi21N
+— DΛVID 🟢 (@DavidShares) May 7, 2024
+The recent months have witnessed increased scrutiny from global finance regulators targeting privacy coins and services.
+In April, the co-founders of Samourai Wallet, a cryptocurrency mixer, were arrested on charges of money laundering brought by the U.S. Justice Department and other agencies.
+Samourai Wallet CEO Keonne Rodriguez and chief technology officer William Hill are facing charges of conspiracy to commit money laundering and conspiracy to operate an unlicensed money transmitting business.
+Other privacy services such as Wasabi CoinJoin and Trezor Coinjoin have also shuttered recently as the crackdown on privacy intensified.
+The U.S. government has also been cracking down on crypto-mixing services.
+As reported, the US Treasury has added Tornado Cash, a prominent crypto mixer, to its Specially Designated Nationals list, effectively banning Americans from using this mixer.
+In September 2023, Roman Storm, co-founder of the cryptocurrency mixer Tornado Cash, pleaded not guilty to all charges and was released on a $2 million bond shortly after his arrest.
+He currently faces travel restrictions, confining him to certain regions of New York, New Jersey, Washington, and California.
+Likewise, the founder of Bitcoin Fog, a $400 million crypto-mixing service, was convicted of money laundering.

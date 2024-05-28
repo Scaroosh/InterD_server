@@ -1,0 +1,12 @@
+Article Title: Bitcoin's April plunge leads to $2.92 billion in spot outflows
+
+Article Text:
+Bitcoin faced massive selling pressure in April 2024, recording its most significant monthly decline of 15% since November 2022, when it dropped over 16%. CryptoSlate previously analyzed the factors contributing to the dip, finding that the conclusion of the US tax season, compounded by various economic factors, prompted the sell-off. However, Bitcoin rebounded most of its losses in April and May.
+Bitcoin appeared to have hit a local bottom on May 1, hitting a low of roughly $56,800. It has since climbed over 11%.
+
+According to data from Coinglass, Bitcoin saw substantial net outflows during April and early May, exceeding $500 million on two occasions: on April 13 ($547 million) amidst tensions in the Middle East and on May 1 ($536 million). The May 1 outflows coincided with the largest recorded outflow from the Bitcoin ETFs since its launch. Between April 9 and May 1, nearly every day saw net outflows, with only two exceptions.
+
+Coinglass data shows that over the past 30 days, Bitcoin saw $2.92 billion in net outflows.
+
+In terms of price performance since the April 20 halving, BTC was trading at approximately $64,000, slightly ahead of the current price. This represents the second-weakest post-halving performance, just ahead of the first epoch. However, historical data suggests that most Bitcoin price gains come after the halving. Therefore, it would be premature to assess BTC’s performance in the current cycle at this stage.
+

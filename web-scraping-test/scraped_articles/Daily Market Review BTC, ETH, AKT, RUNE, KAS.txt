@@ -1,0 +1,14 @@
+Article Title: Daily Market Review BTC, ETH, AKT, RUNE, KAS
+
+Article Text:
+Today’s market session is still in a consolidation phase as seen from its global market cap. The total cap stood at $2.28T as of press time, representing a 0.64% drop over the last 24 hours while the trading volume stood at $64.11B, representing a 0.57% decrease over the last 24 hours.
+Bitcoin (BTC) is still facing consolidations in today’s sesion as eveidenced by its price movements today. Looking at an in-depth analysis, we see that the Bitcoin price is hovering near the lower band, indicating potential oversold conditions.
+Looking at other indicators, we see that the Relative Strength Index (RSI) is below 50, suggesting bearish momentum. As of press time, the Bitcoin price stood at $61,486, representing a 1.32% decrease from its previous 24-hour price.
+Ethereum (ETH) is also having a good session today as evideneced by its price movements. Looking at an in-depth analysis of Ethereum price charts, we see that the Alligator lines are intertwined, signaling a lack of strong trend and potential sideways movement.
+On the flips side, analysing other indicators, we see the Awesome Oscillator (AO) is in the red, suggesting bearish pressure. As of press time, the Ethereum price stood at $2,995, representing a 0.4% drop from its previous 24-hour price.
+Akash Network (AKT) is today’s top gainer as seen from its price movements in today’s session. Analysing Akash Network price charts in-depthly, we see that the recent change from red to green suggests a possible bullish reversal.
+On the othe hand, looking at other indicators, we see the Volume Oscillator is a spike in volume, supporting the recent price increase. As of press time, the Akash Network price stood at $4.93, representing a 9.7% jump from its previous 24-hour price.
+THORChain (RUNE) is also another gainer in today’s session as evidenced by its price movements. Analysing THORChain price charts, we see that the THORChain price is above the cloud, indicating a bullish phase.
+On the other hand, looking at indicators, we see the Average Directional Index (ADX) is relatively high, pointing to a strong trend. As of press time, the THORChain price stood at $6.02, representing a 10.03% jump from its previous 24-hour price.
+Kaspa (KAS) is also another gainer in today’s session as seen from its price meovemnst. Analysing Kaspa price charts, we see that the Kaspa price is within the upper channel of the pitchfork, indicating continued bullish potential.
+On the other hand, looking at the Money Flow Index (MFI, we notice that it is high, suggesting strong buying pressure. As of press time, the Kaspa price stood at $0.1244, representing a 10.96% jump from its previous 24-hour price.

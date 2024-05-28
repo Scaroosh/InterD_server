@@ -1,0 +1,43 @@
+Article Title: Rival miners Marathon, Core Scientific each think they have an edge over peers
+
+Article Text:
+Following the recent reduction in bitcoin mining rewards, the largest public bitcoin miners have begun to hone in on fresh strategies in an attempt to maintain a competitive edge.
+Segment standouts continue to tout the importance of greater scale and revenue diversity, with one prepared to jump with both feet into high-performance computing.
+Marathon Digital said it plans to have half its revenue come from outside of mining over the long term.
+Such targets are consistent with industry-wide efforts to diversify revenue streams after per-block mining rewards dropped from 6.25 BTC to 3.125 BTC on April 19 as part of the roughly quadrennial Bitcoin halving event.
+Marathon debuted an immersion cooling system, as well as firmware and control board, in March. A month prior, it introduced a transaction submission service on Bitcoin called Slipstream, that executives expect will help the company capture more transaction fees.
+North America’s largest miner by self-mining capacity also has a huge balance sheet, and talks about it often.
+Its cash and bitcoin holdings were worth a combined $1.6 billion, as of March 31. Such resources have allowed the Florida-based miner to acquire sites in Nebraska and Texas so far this year.
+“If we were to construct such sites on our own, it would have taken us more than a year to energize and likely cost twice the amount on a per megawatt basis,” Chief Financial Officer Salman Khan said during a Thursday earnings call.
+Marathon, with an energized hash rate of 29.9 exahash per second (EH/s) as of April 30, is on track to reach 50 EH/s by the year’s end, executives noted.
+Read more: A bitcoin mining giant is ahead of schedule on its post-halving expansion
+CEO Fred Thiel said on the Thursday call that he expects more opportunities to continue buying capacity, adding, “we’re not going to stop at 50 exahash.”
+In addition to acquiring sites for scale, its latest buys mark a shift from Marathon outsourcing its operations to third-party hosting providers to owning and operating sites.
+Such control can reduce costs and puts any operational complexities into the owner’s hands.
+Now, 54% of Marathon’s 1.1 gigawatts-capacity mining portfolio is housed on sites it owns and operates — up from 3% before the start of this year.
+Despite that improvement, this is an area rival miner Core Scientific has Marathon beat.
+Sure, Core Scientific’s balance sheet, comprising $98 million in cash as of the end of March, pales in comparison to some of its competitors. The company is required to sell all the bitcoin it mines as part of the terms upon emerging from bankruptcy in January, limiting the BTC it can hold.
+Core Scientific is also behind Marathon in self-mining energized hash rate, with 20.4 EH/s as April’s end.
+Read more: Core Scientific CEO: Machine buys, deleveraging key around Bitcoin halving
+But the Texas-based company’s “significant advantage” over industry peers is its exclusive control over its in-demand high-power data center infrastructure, Core Scientific CEO Adam Sullivan said on a Wednesday earnings call.
+“We own and control every structure, every transformer and every concrete pad in our seven mining data centers,” he said. “We now believe our infrastructure is well positioned to take advantage of the enormous demand for power and infrastructure required for high-performance compute.”
+That HPC segment is “the next major growth opportunity for our business,” Sullivan added. Others, like Hut 8 Mining and Hive Digital Technologies, have also gravitated toward this space.
+Read more: Bitcoin miner Hut 8 doubles down on diversification, discipline around halving
+Core Scientific said in March that it would lease up to 16 MW of capacity in its Austin data center to cloud provider CoreWeave. Possible revenue from the deal exceeds $100 million, the company said at the time.
+More than 500 MW of the miner’s total 1.2 gigawatts of contracted power can be utilized for alternative compute workloads, executives noted.
+“We can offer clients a shorter time to power as compared to them waiting potentially three to five years for new greenfield data center capacities to come online,” Sullivan said. “We see this as a powerful mix that provides the potential for multi-year, high visibility, cash flows to buffer against the inherent volatility of bitcoin pricing.”
+Compass Point Research & Trading analyst Joe Flynn said in a Thursday research note that Core Scientific’s stock can “re-rate” upon the company retrofitting its existing capacity to service HPC clients.
+After all, annual revenue from such deals are estimated at between $1.5 million and $1.7 million per megawatt, he wrote.
+Core Scientific’s price of about $3.50 was 10% down on Friday at 12 pm ET. The shares are roughly flat year-to date.
+Flynn’s price target for Core Scientific is $8.50, and he maintained a buy rating for the stock.
+Public mining competitors Riot Platforms and CleanSpark, meanwhile, are also among the industry planning to capitalize on post-halving opportunities.
+Riot Platforms intends to grow its self-mining hash rate capacity from 12.6 EH/s on April 30 to 31 EH/s by the end of 2024. It ordered 66,560 MicroBT machines for $290.5 million in December and 31,500 more miners in February.
+The company, which operates primarily in Texas, also appears better positioned to benefit from power curtailment revenue as temperatures start to increase.
+Riot is able to take advantage of periods of high volatility in power markets, as was experienced during Texas heat waves last summer.
+It received $31.6 million in power and demand response credits last August, for example.
+“In a declining hashprice environment post-halving, revenue generated from bitcoin mining on a per megawatt hour will decrease, giving Riot more windows of opportunity to economically curtail power and participate in demand response,” Riot CEO Jason Les told Blockworks. “We view our contracts as being a hedge against declining mining break-evens after halving because of our ability to sell power anytime the price of power exceeds mining break-even amounts.”
+Meanwhile CleanSpark, just minutes before its Thursday earnings call, said it agreed to acquire 75 MW worth of mining sites in Wyoming for $18.75 million.
+The pending purchase comes after the company bought three bitcoin mining facilities in Mississippi earlier this year.
+CleanSpark CEO Zach Bradford said Thursday the company intends to be “one of the most measured and active acquirers in the industry.”
+Scale allows CleanSpark to better cover overhead costs with bitcoin production margins so that profits stemming from additional capacity go straight to its bottom line, he added.
+“Many try to find a single metric that levels the playing field between small and large miners, but the playing field isn’t level,” Bradford said. “A company that has scale can achieve escape velocity with much lower incremental inputs.”

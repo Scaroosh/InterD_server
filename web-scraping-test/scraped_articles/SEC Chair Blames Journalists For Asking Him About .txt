@@ -1,0 +1,18 @@
+Article Title: SEC Chair Blames Journalists For Asking Him About Crypto So Much
+
+Article Text:
+One of crypto’s most powerful government nemeses believes journalists question him about the burgeoning asset class way more than necessary.
+Securities and Exchange Commission (SEC) chairman Gary Gensler appeared for a nine-minute interview with CNBC on Wednesday and blamed the host for asking for such an “outsized ratio” of crypto-focused questions.
+Gensler’s interviewer, Andrew Ross Sorkin, suggested that journalists’ focus on the industry may be proportionate to the SEC’s attention to the space. The chairman disagreed.
+“No, it’s a function of where your attention is,” Gensler countered. “I’ve been on your show – what a dozen times – and every show you ask about crypto.”
+Gensler noted how crypto – which currently boasts a market cap of $2.3 trillion – is just a drop in the bucket next to the $110 trillion capital markets consisting of traditional stocks and bonds.
+Relative to its size, he said crypto represents an “outsized piece of the scams, frauds, and problems,” across the market, which may also help explain journalists’ narrow focus on the space.
+“My guess is this will be a majority crypto interview, while the capital markets are $110 trillion,” Gensler said. “So it’s also about where the financial media is focused.
+Sorkin did indeed ask more about crypto – including whether the SEC views Ether (ETH) as a security, and about the agency’s most recent Wells Notice issued against crypto and stock trading platform Robinhood for alleged securities law violations. Gensler’s answers were indirect as usual, while still insisting that “many” crypto tokens are securities under the law.
+Over the past 18 months, the SEC has filed several lawsuits and Wells Notices against the biggest crypto companies in the world with ties to the United States.
+These include crypto exchanges like Binance, Coinbase, Kraken, and Robinhood, alongside development teams like Uniswap Labs, and stablecoin issuers like Paxos.
+In 2023 alone, the SEC brought 43 enforcement actions against digital asset market participants, according to Cornerstone Research. The sheer number of actions has inspired other crypto firms – such as Consensys – to preemptively sue the SEC before being accused of running afoul of what is still a legal grey area.
+“We don’t speak about whether somebody is, in our opinion, not following the law unless we actually bring a case,” Gensler stated.
+“A lot of people have lost their hard-earned funds in the field that you seem to be so fascinated about,” he added.
+Gensler has not refrained from opining on crypto in his capacity – even in his duties as chairman.
+Following his agency’s approval of Bitcoin spot ETFs in January, Gensler published an unusual blog post asserting that the agency did still not approve of Bitcoin as an asset. Speaking to CNBC the following day, he also argued that Bitcoin is fundamentally centralized.

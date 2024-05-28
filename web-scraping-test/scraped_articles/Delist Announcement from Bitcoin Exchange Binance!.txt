@@ -1,0 +1,17 @@
+Article Title: Delist Announcement from Bitcoin Exchange Binance! Four Altcoin Trading Pairs Delisted from Spot Transactions!
+
+Article Text:
+In a move aimed at protecting users and optimizing trading conditions, Binance, one of the world's largest cryptocurrency exchanges, announced the removal of certain spot trading pairs following a routine review of their offerings.
+Binance will delist and halt trading of the following spot trading pairs effective May 10, 2024 at 06:00:
+AAVE/BNB
+DEGO/BTC
+LTC/TUSD
+SAND/ETH
+The decision to remove these trading pairs is based on Binance's periodic reviews, which consider factors such as liquidity and trading volume.
+Binance aims to provide a high-quality trading environment for its users by periodically evaluating the services it offers.
+It is important to note that delisting a spot trading pair does not affect the availability of tokens on Binance Spot.
+Users will be able to continue buying and selling base and quote assets of delisted pairs on other trading pairs available on Binance.
+Additionally, Binance will discontinue Spot Trading Bots services for the above-mentioned spot trading pairs at 06:00 on May 10, 2024.
+Users using Spot Trading Bots are strongly advised to update or cancel their bots before the services are stopped to reduce possible losses.
+Binance is committed to providing its users with a safe and efficient trading experience and will continue to regularly review trading pairs to maintain quality and security standards.
+*This is not investment advice.

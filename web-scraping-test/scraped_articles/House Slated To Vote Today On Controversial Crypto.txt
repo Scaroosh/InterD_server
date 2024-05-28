@@ -1,0 +1,20 @@
+Article Title: House Slated To Vote Today On Controversial Crypto Bulletin SAB 121 Resolution
+
+Article Text:
+The U.S. House of Representatives is set to vote this afternoon on a resolution proposed by Representatives Wiley Nickel (D-NC) and Mike Flood (R-NE) that would see a formal disapproval of the United States Securities and Exchange Commission’s (SEC) Staff Accounting Bulletin (SAB) 121.
+
+If the resolution passes, it would formally press the SEC to backtrack on its controversial accounting bulletin.
+SAB 121 has garnered heat since it launched in April 2022 because it requires banks to list liabilities and corresponding digital assets on their balance sheets in what the federal regulator called an attempt to “safeguard” crypto assets.
+Concerns have swirled over the ethicality of SAB 121, given that the SEC failed to submit a Congressional report detailing the purported accounting bulletin.
+“It is unfortunate that the SEC would attempt to circumvent the rulemaking process while falsely claiming that SAB 121 is simply non-binding staff-level guidance,” Flood said in testimony early this week. “SAB 121 sets a disturbing precedent and is not the appropriate vehicle to promulgate accounting guidance for digital asset custodians.”
+
+During his congressional testimony this week, Flood further criticized the SEC failing to work with Federal banking agencies before ushering in the bulletin, noting that the regulator should have consulted “registrants, accounting firms, standard setting bodies, trade groups, and other agencies.
+”Banking institutions looking to get involved with digital assets have additionally criticized the policy for preventing them from serving as custodians for crypto products, including the recently SEC-approved spot Bitcoin ETFs.
+The SEC’s statutory mission is to protect investors, facilitate capital formation, and maintain fair, orderly, and efficient markets.
+Chairman Gensler is violating all three of these with his illegal SAB 121 rule. pic.twitter.com/Wky2K8zglR
+— Tom Emmer (@GOPMajorityWhip) May 7, 2024
+“SAB 121’s requirement for balance sheet recognition deviates from current accounting treatment for traditional assets held in custody, which are not required to be recorded on a firm’s balance sheet,” the Securities Industry and Financial Markets Association president and CEO Kenneth E. Bentson Jr. said in a February statement. “Because of its impact on bank capital and liquidity ratios, SAB 121 has disincentivized banks from providing custodial services for digital assets.”
+“Given that these institutions have successfully offered custodial services to the traditional financial system for decades, it only makes sense for banks and other financial entities to continue this service for digital assets,” Flood said.
+The SEC, chaired by Gary Gensler, has long been criticized for its aggressive regulatory approach to cryptocurrencies. Under his leadership, the agency has sued several digital asset firms.
+Meanwhile, Senator Cynthia Lummis is leading a joint senate resolution to Flood’s proposal that has yet to be voted on.
+However, it remains to be seen whether each resolution will pass its respective chambers.

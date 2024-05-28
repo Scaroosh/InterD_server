@@ -1,0 +1,31 @@
+**Artifact:**
+
+*Project: Marketaux*
+
+*Artifact of First Sprint*
+
+**Overview:**
+The artifact encapsulates the endeavors undertaken during the initial sprint of the Marketaux project. It delineates the research, testing, and integration efforts aimed at fortifying the platform's data gathering and sentiment analysis capabilities.
+
+**Research and Testing:**
+- Conducted comprehensive research into various data sources and APIs pertinent to market data and news aggregation.
+- Evaluated the reliability, accuracy, and suitability of APIs including Binance, Coinbase, NewsAPI, World News API, yFinance, and YHFinance API.
+- Tested the compatibility of each API with Marketaux, ensuring seamless integration and data retrieval.
+
+**Data Gathering:**
+- Assembled a diverse dataset encompassing market-related information from multiple sources.
+- Ensured the dataset's integrity, relevance, and breadth to fulfill the analytical requirements of Marketaux users.
+- Implemented measures to maintain data quality and consistency throughout the gathering process.
+
+**Sentiment Analysis:**
+- Defined parameters and methodologies for extracting sentiment from news articles within Marketaux.
+- Integrated sentiment analysis capabilities from LISA, Gemini, and ChatGPT 3.5 to provide real-time sentiment insights.
+- Established frameworks for interpreting sentiment data and presenting it in a user-friendly manner.
+
+**Output Definition:**
+- Specified the format and structure for presenting news and market-related information within Marketaux.
+- Designed user interfaces and data displays to ensure clarity, relevance, and accessibility.
+- Developed protocols for updating and maintaining the news gathering output to reflect current market conditions.
+
+**Summary:**
+The first sprint of the Marketaux project witnessed substantial progress in laying the groundwork for robust data gathering and sentiment analysis functionalities. Through meticulous research, testing, and integration efforts, the team has set a solid foundation for subsequent sprints, poised to elevate Marketaux into a comprehensive platform for market insights and analysis.

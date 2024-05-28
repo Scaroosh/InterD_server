@@ -1,0 +1,12 @@
+Article Title: U.S. DOJ Identifies and Charges LockBit Ransomware Gang Leader with Fraud, Extortion
+
+Article Text:
+U.S. authorities have identified Russian national Dmitry Khoroshev as the mastermind behind the notorious LockBit ransomware gang, and are offering a $10 million reward for information that leads to his arrest.
+In a sprawling 26-count criminal indictment unsealed Tuesday morning, prosecutors allege that Khoroshev, 31, developed, promoted and oversaw the LockBit software, recruiting “affiliates” on cybercriminal forums who then carried out the actual ransomware attacks. Once a ransom was paid, typically in bitcoin (BTC), affiliates would give Khoroshev a 20% cut of their earnings, according to the indictment.
+Between LockBit’s inception in 2019 and the seizure of most of its infrastructure by a global consortium of law enforcement agencies earlier this year, LockBit became one of the most prolific ransomware tools in the world, with a network of affiliates attacking approximately 2,500 victims – 1,800 of which were in the U.S. – and extorting an estimated $500 million in ransom payments, according to prosecutors.
+According to the indictment, Khoroshev received $100 million in bitcoin disbursements from LockBit’s activities over the course of its operation. U.S. authorities are also seeking forfeiture of his ill-gotten gains.
+Khoroshev has also been sanctioned by the U.S. Treasury Department’s Office of Foreign Assets Control (OFAC), barring all U.S. persons – including future victims of a LockBit ransomware attack – from transacting with him. One Bitcoin address was put on the department's "Specially Designated Nationals" list alongside Khoroshev, though that address does not appear to have ever held much bitcoin.
+Khoroshev remains at large, and, according to a March interview he gave to The Record, continues to operate LockBit.
+Five other LockBit members have been charged with crimes for participating in the criminal operation, and at least one – dual Russian-Canadian national Mikhail Vasiliev – has been sentenced to prison.
+Khoroshev has been charged with one count of conspiracy to commit fraud, extortion and related activity in connection with computers, one count of conspiracy to commit wire fraud, eight counts of intentional damage to a protected computer, eight counts of extortion in relation to information unlawfully obtained from a protected computer, and eight counts of extortion in relation to intentional damage to a protected computer.
+He faces a maximum of 185 years in prison.

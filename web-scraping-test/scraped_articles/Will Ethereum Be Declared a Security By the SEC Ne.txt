@@ -1,0 +1,16 @@
+Article Title: Will Ethereum Be Declared a Security By the SEC Next Week
+
+Article Text:
+The regulator is due to decide on VanEck’s application for such a product on May 23, followed by a final decision deadline for ARK Invest/21Shares’ application the next day. BlackRock, Fidelity, and Grayscale also have applications on the SEC’s desk.
+In March, the SEC put forth potential “grounds for [the] disapproval” of BlackRock’s application and Nasdaq’s proposal to list BlackRock’s product. One question the SEC posed in its notice is whether Nasdaq “properly filed its proposal” under the exchange’s rules for so-called Commodity-Based Trust Shares.
+Requiring that trusts hold a “specified commodity,” Scott Johnson, a general partner at Van Buren Capital, described the question’s inclusion as telling.
+“The obvious purpose is to potentially deny on the basis that these spot filings are improperly filed as commodity-based trust shares and do not qualify if they are holding a security,” he wrote on Twitter.
+Rather than indirectly excluding the digital asset as a commodity, the SEC could explicitly assert that Ethereum is a regulated security in its expected ETF denials. But that’s “highly unlikely,” Terrence Yang, a managing director at Swan Bitcoin told Decrypt.
+“Gensler and his team, they’re political animals,” he said, arguing that the political backdrop surrounding crypto has grown too tense for a move that would likely spark backlash from crypto-friendly politicians, including Former President Donald Trump.
+Following the SEC’s approval of spot Bitcoin ETFs in January, hopes that spot Ethereum ETFs will get the same treatment have plummeted. On the blockchain-based prediction platform Polymarket, traders penciled in a pessimistic 16% chance that ETFs are approved this month, as of this writing.
+Even though SEC Chair Gary Gensler has publicly affirmed that Bitcoin is a commodity, the Wall-Street cop has been tight-lipped when it comes to Ethereum, refusing to answer questions about the cryptocurrency’s regulatory status as recently as March.
+Last month, a lawsuit filed by the Ethereum software company Consensys alleged that the SEC has internally viewed Ethereum as a security for over a year. Among other requests, the firm asked a federal judge in Texas to declare Ethereum is a commodity.
+Prior to its approval of spot Bitcoin ETFs in January, the SEC denied similar applications for a decade, citing concerns of fraud and market manipulation in Bitcoin’s spot market. So-called surveillance agreements monitoring the Bitcoin futures market for ETFs that were already approved wouldn’t be sufficient, the SEC said.
+Eventually, a federal appellate court found that logic faulty, ordering the SEC to vacate its previous rejection of Grayscale’s application to convert its flagship trust into an ETF. Given the SEC approved Ethereum futures ETFs last October, Yang said a similar headache for the regulator could follow if it points to market manipulation again.
+“They can do it, but they should expect to get sued, and I think they'll get attacked politically through the heavy lobbying that the well-funded crypto industry has,” he said.
+Edited by Ryan Ozawa.

@@ -1,0 +1,13 @@
+Article Title: Investors Overestimate the Benefits of Bitcoin Volatility Fidelity
+
+Article Text:
+As Bitcoin (BTC) matures into a staple of investment portfolios, the prevailing view of its volatility remains exaggerated mainly.
+This overestimation could lead investors to misunderstand the risks and opportunities associated with this cryptocurrency.
+Despite the long-standing debate on its volatility, many investors still view it as far more unstable than traditional assets. Yet, recent data indicate it may be less volatile than previously believed, even when compared to high-profile stocks like Netflix.
+Over the last two years, its volatility was lower than Netflix’s, with Bitcoin’s 90-day realized volatility averaging 46% versus Netflix’s 53%. This trend marks a significant shift from its earlier, more erratic price movements and suggests Bitcoin is gradually maturing as an asset class.
+“This may be pointing to a growing belief that Bitcoin is maturing, further accelerated by the landmark approvals of several spot Bitcoin exchange-traded products in the US. The anticipation of this event may have led to a steady increase in price, up 150% in 2023, and a steady decrease in realized volatility, down 20% in 2023,” Zack Wainwright and Chris Kuiper, Research Analysts at Fidelity Digital Assets, wrote.
+Read more: What Causes Bitcoin Volatility?
+Fidelity Digital Assets researchers also highlighted that contrary to popular belief, its volatility is not an outlier among influential stocks, the ‘Magnificent Seven.’ As of October 2023, Bitcoin showed lower volatility than 92 of the S&P 500 stocks, including many large-cap and mega-cap stocks.
+The market often overestimates its implied volatility, which remains higher than the actual realized volatility. This gap suggests traders are pricing in risks that aren’t as pronounced in actual price movements, pointing to an exaggerated view of Bitcoin’s instability.
+Like gold following its decoupling from the US dollar, the volatility has diminished. Gold initially saw high volatility, which stabilized as markets adapted to its status as an independent asset. Bitcoin’s recent behavior mirrors this pattern, indicating it may be on a similar trajectory toward stability and significant growth potential.
+“Although past performance is no guarantee of future results, investors have historically experienced large price increases in short periods once all-time highs in price were revisited and subsequently broken under these circumstances. After a doubling in price, Bitcoin historically has continued this run higher until realized volatility rises to a level where Bitcoin price is becoming overheated,” Wainwright and Kuiper concluded.

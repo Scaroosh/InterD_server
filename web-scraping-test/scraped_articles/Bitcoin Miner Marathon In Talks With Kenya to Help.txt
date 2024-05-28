@@ -1,0 +1,23 @@
+Article Title: Bitcoin Miner Marathon In Talks With Kenya to Help With Its Green Energy Ambitions
+
+Article Text:
+Kenya has been consulting with bitcoin mining company Marathon Digital Holdings to hear its thoughts on energy and its crypto regime.
+The African nation depends on renewable energy, which is seasonal and capital-intensive.
+Marathon Digital (MARA), one of the largest bitcoin mining companies, has held talks with Kenya to help manage the country's renewable energy through mining and develop its crypto regime.
+"We've been working closely with the Kenyan government on how to optimize and monetize renewable energy assets," Jayson Browder, vice president of government affairs at MARA, told CoinDesk in an interview. Kenya's President William Ruto recently met up with the Marathon's team during an American Chamber of Commerce event hosted in Kenya.
+Renewable energy was the source of over 80% of Kenya's electricity, according to 2022 data, and President Ruto said he plans to make this 100% by 2030. Kenya is close to being like other countries such as Congo and Uganda, which rely almost 100% on renewable energy, according to the International Renewable Energy Agency.
+Kenya's primary renewable power source is geothermal energy from the earth's crust, as well as wind and solar. Though geothermal energy is constant and not impacted by seasonality, other renewable energies can pose a problem for Kenya's power supply.
+Enter Marathon, which believes that its technology can help solve this power management problem for Kenya.
+One of the main hurdles of renewable energy is that electricity is only produced when the sun is shining and the wind is blowing, causing consistency and storage problems for the user. To make the most efficient use of these forms of energy, the power either needs to be stored or wasted, creating a need for a power management system to balance the grid.
+Companies like Marathon can set up their bitcoin mining operations to act like a power management system, consuming the excess energy generated from these renewable sources. Miners can also shut down their operations to reduce usage so that other customers can continue to get their power without interruption, which helps balance the grid.
+Since bitcoin mining operations can be very mobile, companies are able to set up sites wherever they are needed to help balance the power grid.
+"The technology is modular, we can co-locate these really anywhere, and if they're an intermittent source, like wind or solar, we're able to turn off our machines when the grid needs it, so we can balance the grid," Browder said.
+The company also started a similar project in Paraguay last year involving a 100% renewable-powered bitcoin mining project. The project meant that MARA could co-locate mining sites by the power sources producing excess energy and monetize them.
+"So, the technology we bring to bear can help to monetize and optimize some of these energy assets," Browder said.
+The Kenyan government did not respond to CoinDesk's request for comments on the story.
+A crypto regime
+The conversation between Marathon and Kenya may have started with renewable energy solutions, but it ended with the country's president asking for the company's thoughts on a crypto regime, according to Bowder.
+Nations around the world are trying to build out their crypto regimes. Western countries like Europe and the U.K. have released new laws to help regulate this nascent technology, while African nations like South Africa have recently started licensing crypto firms.
+"The Kenyan government wants to be leaders in the technology and innovation space. Investing internally and bringing in leading companies to support this growth," Browder said in a statement. "This includes building the right regulatory framework around digital assets to include a potential development of a cryptocurrency exchange (government or private sector)."
+The purpose of the regulatory framework and crypto exchange would be to enable the Kenyan government to regulate both the trading and selling of crypto assets within its borders.
+"We're excited about supporting the Kenyan government's forward-thinking," Browder said.

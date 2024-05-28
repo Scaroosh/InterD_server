@@ -1,0 +1,20 @@
+Article Title: US Senators Demand DOJ Rethink Stance on Non-Custodial Crypto Services
+
+Article Text:
+Senators Ron Wyden and Cynthia Lummis have raised serious concerns regarding current crypto regulations in the United States. They target the Department of Justice’s (DOJ) recent stance on non-custodial crypto asset software services.
+In a letter to Attorney General Merrick Garland, they argue that the DOJ’s interpretation of federal laws threatens to criminalize Americans offering these services.
+The senators assert that the DOJ’s unprecedented interpretation of the prohibition on operating an unlicensed money-transmitting business contradicts Congressional intent. They also note that it conflicts with the Financial Crimes Enforcement Network’s (FinCEN) established guidelines.
+They warn this interpretation could stifle innovation in the crypto industry. It could also undermine trust in the rule of law.
+Both senators explain that non-custodial crypto services allow users to retain sole possession and control of their crypto assets. This means service providers do not “accept” or control them. Transactions happen on the user’s device without third-party access.
+Read more: What Is a Non-Custodial Wallet?
+Aligning with the senators’ explanation, FinCEN has held that non-custodial services are not subject to money transmitter registration requirements. This is because they do not involve direct receipt and control of assets.
+“Non-custodial crypto service providers cannot be classified as money transmitter businesses because users of such services retain sole possession and control of their crypto assets. At no point when operating or providing non-custodial services do such service providers ‘accept’ crypto assets from their users. Users retain exclusive custody and control over the private keys to their crypto assets. All transactions are signed and processed on the user’s local device without third-party access,” the letter reads.
+Furthermore, the letter urges the DOJ “to discard this flawed interpretation of Section 1960” to support the rule of law and foster the development of transformative technologies. In addition to her letter, Senator Lummis shared her thoughts on her X (Twitter) account.
+“President Biden’s DOJ steamrolling the longstanding interpretation of FinCEN is legally wrong and threatens to criminalize Bitcoin software development in America,” Senator Lummis wrote.
+Although the letter did not name any specific crypto services, many interpret it as referring to the recent case with Samourai Wallet. This platform is a Bitcoin wallet that provides financial anonymity for its users.
+BeInCrypto reported that the DOJ charged Samourai Wallet’s co-founders with several financial crimes. These charges include operating an unlicensed money-transmitting business.
+Following the charge, US officials arrested Samourai Wallet’s co-founders. They also seized the platform’s operational infrastructure and removed its app from Google’s Play Store in the US.
+The DOJ previously charged Tornado Cash, an Ethereum-based decentralized crypto mixer, with a similar allegation. In August 2022, the Office of Foreign Assets Control (OFAC) sanctioned the crypto mixer service. At that time, OFAC claimed that Tornado Cash had been involved in laundering funds worth $7 billion.
+Read more: Top 7 Tornado Cash Alternatives in 2024
+Following OFAC’s sanction, the Netherlands Crime Agency (FIOD) arrested Tornado Cash developer Alexey Pertsev in Amsterdam in the same month. FIOD alleged that Pertsev sponsored illicit financial flows, money laundering, and the mixing of cryptocurrencies through the service.
+According to the schedule, Pertsev will hear his verdict today. The crypto community keenly awaits the outcome of Tornado Cash’s case. They fear that the outcome may threaten developers of privacy-focused software within the ecosystem.

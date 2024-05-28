@@ -1,0 +1,9 @@
+Article Title: Bitcoin (BTC) Under Threat President Biden’s Proposed Legislation Targets Crypto Software Developers, Reveals Senator Lummis  COINOTAG NEWS
+
+Article Text:
+“`html
+US Senators Cynthia Lummis and Ron Wyden have voiced concerns over the Biden administration’s interpretation of FinCEN laws, which they believe could unjustly categorize Bitcoin software developers as criminals and stifle innovation in the crypto industry.
+Senators Cynthia Lummis (R-WY) and Ron Wyden (D-OR) have expressed concerns over the Biden administration’s interpretation of the Financial Crimes Enforcement Network (FinCEN) laws. They argue that this interpretation could unjustly categorize Bitcoin software developers as criminals, stifling innovation in the cryptocurrency industry and infringing upon individuals’ rights to self-custody their crypto assets.
+In a letter addressed to U.S. Attorney General Merrick Garland, the senators have urged the Justice Department to align its approach with that of the Treasury’s Financial Crimes Enforcement Network. They argue that the current interpretation could potentially criminalize fundamental aspects of Bitcoin and other cryptocurrency networks, inhibiting responsible financial innovation within the United States.
+The senators’ concerns highlight the ongoing debate over the regulation of the cryptocurrency industry in the United States. As the industry continues to grow and evolve, it is crucial that regulations are developed that protect consumers and promote innovation, without stifling the industry or unjustly criminalizing its participants.
+“`

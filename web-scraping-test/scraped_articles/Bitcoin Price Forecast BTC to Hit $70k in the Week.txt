@@ -1,0 +1,17 @@
+Article Title: Bitcoin Price Forecast BTC to Hit $70k in the Week Ahead
+
+Article Text:
+On May 6, Bitcoin’s price broke above $65,000 for the first time in 10 days. The recent decline in BTC supply on exchanges suggests more upside could follow as the month unfolds.
+Bitcoin price has made a remarkable 15.7% recovery in the past week after initially declining to a 60-day low of $56,537 on May 1.
+Recall that TheCryptoBasic analysis had predicted that the US Non-Farm Payrolls report could spur bullish activity among investors. Recent on-chain movements of BTC coins across prominent crypto exchanges confirm that thesis.
+Santiment’s chart below illustrates real-time changes in the supply of BTC coins deposited on trading platforms and exchange-hosted Bitcoin wallets.
+The chart above shows that investors held 823,180 BTC on exchanges as of May 1. However, since then, investors have withdrawn 4,550 BTC into cold storage, reducing the total Bitcoin supply on exchanges to 818,630 BTC.
+Such a large decline in exchange deposits often triggers an upward price movement for the underlying crypto asset for a few reasons.
+Firstly, when investors shift coins into long-term storage, it signals a confident outlook and preference for HODL. However, it also inadvertently reduces the supply readily available to be traded on exchanges. And when this coincides with a period of high demand, it sets the stage for an accelerated rally as buyers compete for fewer coins.
+Valued at the current BTC price of $64,800 per coin, investors have effectively pulled over $290 million worth of Bitcoin from the short-term market supply since the start of May. Unsurprisingly, BTC prices have surged 15% during that period.
+Bitcoin’s price is $64,000 at the time of writing on May 7, up 1.31% within the daily timeframe. However, if the $290 million decline in BTC exchange supply persists, the Bitcoin price could be set for a $70,000 retest in May 2024.
+In terms of key resistance areas to watch, IntoTheBlock’s GIOM data suggest the $66,300 treasury poses the biggest threat to Bitcoin’s reclaiming of $70,000.
+As seen below, 2.86 million active addresses acquired 1.61 million BTC at a minimum price of $65,571.
+Having held at a loss for nearly a month, many of them could opt to take some early profits as the Bitcoin price approached $66,000, inadvertently pulling back the rally.
+If Bitcoin demand surges further amid the declining exchange supply, BTC price could stage a parabolic breakout above the $66,000 resistance and head toward $70,000 as predicted.
+On the other hand, in the event of another major market pullback, BTC bulls can rely on the $58,750 cluster for short-term support.

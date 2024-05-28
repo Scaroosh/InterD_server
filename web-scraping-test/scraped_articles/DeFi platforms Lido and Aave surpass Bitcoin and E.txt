@@ -1,0 +1,17 @@
+Article Title: DeFi platforms Lido and Aave surpass Bitcoin and Ethereum in fee generation
+
+Article Text:
+According to DeFillama data, Lido accrued $2.34 million, while Aave amassed $1.85 million during this period. In contrast, Ethereum, Bitcoin, and Solana secured $1.84 million, $1.34 million, and $1.17 million, respectively, in fees.
+
+Market observers explained that the fee surge reflects crypto users’ willingness to engage with these platforms over traditional blockchain networks.
+The Bank for International Settlement (BIS) explained that crypto investors use DeFi lending pools like Aave to seek yield.
+BIS stated:
+“This effect is particularly strong for retail users and has been reinforced by the ‘low-for-long’ interest rate environment in advanced economies.”
+Given its substantial adoption, Aave Labs, the entity behind the DeFi lending platform, recently unveiled a strategic roadmap 2030 that introduces several key initiatives, including launching Aave V4, a new visual identity, and expanded DeFi functionalities.
+Meanwhile, Marc Zeller, founder of the Aave Chan Initiative, recently suggested that the protocol is gearing up to implement a fee switch to stimulate engagement and investment in its ecosystem.
+This feature essentially allows platforms to activate or deactivate certain user fees. In the case of Aave, it could lead to the redistribution of fees generated from transactions to platform participants, especially Aave holders and stakers.
+DeFiLlama data shows that Aave is the largest lending protocol, with over $10 billion worth of assets locked.
+Lido’s dominance
+Lido is a decentralized autonomous organization (DAO) that offers a liquid staking solution for several proof-of-stake blockchain networks, like Ethereum.
+The protocol lets users pool and stake their assets on these blockchain networks to earn up to 3% APR rewards. Lido accounts for around 28.5% of staked Ethereum, making it the largest DeFi protocol. According to DeFillama data, its total value locked is approximately $28 billion.
+Meanwhile, Lido’s market dominance is under heavy competition from the novel restaking concept led by EigenLayer.

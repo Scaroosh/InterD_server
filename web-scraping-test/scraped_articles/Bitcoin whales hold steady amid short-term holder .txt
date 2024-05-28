@@ -1,0 +1,10 @@
+Article Title: Bitcoin whales hold steady amid short-term holder sell-off Bitfinex
+
+Article Text:
+Bitcoin (BTC) short-term holders are behind the recent pullbacks in price, as the negative economic indicators from the US and cautious Federal Reserve statements make them panic, according to the “Bitfinex Alpha” report latest edition. Short-term Bitcoin holders are investors who have held their positions for less than 155 days.
+Despite the sell-off by short-term holders, on-chain data reveals that long-term holders are not following suit. The “Long-Term Holder Spending Binary Indicator” indicates that these investors have maintained their positions, signaling a potential shift in market dynamics and a possible resolution to the upside for Bitcoin’s price range.
+Amidst this trading behavior, the Bitcoin network has surpassed one billion transactions, highlighting its foundational strength and potential for future value appreciation.
+The decrease in mining difficulty presents an opportunity for miners to stabilize the network’s hash power and reduce the need to sell mined Bitcoin for operational costs. This is further supported by the commitment of long-term holders, who are demonstrating confidence in Bitcoin’s long-term value.
+Bitcoin’s network fundamentals remain robust, with over 625,000 on-chain transactions recorded on May 6th alone. The network’s ability to handle a high volume of transactions showcases its scalability and security. As the network continues to grow, the challenge will be to scale efficiently to accommodate a larger user base.
+The recent 6% reduction in mining difficulty is one of the most significant developments, offering relief to miners post-halving. This adjustment allows remaining miners to earn more Bitcoin with the same computational effort.
+Meanwhile, spot Bitcoin ETFs have experienced significant volatility, reflecting mixed investor sentiment towards the asset. Last week, Bitcoin ETFs saw net inflows, while Ethereum ETFs experienced net outflows, with the BTC price reflecting some of this sentiment.

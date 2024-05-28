@@ -1,0 +1,14 @@
+Article Title: Senators Lummis and Wyden Criticize Biden’s Approach to Bitcoin Software Regulations
+
+Article Text:
+Senator Cynthia Lummis is worried about the way the Biden administration controls the Bitcoin software developers. Lummis is of the opinion that the Department of Justice (DOJ) is wrongly applying Financial Crimes Enforcement Network (FinCEN) regulations, which can result in the prosecution of software engineers working on Bitcoin and other cryptocurrency.
+Senators Lummis and Ron Wyden (D-OR) expressed concern in a letter to U.S. Attorney General Merrick Garland about the DOJ’s existing posture on “money transmission” restrictions. They believe that this interpretation deviates from FinCEN’s well-established criteria, threatening financial innovation in the United States.
+Defending Individual Rights and Innovation
+Senator Lummis emphasized the need to distinguish between wallet software and illicit financial activities. She compared wallet software to infrastructure, such as highways, which should not be held accountable for illegal activities conducted by others.
+Senator Lummis pushes back against Biden administration's attempt to criminalize Bitcoin developers, citing threat to innovation and individual rights. Wyden also warns against unjustly targeting software creators. Trump offers support for crypto industry.
+Lummis remains committed to protecting the rights of individuals to self-custody their assets and ensuring that the cryptocurrency industry can operate legally.
+“The Biden administration’s alteration of FinCEN’s interpretation not only strays from legal precedent but also undermines the entrepreneurial spirit that drives America’s global economic prominence,”  Lummis stated and advocated for safeguarding the right to store private keys in personal wallets.
+Concerns Over Criminalizing Developers
+Senator Wyden echoed Lummis’s concerns, highlighting the importance of targeting those who misuse digital assets for money laundering or tax evasion while protecting software developers from unjust criminalization. Wyden expressed worry that the DOJ’s interpretation could unfairly categorize developers as criminals for creating and distributing code used by others, raising First Amendment issues.
+Wyden and Lummis urged the Justice Department to align its approach with FinCEN’s, focusing on individuals illicitly transmitting digital assets rather than targeting developers and innovators.
+As the Biden administration’s actions face criticism, Republican candidate Donald Trump has indicated his support for the crypto industry, suggesting a more favorable regulatory environment if he were to come to power. This ongoing debate highlights the need for clear and consistent regulations that balance innovation with the enforcement of financial laws.

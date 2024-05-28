@@ -1,0 +1,19 @@
+.sign_up{
+    color: #1E2115;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    width: 200px;
+    height: 65px;
+
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #E4E2DF;
+}
+
+.sign_up:active {
+    background: #ffe9e9;
+    transform: translate(0em, 0.75em);
+}

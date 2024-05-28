@@ -1,0 +1,12 @@
+Article Title: SEC Delays Decision on Galaxy’s Ethereum ETF to July
+
+Article Text:
+The United States Securities and Exchange Commission (SEC) has decided to deploy its decision on Galaxy Invesco’s application for a spot Ethereum exchange-traded fund (ETF) to July 5. This move allows the SEC to have more time reviewing the proposed rule change and related issues.
+“The Commission finds that it is appropriate to designate a longer period within which to issue an order approving or disapproving the proposed rule change so that it has sufficient time to consider the proposed rule change and the issues raised therein,” the SEC wrote.
+In recent months, the SEC has also delayed rulings on ETF applications from all eight prospective Ether ETF issuers, including BlackRock, Fidelity, Franklin Templeton, Hashdex, and Ark 21Shares. These moves by the regulator, however, were expected by analysts.
+May 23 is the final deadline for VanEck’s Ether ETF application, which is, as described by Bloomberg ETF analyst James Seyffart, the “only deadline that matters.”
+In March, Senior Bloomberg ETF analyst Eric Balchunas also “downgraded” his optimism that SEC approval for these ETFs is reduced from 50% to 35%.
+Balchunas looked to a prolonged period of “radio silence” from the SEC to prospective fund issuers and the increasing political pushback for SEC Chair Gary Gensler as reasons for the decreasing likelihood of approval.
+Seyffart once was “cautiously optimistic” about pending Ether ETF applications, but now he predicts that all Ether ETF applications will be denied by the SEC on May 23.
+Despite this consensus among ETF analysts, Ethereum advocate Anthony Sassano contends that the SEC could approve the funds by VanEck’s final deadline.
+Sassano points to the SEC’s previous approval of Ether futures ETFs last year and a meeting on March 9 between the SEC, crypto asset management firm Grayscale, and crypto exchange Coinbase as potential indicators that the SEC could still approve these applications.

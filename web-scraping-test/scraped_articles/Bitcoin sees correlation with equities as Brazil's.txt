@@ -1,0 +1,18 @@
+Article Title: Bitcoin sees correlation with equities as Brazil's 4-month trading volume hits $6 billion
+
+Article Text:
+Kaiko Research said Bitcoin’s (BTC) correlation with equities is rising, with a 90-day correlation rising to 0.17 last week after hitting a multi-year low of 0.01 in March.
+Meanwhile, Brazil experienced a significant rise in volume and is outpacing the dollar.
+Bitcoin’s 90-day correlation with equities rose to 0.17 the week of May 5, above its multi-year low of 0.01 in March, according to the firm’s May 13 research report.
+BTC’s correlation with risk assets is below its 0.6 high, as seen during bull markets.
+Bitcoin has maintained a near-zero correlation with the European equities index STOXX 600 since the beginning of 2024. At the start of the year, BTC had a -0.14 correlation with China’s CSI 300 equities index; the correlation remains below zero.
+The company attributed recent changes to a sell-off of risk assets in April that resulted from “macroeconomic headwinds and geopolitical tensions.”
+The research report also highlighted high trading volumes in the Brazilian crypto market.
+Brazilian real (BRL) trading volume amounted to $6 billion between January and early May 2024, making it the largest Latin American crypto market and the seventh-largest fiat currency market globally.
+BRL trading volumes grew 30% from the previous year and have risen more rapidly than US dollar (USD) trading volumes since January.
+Certain assets dominated trading. Stablecoins accounted for almost half of all BRL trading, while BTC and ETH accounted for 43% of BRL trade volume.
+Kaiko also reported other data.
+The company noted that prices for ETH puts and calls have diverged since March. Kaiko said the trend “could be a sign of impending volatility” as the US SEC rejects or approves spot Ethereum ETFs on May 23.
+Kaiko noted that foreign crypto ETF approvals have “failed to stimulate markets.” Hong Kong’s OSL exchange experienced volumes of $1.7 million at the end of April, following the region’s approval spot Bitcoin and Ethereum ETFs on April 15.
+In contrast, OSL saw volumes close to $8 billion in January when the US approved spot Bitcoin ETFs.
+Finally, Bitcoin fees surged following Bitcoin’s halving but fell following early interest in the Bitcoin Runes Protocol. The company said that reduced fees could result in selling pressure among crypto mining companies, which could have a “negative impact on markets.”

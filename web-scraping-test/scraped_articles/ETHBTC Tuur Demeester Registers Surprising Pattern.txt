@@ -1,0 +1,15 @@
+Article Title: ETHBTC Tuur Demeester Registers Surprising Pattern
+
+Article Text:
+ETH/BTC, the ratio between Ethereum's value and Bitcoin's value, fails to recover from a multi-year downtrend. Seasoned Bitcoiner Tuur Demeester, author of Bitcoin Reformation theory, noticed that this crucial indicator lost over one third of its value in two years.
+The ETH/BTC metric is 27.9% down in 12 months, Tuur Demeester noticed in his recent thread on X (formerly Twitter). This is the result of a prolonged downtrend: In two years, Ethereum (ETH) lost 36.4% against Bitcoin (BTC).
+ETH/BTC1 week: -3.2%1 month: -5.2%3 months: -8.2%6 months: -13.7%1 year: -27.9%2 years: -36.4%
+Demeester stressed that this timeline was chosen to demonstrate the long-term effects of Ethereum's (ETH) migration to the proof-of-stake (PoS) consensus.
+He recalled that Ethereum (ETH) managed to replace PoW with PoS 18 months ago, in mid-September 2022. After this game-changing upgrade was activated, Bitcoin (BTC) became the only major cryptocurrency leveraging the proof-of-work (PoW) consensus.
+As covered by U.Today previously, Ethereum (ETH) founder Vitalik Buterin called its now-deprecated proof-of-work version too vulnerable to centralization.
+Buterin recalled that PoW always was nothing but a "temporary stage" before migration to proof of stake, which replaced mining with staking as a way to secure blockchain consensus.
+As of now, Ethereum's (ETH) proof-of-stake (PoS) ecosystem features more than 1 million active validators, U.Today reported in April.
+The Bitcoin Reformation author also recalled his August 2022 comment and called the Ethereum (ETH) migration a "reckless switch."
+Followers of Demeester indicated that this metric can be different should we zoom out. For instance, on a 10-year time frame, it would demonstrate 76,000% growth instead of a 36.4% decrease.
+3 years forward projection: -57%
+However, veteran trader Peter Brandt noticed that in three years, ETH/BTC might be 57% down, according to Demeester's model.

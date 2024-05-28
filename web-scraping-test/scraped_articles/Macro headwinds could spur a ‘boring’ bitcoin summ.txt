@@ -1,0 +1,33 @@
+Article Title: Macro headwinds could spur a ‘boring’ bitcoin summer — or something worse
+
+Article Text:
+Bitcoin is no longer merely that taboo thing your techie uncle awkwardly brings up at family gatherings.
+Well, maybe the asset is only that for you — but if so, you’re in the minority at this point.
+Whether you believe in bitcoin or not, it has increasingly perforated traditional finance in recent years and months. Institutions can gain exposure to crypto through a regulated liquid derivatives market, and more recently via bitcoin ETFs.
+While some traditional finance bigwigs still criticize the asset (at least publicly), large financial companies are waking up to the potential of BTC, as well as blockchain tech more broadly.
+“Before, people had to buy coins,” said Lucas Kiely, chief investment officer at Yield App. “Now they can trade on [traditional finance] markets which means big market players can get involved.”
+The increased market participation around bitcoin is one reason the asset has become more correlated to global markets — a fact that could spur investor concern in an environment like this one.
+That’s because a range of macro factors are set to continue tussling with post-halving bitcoin price rally expectations in the coming months, industry watchers say.
+Bitcoin halvings — when per-block rewards for mining bitcoin are reduced every four or so years — have historically helped catalyze crypto bull markets.
+Read more: With halving just hours away, bitcoin price predictions proliferate
+Such events prior to the latest one last month have propelled BTC to new highs between 12 months and 18 months after the halving.
+Before then, the macro environment this time around may push BTC downward.
+Though bitcoin has rebounded from its recent stint below $57,000, “investors should be wary of being lulled into a false sense of security,” Kiely noted.
+The asset’s price hovered around $63,000 at 4 pm ET Tuesday — down 9% from a month ago, but up nearly 7% in the last five days.
+“The macro headwinds that pushed BTC south have not eased,” he said in an email. “If anything, global political uncertainty is only more pronounced, while inflation in the US is still not under control.”
+K33 research analysts Anders Helseth and Vetle Lunde said in a Tuesday note that global macro conditions have “re-emerged to become a relevant market mover.” Bitcoin’s 30-day correlation to the S&P 500 has reached a seven-month high, they added.“BTC first followed the market down on increased interest rate expectations on Wednesday, before following the markets up on decreased interest rate expectations on Friday.
+The analysts are referring to the “higher for longer” posture from the Federal Reserve last Wednesday, which held interest rates at their current level.
+Fed Chair Jerome Powell called the path forward “uncertain,” noting that central bankers will need to see more evidence that inflation is easing before cutting rates.
+Two days later, bitcoin’s price rose on news that the economy added 175,000 positions in April — a number closer to the pre-pandemic monthly average of 183,000 job gains.
+Read more: Bitcoin is back above $60K, stocks rally on cooler jobs data
+The crypto market has been “consumed” in recent months by the first US spot bitcoin ETF launches and the Bitcoin halving, according to LMAX Group market strategist Joel Kruger.
+“As these risks have played out and the market has settled down, attention is shifting to the other side of the equation where there has been more pressing volatility risk around the state of the US dollar, yield differentials and the outlook for fiat monetary policy,” Kruger told Blockworks.
+Market participants previously expected the Fed to cut rates by 0.75% or 1% in 2024, Finequia International research analyst Matteo Greco said in a research note.
+After Powell’s comments last week, many now anticipate lower cuts amounting to 0.25% or 0.50% — and only if inflation doesn’t worsen.
+Outside of monetary policy, the war in the Middle East rages on, and the US domestic situation is “increasingly volatile” ahead of the November presidential election, Kiely said.
+Oh yeah, and the Securities and Exchange Commission appears to be continuing its regulation-by-enforcement approach, with Robinhood most recently receiving a Wells notice.
+In other words, tailwinds for bitcoin are few and far between right now, Kiely added.
+“Best case scenario, we will see a very boring summer,” he explained. “Worst case scenario, bitcoin will lose some key support and take a long journey back down to recent lows.”
+Such a retreat could mean BTC sinking to between $50,000 and $55,000, Kiely predicts.
+Aside from central bank policy developments, bitcoin investors should monitor the pace of traditional finance adoption of bitcoin ETFs, Kruger noted. Some institutions and corporations are also considering adding bitcoin to their balance sheet.
+“We believe any setbacks should be exceptionally well supported into the $50,000 area, with any dips below to be short-lived,” he said. “As far as the topside goes, we wouldn’t at all be surprised to see bitcoin making fresh record highs towards and through the next major barrier at $100,000.”

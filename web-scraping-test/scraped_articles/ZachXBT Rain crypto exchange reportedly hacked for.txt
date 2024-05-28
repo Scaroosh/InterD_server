@@ -1,0 +1,12 @@
+Article Title: ZachXBT Rain crypto exchange reportedly hacked for $15m
+
+Article Text:
+Blockchain sleuth ZachXBT suspects a hack on the Rain cryptocurrency exchange.
+In a blog post, the researcher shared his speculations, suggesting that Rain was likely hacked for $14.8 million on April 29. Rain is a cryptocurrency exchange and custodian that serves the Middle East, Turkey, and Pakistan.
+ZachXBT claims that suspicious outflows were detected from their Bitcoin (BTC), Ethereum (ETH), Solana (SOL) and Ripple (XRP) wallets. ZachXBT shared two addresses where the stolen funds are likely located to prove the assumptions.
+However, ZachXBT stressed that, at the moment, Rain has not yet made any statements regarding the incident.
+“As of now Rain has yet to make any statement about the incident.”
+Last month, decentralized cryptocurrency exchange FixedFloat became the victim of an exploit that resulted in the withdrawal of approximately $2.8 million from its hot wallet.
+The suspicious account also received additional funds via ETH, USDT, WET, DAI, and USDC. To avoid issuer asset freezes, stablecoins USDT and USDC were quickly converted into ETH through several decentralized exchanges.
+Despite the recent security exploit, April’s damage from cybercrime was the lowest on record since 2021. According to CertiK, cryptocurrency projects lost a total of $25.7 million last month.
+The figure decreased by 141% compared to March, with 11 cases of compromised private keys, one of the main reasons for hacking projects.

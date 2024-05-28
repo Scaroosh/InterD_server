@@ -1,0 +1,19 @@
+Article Title: We asked ChatGPT-4o what will be Bitcoin price at the end of 2024; Here’s what it said
+
+Article Text:
+Given the high hopes that persisted through much of 2024 stemming from the approval of spot exchange-traded funds (ETFs), the reaching of a new all-time high (ATH) in March, and the April halving event, there has been a surprising amount of drama and uncertainty surrounding Bitcoin (BTC) in recent weeks.
+Indeed, while earlier analyses predicted Bitcoin would hit $100,000 in no time, and some of the cryptocurrency’s bigger bulls estimating it can reach $300,000 by the end of 2024, the debate has shifted on whether the coin can even hold above $60,000 or if BTC will need to find its footing at the $52,000 support level.
+Though the change in attitude is hardly surprising given BTC’s protracted struggle to hold its own in the crypto market and its recent, short-lived fall below $57,000, it has left little clarity to crypto traders about what is next for the world’s premier cryptocurrency.
+
+In its quest to find at least some answers about what may lie ahead, Finbold decided to consult the most advanced version of OpenAI’s flagship artificial intelligence (AI) platform – ChatGPT-4o – about where Bitcoin might stand at the tail-end of 2024.
+After analyzing Bitcoin’s performance in 2024 and beyond, ChatGPT offered a cautiously bullish prediction for where BTC might stand in December.
+According to the AI, the coin is most likely to find itself in the range between $80,000 and $85,000 by the year’s end given that Bitcoin price today stands at $61,711.
+
+Given that it cited the long-term effects of the halving, the likely institutional adoption and regulatory clarity, and the broader economic uncertainty – all factors used by many other analysts to make far more bullish projections – Finbold challenged ChatGPT over its price target.
+The AI, however, held to its previous assessment, explaining that, even though it laid out a fairly bullish trajectory, Bitcoin is still facing significant competition from altcoins, regulatory clarity is not expected to be total or completely favorable, there are significant psychological resistance levels ahead, and historic patterns show diminishing returns from each subsequent halving.
+
+ChatGPT also proved willing to construct a more bullish scenario which, while taking into account the same factors as for its general estimate, projects they’d have a significantly greater impact.
+Thus, the AI estimates that the upper plausible bound for Bitcoin’s price at the end of 2024 stands at $120,000.
+Similarly, ChatGPT agreed to look at a hypothetical situation that could drive Bitcoin into the ground.
+The AI explained that should the regulatory crackdown against cryptocurrencies intensify, the global economy recover more fully and rapidly than anticipated, and should Bitcoin face unforeseen and significant technical challenges, the price of BTC might collapse to $30,000 by late December.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.

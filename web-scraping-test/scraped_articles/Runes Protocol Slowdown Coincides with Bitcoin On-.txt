@@ -1,0 +1,14 @@
+Article Title: Runes Protocol Slowdown Coincides with Bitcoin On-Chain Activity Slump
+
+Article Text:
+Bitcoin (BTC) kicked off the new year with a robust surge, breaching the $70,000 mark and witnessing significant engagement on its blockchain network.
+However, recent developments indicate a cooling trend in these metrics. Over the past two months, the price of the leading digital asset has faced challenges, and on-chain activity has declined.
+Data from blockchain analytics firm Santiment indicates that Bitcoin’s on-chain activity has reached its lowest point since 2019. This decline suggests diminishing interest among traders, contrasting starkly with the earlier fervor.
+The firm suggested that the slump may mirror market participants’ broader sentiment of fear and uncertainty. This sentiment aligns with historical patterns, as transaction decreases often coincide with market volatility periods. Notably, BTC’s price has fallen by more than 11% during the past month to $61,205 as of press time.
+“This isn’t necessarily a sign of more BTC dips, but rather a signal of crowd fear and indecision,” Santiment analysts wrote.
+Meanwhile, some market observers pointed out that the dwindling on-chain activity coincides with the slowdown in Runes Protocol transactions after its initial surge. The protocol’s launch on BTC halving day triggered record transaction fees and volumes for the blockchain network. Despite this promising start, recent data suggests a noticeable decline in user engagement and transaction volumes.
+“After [Runes Protocol generated] a staggering $135 million in fees the first week, only 2 out of the last 12 days exceeded $1 million – with May 10th seeing the lowest activity,” crypto analyst Budhil Vyas said.
+Furthermore, the enthusiasm surrounding spot Bitcoin exchange-traded funds (ETFs) seems to be fading. CoinShares data reveals a notable slowdown in trading volume for spot Bitcoin ETFs. Over the past month, several funds have experienced outflows and days of no inflows.
+Amidst the sluggishness in the ecosystem, two long-dormant Bitcoin addresses, originating from Satoshi Nakamoto’s early days, recently sprung back to life.
+According to blockchain analysis platform – Lookonchain, these wallets, inactive for approximately 11 years, transferred their entire holdings of 1,000 BTC, currently valued at a staggering $60.9 million. The wallets—labeled “16vRqA” and “1DUJuH”— had received initial deposits of 500 BTC each in September 2013 when Bitcoin was valued at a modest $124 per coin.
+Today, these addresses have seen a remarkable surge in value, boasting an astronomical profit margin of nearly 50,000%.

@@ -1,0 +1,14 @@
+Article Title: NYSE Arca withdraws Grayscale's futures ETH ETF 19-b4 filing
+
+Article Text:
+Specifically, NYSE Arca withdrew a 19-b4 filing containing a proposed rule change through which it intended to list and trade shares of Grayscale’s Ethereum Futures Trust ETF.
+NYSE Arca withdrew the proposal on May 3, days before the SEC notice. The regulator would have been required to decide on the proposed rule change by May 30.
+Grayscale has not commented on the withdrawal.
+Grayscale’s pending futures Ethereum ETF is not directly related to its higher-profile attempt to convert the Grayscale Ethereum Trust (ETHE) to a spot ETF.
+However, the two filings are implicitly related. Van Buren Capital GP Scott Johnson said that Grayscale submitted the futures Ethereum ETF application to compel the SEC to produce a 19b-4 order that puts its analysis of futures-based ETFs “on record.”
+Johnson said:
+“This [19-b4] order is an important part of the mosaic that the SEC was going to be forced to maneuver through as we approached the ETH spot ETF deadlines coming up this month.”
+Johnson questioned the decision by stating: “I don’t understand the withdrawal here.” He said an order would not outright require the approval of comparable funds, adding that Grayscale should “really want” the 19-b4 order and that it “can only help.”
+Bloomberg ETF analyst James Seyffart called the proposed rule change a “trojan horse filing” that would have allowed Grayscale to sue the SEC over disapproval.
+Seyffart also expressed confusion, as the SEC could have rejected the proposal outright. He speculated that the SEC spoke with Grayscale and that the agency’s statements convinced it to drop the application. He clarified that his explanation is a “complete guess.”
+Seyffart added that the withdrawal may have appeased the SEC at the cost of reducing options for Grayscale and others to sue the agency.

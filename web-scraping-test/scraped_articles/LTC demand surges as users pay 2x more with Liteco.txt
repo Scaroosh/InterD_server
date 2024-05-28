@@ -1,0 +1,15 @@
+Article Title: LTC demand surges as users pay 2x more with Litecoin than with Bitcoin
+
+Article Text:
+The demand for Litecoin’s (LTC) payment solution surged in April, reaching a record ratio of nearly 2:1 against Bitcoin (BTC) in BitPay. This higher demand is also observed in on-chain coin velocity data, giving strong fundamentals for long-term sustained and organic growth.
+In particular, Finbold retrieved data from BitPay on May 8, showing that nearly two times more payments were made with Litecoin than with Bitcoin on the platform. BitPay is a leading cryptocurrency payment service provider, having over 54,000 crypto transactions processed in April.
+Notably, approximately 22,345 of these payments used Litecoin, for a 41.38% dominance over the other available cryptocurrencies. Bitcoin was the second-most used payment method, with over 11,635 transactions, or 21.55% of the total.
+This makes a ratio of 1.92:1 for LTC payments over BTC, achieving nearly two times more demand.
+
+Interestingly, Litecoin’s payment count has steadily increased in the past 10 years, with a notable correlation with the LTC price. This growth suggests that demand for payments in the network could affect the market demand for the coin, favoring prices.
+Finbold retrieved this data from Santiment on May 8, 2024, tracing back to May 7, 2014, through Sanbase Pro.
+Meanwhile, Bitcoin’s payment count has grown slower over the years and is now experiencing a drop. A similar drop was previously seen in 2021 during a network fee spike. Currently, the drop happened after the average transaction fees of BTC reached record highs above $100.
+
+With Bitcoin fees skyrocketing and payments becoming more difficult, cryptocurrency users have migrated to more efficient protocols such as Litecoin. Other alternatives include Nano (XNO), a zero-fee network, Bitcoin Cash (BCH), Monero (XMR), and Dogecoin (DOGE).
+As of this writing, LTC trades at $81.62 per coin. Additionally, Litecoin has over 2.78 million on-chain payments registered in the last seven days. Bitcoin’s seven-day payments count registers 4.73 million—at a 1.7:1 ratio against Litecoin—a remarkably low ratio, considering BTC has 205 more capitalization than LTC.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.

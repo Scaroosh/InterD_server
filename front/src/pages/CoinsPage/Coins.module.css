@@ -1,0 +1,33 @@
+.title{
+    color: #1E2115;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 75px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+@media (max-width: 1484px) {
+    .container{
+        justify-content: center;
+    }
+
+    .title{
+        font-size: 3rem;
+
+    }
+}
+
+@media (max-width: 554px) {
+    .title{
+        font-size: 2rem;
+    }
+}

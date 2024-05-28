@@ -1,0 +1,4 @@
+Article Title: LUNC News Terra Classic Community Makes Crucial Move With Allnodes
+
+Article Text:
+LUNC News: Terra Luna Classic community started voting on a key proposal to bring an official organization to be in charge of hosting the endpoint providing the correct circulating supply data for Terra Luna Classic. Top validator Allnodes will manage the endpoint to protect against single individuals making unauthorized changes to the supply without approval.

@@ -1,0 +1,18 @@
+Article Title: When Will Bitcoin and Ethereum Rise What Does Weekly Data Mean for BTC and ETH
+
+Article Text:
+While Bitcoin has continued its volatile movements in recent weeks, it rose above $ 63,000 again today.
+With the recent rise in Bitcoin, expectations for 100,000 came to the fore again, and all eyes turned to Bitcoin and Ethereum options that will expire today.
+According to the news of Singapore-based crypto options data platform Greeks.live, 18,000 BTC and 280,000 ETH options will expire on May 10.
+Accordingly, while the Put/Call Ratio of BTC options is 0.64, the maximum loss point is $62,000 and the notional value is $1.2 billion.
+Looking at Ethereum, ETH options have a Put/Call Ratio of 0.74, a maximum loss point of $3,050, and a notional value of $800 million.
+Stating that the cryptocurrency markets were weak this week with the decrease in crypto transaction volumes, Greeks.live said that although the outflows in the US spot Bitcoin ETFs eased, the decrease in the price caused investors' confidence in the market to weaken.
+“Crypto markets have been weak this week as volume continues to decline. Outflow dynamics from the US BTC ETF have eased, but looking at the market trading structure, weakness in price has led to continued weakening of market confidence.”
+“May has not been a good month for the market and it would be a good move to buy some monthly puts right now.”
+The put/call ratio is calculated by dividing the number of put options by the number of call options. A ratio below 1 means there are more purchases than puts, indicating an upward trend.
+A ratio above 1 means there are more put options than call options, indicating a bearish trend. A ratio close to 1 means the market is balanced or neutral.
+For Bitcoin, this rate is 0.64; For Ethereum it appears as 0.74. Accordingly, while these rates indicate an upward trend for BTC, they indicate a balanced, that is, horizontal trend for ETH. However, these data alone will not be sufficient data for an increase or decrease.
+Time will tell how these rates, along with other data and signals, will affect prices. At this point, do not make your investment decisions based on a single data or report.
+May 10 Options Data18,000 BTC options are about to expire with a Put Call Ratio of 0.64, a Maxpain point of $62,000 and a notional value of $1.2 billion. 280,000 ETH options are about to expire with a Put Call Ratio of 0.74, Maxpain point of $3,050 and a notional value of $800… pic.twitter.com/lurrMvi8cO
+— Greeks.live (@GreeksLive) May 10, 2024
+*This is not investment advice.

@@ -1,0 +1,4 @@
+Article Title: El Salvador Enhances Bitcoin Treasury Transparency With Launch of Dedicated Mempool Space
+
+Article Text:
+In a significant move towards transparency, El Salvador’s National Bitcoin Office (ONBTC) has announced the launch of its own mempool space. This development allows anyone to view the country’s bitcoin treasury holdings. The initiative is supported by Mempool, which revealed it has provided a custom instance of The Mempool Open Source Project for the ONBTC. This step enhances the transparency and auditability of El Salvador’s bitcoin treasury, aligning with the country’s commitment to openness in its adoption of bitcoin as legal tender.

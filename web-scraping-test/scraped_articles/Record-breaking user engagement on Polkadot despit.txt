@@ -1,0 +1,15 @@
+Article Title: Record-breaking user engagement on Polkadot despite price slump
+
+Article Text:
+Polkadot blockchain activity has surged to record levels, with active addresses hitting all-time highs for two consecutive months.
+Data from DotLake indicates the network boasted around 650,000 active addresses on-chain as of the end of April. The growth continues the uptrend that saw the number of active blockchain addresses surpass its previous high of 605,000 in March.
+
+Polkadot said this milestone represents a significant uptick in activity, marking a new all-time high for monthly active accounts since the launch of parachains in 2022.
+The rising active addresses can be primarily attributed to Moonbeam. During the reporting period, the parachain accounted for over 60% of these addresses, totaling 397,515, while Polkadot had only 136,612 addresses.
+Moonbeam is an Ethereum-compatible smart contract parachain on Polkadot that is attracting considerable attention from the community. According to data from Polkadot Insider, the network had the highest user acquisition among Polkadot’s parachains in April.
+Meanwhile, Polkadot’s number of unique addresses with non-zero balances decreased slightly, dropping from 6.96 million in March to 6.8 million at the end of April. Furthermore, the total number of transactions on the network also saw a modest decline to 11.07 million in April, slightly down from 11.5 million in March.
+Polkadot’s rising metrics have yet to translate into an improved price performance for the network’s native DOT token.
+
+According to CryptoSlate’s data, DOT’s price has fallen more than 20% within the last 30 days to $6.9 as of press time. The performance mirrors the general trend observed in the crypto market during the reporting period, with Bitcoin and other digital assets struggling to reach the highs set earlier in the year.
+Nonetheless, crypto analyst Michaël van de Poppe argued that Polkadot was “heavily undervalued” and believes its “valuation is super low compared to Ethereum” because of its impending JAM Upgrade, which will improve the network’s operations.
+Disclaimer: CryptoSlate has received a grant from the Polkadot Foundation to produce content about the Polkadot ecosystem. While the Foundation supports our coverage, we maintain full editorial independence and control over the content we publish.

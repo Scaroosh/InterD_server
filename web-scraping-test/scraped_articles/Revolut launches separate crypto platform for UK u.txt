@@ -1,0 +1,9 @@
+Article Title: Revolut launches separate crypto platform for UK users
+
+Article Text:
+Revolut, a global fintech company, has unveiled Revolut X, a standalone cryptocurrency trading platform available to UK retail customers.
+Since its inception in 2015 when it initially offered money transfers, in 2017 Revolut expanded its services to include cryptocurrency trading. With over 40 million customers worldwide, it has become the UK's largest fintech company.
+Revolut X has for purpose to compete with leading crypto exchanges by providing an easy-to-use platform and low fees, targeting professional traders.
+Revolut X traders can access over 100 tokens with fixed fees of 0% for maker and 0.09% for taker, regardless of trade volume. Initially, the platform will offer assets already available on the Revolut retail app, including Bitcoin, Ethereum и XRP, planning to expand the assets offered in the future.
+UK Revolut retail account holders can seamlessly access Revolut X using their existing credentials, enabling fiat-to-crypto trading and vice-versa between Revolut X and Revolut without limits or fees.
+The launch of Revolut X follows the introduction of Revolut Ramp in March, which allows users to buy cryptocurrencies directly into their Web3 wallets through a partnership with MetaMask developer.

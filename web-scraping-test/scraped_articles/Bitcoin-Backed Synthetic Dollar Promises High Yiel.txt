@@ -1,0 +1,7 @@
+Article Title: Bitcoin-Backed Synthetic Dollar Promises High Yields for DeFi Users
+
+Article Text:
+Hermetica Labs has announced the upcoming launch of USDh, the first-ever synthetic dollar backed by Bitcoin, which has the potential to significantly expand Bitcoin’s DeFi (decentralized finance) ecosystem. The USDh release is scheduled for June and aims to attract Bitcoin holders by offering yields of up to 25%.
+Jakob SCHILLINGER, founder and CEO of Hermetica, believes USDh will be a game changer for Bitcoin DeFi. This will allow users to earn interest on their dollar holdings without leaving the Bitcoin network or relying on traditional financial institutions. This feature is specifically designed for Bitcoin enthusiasts who are hesitant to venture outside the Bitcoin ecosystem.
+Hermetica is a DeFi protocol built on the Stacks blockchain, a layer-one solution designed to implement smart contract functionality in Bitcoin. This places USDh within the broader Bitcoin’s DeFi (BTCFi) trend, which seeks to replicate the success of Ethereum-based DeFi on the Bitcoin network.
+Image: CoinMarketCap

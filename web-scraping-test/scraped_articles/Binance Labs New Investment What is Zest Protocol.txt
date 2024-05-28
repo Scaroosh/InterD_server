@@ -1,0 +1,15 @@
+Article Title: Binance Labs New Investment What is Zest Protocol
+
+Article Text:
+Zest Protocol has announced a successful $3.5 million seed funding round.
+Zest Protocol raises $3.5m Seed round to redefine Bitcoin lendingLed by @drapervc, with participation from @BinanceLabs, @FlowTraders, @trustmachinesco, @goasymmetric and more 🤝 pic.twitter.com/L1PP6hmWN6
+This round was led by prominent billionaire investor Tim Draper, with notable contributions from Binance Labs, Flow Traders, Trust Machines, and other key players in the cryptocurrency space.
+Zest Protocol is a platform in the Bitcoin lending sector, leveraging blockchain technology to allow Bitcoin holders to generate yield from their assets.
+The platform utilizes the Nakamoto upgrade by Bitcoin layer 2 solution, Stacks, and employs a bridging asset called sBTC, which is pegged 1:1 to Bitcoin, to facilitate a seamless lending experience native to the Bitcoin network.
+At its core, Zest Protocol enhances the utility of Bitcoin by enabling users to use their Bitcoin to fund activities directly on the blockchain.
+When users deposit their Bitcoin into Zest Protocol, the digital currency is wrapped into sBTC on the Stacks layer, integrating it into the Zest pool contracts. This method ensures that all transactions and financial activities remain fully integrated within the Bitcoin ecosystem.
+For users wishing to withdraw their funds, Zest Protocol automates the unwrapping of sBTC back to Bitcoin, which is then sent directly to the user’s wallet. This process maintains the non-custodial nature of the user's assets, ensuring that they retain control over their Bitcoin throughout the transaction process.
+One of Zest Protocol’s distinctive features is its use of Clarity smart contracts on the Stacks platform. These contracts are designed to interact directly with Bitcoin’s blockchain, allowing for enhanced security and efficiency.
+Zest Protocol also introduces a borrowing feature, which allows users to secure liquidity against their Bitcoin holdings. This feature is akin to popular DeFi platforms like Aave v3 but is reportdly tailored to operate within the Bitcoin ecosystem via Stacks Layer 2.
+Tycho Onnasch, the founder of Zest Protocol, highlights the importance of Bitcoin Layer 2 solutions such as Stacks in unlocking the potential of Bitcoin in the decentralized finance sector.
+Onnasch points out that traditional DeFi primitives, like liquidity pools, are not feasible on Bitcoin’s primary layer, making innovations like Stacks critical for the advancement of Bitcoin DeFi.

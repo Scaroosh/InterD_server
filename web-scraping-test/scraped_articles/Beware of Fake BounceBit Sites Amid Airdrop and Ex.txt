@@ -1,0 +1,14 @@
+Article Title: Beware of Fake BounceBit Sites Amid Airdrop and Exchange Listings
+
+Article Text:
+BounceBit, a Bitcoin (BTC) restaking protocol, announced the official launch of its mainnet at 02:30 UTC today. Shortly after, from 08:30 to 10:00 UTC, the company will start its BB token airdrop.
+Additionally, the much-anticipated listing of BB tokens on cryptocurrency exchanges KuCoin and Gate.io is set to expand its market presence. Both exchanges will begin trading operations for BB tokens starting at 10:00 UTC today.
+However, a cybersecurity alert has tempered the excitement. The Chief of Information and Security Officer at SlowMist, known as 23pds, has flagged a significant risk. The first Google search result for “BounceBit” is a phishing site called bouncbit.io, posing threats to users’ safety.
+“Clicking it will jump to the phishing website bouncbit[.]io. Please be aware of the risks,” 23pds warned.
+Read more: 15 Most Common Crypto Scams To Look Out For
+Following the warning, BounceBit has shared official airdrop and customer support links on its X (Twitter) account. It also warned that any tweets below its official announcement thread that use its name and post links are likely scams.
+The launch of BounceBit mainnets and BB token airdrop came after the protocol secured a $6 million seed funding earlier this year. Blockchain Capital and Breyer Capital co-led this round, with participation from various venture capital entities and angel investors. Furthermore, in April, Binance Labs, Binance’s venture capital and incubation arm, invested an undisclosed amount in BounceBit.
+At its heart, BounceBit introduces a BTC restaking mechanism. It is launching a Shared-Security Clients (SSC) infrastructure, starting with the BTC Restaking Chain.
+This mechanism involves a dual-token system where validators stake both BTC and BB. Therefore, such a mechanism enhances the platform’s security and stability.
+Read more: Top New Crypto Listings To Watch In May 2024
+As of May 13, DeFiLlama reports BounceBit has a total value locked (TVL) of $448.65 million. Given its backing, it is plausible that BounceBit’s mainnet launch and BB tokens airdrop catch the crypto community’s interest and attract scammers.

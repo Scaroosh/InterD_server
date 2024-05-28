@@ -1,0 +1,56 @@
+Article Title: Bitcoin’s Lightning Network In Every App Breez CEO’s Vision
+
+Article Text:
+Founders: Roy Sheinfeld, Roi Erez and Yaacov Slama
+Date Founded: 2018
+Location of Headquarters: Remote
+Amount of Bitcoin Held in Treasury: Dozens held in Breez Lightning nodes
+Number of Employees: 11
+Website: https://breez.technology/
+Public or Private? Private
+Roy Sheinfeld says the time for orange pilling is through.
+Sheinfeld, one of the three founders of Breez, a company that provides a software development kit (SDK) to institutions looking to utilize the Bitcoin Lightning Network, believes that while bringing people into the Bitcoin fold via education has helped broaden the Bitcoin community, it won’t be the driving force in onboarding the next wave of Bitcoin users.
+“I was orange pilled. You were probably orange pilled. Everyone in the Bitcoin ecosystem right now was probably orange pilled, but I don't feel that the circles are expanding, and they're definitely not expanding fast enough,” Sheinfeld told Bitcoin Magazine. “What drives adoption — what drives change in people's behavior — is technology.”
+This is why Sheinfeld, a software developer by trade, is committed to making it easier for companies to employ the Lightning Network. He wants to see more apps and services use Lightning for payments, not create more Lightning-specific apps. Think Spotify harnessing Lightning to stream sats to creators instead of developers creating more Lightning wallets.
+“I always give the example of a digital camera. When the digital camera was initially released to market, everyone started using it as a replacement for the film camera, but it didn't change human behavior,” said Sheinfeld.
+“Only when the digital camera was integrated into a mobile device did it change human behavior. Today, you can't sit to eat a meal without taking a picture of your food before you eat it. That was a dramatic change in human behavior, and that's what I want that to happen with Bitcoin,” he added.
+“I want to change human behavior because the utility of Bitcoin is something that people won't be able to resist and use.”
+And Sheinfeld is in an ideal position to help facilitate this change, as he’s been iterating with Lightning since the network’s inception.
+Founded in 2018, Breez is practically as old as the Lightning Network itself.
+“We were the first company to start a business on top of the Lightning Network,” said Sheinfeld. “Just when the first mainnet transactions appeared on the Lightning Network, we founded Breez in order to help transform bitcoin from a store of value to a medium of exchange.”
+The team at Breez started off by releasing the first Lightning wallet. In doing this, Breez became the first Lightning Service Provider (LSP), a term that Sheinfeld himself coined. Sheinfeld and co. also brought the first iteration of podcasting 2.0 to market, enabling users to stream sats to their favorite podcasters, a service that has been popularized by Fountain.
+But for the last year and a half, Sheinfeld and the Breez team have focused on developing the Breez SDK, because, as Sheinfeld shared, “We think Lightning should be a commodity. Everyone should have the ability to use Lightning if they want to.”
+The Breez SDK is a free and open-source software (FOSS) non-custodial solution that any person, company or institution can use. It’s powered by Blockstream Greenlight, which enables Breez to run end user nodes in the cloud while still keeping the service non-custodial, as the private keys remain in the hands of the user.
+The Breez SDK also lets users swap bitcoin between the base chain and the Lightning Network and provides fiat on-ramps from third party providers.
+If online retailers, for example, want to accept bitcoin payments over Lightning, all they have to do is incorporate the Breez SDK API from Breez’s GitHub into their app or website, which doesn’t take much time at all.
+“I can tell you from our experience working with our partners, it takes days to add Lightning payments to their application,” said Sheinfeld. “For some partners, it takes longer — it takes weeks — but it's not because of the complexity of using the Breez SDK. It's really about the user experience they want to provide when integrating Lightning payments.”
+Sheinfeld also added that “programmatically using the API is very straightforward for every type of developer,” and he made it clear that Breez was designed to be free and open-source so that it reflected the nature of Bitcoin. And this design is still profitable for Breez, as the company makes money when end user payments are routed through its nodes.
+Companies and products such as Relai, BitBox and Blockstream Green now use the Breez SDK, but one can’t help but wonder why more companies and products aren’t employing this novel technology.
+Given that Breez provides a convenient way to incorporate Lightning into an app, why aren’t more companies taking advantage of it?
+From Sheinfeld’s perspective, the challenge revolves around how most still perceive bitcoin.
+“I think a lot of people still don't believe in Bitcoin as a medium of exchange — even some Bitcoiners,” said Sheinfeld.
+“As companies like Breez are lowering the barrier of entry and enabling developers to integrate Lightning, the challenge is no longer a technical challenge,” he added.
+“What we hope to do is to get enough bottom up traction from partners that we're working with and to cross the chasm of Bitcoin credibility where when normies that are unfamiliar with Bitcoin hear 'Bitcoin,' they understand, ‘Okay, bitcoin is money. I can send and receive bitcoin.’”
+Sheinfeld went on to share how we begin to cross that chasm by first creating an “ecosystem of bitcoin-focused applications that allow you to interact with bitcoin as a form of money.”
+Instead of trying to convince people that BTC is the best form of money, he believes it will prove itself as such as it competes with fiat currencies and other cryptocurrencies. To set this competition in motion, he wants to see Lightning integrated into multi-coin wallets, before eventually seeing it integrated into fintech applications.
+“There’s no reason PayPal or Revolut won’t integrate Lightning,” said Sheinfeld.
+“Once you penetrate all these types of medium of exchange services, you’re ready to take it to the next level, which is integrating bitcoin into mainstream applications,” he added.
+“My time frame is 10 years. I want to see a mainstream application like Uber or Spotify integrate Lightning in the next 10 years.”
+Just a week before I spoke with Sheinfeld, Phoenix Wallet, one of the most popular Lightning wallets on the market today, opted to stop serving US customers, for fear of a greater regulatory crackdown on self-custody wallets in the wake of the US Department of Justice’s arresting the Samourai Wallet developers.
+When I asked Sheinfeld if he was nervous that US regulators might come for Breez next, he calmly responded with a “No” before providing his reasoning.
+“Let’s say it very clearly: Being a self-custodial wallet is allowed in the US,” said Sheinfeld. “Self-policing is the worst thing that can happen. We should self-regulate, but we don't need to take an extreme side that’s more extreme than the law itself.”
+He went on to explain that self-custodial wallet makers are not required to have a Money Transmitter License or a Money Service Business license.
+“Breez doesn't take control of user funds,” Sheinfeld stressed.
+Many in the Bitcoin space consider the Lightning Network a failure, because adoption of the network has been slow.
+Sheinfeld argues that some of the critique is warranted.
+“We deserve the Lightning FUD,” said Sheinfeld.
+“There’s good marketing and there’s bad marketing. Bad marketing is selling something that doesn’t exist: Lightning is a magical solution for all bitcoin problems — infinite scalability, free transactions, a perfect UX. That doesn’t exist,” he explained.
+“We haven't done a very good job in explaining Lightning in these early years of the network and we created a hype that the technology wasn't able to fulfill, so we deserve the backlash that we've received.”
+Sheinfeld went on to share that he’s optimistic about the role Lightning will play as new technologies come to Bitcoin, though.
+“If you take a look at the technology landscape right now — Cashu, Fedi and the Bitcoin layer 2 solutions — all these various solutions will interoperate between themselves using Lightning,” he said.
+In the coming weeks, Breez will begin a business-to-business (B2B) marketing campaign that aims to onboard companies that are currently unaware of the power of Bitcoin and Lightning.
+“Marketing is basically bridging the gap between the power of technology and the utility of the technology,” said Sheinfeld. “If people don't bridge that gap themselves, someone needs to help them bridge the gap, and we need good marketing to do that.”
+And Sheinfeld is convinced that the time is now for Breez to start marketing to and serving companies outside of the Bitcoin space.
+“For far too long we were only in the Bitcoin community,” said Sheinfeld.
+“We need to break out of the bubble and start pushing our offering beyond our ecosystem," he added.
+"Crypto solutions need to be aware of Lightning. Fintech solutions need to be aware of Lightning. Mainstream applications need to be aware of Lightning. That's what we're going to put more emphasis on going forward.”

@@ -1,0 +1,10 @@
+Article Title: Undisclosed report reveals SEC cybersecurity flaws before fake Bitcoin ETF approval hack
+
+Article Text:
+A previously undisclosed report detailed deficiencies in the SEC’s cybersecurity program. The report, first shared publicly by Fox Business journalist Eleanor Terrett on X, was dated December 20, 2023, less than a month before a false announcement of a spot Bitcoin ETF approval that led to market upheaval and $90 million in Bitcoin liquidations.
+“Remember the SEC’s X account hack from January 9th? The last update from the agency on January 22 stated that it was working with the Office of the Inspector General and several outside agencies, including the FBI, about the incident,” Terrett said.
+“But apparently in 2023, the SEC OIG got an independent company to look at its information security program which includes cybersecurity/infrastructure security and found it was lacking. The report is buried on the SEC’s website and dated December 20, 2023,” she added.
+According to the report, the SEC’s cybersecurity infrastructure was “not effective.” The report also noted that the SEC “needs additional improvement” in several areas “to effectively mitigate security weaknesses.”
+
+Despite the critical nature of these findings, Terrett noted that SEC Chairman Gary Gensler did not disclose this information to Congress in the aftermath of the January 9 hack.
+The oversight raises questions about the SEC’s transparency and the effectiveness of its cybersecurity measures, particularly given its role in regulating the cybersecurity practices of companies listed on the stock exchange.

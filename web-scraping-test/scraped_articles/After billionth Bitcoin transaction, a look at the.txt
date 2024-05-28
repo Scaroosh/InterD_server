@@ -1,0 +1,29 @@
+Article Title: After billionth Bitcoin transaction, a look at the network’s evolution
+
+Article Text:
+Activity on the Bitcoin network has evolved over the span of a billion transactions, with the latest usage starting to resemble that of Ethereum in 2020.
+Bitcoin transaction number 1,000,000,000 occurred at the start of the week, giving an excuse to take a closer look at how a network once used mostly for payments is starting to sport broader utility.
+The Runes protocol is a recent driver of Bitcoin blockchain activity, satisfying “a surge of interest in the purchase of memecoins and NFTs,” according to Bitget research analyst Ryan Lee.
+Read more: A look into Runes, a new Bitcoin token standard for issuing fungible tokens
+The protocol is a fungible token standard designed by Ordinals creator Casey Rodarmor. It was created as an alternative to BRC-20.
+Ordinals, which debuted in January 2023, is a protocol used to inscribe individual units of BTC with unique data to create digital collectibles.
+Unlike BRC-20, Runes do not depend on the Ordinals mechanism of inscription, Rodarmor said on X.
+Runes has accounted for between 10% and 70% of daily Bitcoin transactions in recent weeks, according to Dune Analytics data — reaching as high as 81.3% on April 23.
+The majority of activity on the Bitcoin blockchain has historically been payment transactions — a fact that is poised to change as more gets built on top of it.
+“Current activity on the Bitcoin network is very similar to the state of the Ethereum blockchain during the boom of dapp projects,” Lee said. “I think it will continue to varying degrees as the number of new projects and add-ons based on Bitcoin grows.”
+Bitcoin’s total value locked (TVL) stands at roughly $1.2 billion, according to DeFiLlama data — about what Ethereum’s TVL was four years ago, Lee noted.
+That was a time that preceded a “DeFi boom” that spurred a rise in yield farming, algorithmic stablecoins and new liquidity models, Lee said. Ethereum’s TVL is $53 billion today, making up nearly 60% of the TVL across all blockchains.
+“As DeFi increasingly adopts BRC-20 tokens, which have a potential to displace competitors, Bitcoin may react to these shifts positively due to increased demand,” Lee added.
+Compass Point Research & Trading analyst Joe Flynn said in an April 30 note that, unlike prior bitcoin cycles, the addition of protocols built on top of the layer-1 are indeed set to up demand for blockspace. This could lead to periods of congestion “that users will pay up for to be included in the next block,” he added.
+Read more: Ordinals are driving up Bitcoin fees — but that may be good for the network
+The Bitcoin network’s advanced functionality — like the innovation in standards like BRC-20 — are converging with broader factors set to drive BTC adoption, according to Neo founder Da Hongfei.
+One of the most influential was the launch of US spot bitcoin ETFs in January, he noted. Such funds have given retail and institutional investors alike exposure to the crypto asset via a familiar investment vehicle.
+The 11-fund category has tallied net inflows of nearly $11.8 billion during the four months they have traded, Farside Investors data shows.“The impact of such an initiative will continue to encourage heightened trading activity, as these new financial instruments become embedded in the traditional financial infrastructure,” Hongfei said.
+Not to mention the recent Bitcoin halving — reducing per-block mining rewards from 6.25 BTC to 3.125 BTC — occurred on April 19.
+Bitcoin’s “immutable monetary policy” and a receptive macro backdrop could spark the crypto market’s “most violent supply squeeze yet,” Hongfei explained — pushing BTC price up.
+That said, industry watchers have argued the current environment could hold back BTC in the coming months before the expected post-halving rally plays out.
+Read more: Macro headwinds could spur a ‘boring’ bitcoin summer — or something worse
+Either way, Bitcoin’s DeFi and Web3 capabilities appear poised to help it challenge smart contract networks.
+“We anticipate critical mass adoption of Web3 settlement on Bitcoin’s ecosystem within this decade,” Hongfei told Blockworks. “As Bitcoin’s utility and reliability become apparent for global trade and contracts, network effects and technical advantages could propel a mass migration from 2028 to 2030.”
+Ethereum is likely to remain a place to test gadgets and “tinkering without jeopardizing critical applications,” the Neo founder added.
+“Both networks would then assume complementary roles,” Hongfei said. “Bitcoin as the supreme base settlement layer and Ethereum pioneering less mission-critical use cases as a secondary chain.”

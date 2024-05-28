@@ -1,0 +1,12 @@
+Article Title: Banking Giant Wells Fargo Holds Spot Bitcoin ETF on Behalf of Clients, According To New SEC Filing
+
+Article Text:
+US banking giant Wells Fargo is now holding a spot Bitcoin ETF on behalf of its clients, according to a new filing with the SEC.
+The bank’s Form F13 filing, which requires institutional investment managers to disclose their holdings, says Wells Fargo is holding 2,245 shares of the Grayscale Bitcoin Trust (GBTC), which was converted to an ETF in January.
+The total value of those shares is $121,207 at time of publishing – a sliver of the firm’s approximately $2 trillion in assets under management.
+But the revelation is significant given the resistance that banks have historically shown toward customers who want exposure to the digital asset industry.
+This week, the US House of Representatives passed a bill that would overturn SEC guidelines that disincentivize banks from holding crypto by requiring them to list the assets as liabilities on their balance sheets.
+The bill passed with 207 votes from Republicans and 21 votes from Democrats, passing 228 votes to 182.
+Republican Representative Mike Flood, who drafted the resolution, said it’s designed to “ensure consumers are protected by removing roadblocks that prevent highly regulated banks from acting as custodians of digital assets.”
+The Biden Administration has vowed to veto the law if it passes the Senate, saying it could “inappropriately constrain the SEC’s ability to ensure appropriate guardrails and address future issues related to crypto-assets including financial stability.”
+

@@ -1,0 +1,29 @@
+Article Title: Argentina Energy Provider Seals New Bitcoin Mining Deal
+
+Article Text:
+Argentina’s state-run energy provider has completed a new Bitcoin (BTC) mining deal that will see the firm use associated gas to power 1,200 ASIC mining rigs in Patagonia.
+Per the Spanish-language media outlet Criptonoticias, the deal involves the Argentinian government-owned firm Fiscal Petroleum Yacimientos (YPF) and its YPF Luz affiliate.
+The agreement also involves the Norwegian oil and gas supplier Equinor and the Bitcoin mining firm Genesis Digital Assets Limited (GDA).
+YPF is South America’s third-largest oil producer. It has several exploratory oil drilling projects in Patagonia.
+Exploratory oil drilling often releases associated gas. In the past, many oil firms have simply burned this off (a process known as “flaring”).
+But in many parts of the world, companies now use this gas to power crypto mining rigs via thermal plants.
+The YPF deal will see the firms use a “mining farm” named Central Térmica Bajo del Toro, located in Rincón de los Sauces, Neuquén.
+YPF was nationalized by the government in 2012 and has gone on to become one of the nation’s largest energy companies in Argentina.
+The firms will channel the gas to a thermal power plant with a total installed capacity of 8 MW.
+They claimed the move would help reduce greenhouse gas emissions, make efficient use of energy, and monetize associated gas.
+🇦🇷 Argentina Regulator Outlines Plans to Police Crypto Exchanges
+The top Argentinian financial regulator says it plans to “supervise” the Latin American nation’s crypto service providers.#CryptoNews #Argentinahttps://t.co/YlilJm8YXp
+— Cryptonews.com (@cryptonews) March 20, 2024
+YPF said the project would use gas that “otherwise would have been vented into the atmosphere.”
+And the oil firm said that this would help reduce the risks of the “highly energy-intensive” BTC mining industry. It added:
+“[The project will allow Bitcoin mining] without affecting the availability of the national electrical energy network. [It will] contribute to a more sustainable solution.”
+Abdumalik Mirakhmedov, the Executive President of GDA, said Argentina is “an important country for Bitcoin mining.”
+He said that “given its abundance of energy sources and its business-friendly environment,” the nation was a natural pick for miners. Mirakhmedov added:
+“The opening of our first data center in South America is an important step in our geographic diversification efforts. This will be yet another opportunity to show the world that Bitcoin mining can have a positive effect on the environment and can be fully integrated into local communities.”
+GDA has around 20 Bitcoin mining farms in regions including North America, Europe, and Central Asia. The firm operates over 180,000 mining rigs worldwide.
+Inflation-hit Argentina has a new top banknote, worth just $10 https://t.co/dYxqpfinpl pic.twitter.com/8FCdFbqoxA
+— Reuters (@Reuters) May 7, 2024
+Mirakhmedov hailed the move, GDA’s first in South America, as “an important step” for the mining firm.
+YPF, meanwhile, has been working with crypto mining players since 2022, when it first began using associated gas to power mining rigs.
+And Equinor announced plans to incorporate crypto mining operations in sites on the Bakken oilfield in North Dakota in 2020.
+In September 2023, fellow Argentina-based oil explorer Tecpetrol announced plans to operate a crypto mining “farm” in Western Argentina’s Vaca Muerta oil field.

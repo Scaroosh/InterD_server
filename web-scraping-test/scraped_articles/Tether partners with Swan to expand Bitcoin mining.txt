@@ -1,0 +1,15 @@
+Article Title: Tether partners with Swan to expand Bitcoin mining operations
+
+Article Text:
+Stablecoin issuer Tether has expanded its mining endeavors by collaborating with Swan’s Managed Bitcoin Mining service.
+According to the press statement, the firm has dedicated an undisclosed amount of substantial capital to establish its Bitcoin mining operations through Swan.
+Swan’s Managed Bitcoin Mining allows institutional investors to commit a minimum of $100 million to the Bitcoin mining ecosystem. Through the service, the firm plans to offer bespoke mining operations tailored to the specific needs of its clients.
+Since August 2023, Swan Mining has spent over $330 million to increase its mining capacity to 7.5 EH. However, plans are to increase the capacity to 19.5 EH this year and about 100 EH by 2026.
+Paolo Ardoino, the CEO of Tether, said:
+“The collaboration with Swan in the mining sector has exceeded our expectations. Swan’s team has demonstrated an unwavering commitment to transparency and operational excellence, achieving rapid deployment of hashrate.”
+Tether is the largest stablecoin issuer and revealed plans to invest approximately $500 million in mining. The company is the seventh-largest BTC holder globally, with approximately 75,354 BTC, valued at $5.23 billion.
+Tether’s foray into mining comes during a notable decline in daily revenue for BTC miners post-halving. Glassnode data showed a stark drop in total revenue from block rewards and transaction fees, hitting a low of 417 BTC as of May 7.
+
+This downturn contrasts sharply with the initial excitement surrounding the halving and the emergence of innovative protocols like Ordinal Inscriptions and Runes. These protocols have garnered increased attention, stirred interest in the blockchain landscape, and contributed to miners’ earnings.
+Ki Young Ju, the CEO of CryptoQuant, highlighted the transformative impact of these applications on miners’ income streams. He said:
+“Building apps on Bitcoin has significantly changed miners’ income streams. Transaction fees now account for over 7% of their total revenue, up from 1% two years ago. This trend has persisted for the last four weeks and could potentially strengthen the network’s fundamentals.

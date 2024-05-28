@@ -1,0 +1,14 @@
+Article Title: Bitcoin Exchange Binance Announced That It Will Make Updates for Many Altcoin Trading Parities in Futures Trading!
+
+Article Text:
+Binance Futures, a leading cryptocurrency derivatives exchange, announced plans to delist and update leverage and margin tiers for a large number of USDⓈ-M perpetual contracts, signaling strategic adjustments to its trading offerings.
+Effective May 15, 2024 at 12:00 PM, Binance Futures will initiate the closing of all positions and automatic settlements for USDⓈ-M IDEXUSDT, SLPUSDT and GLMRUSDT perpetual contracts.
+Then, on May 16, 2024, at 12:00 pm, the exchange will conduct similar transactions for MDTUSDT and AUDIOUSDT perpetual contracts. These contracts will be delisted upon completion of settlements.
+In addition, Binance Futures announced plans to adjust leverage and collateral tiers for the aforementioned perpetual contracts, effective May 8, 2024 at 1:30 p.m.
+Existing positions opened before the update will be affected by these adjustments. The exchange advises users to pre-adjust their positions and leverage ahead of planned updates to reduce potential liquidation risks.
+In light of these changes, users are required to close their open positions before the delisting dates to avoid automatic liquidations.
+Additionally, Binance Futures has imposed restrictions on opening new positions for the affected contracts starting from certain dates.
+Starting at 11:30 on May 15, 2024, users will not be allowed to open new positions for IDEXUSDT, SLPUSDT and GLMRUSDT USDⓈ-M perpetual contracts.
+As of May 16, 2024 at 11:30, new positions will not be opened for MDTUSDT and AUDIOUSDT USDⓈ-M perpetual contracts.
+These strategic adjustments by Binance Futures reflect the dynamic nature of the cryptocurrency derivatives market and aim to optimize trading conditions for users while complying with evolving regulatory requirements.
+*This is not investment advice.

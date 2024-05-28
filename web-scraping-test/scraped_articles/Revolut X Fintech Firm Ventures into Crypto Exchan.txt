@@ -1,0 +1,12 @@
+Article Title: Revolut X Fintech Firm Ventures into Crypto Exchange Arena
+
+Article Text:
+London-based digital banking firm Revolut has introduced Revolut X, a cryptocurrency exchange tailored for professional traders, marking the institution as the pioneer in developing a dedicated platform for cryptocurrency trading within the banking sector.
+With a user base of 40 million worldwide, Revolut has already facilitated cryptocurrency transactions through its Revolut App. However, the decision to unveil a separate crypto exchange was disclosed in February, aiming to provide a more specialized trading experience.
+The newly launched exchange offers customers the advantage of trading directly from the platform, ensuring lower transaction fees. Fee structures have been delineated, with makers incurring zero charges and takers facing a nominal fee of 0.09%.
+Revolut’s Head of Crypto Exchange Product, Leonid Bashlykov, said: “We are excited by the introduction of our new crypto product and believe this top-tier trading platform will change the game for experienced crypto traders, providing them with a safe and accessible place to trade.”
+The platform, now available on desktops for UK customers holding Revolut retail accounts, features digital assets already present on the Revolut retail app, including Bitcoin, Ethereum, and XRP, with plans for further expansion.
+Revolut launches its new exchange, #RevolutX, designed for experienced traders with 0% maker fees and powerful analytical tools 📊 These tools are far more advanced than their traditional app, tailoring Revolut X for high-volume trading strategies 💧📈 pic.twitter.com/U7y0SuLpdR
+Customers with existing UK Revolut retail accounts can access the new crypto exchange using their current credentials. Additionally, they can execute crypto-to-fiat and vice versa transactions between Revolut X and Revolut at no extra cost. Educational resources integrated within the Revolut app further promote responsible trading practices among users.
+Prior to this launch, Revolut had been enhancing its platform, including the recent introduction of Revolut Ramp in collaboration with MetaMask. This integration, unveiled in March, streamlines the process of purchasing cryptocurrency for Revolut clients, accessible through MetaMask's mobile app, browser extension, or portfolio.
+Revolut users can now expand their MetaMask self-custody wallet with minimal fees using their Revolut account or Visa/Mastercard credit or debit cards, as outlined in the release on the company's blog page.

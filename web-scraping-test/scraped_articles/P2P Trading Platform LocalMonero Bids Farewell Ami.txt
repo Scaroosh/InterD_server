@@ -1,0 +1,21 @@
+Article Title: P2P Trading Platform LocalMonero Bids Farewell Amid Regulatory Heat
+
+Article Text:
+LocalMonero, the largest Monero (XMR) peer-to-peer (P2P) trading platform, announced its closure on May 7. This also marked the end of its nearly seven-year run in the crypto space.
+The closure is set against a backdrop of increasing scrutiny and regulatory actions targeting privacy-focused cryptocurrencies and platforms in the United States. Indeed, these regulatory enforcements raise concerns about the future of privacy in the digital asset industry.
+The announcement detailed the timeline for winding down operations. It included an immediate stop to new registrations and ad postings, as well as the platform shutdown by November 7, 2024. Additionally, The LocalMonero team thanked its users and expressed confidence in the Monero ecosystem’s future.
+“LocalMonero has been around for most of Monero’s life. Fortunately, the Monero ecosystem has matured a lot over these years, and with the imminent launch of Haveno and other DEXs like Serai, Atomic Swaps, the coming addition of FCMP (full blockchain anonymity set replacing rings of 16) as well as the continuing and rapidly accelerating development of the Monero protocol, we’re confident that Monero’s future is bright, with or without our platform,” the LocalMonero team wrote.
+As LocalMonero ceases operations, the platform has outlined clear steps for its users. Starting immediately, no new users can register, and beginning on May 14, no new trades can start. Users have until November to finalize any transactions and retrieve funds from their accounts.
+This phase-out period is intended to ensure a smooth transition for the community and prevent any funds from being forfeited. Nonetheless, the team remains committed to supporting users through arbitration and dispute mediation during this period.
+The closure of the platform has disappointed many in the Monero community. Douglas Tuman, an active member of the Monero community and host of the Monero Talk podcast, expressed his sadness at the loss.
+“Very sad to see you go. You guys did tremendous things for Monero. Thank you for all the peer to peer trades you helped facilitate by bringing Monero users together on your platform. Hope you come back in another form. Cheers!” Tuman said.
+Monero’s price dipped from $129.69 to $126.80 following the announcement. This is an approximately 2.23% decrease. However, at the time of writing, Monero’s price is trading at $129.23.
+Read more: Monero (XMR) Price Prediction 2023/2025/2030
+LocalMonero’s departure occurs as broader regulatory challenges in the US impact other privacy-centric services. BeInCrypto reported previously that US officials had arrested Keonne Rodriguez and William Lonergan Hill, Samourai Wallet’s co-founders. They charged them with significant financial crimes.
+US officials allege that Samourai Wallet facilitated billions in illegal transactions and enabled money laundering. Samourai Wallet’s services, like “Whirlpool” and “Ricochet,” processed substantial Bitcoin volumes. They generated millions in fees while offering financial anonymity to their users.
+Moreover, Phoenix Wallet and Wasabi Wallet are stopping their services for US customers. This follows the regulatory enforcement against Samourai Wallet.
+Notably, the Office of Foreign Assets Control (OFAC) imposed sanctions against crypto mixer Tornado Cash in August 2022. At that time, OFAC also stated that Tornado Cash had laundered funds worth $7 billion.
+OFAC’s action sparked debate in the crypto community. Many argue that the case sets a dangerous precedent for privacy-focused software developers within the crypto ecosystem.
+Yet, the market is currently watching the legal proceedings against Tornado Cash developer Alexey Pertsev in the Netherlands. A verdict is expected on May 14.
+Read more: How To Buy Monero (XMR) and Everything You Need to Know
+The crypto community awaits the outcome of Tornado Cash’s case. Many fear it may threaten privacy-focused software developers within the ecosystem.

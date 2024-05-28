@@ -1,0 +1,13 @@
+Article Title: US House of Representatives Meets to Abolish Important Crypto-Hostile Rule Critical to the Fate of Cryptocurrencies – Here are the Details
+
+Article Text:
+In a recent development, the US House of Representatives engaged in an hour-long debate on House Joint Resolution 109. The decision aims to rescind the Securities and Exchange Commission's (SEC) Accounting Bulletin Statement (SAB) 121, a rule with significant implications for the banking and cryptocurrency industries.
+SAB 121 requires banks to disclose all cryptocurrency holdings, keep customer cryptocurrency assets on their balance sheets, and maintain an offset obligation. In other words, for every dollar of cryptocurrency held in escrow, the bank must hold an equivalent amount.
+Originally adopted as guidance, SAB 121 was later adopted as a rule by the Government Accountability Office (GAO). This decision sparked controversy among banking regulators, including Federal Reserve Chairman Jay Powell, who has a different approach to crypto custody.
+In response to GAO's decision, a Joint Resolution bill was introduced by Senator Cynthia Lummis, Representative Mike Flood, and Representative Wiley Nickel to repeal SAB 121.
+Democrats, led by Maxine Waters, have advocated keeping the disclosure rules in SAB 121 but introducing a separate bill to change how cryptocurrency custody transactions work. They believe that repealing SAB 121 would weaken the SEC's authority and ability to issue new guidance on cryptocurrency in the future.
+Maxine Waters announced that President Biden had conveyed his intention to veto the Joint Resolution if it reached his desk and emphasized the administration's commitment to keeping SAB 121 in place.
+Despite opposition from the majority of Democrats on the House Financial Services Committee, Republicans argued that without changing the rule, the US risks smuggling cryptocurrencies overseas. They believe that decisions on such matters should be left not to the SEC, but to prudential banking regulators such as the FED, FDIC (Federal Deposit Insurance Corporation), and OCC (Office of the Comptroller of the Currency).
+Representatives Flood and Nickel expressed concerns about the risk of centralization of Bitcoin, the asset that backs Bitcoin ETFs. They pointed out that large companies such as BlackRock, Fidelity and Bitwise cannot hold custody with banks, which leads to high centralization in Coinbase.
+While the discussions continue, all eyes are on the vote to be held this weekend. While the resolution is likely to pass on a bipartisan basis in the House, it is expected to face challenges in the Senate. Moreover, the White House has signaled its intention to veto any attempt to overturn SAB 121.
+*This is not investment advice.

@@ -1,0 +1,14 @@
+Article Title: Ethereum Is No Longer ‘Ultrasound Money’ After Dencun Upgrade Analysts
+
+Article Text:
+Ethereum’s latest upgrade may have worked a bit too well, bringing unwelcome consequences for long-term Ethereum (ETH) investors.
+As advertised, the Dencun hard fork slashed transaction fees by over 90% on multiple Ethereum layer-2 networks shortly after going live on March 13. the median Ethereum transaction fee today is up to four times lower than before Dencun when comparing periods of similar network activity, according to market intelligence platform CryptoQuant.
+With users paying less in fees, however, the Ethereum network is now burning the circulating ETH supply at its slowest rate since the Merge in September 2022. In fact, the burn rate is now so low that ETH has returned to being an inflationary currency, regularly issuing more units than are burned in a given period.
+“We conclude that, at the current rate of network activity, Ethereum will not be deflationary again, and the narrative of ‘ultrasound’ money has probably died or would need much higher network activity to come back to life,” CryptoQuant analysts in a weekly research report on Wednesday.
+“Ultrasound money” became a popular nickname for Ethereum after the Merge, which changed the consensus mechanism for the second largest cryptocurrency by market cap from proof of work to proof of stake. The upgrade also cut the issuance rate of new ETH by 90%, bringing it below the amount that the network burned through fees.
+Ethereum faithful eagerly used that fact to needle Bitcoiners, who have proudly championed Bitcoin (BTC) as “sound money” thanks to its fixed supply of 21 million coins. Theoretically, Ether was now superior “ultrasound money” with an actively decreasing supply, making it a better long-term store of value.
+But with ETH’s inflation rate back above zero, that argument is gone—and a revival in network activity may still fail to bring it back. As CryptoQuant noted, fees burned on Ethereum were positively correlated with network activity up until Dencun, after which they fell like a rock.
+Could someone tell me how is ETH not crashing? The total fees are bottoming. The burn is bottoming. Inflation is actually hitting same levels as Bitcoin once in a while. CEO and General Council for Consensus: "We have started our lawsuit because we did not believe SEC will… pic.twitter.com/y5DqKYLLKt
+— zatoichi42🌊 (@zatoichi42) May 7, 2024
+According to the open-source dashboard ultrasound.money, Ether’s current inflation rate is 0.559% per year—still higher than Bitcoin’s 0.835% rate following last month’s halving.
+Edited by Ryan Ozawa.

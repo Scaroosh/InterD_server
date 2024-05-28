@@ -1,0 +1,11 @@
+Article Title: NFT Sales See Week-Over-Week Decline as Market Continues to Cool
+
+Article Text:
+Non-fungible token (NFT) sales from May 4 to May 11, 2024, saw an 11.35% decline compared to the previous week’s figures. Leading the sales, Bitcoin-based NFT transactions totaled $49.8 million, yet this was a 13% decrease from the preceding week.
+As another week concludes, the metrics for NFT sales show a decline, falling 11.35% from the previous week. The total sales recorded over the last seven days amounted to $145.41 million, with Bitcoin-based NFTs contributing $49.8 million to this volume.
+According to data collected by cryptoslam.io, sales of Bitcoin’s digital collectibles have decreased by 13.03%. Ethereum’s NFTs generated $41.85 million in sales, also down 11.35% from the prior week. Solana NFTs, rounding out the top three blockchains in sales, garnered $25.85 million, experiencing a slight decrease of 0.58% this week.
+This week’s top-selling digital collectible was the Uncategorized Ordinals from the Bitcoin blockchain, which garnered $23.13 million in sales. Yet, the sales for Uncategorized Ordinals declined by 29.37% compared to last week. Mythos’ Dmarket collection claimed the second spot, with earnings of $5.84 million, marking a 14.86% decrease.
+On the other hand, the Nodemonkes collection from the Bitcoin blockchain experienced a 9.22% sales increase, totaling $4.77 million. Prominent NFT collections this week also included Mad Lads, Degods, and Solana Monkey Business. Highlighting the most significant and expensive NFT sales, Cryptopunk #3,619 fetched $627,991 approximately 18 hours ago.
+Moreover, Solana’s Boogle #064 was purchased for $192,124 about a day ago, and Mushroom #95 from the BTC network achieved $135,096 two days ago. The consistent downturn in NFT sales, evidenced week over week, signals a cautious market sentiment among collectors.
+As these trends persist, stakeholders in the NFT marketplace may need to strategize new approaches to boost investor confidence and reignite sales activity. This may include introducing innovative features or rethinking marketing tactics to attract new buyers and sustain engagement in an increasingly competitive environment.
+What do you think about the NFT sales recorded over the past seven days? Share your thoughts and opinions about this subject in the comments section below.

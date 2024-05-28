@@ -1,0 +1,4 @@
+Article Title: Magic Eden Unveils New TypeScript To Boost Runes Protocol
+
+Article Text:
+Magic Eden, a prominent player in the blockchain space, has recently unveiled a groundbreaking development: the release of an open-source TypeScript library named “runestone-lib.” This library is specifically designed for interacting with the Runes protocol, a fascinating innovation that allows the creation of unique fungible assets on the Bitcoin blockchain.

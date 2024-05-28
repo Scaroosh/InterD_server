@@ -1,0 +1,18 @@
+Article Title: Bracebridge Invests $363 Million in Bitcoin ETFs, Now The Largest Holder of ARKB
+
+Article Text:
+A recent SEC filing revealed that Bracebridge Capital has invested $363 million in spot Bitcoin exchange-traded funds (ETFs). This Boston-based hedge fund has hefty stakes in the Ark 21Shares Bitcoin ETF (ARKB), Grayscale Bitcoin Trust ETF (GBTC), and BlackRock’s iShares Bitcoin Trust (IBIT).
+This move highlights the growing institutional interest in cryptocurrency.
+Bloomberg Intelligence data reveals Bracebridge Capital holds $262 million in ARKB, $81 million in IBIT, and $20 million in GBTC. The data further shows that Bracebridge Capital is the biggest holder of ARKB.
+This is particularly noteworthy given that Bracebridge manages funds for endowments for Yale University and Princeton University. Eric Balchunas, a senior ETF analyst at Bloomberg Intelligence, commented on Bracebridge Capital’s significant investment.
+“The new high water mark (authorized participants/market maker) for Bitcoin ETF holdings has arrived. […] They went wild. If you manage money for the Ivys, you are as pro as it gets,” Balchunas wrote.
+Read more: Crypto ETN vs. Crypto ETF: What Is the Difference?
+A few days before this revelation from Bracebridge, another SEC filing unveiled that traditional banks are also jumping on the spot Bitcoin ETFs bandwagon. The Switzerland-based investment bank, UBS Group AG, invested $145,692 in IBIT (3,600 shares) through its subsidiaries and institutional investment managers. Edmond de Rothschild (Suisse) S.A., the family-owned banking giant, also owns $4.2 million in IBIT shares and $82,121 in GBTC shares.
+Bracebridge Capital, UBS, and Rothschild’s moves align with a trend among institutional investors. BeInCrypto recently reported that the Susquehanna International Group had invested over $1.1 billion in various Bitcoin ETFs.
+New York-based asset manager Hightower has also ramped up investments in Bitcoin ETFs. Hightower’s investments totaled $68.35 million across spot Bitcoin ETFs.
+However, James Seyffart, another ETF analyst at Bloomberg Intelligence, cautioned the crypto community to be careful about identifying recent Bitcoin ETF ownership trends.
+“Just FYI, everyone. JPM, Susquehanna (which also owns these ETFs and was all over this site last week), and others are just market makers and/or [authorized participants] APs. Their ownership isn’t necessarily indicative of anything other than this is how many shares they had on March 31, 2024,” Seyffart explained.
+Despite the interest from institutional investors, US-traded spot Bitcoin ETFs’ performance could have been more impressive in May. According to SoSo Value data, these ETFs recorded only three positive flows throughout May.
+On May 3, the daily total net inflow was $378.24 million. Meanwhile, on May 6 and May 8, it was $217.06 million and $11.54 million, respectively. The ETFs saw outflows for the rest of May, with the biggest outflow of $563.77 million on May 1.
+Read more: How To Trade a Bitcoin ETF: A Step-by-Step Approach
+Nonetheless, the significant investments by institutions like Bracebridge Capital highlight the growing integration of cryptocurrency into mainstream financial portfolios. While the performance of spot Bitcoin ETFs fluctuates, the increased institutional backing signals long-term confidence in the potential of digital assets.

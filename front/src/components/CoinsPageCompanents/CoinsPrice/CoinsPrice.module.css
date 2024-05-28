@@ -1,0 +1,35 @@
+.container{
+    width: 766px;
+    height: 538px;
+
+    border: #FFF 2px solid;
+    border-radius: 8px;
+    padding: 53px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.price_table{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    color: #1E2115;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.price{
+    display: flex;
+    gap: 30px;
+}
+
+.gold_ring{
+    border-radius: 10px;
+    border: 2px solid #A7AA57;
+    background: rgba(217, 217, 217, 0.00);
+}

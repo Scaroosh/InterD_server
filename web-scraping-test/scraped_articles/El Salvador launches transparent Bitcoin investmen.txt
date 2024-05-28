@@ -1,0 +1,13 @@
+Article Title: El Salvador launches transparent Bitcoin investment data platform
+
+Article Text:
+El Salvador, the world’s first country to use Bitcoin as legal tender, has launched its own platform that provides public access to BTC investment data via a personalized mempool.
+According to the most recent mempool data, El Salvador presently possesses 5,748.76 BTC, worth more than $352.8 million.
+El Salvador’s latest move establishes a new benchmark for financial transparency in government operations. It also validated the much-hyped concept of an immutable public ledger, which has long been advocated by Bitcoin and cryptocurrency aficionados.
+On May 12, the Bitcoin Office, a Salvadoran government-owned agency responsible for overseeing all BTC-related projects, announced this new feature via their official X account.
+“El Salvador now has its own mempool space where anyone can consult our Bitcoin treasury holdings,” The Bitcoin Office noted.
+El Salvador has been doubling down on Bitcoin since it became legal tender in 2021. In addition to tracking holdings, El Salvador’s mempool data shows that the government purchased an additional 31 BTC in the last month.
+The purchase is part of President Nayib Bukele’s Dollar Cost Averaging (DCA) policy, which was announced in November 2022. As reported by Crypto.news earlier, Bukele pledged that his government would purchase one bitcoin every day “until Bitcoin became unaffordable with fiat currencies.”
+The nation’s commitment to its Bitcoin holdings was additionally demonstrated through the transfer of over 5,600 Bitcoin to a cold wallet, which is regarded as a more secure storage alternative in the space.
+Meanwhile, the crypto community has also taken to X to welcome El Salvador’s mempool. They appreciated the transparency of El Salvador’s Bitcoin holdings. Criptolawyer, a well-known Latin American crypto community personality and the founder of Bitcoin legal advisor and consultancy Legalrocks has voiced her support.
+“The Government of El Salvador publishes its holdings in BTC so that anyone in the world at any time can audit their Bitcoin reserves in real-time,” said Criptolawyer.

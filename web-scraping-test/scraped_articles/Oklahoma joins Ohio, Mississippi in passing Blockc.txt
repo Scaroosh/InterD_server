@@ -1,0 +1,14 @@
+Article Title: Oklahoma joins Ohio, Mississippi in passing Blockchain Basics Act
+
+Article Text:
+Oklahoma has become the latest state to pass the Blockchain Basics Act, seeking to protect its citizens’ right to own, trade, and mine digital currencies.
+The Act recently sailed through both state legislature chambers (81-1 in the House of Representatives) and awaits Gov. Kevin Stitt’s signature. If assented by the Republican governor, it would take effect on November 1.
+The Blockchain Basics Act is a nationwide framework that lawmakers customize for their states, but the general provisions remain consistent. In Oklahoma, the initiative was led by Rep. Brian Hill (R-Mustang) in the lower house and state Sen. Bill Coleman (R-Ponca City) in the State Senate.
+It prohibits the state government from restricting the use of digital currencies to purchase goods or self-custody. It also protects citizens’ rights to mine digital currencies at home as long as they comply with local noise regulations.
+The Act also requires state governments to treat commercial miners like any other data center business—they should not be subjected to higher energy costs, discriminatory noise pollution regulations, or any other extra requirements.
+Storm Rund, the president of the Oklahoma Bitcoin Association, was one of the key figures behind the push for the bill’s passage. He told one local outlet that the legislation would give the Sooner State an edge in attracting blockchain businesses.
+Rund criticized the approach of some states, like New York, which he says is skewed to favor corporations at the expense of smaller startups.
+“What that basically does is people who have deep pockets and compliance departments that can fill out sort of the honours applications that are difficult to get, do it and it discourages startups from just getting off the ground,” he told the Journal Record.
+“Those types of companies have totally left places like New York, and the more and more that we see places like Oklahoma pass legislation like this, the more businesses we’re going to see started in Oklahoma.”
+The Blockchain Basics Act also strongly criticizes the proposed digital dollar, which resonates strongly with states whose leaders oppose the CBDC. This has led to quick adoption in red states such as South Dakota, South Carolina, Tennessee, Nebraska, and Missouri.
+Watch: It’s time for regulation to enable blockchain growth

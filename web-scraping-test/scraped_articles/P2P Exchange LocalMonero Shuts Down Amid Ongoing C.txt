@@ -1,0 +1,11 @@
+Article Title: P2P Exchange LocalMonero Shuts Down Amid Ongoing Crackdown - TheNewsCrypto
+
+Article Text:
+Peer-to-peer trading platform for privacy coin Monero (XMR) has abruptly shut down, joining a slew of other recent closures and arrests involving crypto privacy.
+All new signups and ad posts for Monero trades have been blocked, as stated by LocalMonero on May 7, effective immediately. The trading of the privacy-focused cryptocurrency asset will be disabled on the platform on May 14.
+Moreover, the company did not disclose the precise causes of its shutdown, just stating that “a combination of internal and external factors” were to blame. In addition, the website will be shut down on November 7. Users are kindly asked to withdraw any funds from their wallets before that date to avoid having them declared abandoned.
+The P2P Monero exchange, which began operations in 2017 as an XMR substitute for LocalBitcoins, recognized the significant growth of the Monero ecosystem. “With or without our platform,” the team firmly believes that decentralized exchanges like Haveno and Serai are on the horizon, and that the newly released privacy upgrade known as Full-Chain Membership Proofs (FCMPs) further solidifies this belief.
+Some have seen the development as a further setback for privacy-focused cryptocurrencies and protocols, after Kraken’s April decision to stop supporting Monero for its Irish and Belgian clients and the recent legal action against Tornado Cash.
+Although the platform did not provide a cause, people were free to conjecture. Financial authorities throughout the world have recently cracked down on privacy coins and services. The crypto mixer Samourai Wallet’s co-founders were detained in April for alleged money laundering. As the assault on privacy became more severe, the creators of other privacy services, such Trezor and Wasabi, have recently shut down their operations.
+Highlighted Crypto News Today:
+OpenSea Shows Steep Decline in ETH NFT Trading Volume, Why?

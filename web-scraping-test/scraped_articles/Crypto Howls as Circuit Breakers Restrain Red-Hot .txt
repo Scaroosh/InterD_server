@@ -1,0 +1,13 @@
+Article Title: Crypto Howls as Circuit Breakers Restrain Red-Hot GameStop Rally
+
+Article Text:
+GameStop (GME) stock was halted multiple times amid a huge surge on Monday, drawing laughter from crypto fans.
+Crypto goes 24/7 without any circuit breakers, unlike the stock market.
+GameStop (GME) is yet again the stock of the day, soaring Monday due to support from traders gripped by meme-stock fever.
+But it was a stilted rally, halted repeated by the U.S. stock market's famous – or infamous, depending on one's perspective – system of "circuit breakers" designed to prevent prices from getting out of control.
+And that has enthusiasts of cryptocurrencies, where markets go 24/7 with no circuit breakers (except for the occasional exchange malfunction), laughing.
+The U.S. stock market got circuit breakers in stages following the harrowing crash of October 1987, initially set up as a brief whole-market shutdown in case of a rapid collapse and then later, following the so-called flash crash of May 2010, more tailored toward restraining individual stocks.
+These are government-mandated things. Former U.S. Treasury Secretary Nicholas Brady is credited with inventing the marketwide one after the 1987 crash. "The circuit breaker that I invented restores calm," he told a CoinDesk reporter at a prior job.
+Yet there are criticisms. If markets plunge but they're frozen, traders can't immediately swoop in and buy, driving prices back up. After Ethereum's ether (ETH) plunged to 10 cents from $317.81 in less than a second back in June 2017, Coinbase said it was considering introducing circuit breakers. It never did. Within 10 seconds, it was back above $300, an executive said at the time in an interview with Bloomberg.
+Back in 2024, everything from bitcoin (BTC) to dogwifhat (WIF) kept chugging along Monday as GameStop was temporarily stuck.
+Read more: Solana Meme Coins, GameStop Stock Rocket as 'Roaring Kitty' Returns on X

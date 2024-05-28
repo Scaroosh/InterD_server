@@ -1,0 +1,19 @@
+Article Title: Bitcoin Price Forecast $65k Rally or $59k Reversal in the Week Ahead
+
+Article Text:
+Bitcoin price opened trading at $62,000 on Monday, May 13, gaining 4% at the weekend, but key on-chain BTC metrics suggest volatile market movements ahead.
+With Bitcoin ETF inflows slowing and miners offloading their reserves as a result of the halving kick-in, BTC now faces a heightened risk of intense market volatility in the week ahead.
+Bitcoin price has been stuck in a sideways pattern within the $59,000 to $63,000 narrow range for the better part of the last 10 days. Over $200 million in outflows from Grayscale’s GBTC ETF and declining inflows into the other 10 newly approved spot BTC funds have put downward pressure on Bitcoin price action after a remarkable start to 2024.
+Over the past week, bull traders have defended the critical support territory at $58,000 fiercely. But, recent trends observed among Bitcoin miners in the last 10 days threaten to pile on additional pressure in the week ahead.
+The IntoTheBlock chart below tracks daily changes in the number of coins held by recognized Bitcoin miners and mining pools. This provides real-time insights into the current trading activity and dominant sentiment of Bitcoin miners.
+As depicted above, the miners held 1.93 million BTC in the cumulative balances as of May 3 2024. But curiously, at they have offloaded over 100,000 BTC since then, cutting down their balances to 1.92 million BTC at the time of writing on May 13.
+Valuing those 100,000 BTC at the current prices of around $62,300 per coin, the miners have effectively offloaded over $623 million within the last 10 days.
+The miners selling frenzy could be attributed to the recent halving event, which saw their revenue per block mine drop from 6.25 BTC to 3.13 BTC. With many miners becoming unprofitable, a number of them appear to have resorted to selling their reserves to cover running costs amid the flat outflows from Grayscale’s GBTC ETF.
+Without a significant uptick in Bitcoin prices, the current market dynamics could force miners to offload more coins in the days ahead, putting BTC at risk of another reversal below $60,000.
+More so, miners’ sell-off could also discourage strategic swing traders who may now cut down on making fresh capital inflows to avoid the inflationary impacts of the newly issued BTC flooding the markets.
+Bitcoin price has managed to hold up above $60,000 for the better part of May 2024, thanks to strong macroeconomic fundamentals. But, a reversal towards $58,000 now looks probable, as miners react to the halving’s impact on their bottom line with a $623 million BTC sell-off in 10 days.
+IntoTheBlock’s GIOM data shows that Bitcoin price could be a formidable short-term support at the $59,600 territory.
+As seen above, 5.74 million addresses have acquired 2.3 million BTC at an average price of $59,617.
+With market analysts now betting on imminent Fed rate cuts following the underwhelming Jobs data reported in April, many of those Bitcoin investors that bought in at the $59,600 area could opt to cover their positions rather than exit early.
+But, if that vital support level fails to hold, the BTC price could tumble as low as $58,000.
+On the upside, bulls could stage a mild rally toward $65,000, especially if the Bitcoin ETFs hit the ground running with rapid inflows this week. But if the miner’s sell-off persists, BTC price will likely continue to consolidate below the $64,000 level.

@@ -1,0 +1,10 @@
+Article Title: Bitcoin Price Drops Toward $61K as Coinbase Reports System-Wide Outage
+
+Article Text:
+The largest US-based cryptocurrency exchange informed its customers minutes ago that it is experiencing a system-wide outage but also reassured them that all funds are safe.
+While it may not be entirely related, the price of bitcoin reacted with an immediate price drop that drove it south by almost a grand.
+The Coinbase status page highlighted the issue just a few hours ago, adding that the team has begun investigating it. Minutes ago, there was another update saying they continue to look into the problem.
+These “system-outage” warnings came just minutes after more issues, described as “degraded transactions,” in which users reported failures when sending crypto or withdrawing fiat currencies.
+After both problems, though, Coinbase wrote that “all funds are safe.”
+At the same time these issues came to light, BTC’s price headed south and dropped by more than a grand in minutes. Although these events might not be related, it’s safe to assume that issues with the largest US crypto exchange can impact bitcoin’s price movements.
+The asset dropped from $62,700 to $61,450 in minutes. Moreover, BTC is down by two grand from yesterday’s peak at $63,400.

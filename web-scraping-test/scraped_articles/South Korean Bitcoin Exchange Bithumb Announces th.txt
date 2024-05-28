@@ -1,0 +1,13 @@
+Article Title: South Korean Bitcoin Exchange Bithumb Announces the Listing of Two New Altcoins! Prices Have Moved!
+
+Article Text:
+Bithumb, South Korea's second largest cryptocurrency exchange after Upbit, started the day with an altcoin announcement.
+At this point, Bithumb announced that it will list two altcoins named Aioz Network (AIOZ) and Near Protocol (NEAR).
+“Today AIOZ/KRW and NEAR/KRW trading pairs will be listed.
+AIOZ Network (AIOZ) Transaction Support:
+Supported Market: Korean Won Market Supported network: Ethereum * Deposits made through other networks are not supported.
+NEAR Protocol (NEAR) Transaction Support:
+Supported Market: Korean Won Market Supported Network: NEAR Protocol * Deposits made through other networks are not supported.”
+The Aioz Network is an L1 blockchain with Ethereum and Cosmos interoperability; Near Protocol is a sharded PoS L1 blockchain.
+Following the news, AIOZ and NEAR prices became active.
+*This is not investment advice.

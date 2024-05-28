@@ -1,0 +1,17 @@
+Article Title: El Salvador Launches Bitcoin Treasury Transparency Website
+
+Article Text:
+El Salvador, the first country to adopt Bitcoin as legal tender, has unveiled a dedicated website for monitoring its national Bitcoin holdings. This move underscores their commitment to transparency and accountability in managing their digital currency reserves.
+Real-time Transparency into El Salvador’s Bitcoin Holdings
+The website leverages on-chain data to provide users with real-time insights into El Salvador’s Bitcoin treasury. As of May 13, 2024, 8:20 AM UTC, the website reveals El Salvador holds 5,748 BTC, valued at approximately $360 million with Bitcoin trading above $62,700.
+The website further details El Salvador’s recent Bitcoin acquisition activity. Over the past week, they purchased 7 BTC for over $438,000, adding to their total of 31 BTC worth $1.94 million acquired in the last 30 days. These purchases align with El Salvador’s stated goal of accumulating 1 Bitcoin daily.
+El Salvador’s adoption of Bitcoin as legal tender in September 2021 marked a historic moment. Their objectives included fostering financial inclusion, facilitating efficient remittance transfers, and attracting innovation within the financial sector.
+
+President Bukele’s Decision and Subsequent Scrutiny
+President Nayib Bukele’s decision initially received criticism. The collapse of the FTX exchange in November 2021 coincided with a substantial drop in Bitcoin’s price from its previous all-time high of $69,000. As Bitcoin plunged to lows of $16,000 during the bear market, El Salvador’s Bitcoin holdings experienced significant unrealized losses.
+Despite the price volatility, El Salvador has implemented a dollar-cost averaging (DCA) strategy for their Bitcoin purchases since 2021. Their average buying price sits at $43,097 per BTC. With Bitcoin currently trading above $62,000, this translates to an unrealized profit of over $57.4 million on their Bitcoin holdings, according to the Nayib Bukele Portfolio Tracker website.
+
+Potential Financial Benefits for El Salvador
+Prominent venture capitalist Tim Draper believes El Salvador’s Bitcoin holdings could be a significant financial boon for the nation. In an interview with Cointelegraph, Draper suggested that El Salvador could achieve financial independence and potentially pay off its International Monetary Fund (IMF) loans if the Bitcoin price reaches $100,000.
+Many prominent crypto analysts predict that Bitcoin will surpass the $100,000 mark during the upcoming 2024-2025 bull cycle. Research by Bitfinex analysts shared with Cointelegraph suggests a potential cycle top exceeding $150,000 following the 2024 halving event. Their prediction utilizes a regression model, forecasting a 160% post-halving price surge within the next 14 months.
+Bitcoin’s future price action will likely be heavily influenced by institutional inflows, particularly from U.S. spot Bitcoin exchange-traded funds (ETFs). After three consecutive weeks of net outflows, U.S. Bitcoin ETFs have recently experienced a positive shift, attracting a total of $413 million in net inflows over the past week, according to Dune Analytics data.

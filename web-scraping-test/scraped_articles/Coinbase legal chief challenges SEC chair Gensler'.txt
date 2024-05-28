@@ -1,0 +1,15 @@
+Article Title: Coinbase legal chief challenges SEC chair Gensler's claim that most crypto tokens are securities
+
+Article Text:
+Coinbase chief legal officer Paul Grewal called on US SEC Chair Gary Gensler to stop misleading the market about the legal status of cryptocurrencies in a May 7 social media post.
+Grewal made the statement in response to Gensler’s recent CNBC interview with Andrew Sorkin, where he asserted that numerous digital assets fall under the category of securities according to existing law.
+However, Grewal countered that the SEC chair’s claims were false as the watchdog’s lawyers have previously acknowledged that cryptocurrencies do not fall under the definition of securities.
+In his message to Gensler, Grewal stated unequivocally:
+“Please stop misleading the market — tokens are NOT securities. Their pleadings notwithstanding, your own attorneys have admitted this in court.”
+Meanwhile, Gensler reiterated his known stance that most cryptocurrencies are securities tokens in his CNBC interview, adding that they often lack the necessary disclosures meant for assets in this class.
+According to the SEC chair:
+“Without prejudging any one of them, many of those tokens are securities under the law of the land, as interpreted by the US Supreme Court. So we follow that law, and you, the investors, are not getting the required or needed disclosures about those assets.”
+Although Gensler did not specify which cryptocurrencies he considers securities, recent regulatory actions suggest that all major tokens, excluding Bitcoin, are under scrutiny.
+Since assuming the role of SEC Chair, Gensler has prioritized bringing crypto within the commission’s regulatory purview, citing the Howey test as a benchmark for determining securities status.
+Critics have lambasted Gensler’s enforcement-centric approach, advocating instead for legislative clarity from Congress. However, progress on crypto-related legislation has been sluggish, prolonging uncertainty in the industry.
+Several crypto entities, including Binance, Coinbase, and Ripple, are entangled in legal battles with the Gensler-led commission. Furthermore, during the past month, the financial watchdog has issued Wells Notices to other major crypto firms, such as Uniswap, Consensys, and digital trading platform Robinhood.

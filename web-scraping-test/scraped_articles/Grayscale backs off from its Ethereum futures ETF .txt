@@ -1,0 +1,13 @@
+Article Title: Grayscale backs off from its Ethereum futures ETF application
+
+Article Text:
+Grayscale, a leading crypto asset manager, has withdrawn its rule change application to the Securities and Exchange Commission (SEC) for an Ethereum futures exchange-traded fund (ETF), citing multiple delays by the federal regulator since the initial filing in September 2023.
+The notice of withdrawal, submitted on Tuesday, did not provide specific reasons for Grayscale’s decision to abandon its plan for the Grayscale Ethereum Futures Trust ETF. The SEC had invoked several delays in reviewing the proposal, most recently on March 22, after previously extending the review period on November 15 and December 18.
+Bloomberg analyst James Seyffart described the move as “interesting,” suggesting that the filing was “essentially a trojan horse” designed to create similar circumstances to Grayscale’s successful lawsuit against the SEC over its Bitcoin trust (GBTC).
+UPDATE This is interesting. @Grayscale just withdrew their 19b-4 filing for an #Ethereum futures ETF. This was essentially a trojan horse filing in my view, in order to create the same circumstances that allowed Grayscale to win the $GBTC lawsuit (approve futures deny spot) pic.twitter.com/Kihj2dlQx1
+— James Seyffart (@JSeyff) May 7, 2024
+In August, a federal appeals court sided with Grayscale after the firm accused the agency of approving Bitcoin futures ETFs while denying Bitcoin spot ETFs.
+Seyffart speculateds that Grayscale wanted the SEC to “approve futures, deny spot” again, potentially setting up another legal showdown. However, he noted that the withdrawal could be a sign that Grayscale is not pursuing a lawsuit this time around.
+Notably, however, Seffart did not dismiss the possiblity of Grayscale re-filing an amended application, which would be less work for the SEC but would eliminate the opportunity for a lawsuit.
+The move comes amid growing skepticism about the SEC’s willingness to authorize Ethereum spot ETFs, despite the agency’s approval of Bitcoin spot ETFs in January, which sparked a bull run for the top cryptocurrency.
+The odds of approval for Ethereum spot ETFs have continued to decline, further diminished by recent revelations that the SEC allegedly classified Ethereum as a regulated security last year, contrary to public statements indicating that no decision had been made.

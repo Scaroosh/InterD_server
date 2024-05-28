@@ -1,0 +1,13 @@
+Article Title: Middle East-Focused Crypto Exchange, Rain, ‘Likely Exploited’ for $14.8 Million, Says Zachxbt
+
+Article Text:
+The cryptocurrency exchange Rain, which focuses on the Middle East, was likely exploited for $14.8 million on April 29, according to online crypto investigator Zachxbt. Zachxbt says he traced the stolen funds to a bitcoin address with 137.9 bitcoins and an ethereum address holding 1,881 ether.
+According to online cryptocurrency investigator Zachxbt, Rain, a Middle East-focused cryptocurrency exchange, was likely exploited for $14.8 million on April 29. Although Rain has not publicly confirmed the attack, Zachxbt alleges that the cryptocurrency exchange’s bitcoin (BTC), ethereum (ETH), solana (SOL), and XRP wallets experienced suspicious outflows on the day in question.
+Immediately after the exploit, the attackers reportedly transferred the stolen digital assets to instant exchanges, where they were converted to BTC and ETH. In an update shared on his Telegram channel, Zachxbt stated that he traced the funds to a bitcoin address holding 137.9 BTC and an Ethereum address containing 1,881 ETH.
+Despite two weeks passing since the attack, there is no mention or acknowledgment of the incident on Rain’s social media channels or its website. Instead, in its most recent post on X (May 8), Rain, which received financial services permission from an Abu Dhabi regulator in 2023, shared images of its General Manager in Bahrain attending the Sixth Innovation and Entrepreneurship Forum.
+It was our pleasure to have our General Manager of Bahrain @MohamedKAteeq , speak at the Sixth Innovation and Entrepreneurship Forum, organized by the @uobedubh as part of the Manama week events by the Southern Municipality. It is always a pleasure for us to share Rain's journey… pic.twitter.com/TRcuo9l74X
+— Rain (@rain) May 8, 2024
+Meanwhile, Zachxbt’s May 13 report on Rain’s exploit was issued just days after blockchain security firm Cyver Alerts disclosed one of the biggest known address poisoning attacks to date. In the attack which occurred on May 3, the unnamed victim and user of the crypto exchange Cyptex is said to have lost 1,155 WBTC, worth approximately $70 million.
+Soon afterward, the hacker(s) transferred the stolen funds to different addresses. However, on May 9 the hacker initiated contact with the victim and by the next day stolen funds had been returned.
+Some media reports suggested that the victim, a cryptocurrency whale, may have offered a reward for the return of the stolen funds that the hacker(s) took. However, cybersecurity firm Match Systems has since taken the credit for helping the victim secure their funds.
+What are your thoughts on this story? Share your opinions in the comments section below.

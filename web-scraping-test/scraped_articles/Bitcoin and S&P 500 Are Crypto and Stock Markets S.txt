@@ -1,0 +1,25 @@
+Article Title: Bitcoin and S&P 500 Are Crypto and Stock Markets Still Unrelated
+
+Article Text:
+Cryptocurrencies have historically exhibited low correlations with traditional asset classes, offering a unique source of idiosyncratic risk in portfolios.
+Bitcoin is known for its extreme volatility, with significant price swings like a roller-coaster ride — plunging over 64% in 2022 and then rallying 160% in 2023. This volatility can be challenging for crypto traders.
+On the other hand, the S&P 500 offers more stable performance, averaging 9% to 10% annual returns and serving as a benchmark for the U.S. economy. Despite lower returns compared to Bitcoin, the S&P 500's consistency and reliability make it a favored choice for risk-averse investors seeking predictable investment outcomes.
+Allocations to cryptocurrency can diversify risk and enhance returns in traditional portfolios, according to Glassnode.
+For example, adding small allocations to the Coinbase Core Index (COINCORE), a market-cap weighted crypto index primarily composed of Bitcoin (70.9%) and Ether (21.9%), to a 60/40 portfolio (60% MSCI ACWI and 40% U.S. Agg) increased both absolute and risk-adjusted returns over a five-year period ending March 31, 2024.
+During the first quarter of 2024, the total market capitalization of cryptocurrencies, including BTC, ETH, altcoins and stablecoins, rose by 63%, driven by gains in major cryptocurrencies like BTC and ETH, alongside increased stablecoin issuance.
+Bitcoin (BTC) had an impressive first quarter in 2024, posting a 69% return and outperforming most traditional asset classes, according to Coinbase and Glassnode joint report.
+Despite the launch of BTC ETFs, which many thought would lead to a stronger correlation with traditional finance assets, BTC displayed minimal correlation with major asset classes, using data from a recent Glassnode and Coinbase Institutional report. This suggests its potential as a valuable component for diversification within a portfolio.
+Bitcoin negatively correlated with the DXY index and gold, while its correlation with the S&P 500 was low at 0.11. This suggests that Bitcoin’s price movements are largely independent of traditional markets.
+However, at the start of Q2, BTC is down 15% from its highs, coinciding with the DXY index rising above 106, further highlighting the negative correlation between the two.
+The Q2 report also noted a decrease in Bitcoin’s volatility since January 2020, with peaks becoming less pronounced. Although volatility currently sits just under 60%, the report emphasizes a long-term downward trajectory despite occasional spikes above the trendline, mainly during 2020 and 2021.
+As Bitcoin continues to mature into a major asset class, its volatility is expected to continue to decline over time.
+While historically Bitcoin's correlation with the stock market has been low, recent years have seen a slight increase, with the correlation over the last five years rising to 0.41.
+According to Tastylive research, generally, there is little correlation between Bitcoin and the S&P 500, except during significant price movements of Bitcoin (+5% or more to the upside, or less than -5% to the downside).
+When Bitcoin's price movement exceeds 5%:
+When Bitcoin's price movement is below -5%:
+On other days:
+The increasing correlation between Bitcoin and the S&P 500 can be attributed to factors such as declining inflation and the U.S. Federal Reserve's decision to pause interest rate hikes.
+This created a favorable environment for risk-on trading, leading to bull rallies for both Bitcoin and the S&P 500 index despite the bearish sentiment following the 2022 correction.
+As Bitcoin's correlation with traditional equity markets like the S&P 500 and Nasdaq increases while its correlation with gold decreases, it suggests that Bitcoin is behaving more like a risk-on asset rather than a safe haven.
+When investors are feeling adventurous, they often gravitate toward stocks and digital coins for the potential of higher profits.
+The increasing involvement of institutional and retail investors in both equity and cryptocurrency markets could lead to simultaneous buy and sell decisions, aligning the price movements of these assets.

@@ -1,0 +1,17 @@
+Article Title: We asked ChatGPT what will be Bitcoin price if Trump wins presidency
+
+Article Text:
+In 2021, former President Donald Trump made no secret of his disdain for cryptocurrencies, describing them as ‘potentially a disaster waiting to happen’ and professed his appreciation for the good old American dollar.
+By 2024, the stance of the presidential candidate Donald Trump has seemingly undergone a radical change. Not only did the controversial billionaire release several rounds of self-inspired non-fungible tokens (NFTs) but has seemingly – much like his Republican party – embraced the crypto market.
+Indeed, on May 8, he openly discussed Bitcoin (BTC) and other cryptocurrencies – including the Jeo Boden (BODEN) meme coins – explaining he now accepts donations in digital assets and noting that his victory would benefit the crypto community far more than a defeat.
+Given the dramatic change of heart and Biden’s continued strict approach to cryptocurrencies, Finbold decided to consult OpenAI’s flagship artificial intelligence (AI) platform – ChatGPT – on what might happen to Bitcoin should Trump secure a second term.
+Though it initially struggled a bit to set Trump’s changing stance on crypto in order, ChatGPT did conclude that, upon analyzing the most recent developments, a victory for the Republican candidate has a better chance of being bullish for BTC than not.
+According to the AI, the fact that Trump has turned pro-crypto, that his administration would likely seek deregulation, and that the community would – based on his statements and the Republicans’ reputation – anticipate a lenient regulatory climate, Bitcoin could indeed surge significantly.
+
+it is interesting to note, however, that ChatGPT initially misidentified BTC’s highs as near $64,000 though, once corrected and informed that Bitcoin price today stands at $61,015 after a 1.22% daily decline, as well as that it hit a new all-time high (ATH) near $73,000 in March, little change in the analysis.
+The AI, however, did update its Trump victory price target for the coin to a range between $80,000 and $90,000.
+
+Finally, ChatGPT also offered an opposing view it deems plausible. Along with broader factors that can affect cryptocurrency prices, the AI singled out the fact that it is common for politicians not to follow through on their campaign promises, meaning that regulatory uncertainty might persist under Trump.
+
+Under such circumstances, ChatGPT estimated that Bitcoin might find itself in the significantly lower range between $50,000 and $60,000.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.

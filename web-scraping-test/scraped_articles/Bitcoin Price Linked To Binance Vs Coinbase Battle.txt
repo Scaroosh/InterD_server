@@ -1,0 +1,13 @@
+Article Title: Bitcoin Price Linked To Binance Vs Coinbase Battle, Quant Reveals
+
+Article Text:
+A quant has explained how there appears to be a relationship between Coinbase’s spot volume dominance vs. Binance’s and the Bitcoin price.
+In a CryptoQuant Quicktake post, an analyst discussed the dynamics in the cryptocurrency market that arise out of the battle happening between Binance and Coinbase for spot volume dominance.
+As the graph shows, Binance has been the much more dominant of the two platforms when considering the spot volume. The exchange is hosting five times as much volume as Coinbase.
+The analyst notes that the difference between the two would be even higher when considering the BTC-FDUSD pair, which isn’t included in the data depicted in the above chart.
+Despite the much lower spot volume, Coinbase still hasn’t been irrelevant in the market. For example, the platform is the custodian for Bitcoin spot exchange-traded funds (ETFs) like BlackRock’s IBIT and Grayscale’s GBTC.
+There also appears to be an interesting pattern between the dominance of the American exchange and the Bitcoin spot price. The quant has highlighted this trend in the graph.
+There have been a few instances where a rise in the spot trading volume of Coinbase against Binance has preceded surges in the value of cryptocurrency. Similarly, declines in the platform’s dominance have seemingly led to drawdowns in the Bitcoin price.
+The analyst has also discussed the trend in the volumes of the two exchanges more closely, using the spot volume ratio for them, as shown below.
+The chart shows that the spot volume ratio between Binance and Coinbase had spiked to very high levels in 2023, with the former’s volume being 53 times the latter’s. The reason behind this was the zero-fee scheme that Binance had introduced for the Bitcoin trading pairs.
+However, Coinbase’s volume has recently risen, although the ratio remains notably in favor of Binance. This shift in the market emerged as the Bitcoin spot ETF-related news started to intensify.

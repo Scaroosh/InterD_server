@@ -1,0 +1,25 @@
+Article Title: Marsh Introduces Insurance Solution for EU Crypto-Asset Service Providers
+
+Article Text:
+Marsh, the insurance broking and risk advisory business of Marsh McLennan, has unveiled an insurance solution designed for crypto-asset service providers operating within the European Union (EU).
+The launch of MiCAssure comes in anticipation of the forthcoming Markets in Crypto-Assets Regulation (MiCA), which is set to be implemented on December 30, 2024, according to a Thursday press release.
+MiCAssure is intended to address the regulatory framework established by MiCA, which seeks to provide legal certainty, consumer protection, and address market fragmentation within the EU’s crypto-assets market.
+
+The insurance solution, developed in collaboration with Lloyd’s and London market insurers by Marsh Specialty, offers coverage for third-party claims related to misrepresentations, confidentiality breaches, business interruption, legal obligations, and gross negligence in safeguarding clients’ crypto assets and funds.
+“Regulatory advancements such as MiCA enhance the credibility of the digital asset ecosystem by offering security and stability to retail users and institutions venturing into the digital assets space, while providing robust guidance and frameworks for crypto-asset service providers,” Rupert Poland, the UK digital asset leader at Marsh Specialty, said.
+He claimed that MiCAssure serves as both an operational safeguard and a means to unlock capital, facilitating growth for crypto-asset service providers operating in the EU.
+“MiCAssure not only offers clients an operational safeguard but also has the potential to free up capital and facilitate growth, making it a vital insurance and risk management solution for crypto-asset service providers operating in the EU.”
+🔒 Protect your crypto like never before! Marsh unveils revolutionary insurance solutions customized for EU clients. Say goodbye to sleepless nights worrying about your investments! 🛡️ #MarshCrypto #SecureYourFuture pic.twitter.com/7qDIucnw5W
+— Koinpro exchange (@ProKoin) May 9, 2024
+The introduction of MiCAssure follows Marsh’s previous launch in March of an insurance facility for digital asset custodians, including financial institutions.
+This facility, which boasts the largest insurance capacity of its kind, up to $825 million, is accessible to Marsh clients worldwide.
+It specifically supports organizations that store digital assets in offline or “cold storage.”
+
+The EU is in the process of implementing the MiCA regulation, which includes rules for safekeeping and segregation of assets for custodians.
+Last month, the EU formally passed an anti-money laundering regulation (AMLR), applicable to all crypto-asset service providers (CASPs).
+The laws would provide more powers to Financial Intelligence Units (FIUs) to detect and combat money laundering and terrorist financing.
+More recently, the EU securities watchdog, the European Securities and Markets Authority (ESMA), revealed that it is seeking input from stakeholders on the potential inclusion of crypto assets in investment products.
+“By the end of the year, all of MiCA’s rules are scheduled to come online,” Nicolas Streschinsky, the Head of DeFi at Trilitech, said in a comment.
+“Together with other initiatives like the EU DLT Pilot Regime, the regulatory landscape for cryptocurrency assets and blockchain-linked projects in the European Union is rapidly becoming the clearest out of all major jurisdictions.”
+As reported, Western Europe has emerged as a leading region in global crypto adoption, attracting a substantial number of daily traders, ranging from 1.2 million to 1.5 million individuals.
+Another recent survey has revealed that nearly 50% of European cryptocurrency holders owned Bitcoin in February.

@@ -1,0 +1,15 @@
+Article Title: Susquehanna has more Bitcoin exposure than just ETFs
+
+Article Text:
+Susquehanna, a prominent trading firm, has disclosed a $1.3 billion investment in spot Bitcoin ETFs. The firm’s portfolio is primarily dominated by the Grayscale Bitcoin Trust (GBTC), which accounts for a substantial $1.1 billion of the total investment. The company’s appetite for Bitcoin exposure extends beyond just GBTC, as the firm has invested in nine spot Bitcoin ETFs in the US market.
+According to the 13F filing, their investments span a diverse range of Bitcoin-related products, including $470,944 invested in the Bitwise Funds Trust.
+
+The company has a $2.91 million investment in Global X Funds Bitcoin Trend Strategy (BTRN) and multiple investments in ProShares Short Bitcoin (BITI) totaling $4.03 million.
+
+Furthermore, Susquehanna has made substantial investments in the ProShares Bitcoin Strategy ETF (BITO), with five separate investments amounting to $429.93 million.
+
+They have a $1 million investment in the Valkyrie Bitcoin Futures Leveraged Strategy ETF and the Valkyrie ETF Trust for Bitcoin miners, totaling $8.82 million.
+
+Susquehanna has three separate investments in the 2x Bitcoin Strategy (BITX), amounting to $97.85 million.
+
+As a large proprietary trading firm, Susquehanna’s diverse portfolio includes leveraged, short, and volatility-based investments. This approach enables the company to take a strategic approach to trading and capitalizing on market opportunities. In their pursuit of maximizing gains, they’re not just holding spot ETFs but diversifying and hedging various investments to optimize returns.

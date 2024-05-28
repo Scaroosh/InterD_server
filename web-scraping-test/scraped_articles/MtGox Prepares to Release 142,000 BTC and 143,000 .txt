@@ -1,0 +1,12 @@
+Article Title: MtGox Prepares to Release 142,000 BTC and 143,000 BCH by October 31st
+
+Article Text:
+Rising anticipation surrounds the once-dominant Bitcoin exchange, MtGox, as recent updates on the Kraken BTC and BCH payment API interface point to major upcoming movements. Data on Reddit reveals that the interface now reads “payment in preparation” with a timestamp dated May 13.
+It signals that MtGox is getting ready to finally release its massive holdings, which include 142,000 bitcoins (BTC), 143,000 bitcoin cash (BCH), and 69 billion yen. This massive disbursement is expected to reach creditors no later than October 31st.
+For a very long time, MtGox has been a mix of hope and despair for many investors. Founded in 2010, it quickly became the largest crypto exchange globally. It practically made history.
+However, its reign ended in 2014 after a devastating security breach that led to the loss of all its 850,000 bitcoins. This caused the platform to collapse and sent tremors across the cryptocurrency market, leaving all investors destitute.
+Fast-forward to September 2023. The trustee managing the remnants of the exchange made an important announcement. Creditors, long waiting in the wings, were assured they would finally receive their due in cryptocurrency and fiat.
+Specifically, the payouts include the earlier mentioned Bitcoin and Bitcoin Cash and 69 billion Japanese yen, approximately valued at $500 million as of press time.
+Interestingly, getting to these repayments has not been straightforward. A quick look at multiple screenshots shared by users illustrates that the repayment status for fiat currency claims is already marked as complete.
+Investors are both relieved and surprised by the positive development. One particular Mt. Gox creditor noted, “Money received as USD into an HSBC currency account and looks like zero fees.” This person’s account, like many others, saw a real-time update in fiat transactions, confirming the efficient handling and transfer of funds.
+Moreover, the user’s updates broke down the systematic approach taken towards these repayments. The update trail shows a sequence starting from March 15, followed by April 8, and a significant update on April 18, coinciding with when the BTC transactions were processed.

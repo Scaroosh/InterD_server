@@ -1,0 +1,14 @@
+Article Title: TON and DOGE See Surge in Non-Empty Wallets as They Outperform Rivals XRP, ADA, and Others
+
+Article Text:
+New data suggests a surge in cryptocurrency market activity, with Toncoin ($TON) and the meme-inspired cryptocurrency Dogecoin ($DOGE) showing surprising strength compared to established players including leading stablecoins and other altcoins such as XRP, LINK, and ADA.
+According to data shared by on-chain data aggregator Santiment, Dogecoin and Telegram’s TON have seen a significant rise in user adoption, as measured by the number of non-empty wallets, with TON seeing 110% growth, and DOGE seeing 27% growth over the past six months.
+In concrete figures this means that a total of 16,800 new addresses were create on the Toncoin network, while DOGE saw the creation of 6.6 million new wallets. Despite seeing slower growth leading cryptocurrencies Ethereum and Bitcoin saw the creation of a greater number of non-empty wallets, with EHT adding over 120 million wallets after growing 11%, while Bitcoin added 53.9 million wallets, a growth of 10%.
+Leading stablecoins including XRP, LINK, and Ada added a significant number of walelts, but their growth was significantly slower in percentage terms, with XRP adding 5.2 million wallets – just 7% more over a six-month period – and ADA adding 4.5 million wallets, barely enough to move the needle.
+📊 Sorted by greatest growth in the past 6 months, here is the net change of non-empty wallets among top market caps in #crypto (apologies to #BinanceCoin and #Solana, not pictured in this study): 🪙#Toncoin $TON 16.8K wallets (+110% growth) 🪙 #Dogecoin $DOGE 6.6M wallets… pic.twitter.com/IhjJn6syn2
+Notably TON, the naïve cryptocurrency of The Open Network blockchain, has surged over the last few months to become one of the largest cryptocurrencies by market capitalization, as it’s currently trading at $5.9, with a $20.4 billion market capitalization, surpassing Cardano.
+In an effort to address the growing need for secure digital identity verification, the TON Foundation announced on 7 April 2024 a collaboration between TON Society and HumanCode. This partnership aims to integrate advanced technology for verifying digital personhood within the TON Ecosystem.
+The collaboration introduces a $5 million incentive program designed to encourage adoption within the TON community.
+The increased interest in TON can also be traced back to its integration into the popular messaging app Telegram in September 2023. The TON wallet became available to Telegram’s 800 million users worldwide, which helped drive the initial price surge.
+Meanwhile Dogecoin has, according to a cryptocurrency analyst, the potential to start surging  after seeing its first bullish monthly close in the last three years, with the analyst predicting its price could surge to as much as $1.
+Featured image via Unsplash.

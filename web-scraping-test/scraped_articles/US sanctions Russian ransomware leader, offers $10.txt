@@ -1,0 +1,14 @@
+Article Title: US sanctions Russian ransomware leader, offers $10M reward
+
+Article Text:
+The United States has revealed the supposed leader of crypto-ransomware group LockBit and is offering a $10 million bounty to anyone who can out key leaders from the hacking group.
+The US Treasury Department outed Dmitry Yuryevich Khoroshev as the primary leader of Russia-based LockBit in a sanction issued today.
+According to US authorities, Khoroshev is behind the ‘LockBitSupp’ moniker and helped upgrade and manage LockBit. It also shared his Bitcoin crypto address: bc1qvhnfknw852ephxyc5hm4q520zmvf9maphetc9z.
+Malware-focused account vx-underground, however, claims that LockBit issued a statement to the FBI that reads, “The FBI is bluffing, I’m not Dimon, I feel sorry for the real Dimon))) oh, and he’ll get fucked for my sins))).”
+Vx-Underground additionally reports that Khoroshev’s information, including his address and food order history, was exposed, and that he has a fondness for Cheesecake Factory.
+Today’s US sanction included a $10 million reward to anyone with information that may reveal the identity of LockBit’s key leaders. In addition, the government is offering $5 million to anyone with information that can lead to the arrest of anyone involved with LockBit ransomware.
+Read more: LockBit countdown disappoints viewers with vague hints and a cartoon cat
+LockBit runs a ransomware-as-a-service model that generates funds by licensing its ransomware tools to fellow cybercriminals while taking a cut of their exploits.
+The US states, “[LockBit] has targeted over 2,500 victims worldwide and is alleged to have received more than $500 million in ransom payments,” while attacking “financial services, food and agriculture, education, emergency services, and healthcare.”
+Last February, 200 crypto addresses linked to LockBit were frozen, and its site was seized by authorities, including the FBI, Europol, and the UK National Crime Agency.
+In the same month, authorities teased the announcement of LockBit’s leader and left users a little underwhelmed when its announcement revealed little more than a cartoon cat and the car he drove.

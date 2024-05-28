@@ -1,0 +1,14 @@
+Article Title: Stacks Foundation joins Uphold to drive Bitcoin adoption
+
+Article Text:
+The Stacks Foundation, a leading blockchain platform, has just announced a new partnership with Uphold, the multi-asset money platform, aimed at boosting the mainstream Bitcoin (BTC) adoption, according to the information shared with Finbold on May 14.
+Thanks to the collaboration, Uphold users will not only be able to trade native STX but also seamlessly transfer their STX between their external Stacks compatible wallets and Uphold accounts.
+Uphold stands out as more than just a typical cryptocurrency exchange with its Anything-to-Anything trading approach allowing users to trade between various asset classes such as cryptocurrencies, commodities, and equities.
+With a global reach spanning over 184 countries and dealing with 250+ currencies (both traditional and crypto) and commodities, Uphold brings nearly a decade of experience to the table, having facilitated over $4 billion in transactions.
+Transparency is another key pillar for Uphold, the platform always maintaining reserves of 100% or more and publishes its assets and liabilities in real time.
+Bitcoin is becoming more than a store of value, moving beyond its status as digital gold.
+The reputation of the cryptocurrency is changing with the rise of Bitcoin Layer 2s, led by Stacks and other platforms that can unlock its potential as a fully programmable, productive asset by enabling applications to be built on top of it.
+Stacks’ upcoming 2024 Nakamoto and sBTC releases promise faster speeds and transactions backed by 100% Bitcoin finality.
+If successful, the release will enhance user and developer experience on the Stacks platform and pave the way for more applications on Bitcoin.
+Partnerships like the one with Uphold reflect the growing interest, normalization, and mainstream adoption of digital assets, particularly Bitcoin Layer 2s like Stacks.
+The Stacks Foundation looks forward to expanding alongside Uphold and bringing Bitcoin and Bitcoin Layer 2s to the mainstream.

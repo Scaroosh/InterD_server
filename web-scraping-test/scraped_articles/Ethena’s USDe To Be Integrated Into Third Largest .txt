@@ -1,0 +1,14 @@
+Article Title: Ethena’s USDe To Be Integrated Into Third Largest Global Crypto Exchange Bybit
+
+Article Text:
+A new Ethereum (ETH)-based USD-pegged stablecoin is getting a boost from one of the world’s largest crypto exchanges.
+Ethena Labs has announced that USDe, the stablecoin of the Ethena (ENA) ecosystem, is being integrated by Bybit, the third largest crypto exchange by trading volume.
+“We are excited to share one of the most important developments for USDe adoption to date.
+As of this week, USDe will be integrated throughout Bybit, beyond the current USDe/USDT spot pair.
+Those new integrations include:
+USDe as a collateral asset to trade perpetual futures, allowing Bybit users to potentially earn a yield paid by Bybit on their USD-pegged collateral while trading any of your favorite tokens including BTC, ETH, SOL and ENA.
+BTC and ETH – USDe zero-fee spot pairs
+USDe launch within the Bybit’s ‘Earn’ platform”
+As explained in the post, USDe will be used on Bybit as collateral for perpetual futures, as a spot trading pair for Bitcoin (BTC) and Ethereum, and as part of the trading platform’s Earn program.
+Ethena Labs bills USDe as an industry-first scalable synthetic dollar. USDe aims to maintain its USD peg with ETH and BTC backing.
+Since the announcement this morning, ENA, the governance token of the Ethena blockchain, ENA has fallen 2.8%, currently trading for $0.954. However, ENA is still up 9% in the last 24 hours.

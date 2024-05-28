@@ -1,0 +1,19 @@
+Article Title: U.S. senators challenge Attorney General and DoJ over crypto rules
+
+Article Text:
+Senators Ron Wyden and Cynthia Lummis are taking a stand against the Department of Justice for its controversial interpretation of laws regarding cryptocurrency.
+They’re referring to how crypto software services, like Samourai Wallet and Tornado Cash, are being treated as unlicensed money transmitters. The senators believe this approach is overstepping legal boundaries.
+Wyden and Lummis sent a detailed letter to Attorney General Merrick Garland, pointing out that the Treasury Department’s Financial Crimes Enforcement Network has never classified non-custodial crypto services as money transmitters.
+This action questions why the DoJ is now labeling such services under this category, risking the classification of software developers as criminals just for writing and sharing their code.
+Wyden specifically stated, “I’m concerned the DoJ’s interpretation would treat software developers as criminals for merely writing and publishing code used by others—a dangerous precedent that contradicts decades of settled law and raises serious First Amendment concerns.”
+This inquiry comes after the recent pursuit of the crypto privacy business Samourai by federal prosecutors. The letter from May 9 argues that treating developers of non-custodial crypto asset software as potential criminals goes against well-established legal interpretations.
+The senators’ letter further discusses a recent DoJ court filing where the department argued that FinCEN’s guidance on crypto mixers does not adequately address the issue of “control.”
+The DoJ believes that any service facilitating the transfer of funds fits the legal definition of a “money transmitter,” comparing it to how a USB cable transfers data.
+However, the senators argue that actual control of the funds is required for such a classification, a point not met by many crypto services.
+The letter to Garland outlines grave concerns about the broad interpretation of the statute concerning unlicensed money transmitting businesses. It suggests this interpretation dramatically expands the scope of the federal prohibition, potentially criminalizing Americans involved in non-custodial crypto services.
+According to the Federal money transmitting business statute, criminal liability applies under three conditions: if a person was required by a state to become licensed as a money transmitter, if required by federal law to register, or if engaged in money transmission and illicit finance.
+Congress is currently wrestling with legislation to set comprehensive U.S. rules for the digital assets industry, including protections against money laundering.
+Important bills are expected to be voted on soon, but the likelihood of sweeping legislation passing this year remains low. This leaves the DoJ to operate under existing laws, which, as the senators argue, may be stretched beyond their intended scope.
+The clarification provided by FinCEN’s rules states that money transmission involves the acceptance of currency from one person and its transmission to another, requiring direct receipt and control of the assets.
+“This reasoning also comports with common sense. Assets like Bitcoin may be natively digital, but they are not amorphous such as heat or electricity. Bitcoins have a clear unilateral owner at all times. If a user wishes to transfer Bitcoin to someone else, they use their private key to sign a transaction which transfers the Bitcoins to a new address.“
+This definition is important as it prevents other service providers like internet or postal services, which transmit information related to payments, from being inadvertently classified as money transmitters.

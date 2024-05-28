@@ -1,0 +1,18 @@
+Article Title: Bitcoin Mining Difficulty Is Plummeting—Here’s Why
+
+Article Text:
+Bitcoin just got much easier to mine—should we be worried?
+Data from BTC.com shows that Bitcoin mining difficulty plunged nearly 6% to 83.1 trillion hashes yesterday. The higher the mining difficulty—measured through the energy and resources that miners use to keep the network secure—the more difficult Bitcoin is to attack.
+A drop in difficulty, therefore, isn’t a good sign. But it’s expected, at least in the short term, experts told Decrypt.
+“If there isn’t enough margin for miners to make a profit, they turn off, which causes the hash rate to go down,” Luxor mining pool CEO Nick Hansen told Decrypt.
+“Hash rate” refers to the speed at which a miner produces hashes—the process of encrypting data. This model is known as proof-of-work, a key differentiator for Bitcoin.
+Bitcoin last month underwent a quadrennial event called the halving. The update cut miner rewards in half from 6.25 BTC for each block they process to 3.125 BTC.
+Miners—who produce new coins and keep the network ticking along by processing new transactions—now have to work harder to stay in the game. And with smaller rewards but harder work, a lot of miners are closing up shop altogether.
+Nishant Sharma, founder at BlocksBridge Consulting—a research and communications strategy firm dedicated to the Bitcoin mining industry—said that this is what usually happens after a halving.
+“After a Bitcoin halving, the drop in mining rewards leads less efficient miners to unplug their machines,” he said. “This self-adjusting feature favors leaner operations, as remaining miners receive increased rewards due to the reduced difficulty,” said Sharma.
+Scott Norris, CEO of mining firm Optiminer, concurred: “This is a normal occurrence after a halving event and healthy for the network and the well positioned miners,” he said.
+“The miners who planned properly will grow or the ones who turned off will get newer tech and find cheaper energy while everyone waits for the price to reflect the halving,” Norris added. “Either way, the network will continue to grow.”
+The price of Bitcoin is also playing a part in the drop in mining difficulty: the asset touched a new all-time high of $73,737 last month but today stands at $62,506, a drop of 15%, according to CoinGecko.
+If the asset were priced higher, mining the asset would be more profitable, rewards for miners would be higher and more would be able to stay in business. But a declining BTC price makes this more difficult, compounding the effects of the halving.
+Still, Norris says this isn't a surprise—and neither is the lull in the market.
+“It always happens this way,” said Norris. “Historically, it’ll be late in the year before we see much price rise [for Bitcoin].”

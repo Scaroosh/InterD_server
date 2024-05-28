@@ -1,0 +1,17 @@
+Article Title: Biden administration to veto overturning of controversial SEC crypto rules
+
+Article Text:
+The Biden administration said on May 8 that it would veto H.J. Res. 109, which intends to overturn the SEC’s Staff Accounting Bulletin 121 (SAB 121).
+The administration said it “strongly opposes” the resolution as the change will interfere with the SEC’s efforts to protect crypto market investors and safeguard the financial system. The administration added that the SEC released the bulletin due to demonstrated risks that have caused customer losses, and it reflects “considered SEC staff views.”
+The Biden administration said that lawmakers’ invocation of the Congressional Review Act would inappropriately control the SEC’s ability to create guardrails and address crypto issues. Such limits would introduce financial instability and market uncertainty.
+The notice concluded:
+“If the President were presented with H.J. Res. 109, he would veto it.”
+The US House of Representatives is scheduled to vote on the resolution on May 8.
+Chairman of the House Financial Services Committee Patrick McHenry delivered statements supporting the resolution, calling SAB 121 “one of the most glaring examples” of SEC overreach under its current chair, Gary Gensler.
+He asserted the agency avoided public comment and the rulemaking process as required by the Administrative Procedure Act (APA) by labeling the requirements for staff guidance.
+McHenry called SAB 121 “cost-prohibitive” to banks that aim to provide custody for customer crypto and warned that reducing bank participation could leave user assets vulnerable.
+Representative Tom Emmer has also supported the overturning of SAB 121. Congressman Mike Flood initially sponsored the resolution.
+SAB 121 requires financial institutions and firms that safeguard customer crypto to hold the assets on their balance sheet.
+SAB 121 has also received pushback from within the banking industry itself. The American Bankers Association (ABA) said in February that the policy has posed challenges since its introduction in 2022.
+ABA noted two main problems — SAB 121 makes it “practically impossible” for banks to act as custodians for spot Bitcoin ETFs due to reserve and capital requirements, and the bulletin fails to distinguish between cryptos on public ledgers and traditional assets on permissioned ledgers.
+Despite its dissatisfaction with the current rules, the ABA has asked the SEC to modify SAB 121 rather than overturn it entirely.

@@ -1,0 +1,41 @@
+Article Title: Analysis of the crypto Qubic, Kaspa and Render
+
+Article Text:
+The crypto world is now extremely vast, and in this article we will analyze in particular the trends of Qubic, Kaspa and Render.
+Summary
+Qubic is a new layer-1 project based on Proof-of-Work (PoW).
+PoW is the consensus algorithm used by Bitcoin. Even Ethereum was initially based on PoW, but in September 2022 it switched to Proof-of-Stake (PoS).
+Although initially most cryptocurrencies were based on PoW, now most of them are instead based on PoS, because it allows for greater scalability.
+PoW, however, remains more secure, even though the level of security achieved by PoS is still high, and that’s why crypto projects based on PoW also survive. For example, Bitcoin is very unlikely to abandon it.
+Qubic for example claims to be able to guarantee feeless transactions, even though it is based on PoW. It also claims to use artificial intelligence (AI).
+The cryptocurrency QUBIC landed on the crypto markets at the end of 2023, with an initial price around 2.6 millionths of a dollar, although since the bull run had already started by then, the price rose to 5.4 thousandths already during the first week of presence on exchanges.
+However, until early February it dropped, even significantly below the initial price, without benefiting from the December bull run.
+Nevertheless, starting from mid-February it began to benefit from the bullrun, rising up to 12.2 thousandths of a dollar.
+However, it was a speculative mini-bubble that burst starting from March. For example, when the price of Bitcoin reached its all-time high, Qbic had already dropped to 9 millionths of a dollar.
+The price then continued to decrease, reaching the current 5.8 millionths.
+These seem to be predominantly speculative movements, and since Qbic only capitalizes half a billion dollars, it is possible that its price will remain volatile for a long time.
+At this moment it is difficult to imagine if the project has significant long-term development potential, and given the volatility at this moment its cryptocurrency should be considered a predominantly speculative asset.
+Kaspa is also a crypto project based on PoW.
+However, this is a project that has been existing for almost two years, and so far it has grown almost constantly.
+His cryptocurrency KAS debuted on the crypto markets in May 2022, with an initial price of 0.2 thousandths of a dollar.
+Already in the course of the same 2022 it recorded a real first boom, with the price rising to over 9 thousandths of a dollar, and in 2023 the upward trend continued.
+After the initial boom in 2022, it has recorded at least three more.
+The second one was at the beginning of 2023, when taking advantage of the rebound in the crypto markets, the price of KAS even reached 37 cents. At that point, in less than a year, it had gained 18,000%.
+In light of this performance, it is possible to affirm that the initial price was widely underestimated, although surely the excellent start of 2023 for the crypto markets as a whole must have helped a lot.
+However, he then recorded two more booms, although with lower percentage gains.
+With the beginning of the bullrun, in October of last year, the price of KAS started to rise again, reaching 140 thousandths of a dollar ($0.14) in November. At that point, the initial +18,000% had added another +280%.
+However, the crypto bullrun continued in 2024, and so in February the price of Kaspa rose to almost 180 cents of a dollar.
+Since then it has dropped a bit, even reaching below $0.14 in February.
+This trend suggests that the great bull run of Kaspa may have already run its course, and that it probably only served to bring KAS’s market capitalization to the level it deserved, above three billion dollars.
+This is a level comparable to Stellar’s XLM, and only slightly lower than that of CRO. In other words, although it is only in 38th place overall, Kaspa has now entered the ranks of the top 50 cryptocurrencies in the world.
+A different speech is instead the one concerning Render.
+It is indeed a project born in 2020, before the last major bull run of the crypto markets.
+It does not have its own blockchain, but a token called RNDR on the Ethereum blockchain.
+Although the price of this token has gone through the great bull run of 2021, its performance over time has remained extremely interesting.
+The thing that stands out is that after reaching $7.8 in 2021, in the course of 2024 it managed to do better, setting a new all-time high in mid-March at $13.6.
+This is a remarkable performance, because while in mid-March Bitcoin set a new all-time high of about +6% compared to 2021, RNDR in 2024 performed even 74% better than 2021.
+Furthermore, having debuted on the crypto markets at 0.06$, the performance in 2021 was already remarkable: +13,000%.
+It is also worth noting that during the bear market of 2022, the price only managed to return to $0.4, a figure much higher than the $0.1 it had before the start of the great bull run, and that before the start of the late 2023 bull run it had already returned to almost $2.5.
+So although it is a token with a decidedly volatile value, it seems to have an excellent long-term trend, at least up to now.
+It is no coincidence that it has a market capitalization of almost 4.4 billion dollars, which puts it ahead of Ethereum Classic and just slightly below UNI from Uniswap.
+It is difficult to say if this upward trend can last much longer, but for now its trend is definitely positive,

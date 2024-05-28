@@ -1,0 +1,16 @@
+Article Title: Ethereum Game ‘Fantasy Top‘ Now One of Crypto's Most Profitable Apps
+
+Article Text:
+Fantasy Top, a fantasy football-esque Ethereum NFT game that turns Crypto Twitter influencers into trading cards, has seen a surge in attention since launching just one week ago on layer-2 network Blast. In fact, it’s making so much money in fees and revenue that it’s now included in the same conversations that surround many leading blockchain networks.
+Over the last week, Fantasy Top has been the fifth most profitable crypto protocol, according to on-chain data tracked by DefiLlama, with $9.31 million worth of ETH. It earned by selling NFT card packs and taking a cut of trades via its secondary marketplace.
+Only Bitcoin ($22.1 million), Ethereum ($21.6 million), liquid staking protocol Lido ($18.2 million), and decentralized exchange Uniswap ($15.9 million) generated more fee revenue during that span. And over the past 24 hours, Fantasy Top lands in seventh place with about $925,000 in revenue, with the Tron and Solana networks rising above for the daily tally.
+Fantasy Top has quickly become a crypto industry sensation, particularly on Crypto Twitter—because it’s based on and built around the social media sphere. The game’s 120 unique “heroes,” which were turned into tradable NFTs on Ethereum layer-2 network Blast, are all based on notable industry traders, investors, analysts, and content creators.
+As in fantasy sports games—and particularly NFT-based versions like soccer game Sorare—Fantasy Top players must create a lineup of their owned heroes, and then they’ll earn points based on the real-life Twitter (aka X) engagement of the influencers in question.
+Many of the in-game heroes in question have also been playing the game themselves, driving attention and spending in the process. And there’s good reason for them to: They’re being paid a cut of all pack sales and secondary market trading fees.
+Late Monday, the game paid out $1.25 million in Ethereum (ETH) split between heroes, as well as potentially millions of dollars worth of Blast Gold—points for the upcoming BLAST token airdrop. And that was from less than one week of play since the mainnet launch. That amount, of course, would come from the aforementioned revenue total.
+Preventing Bots and shortening the Main Competition 🏁
+To safeguard Fantasy participants and uphold a meritocratic environment, we've decided, together with the heroes, to end the competition slightly ahead of schedule, preemptively thwarting any surge in malicious activities.… pic.twitter.com/BKp0rYL6Io
+— fantasy.top (@fantasy_top_) May 8, 2024
+However, the Fantasy Top rollout hasn’t come without challenges. On Wednesday, the game’s creators said they had prematurely ended the first in-game “Main Competition” that began Monday because heroes’ social media content engagement totals were manipulated and boosted—apparently due to automated bots.
+Fantasy Top says it will share the results of the competition soon, along with details on how it plans to address botting issues in the future.
+Edited by Ryan Ozawa.

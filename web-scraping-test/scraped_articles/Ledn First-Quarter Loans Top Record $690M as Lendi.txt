@@ -1,0 +1,12 @@
+Article Title: Ledn First-Quarter Loans Top Record $690M as Lending Market Snaps Back
+
+Article Text:
+Ledn processed $690 million in loans in the first quarter, 84% of which were to institutions.
+The firm has doubled its loan book since November 2022.
+The rise was attributed to spot bitcoin ETF approval in the U.S.
+Crypto lending firm Ledn processed more than $690 million in loans in the first quarter, its most successful quarter since the company's inception in 2018, almost five times the value of the previous three months.
+The vast majority, more than 84%, was directed to institutions, with demand ballooning after the approval of spot bitcoin (BTC) exchange-traded funds (ETFs) in the U.S. in January as several hundred million dollars worth of loans was issued to ETF market makers, Ledn said in a press release. In fourth-quarter 2023, the firm issued $140.3 million of loans, 90% of which went to institutional borrowers.
+"The first quarter of 2024 has set the tone for a promising year for Ledn, as we've not only doubled our loan book since November 2022 but have also solidified our leading position in the market by adapting to the increasing demand for digital asset financial products," CEO Adam Reeds said in a statement.
+The crypto lending sector imploded in 2022 alongside dwindling asset prices, spurring lenders including Celsius, BlockFi and Genesis to file for bankruptcy. Centralized lenders such as Ledn are only just starting to shake off negative sentiment left by their demise. Lending in decentralized finance (DeFi), meantime, continued to boom, with the likes of Aave accumulating $10 billion in total value locked (TVL).
+Among other centralized lenders, crypto exchange Coinbase (COIN) said loans to institutional customers grew to $399 million in fourth-quarter 2023. That was before the ETF approvals. Ledn said it loaned $100 million to retail customers in the first quarter, $40 million of which was refinanced from the collapse of Celsius.
+In December the firm rolled out a crypto-backed loan product that allows customers to receive a loan by pledging crypto as collateral, which is then custodied by BitGo.

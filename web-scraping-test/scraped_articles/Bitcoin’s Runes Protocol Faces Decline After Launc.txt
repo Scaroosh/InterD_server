@@ -1,0 +1,9 @@
+Article Title: Bitcoin’s Runes Protocol Faces Decline After Launch
+
+Article Text:
+Bitcoin's anticipated upgrade post-4/20 Halving took an unexpected turn with the introduction of Casey Rodarmor's Runes, a new fungible token protocol.
+However, since its launch, both user engagement and prices have seen a rapid decline.
+Rodarmor’s Runes were hailed as a superior alternative to existing Bitcoin-branded fungible token protocols like BRC-20s and STAMPs, promising reduced on-chain transactions. Rodarmor, known for his success in applying ordinal theory to Bitcoin, inadvertently created a popular NFT protocol with his FIFO convention, which allowed tracking of imaginary satoshis across transactions.
+Responding to demand from the NFT trading community, Rodarmor developed Runes, acknowledging in his founding blog post that the market for fungible tokens is predominantly driven by scams and memes. Despite the mathematical impossibility of tracking ownership via satoshis, Rodarmor’s Ordinals theory proposed a method to do so.
+However, despite expectations of high value, the initial results have been disappointing. The first Rune, “Fehu,” launched with much fanfare but has since seen an 85% crash in market capitalization within a month. Despite its founder’s overwhelming control of the token supply, its market value has plummeted.
+As traditional meme coins on non-Bitcoin protocols maintain their popularity, such as Dogecoin with a $23 billion market capitalization and Pepe exceeding $3.6 billion, the future of Rodarmor’s Runes remains uncertain. Only time will reveal whether Runes can surpass these legacy meme coins in value.

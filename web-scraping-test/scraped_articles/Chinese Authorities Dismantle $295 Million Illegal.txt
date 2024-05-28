@@ -1,0 +1,15 @@
+Article Title: Chinese Authorities Dismantle $295 Million Illegal Crypto Ring
+
+Article Text:
+The Chinese government has shut down illegal crypto banking activities through the Panshi City Public Security Bureau in Jilin Province. Local media reported the perpetrators exploited crypto’s anonymity for illegal foreign exchange.
+The report revealed that Chinese security officials arrested six people involved in purchasing foreign exchange using cryptocurrencies.
+Furthermore, the police investigation unveiled that the criminals had moved funds worth approximately 2.14 billion renminbi (RMB). The figure is equal to roughly $295.79 million.
+“The police found out that the criminal gang, in this case, illegally engaged in foreign exchange business by using domestic accounts to receive and transfer funds, [over-the-counter] OTC trading of virtual currencies, Korean won settlement, etc., helping Korean purchasing agents, cross-border e-commerce, import and export trading companies, and other groups to actualize the exchange of RMB and exchange of Korean won,” the report reads.
+Read more: Crypto OTC: How OTC Cryptocurrency Trading Works
+However, the police did not name the OTC platform involved.
+The raid aligns with a recent move from authorities in Hong Kong—a special region in China. Since this year, the Hong Kong Monetary Authority (HKMA) has targeted illegal OTC services. They suspect Chinese nationals use these platforms to get around overseas transfer limits.
+Although it is a part of China, the one country, two systems principle allows Hong Kong to have its own crypto regulations. While the mainland Chinese government has strictly prohibited all crypto asset activity issued by private parties since 2021, Hong Kong still allows it.
+Chainalysis reports that between July 2022 and June 2023, the volume of transactions in Hong Kong reached around $64 billion. The OTC market in the region mainly contributed to the figure.
+Read more: Top OTC Bitcoin Markets for Buying Large Amounts of BTC In 2024
+Despite the ban, mainland Chinese citizens have found ways to gain access to access cryptocurrencies. In January, several Chinese investors reportedly used an underground network of brokers to obtain cryptocurrencies.
+Additionally, some investors in mainland China continue to trade crypto directly. They meet in public places to exchange crypto wallet addresses and complete the transactions with cash or bank transfers.

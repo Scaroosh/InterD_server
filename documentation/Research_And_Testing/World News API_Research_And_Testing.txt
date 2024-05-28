@@ -1,0 +1,96 @@
+What is World News API?
+
+World News API is a robust web service designed to offer developers access to news data from a multitude of global sources through its Application Programming Interface (API).
+
+Key Features and Functions:
+
+Access to Global News Data: World News API facilitates access to news data from diverse sources including news websites, blogs, magazines, and other informational platforms.
+Versatile Query Parameters: Users can fine-tune queries using an array of parameters such as keywords, sources, languages, countries, news categories, and more.
+Flexible Data Formatting: Data is typically delivered in JSON format, ensuring ease of processing for integration into websites, applications, and other projects.
+Seamless Integration: World News API seamlessly integrates into various platforms including websites, mobile applications, chatbots, and more.
+Usage Restrictions: World News API offers both free and paid access to its API, with varying restrictions on the number of requests and available features.
+Benefits:
+
+Extensive Source Selection: With access to news data from over 30,000 sources, World News API provides a vast array of news on a wide range of topics.
+User-Friendly: The API is user-friendly and integrates smoothly into projects thanks to its well-documented interface and diverse developer tools.
+Global Coverage: World News API supports different languages and countries, making it invaluable for applications with a global audience.
+Drawbacks:
+
+Limitations on Free Access: Free access to World News API comes with restrictions on daily requests and available features, potentially limiting functionality for some projects.
+Data Processing Overhead: Retrieving news data from multiple sources may entail processing large volumes of data, necessitating additional optimization efforts for application scalability.
+Local Host Limitation in Free Version
+Examples of Use Cases:
+
+Creating news aggregators or portals.
+Integrating news updates into mobile apps for real-time information.
+Automating news analytics to monitor global trends and events.
+Developing chatbots to deliver news to users on demand.
+Conclusion:
+
+World News API offers developers a potent solution for accessing news data from worldwide sources. Its adaptable API and rich feature set make it an appealing choice for projects seeking to incorporate news content. However, users should be mindful of free access limitations and employ effective data management strategies for optimal performance.
+
+And here's the provided Python code adjusted to use World News API:
+
+python
+Copy code
+-------------------------------------------------------------------------------------------------------------------------
+import requests
+from datetime import datetime
+
+url = ('https://worldnewsapi.org/api/v1/news?'
+       'q=bitcoin&'
+       'sortBy=popularity&'
+       'apiKey=bbe5eaeb9b474f1580211288c43046e7')
+
+response = requests.get(url)
+data = response.json()
+
+formatted_articles = []
+for article in data.get('articles', []):
+    formatted_article = {
+        "title": article['title'],
+        "timestamp": datetime.strptime(article['publishedAt'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y.%m.%d, %H:%M:%S'),
+        "link": article['url'],
+        "content": article['content']
+    }
+    formatted_articles.append(formatted_article)
+
+print(formatted_articles)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+import openapi_client
+from pprint import pprint
+from com.worldnewsapi import news_api
+
+
+# Defining the host is optional and defaults to https://api.worldnewsapi.com
+# See configuration.py for a list of all supported configuration parameters.
+configuration = openapi_client.Configuration(
+    host = "https://api.worldnewsapi.com"
+)
+
+# The client must configure the authentication and authorization parameters
+# in accordance with the API server security policy.
+# Examples for each auth method are provided below, use the example that
+# satisfies your auth use case.
+
+# Configure API key authorization: apiKey
+configuration.api_key['apiKey'] = 'bbe5eaeb9b474f1580211288c43046e7'
+
+# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
+# configuration.api_key_prefix['apiKey'] = 'Bearer'
+
+# Enter a context with an instance of the API client
+with openapi_client.ApiClient(configuration) as api_client:
+    # Create an instance of the API class
+    api_instance = news_api.NewsApi(api_client)
+    url = "https://www.bbc.com/news/world-us-canada-59340789" # str | The url of the news.
+    analyze = True # bool | Whether to analyze the news (extract entities etc.) (default to False)
+
+    try:
+        # Extract News
+        api_response = api_instance.extract_news(url, analyze)
+        pprint(api_response)
+    except openapi_client.ApiException as e:
+        print("Exception when calling NewsApi->extract_news: %s\n" % e)

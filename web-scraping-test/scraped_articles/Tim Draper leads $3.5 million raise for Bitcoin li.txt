@@ -1,0 +1,12 @@
+Article Title: Tim Draper leads $3.5 million raise for Bitcoin liquidity protocol Zest
+
+Article Text:
+Billionaire Tim Draper has led a $3.5 million seed round investment in the on-chain Bitcoin lending platform Zest Protocol.
+Other than the billionaire’s venture capital firm Draper Associates, the round also attracted the participation of Binance Labs, Trust Machines and Flow Traders.
+Bitcoin Frontier Fund, Gravity Fund, Primal Capital, Hyperithm, Miton Crypto, Tykhe Block Ventures, Elixir Capital also participated.
+Per details published in a blog post on Monday, Zest will use the funds to expand its decentralised, peer-to-peer lending business.
+On the platform, users can lend their Bitcoin (BTC) or borrow against it. With this, users have an opportunity to generate yield or passive income without having to sell their Bitcoin.
+To bring the product to the community, Zest Protocol has tapped into Bitcoin layer 2 network Stacks. The project leverages Stacks’ Nakamoto upgrade to allow for asset bridging asset, unlocking access to DeFi on Bitcoin.
+Tycho Onnasch, founder of Zest Protocol, commented:
+“Unlike on Ethereum, the creation of basic DeFi primitives such as liquidity pools isn’t possible on Bitcoin L1. The Stacks sBTC upgrade is set to be a watershed moment for Bitcoin DeFi, which is what it was designed for from the beginning.”
+Users with sBTC can fund their Zest Protocol balances with sBTC to gain access to lending or other yield-generating features.

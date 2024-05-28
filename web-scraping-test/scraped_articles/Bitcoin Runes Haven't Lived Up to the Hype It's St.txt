@@ -1,0 +1,31 @@
+Article Title: Bitcoin Runes Haven't Lived Up to the Hype It's Still Too Early to Say
+
+Article Text:
+The Runes launch indeed saw a flurry of immediate activity, with hundreds of token tickers launched within the halving block. But demand has decreased partially due to expectations, and amid a cooling crypto market that has seen broader price declines in recent weeks.
+Data from Sat Screener indicates that six of the top 10 most-traded Runes have experienced a decline in trading volume over the past seven days, ranging from 20% to 57%. In terms of the number of Runes etched, data from Dune shows that etching has dropped significantly since the start of May—from thousands per day in late April to just hundreds daily of late.
+On social media, chatter about Runes is divided. Many expected that the trading experience would be closer to trading well-established tokens like Ethereum’s ERC-20 standard, and not blocks of tokens pre-split by users. That’s made them feel more like they're trading NFTs rather than fungible tokens, with the early state of the tech creating another hurdle for early traders.
+But a small, yet vocal group of users continues to actively trade Runes amid the decline, even of some of them admit that there's a cooling of enthusiasm since the Bitcoin halving event.
+So, what's next for the future of Runes? Market observers have been quick to draw parallels between Runes and the NFT-like Ordinals—both created by Bitcoin developer Casey Rodarmor—highlighting a similar pattern of early hype followed by a gradual decline in activity.
+Are runes dead or not?
+The prices of rune tokens have been dipping recently, so it's time to check
+I've said it before and I'll say it again - everything needs time to settle properly first.
+The initial hype around runes was a mix of real potential and empty noise.
+Many… pic.twitter.com/hkb3nRN5zH
+— Mo (@MoAbri) May 6, 2024
+Others believe that Runes could follow a similar maturation arc. The earlier BRC-20 Bitcoin token standard similarly saw a flurry of initial excitement before a quieter period with less hype and demand, followed by a surge in value and trading activity. Runes were billed as a more “efficient” upgrade to BRC-20, however, so the initial trading hitches could also be dulling momentum in the short term.
+“Users coming to Bitcoin for the first time may have been underwhelmed that the experience is not dissimilar to BRC-20, and far from the advancement many have promoted on their timelines over the last few months,” FarmerJoe0x, the pseudonymous founder of Pups Token, told Decrypt.
+“That being said, several opportunities appear to be forming, such as bridges for Runes to Bitcoin layer-2 [networks], as well as Solana,” they added. “Demand for Bitcoin tokens is proving to be strong on centralized exchanges, and one can assume that when the tokens are accessible in the trading experience that most crypto users desire, we will see significant volumes—possibly on other chains—towards these tokens.”
+People calling Runes dead after 24 hours
+People saying Friend Tech + Fantasy dead after less than 24 hours of launching
+This exact attitude is why people never make it
+— moon (@MoonOverlord) May 6, 2024
+Yoonsup Choi, Senior Business Development Manager at Magic Eden, shared with Decrypt that while he's observed the decline, it was anticipated. Magic Eden has come out early as one of the most prominent Runes trading destinations, so he has a stake in their future. Choi remains confident that the fungible market on Bitcoin has significant upside potential.
+“The trading UI for runes will only get better, upgrades to the protocol can be made, and marketplaces such as Magic Eden are investing into bettering the UI/UX every day,” he said. “While the UI/UX might never catch up to SOL or EVM layer-2 meme coin trading, the transparency and immutable aspect of Runes can be another way Runes find [their] place.”
+Choi added that meme coin launches are often plagued by insider issues within the team, such as sniping, distributing to multiple wallets, and lack of clarity regarding the usage of funds. The Runes protocol addresses many of these concerns.
+“Runes offer complete transparency in their creation, including details on pre-mine percentages and minting criteria,” Choi explained.
+Despite this cooling-off period, Runes remain in their infancy, and supporters claim that it's far too early to count them out. The technology is still evolving, and as the community becomes more familiar with Runes features and the ecosystem matures, there's potential for renewed interest and growth.
+Runes mints were 70.2% of all Bitcoin transactions in the past 24 hours
+Runes are dead 🫡 https://t.co/Ooyj7wK0tr
+— Leonidas (@LeonidasNFT) May 5, 2024
+Besides, Runes transactions are still dominating Bitcoin of late, even if some of the hype has diminished. Previous Bitcoin innovations like Ordinals and BRC-20 tokens took a while to find broader trading interest and sizable demand, but both eventually secured substantial market fit. The crypto world is watching closely to see if (or when) that happens with Runes.
+Edited by Andrew Hayward

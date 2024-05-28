@@ -1,0 +1,15 @@
+Article Title: Core Scientific reports $210.7 million in Q1 net income, 2,825 BTC production
+
+Article Text:
+The change represents an increase of $211.1 million from the first quarter of 2023, when the company reported a net loss of $0.4 million.
+The company also reported $179.3 million in first-quarter revenue, including $150 million from crypto mining and $29.3 million from hosting.
+The change in total revenue marks an increase of $58.6 million compared to the first quarter of 2023 when the company reported revenue of $120.6 million.
+Core Scientific reported $98.1 million in cash and cash equivalents on its balance sheet, up from $50.4 million in the fourth quarter of 2023.
+Core Scientific also reported significant Bitcoin production. The firm earned 2,825 BTC through self-mining — more than any publicly traded Bitcoin mining firm in North America.
+The company’s first-quarter BTC is worth $172.5 million at current prices.
+The firm reported a hash rate of 25.5 exahashes per second (EH/s). The total hash rate includes 19.3 EH/s for self-mining, through which the company produces its own Bitcoin, plus 6.2 EH/s for hosting, through which it produces Bitcoin for its customers.
+Core Scientific owned and managed about 745 megawatts of infrastructure, which it claims is greater than any other publicly traded Bitcoin miner in North America.
+Core Scientific is also exploring alternative revenue streams.
+CEO Adam Sullivan said the firm is discussing with customers the conversion of over 500 megawatts to high-performance computing. By combining computing and Bitcoin mining, the firm will be active in “two very attractive markets,” Sullivan said.
+A separate Financial Post report indicates that the company plans for its high-performance computing business to cater to artificial intelligence (AI) firms.
+The conversion of the 500 megawatts of infrastructure could take three to four years, but the company will generate revenue as it brings on clients.

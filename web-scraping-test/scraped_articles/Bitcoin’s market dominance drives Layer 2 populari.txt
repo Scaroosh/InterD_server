@@ -1,0 +1,19 @@
+Article Title: Bitcoin’s market dominance drives Layer 2 popularity
+
+Article Text:
+Bitcoin (BTC) has been leading the crypto market rally since late September 2023, with its dominance rising steadily from around 40% in 2022 to over 50% by May 2024.
+This surge is largely attributed to the approval of Bitcoin Spot exchange-traded funds (ETFs) in the US, driving increased trading volume on platforms like Bybit.
+Consequently, Bitcoin’s popularity is fueling interest in Layer 2 solutions aiming to enhance Bitcoin’s scalability and functionality for faster and cheaper transactions.
+Bitcoin Layer 2 refers to networks closely linked with Bitcoin, designed to improve its scalability, reduce transaction costs, and enable programmability.
+These networks operate separately but connect to Bitcoin through bridges or other solutions.
+The rise of Bitcoin Layer 2 solutions gained traction in early 2024, particularly with the popularity of projects like Ordinals and Stacks, coinciding with Bitcoin’s outperformance compared to Ethereum (ETH) and other alternatives.
+According to BTCL2.INFO, there are 74 Bitcoin Layer 2 solutions, with significant growth in the past two quarters.
+These solutions fall into three categories:
+dApps built directly on the Bitcoin mainnet, like Mirror, Runes, and Ordinals, provide additional functionality such as staking and NFT creation.
+Rollups are seen as more advanced and are likely to dominate Bitcoin Layer 2 in the long term. They offer better scalability and efficiency compared to state channels and sidechains.
+Layer 2 solutions face risks including security vulnerabilities and interoperability challenges, while state channels and sidechains have specific risks such as counterparty risk and reliance on validators.
+Bitcoin’s mainnet limitations, such as lack of smart contract functionality, pose challenges to Layer 2 development.
+However, advancements in technologies like ZK-rollups provide opportunities for growth.
+Bitcoin Layer 2 solutions are expanding Bitcoin’s utility beyond its status as digital gold.
+While challenges exist, innovations like ZK-rollups and new projects are driving development.
+More importantly, the community’s willingness to embrace change and new technologies will shape the future of Bitcoin Layer 2.

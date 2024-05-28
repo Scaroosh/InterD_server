@@ -1,0 +1,57 @@
+What is NewsAPI?
+NewsAPI is a web service that provides developers with access to news data from various sources around the world through their API (Application Programming Interface).
+
+Features and functionality:
+1: Access to news data: NewsAPI allows access to news data from a variety of sources including news websites, blogs, magazines and other information sources.
+2: Diverse query parameters: Users can customize queries using a variety of parameters such as keywords, sources, languages, countries, news categories, and more.
+3: Flexible data format: Data is typically returned in JSON format, making it easily processed for further use in websites, applications and other projects.
+4: Integration with various platforms: NewsAPI can be easily integrated into various platforms such as websites, mobile applications, chatbots and others.
+5: Usage Limitations: NewsAPI provides free and paid access to its API with various restrictions on the number of requests and available features.
+Benefits:
+- Large selection of sources: NewsAPI provides access to news data from over 30,000 sources, allowing for a wide range of news on a variety of topics.
+- Ease of use: NewsAPI API is easy to use and integrate into your projects thanks to its well-documented API and various developer tools.
+- Support for different languages and countries: NewsAPI allows you to get news in different languages and from different countries, making it a useful tool for global applications.
+Disadvantages:
+- Articles have a 24-hour delay
+- Search articles up to a month old
+- 100 requests per day help
+- The unformatted content of the article, where available. This is truncated to 200 chars.
+- Free access restrictions: Free access to the NewsAPI API has limitations on the number of requests per day and available features, which may not be sufficient for some projects.
+- Need to process large amounts of data: Retrieving news data from various sources may require processing large amounts of data, which may require additional optimization and application scaling efforts.
+- In the free version can only be run on a local host
+
+Examples of use cases:
+- Creating a news aggregator or portal.
+- Integrating news into a mobile app for up-to-date information.
+- Automated news analytics to track trends and events in the world.
+- Developing chatbots to provide news to users on demand.
+
+Conclusion:
+NewsAPI is a powerful tool for getting news data from various sources around the world. Its flexible API and extensive features make it an attractive choice for developers looking to integrate news into their projects. However, you need to consider the limitations of free access and effectively manage the amount of data for optimal application performance.
+
+
+
+code_python{
+import requests
+from datetime import datetime
+
+url = ('https://newsapi.org/v2/everything?'
+       'q=bitcoin&'
+       'sortBy=popularity&'
+       'apiKey=bbe5eaeb9b474f1580211288c43046e7')
+
+response = requests.get(url)
+data = response.json()
+
+formatted_articles = []
+for article in data.get('articles', []):
+    formatted_article = {
+        "title": article['title'],
+        "timestamp": datetime.strptime(article['publishedAt'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y.%m.%d, %H:%M:%S'),
+        "link": article['url'],
+        "content": article['content']
+    }
+    formatted_articles.append(formatted_article)
+
+print(formatted_articles)
+}

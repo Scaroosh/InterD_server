@@ -1,0 +1,27 @@
+Article Title: Proof-of-reserves never cut it — and never will
+
+Article Text:
+Since Bitcoin’s inception, crypto has faced more than its fair share of ups and downs.
+In more recent years, the collapse of “trusted” crypto institutions such as FTX, 3AC, Celsius (and even Mt. Gox) crippled the industry and caused huge trust issues. This level of distrust was echoed across every single Web3 business that held client funds, causing huge market downturns.
+But a solution was put forward to solve the issue of trust across crypto as one bastion of hope: proof-of-reserves (PoR).
+The problem is that proof-of-reserves is absolutely useless.
+Once upon a time, PoR was hailed as a breakthrough in transparency within the crypto space. PoR promised to shine a light on the reserves of the big names we trusted, giving stakeholders the peace of mind needed to navigate the murky waters of digital assets.
+Although there were vocal critics of PoR, it still managed to take hold as the de facto standard for auditing the reserve capabilities of exchanges and other crypto service providers. Proof-of-reserves attestations became the go-to solution for bringing back transparency and trust to the broader investor market.
+After the FTX collapse, big exchanges such as Binance, Gate.io, KuCoin, Poloniex, Huobi, OKX, Deribit and Bybit all rushed to unveil plans for showcasing PoR snapshots.
+But herein lies the problem: A snapshot doesn’t show the whole picture.
+How can we be sure that these exchanges, which are now claiming to conduct PoR audits, are being fully transparent?
+We can’t.
+The major problem lies with PoR’s static nature and its failure to reflect the dynamic and fast-paced world of crypto: PoR only provides a snapshot of reserves at any given point in time rather than a real-time view.
+Furthermore, the system is susceptible to manipulation and exploitation, as evidenced by past fiascos our industry faced.
+It’s also unsuitable for auditing intricate smart contract interactions and token movements, a crucial aspect for the industry.
+Being forced to rely on these single-point-in-time snapshots is like trying to assess a bank’s financial health based solely on a single account statement without considering the full transaction history — unviable. A snapshot is incapable of showing any real context.
+Simply put, PoR systems fail in every aspect of their original purpose.
+It’s just not enough to verify through a screenshot that assets exist at a particular point in time. We need real-time transparency and a historical audit trail to ensure the integrity of crypto exchanges and custodial services through traceability of transactions and movements, not a picture that can be easily adjusted and manipulated for the company’s benefit.
+So what’s the solution? It’s simple: better data.
+Ultimately, every blockchain has all of the data for every transaction that has ever happened. The issue with digital assets isn’t the lack of data, but instead that the data is going into a contextual blackhole.
+Read more from our opinion section: The future of tokenization? Permissioned blockchains
+The industry needs to shift its focus on understanding why transactions are being made, both historically and in real-time, in order to build real audit trails that can provide usable insights to auditors, regulators and tax authorities. With this shift, gaining transparency for the state of exchanges’ customer funds will be far easier to achieve. It will bring a new wave of trust and accountability to the market, especially for the end-users who are investing their hard-earned money.
+Blockchain analytics, on-chain monitoring tools and real-time auditing solutions will all support the future of transparency within our industry. But they all need to be underpinned by accurate, contextual data to offer continuous assurance, real-time insights and a level of transparency that PoR could only dream of.
+While the collapses of FTX, Celsius and Three Arrows Capital occurred before proof-of-reserves became broadly implemented, we are left to wonder whether a robust and truly transparent system could have shielded the crypto industry from such significant setbacks.
+As an industry, we should all push harder to build trust and create systems that enable auditors, regulators and tax authorities to satisfy investors’ thirst for transparency.
+If we can’t bring real context to the world of blockchain data, then we’ll be stuck with useless solutions like proof-of-reserves for the foreseeable future.

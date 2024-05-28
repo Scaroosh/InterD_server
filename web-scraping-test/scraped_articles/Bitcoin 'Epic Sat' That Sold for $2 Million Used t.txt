@@ -1,0 +1,24 @@
+Article Title: Bitcoin 'Epic Sat' That Sold for $2 Million Used to Inscribe Ordinals Art—With Grimes' AI Voice
+
+Article Text:
+An “epic satoshi,” or “epic sat,” is an extremely rare satoshi—that is, 1/100,000,000 of a BTC—that is generated during each Bitcoin halving. The quadrennial event cuts the amount of Bitcoin earned by miners (who support the network) in half. And those epic sats are said to be particularly valuable to collectors when NFT-like Ordinals are inscribed on them.
+Bitcoin Ordinals project Book of Blob inscribed its artwork on the latest epic sat via inscription 70,634,325, which was inscribed on Sunday. The “Spikes” collection inscribed from the epic satoshi comes by way of the pseudonymous Nuro, who says they’re a doctor turned Bitcoin enthusiast and founder of Nuro Realm, Cypherpunk Labs, and the Blob Army.
+Book of Blob Spike #1 “Epic”
+Art by @nurorealm @elocremarc @boppleton @steaktoshiFeaturing @Grimes @GRIMES_V1
+💥First Neurogenerative 3D Audiovisual scene💥Inscribed on the 4th epic sat halving block 840,000💥Spikes collection by @nurorealm of time capsules and brain data… pic.twitter.com/EMRitUaaZW
+— Epic Blob Army💥💥 (@bookofblob) May 5, 2024
+Nuro explained that the "Spikes" collection delves into the exploration of the mind, brain, and reality while preserving consciousness on Bitcoin. He added that "Spike #1" was inscribed on the epic sat and was collaboratively created with software developers and Ordinals enthusiasts Eloc Remarc, Boppleton, and Steaktoshi.
+“We are experimental artists working at the intersection of art, science and technology, so it has been a dream of ours to put our work on an epic sat and inspire the community to experiment and create new art,” Nuro told Decrypt. “We believe everyone is an artist, you just have to find your medium.”
+“Spike #1,” Nuro said, is the first “neurogenerative” 3D audiovisual piece on Bitcoin Ordinals, and includes his inscribed brain data that manipulates the art in the inscription.
+"Neurogenerative" is a riff on generative AI and neurographic art. Neurographic art refers to art designed to work with the subconscious mind. Projects like Neurotech startup Prophetic use generative AI to engage the subconscious mind and lucid dreams during sleep.
+Nuro said that the idea to use Grimes’ Elf Tech AI technology came after a spoken word project did not have the effect he wanted, and Eloc suggested he check out Grimes’ AI voice.
+“It is original art and music we made that uses Grimes’ free and open [Elf Tech] AI voice for a portion of the vocals,” Nuro said.
+In April 2023, Grimes announced the launch of Elf Tech and offered anyone who uses her voice a 50% royalty on AI-generated music using her voice. “Feel free to use my voice without penalty,” Grimes wrote on Twitter. In other words, Grimes isn’t personally involved in this project, but her tech is available for any creator to tap into.
+I'll split 50% royalties on any successful AI generated song that uses my voice. Same deal as I would with any artist i collab with. Feel free to use my voice without penalty. I have no label and no legal bindings. pic.twitter.com/KIY60B5uqt
+— 𝖦𝗋𝗂𝗆𝖾𝗌 ⏳ (@Grimezsz) April 24, 2023
+“I looked into it and saw she is a badass cypherpunk who said ‘Fuck copyright, use my voice without penalty,’” Nuro said, paraphrasing Grimes’ own statements. “So I experimented with it and loved the ethos and how it sounded to give a more cosmic and digital vibe. So I have been using it since then alongside my own voice and Steaktoshi’s.”
+Nuro said that while the Elf Tech program was easy to use, calling it fun and unpredictable, it wasn’t without its issues, including downtime and issues with uploading. Nuro isn’t new to the Bitcoin art world: In February, Cypherpunk Labs and Nuro Realm collaborated with Deezy Labs and Superchief Gallery to launch its San Francisco gallery dedicated to Bitcoin Ordinals art.
+In April, the latest of four “epic sats” was mined by Bitcoin mining pool ViaBTC and went up for auction on the cryptocurrency exchange CoinEX. It was expected to fetch a sizable sum, given that Ordinals collectors place a premium on assets derived from rare satoshis. And indeed, it ultimately saw a winning bid of 33.3 BTC, or $2.1 million worth at the time of sale.
+Following the inscription of the Spike #1 Ordinal, a “child” version was etched as the EPIC•EPIC•EPIC•EPIC Rune #66429 using the Runes token protocol that was launched at the halving by Ordinals creator Casey Rodarmor.
+Since the launch, EPIC•EPIC•EPIC•EPIC has seen just over $1 million worth of trading volume via prominent marketplace Magic Eden, with a market cap of nearly $50 million at the current price of 79 satoshis (about $0.05 worth of Bitcoin).
+Edited by Andrew Hayward

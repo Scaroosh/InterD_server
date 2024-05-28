@@ -1,0 +1,12 @@
+Article Title: ETH liquidations surpass Bitcoin’s following fall below $3,200
+
+Article Text:
+Ethereum (ETH) liquidations surpass Bitcoin’s (BTC) for the second time over the past seven days.
+According to data provided by Coinglass, global crypto liquidations reached $195.11 million in the past 24 hours. ETH is currently sitting on top with a total of $64.75 million in liquidations — $57.18 million longs and $7.57 million shorts.
+Bitcoin comes in second with $46.74 million in liquidations over the past day — $32.85 million longs and $13.89 million shorts.
+Per the data, the dominating long-position liquidations surface as the global cryptocurrency market sees correction — with the total market capitalization falling from $2.53 trillion to $2.46 trillion over the past day.
+This is the second time over the past week that Ethereum’s liquidations surpassed Bitcoin. On May 1, ETH witnessed $91.76 million in liquidations while BTC’s hovered at $68.51 million.
+Moreover, the total crypto open interest declined by 2.12% in the past 24 hours and is currently sitting at $57.17 billion, per Coinglass data.
+According to data from Santiment, the BTC total open interest dropped from $10.45 billion to $10.21 billion over the past 24 hours. The Bitcoin price also registered a 1.5% fall in the same timeframe and is trading at $64,200 at the time of writing.
+Data from the market intelligence platform shows that the ETH open interest recorded a 1.7% decline over the past day and is hovering at $4.89 billion. Ethereum is down by 2.7% in the past 24 hours and is trading at $3,110 at the reporting time.
+With the fall of the global cryptocurrency open interest, lower price volatility would usually be expected for the leading digital assets.

@@ -1,0 +1,13 @@
+Article Title: Vanguard, BlackRock up MSTR holdings, while TradFi firms continue disclosing Bitcoin ETF investments
+
+Article Text:
+Vanguard holds 1.6 million shares of MSTR worth $2.6 billion as of the end of the first quarter, up from 1.2 million shares worth $727.6 million at the end of December 2023.
+BlackRock now holds 1.2 million shares worth $2.1 billion, up from 1.0 million shares worth $646.4 million at the end of the last quarter.
+Numerous other companies have also invested in MSTR, which provides exposure to Bitcoin through its own Bitcoin investments. Data from Fintel indicates that at least 750 firms have invested in MSTR.
+MicroStrategy itself has taken steps to increase its Bitcoin holdings. The firm reported buying $1.65 billion of BTC in the first quarter, raising its total holdings to 214,400 BTC. The company maintains its position as the publicly traded company with the most Bitcoin.
+Meanwhile, 13F disclosures continue to reveal growing TradFi investments in spot Bitcoin ETFs.
+Swiss bank UBS has invested $145,692 in BlackRock’s IBIT on May 13. Other Global Systemically Important Banks (G-SIBS), including JP Morgan, Wells Fargo, and BNP Paribas have similarly reported spot Bitcoin ETF investments over the first quarter.
+Wolverine Asset Management, an alternative investment firm, revealed it is one of the largest holders of Fidelity’s FBTC, with $54 million invested in the ETF over the first quarter. Meanwhile, fintech firm Envestnet reported a $62 million investment in spot Bitcoin ETFs, including FBTC, GBTC, ARKB, IBIT, and BITB.
+Crypto and blockchain investment firm Multicoin Capital reported a $83.5 million investment in Grayscale’s GBTC. Multicoin’s sole other 13F-reported investment is in Coinbase (COIN) stock, worth $217 million, for a total of $300 million across its latest 13F filing.
+The investment places Multicoin Capital among the largest GBTC holders. In earlier filings, Susquehanna International Group and Horizon Kinetics Asset Management reported larger investments, amounting to $1.1 billion and $540 million, respectively.
+Spot Bitcoin ETFs collectively reported $52.4 billion in assets under management (AUM) as of May 13 and $11.7 billion of cumulative inflows as of May 10.

@@ -1,0 +1,16 @@
+Article Title: Luxor Q1 report predicts recovery in Bitcoin hashprice over next five months
+
+Article Text:
+The Bitcoin mining sector has faced challenges with historically low hashprices in recent weeks following the halving event. However, hash prices surged to multi-year highs on the day of the halving, buoyed by increased fees attributed to Runes.
+According to Glassnode data, the hash price is $51,915 in USD terms and 0.84 BTC, nearing all-time lows. However, May 9 saw a recent uptick in hash price due to the biggest difficulty adjustment drop since November 2022.
+
+Glassnode defines the miner revenue per exahash metric as a tool for gauging daily miner earnings in relation to their proportional contribution to network hash power. It’s derived by dividing the total miner income (combining subsidies and fees) by the current hashrate (in EH/s). This data is provided on a daily basis, offering insights into the daily revenue earned per 1 EH/s of hash power contributed by miners to the network.
+Luxor, a mining pool and hashrate marketplace, released its Q1 2024 report on the state of Bitcoin mining. The report suggests that the hash price may have reached its bottom, at least in the short term, and anticipates a rise over the next five months. This projection is based on the expectation of either higher transaction fees or a decrease in mining difficulty.
+The report says:
+“This means that Luxor Hashrate Forward traders expect hashprice to increase over the next five months by way of either an increase in transaction fees or a decrease in Bitcoin mining difficulty”.
+
+In addition, Luxor’s hashrate forwards are trading above the current spot price through October, also known as Contango.
+“Luxor’s Hashrate Forwards are trading in contango through October, which means that the contract prices for these forward contracts (which are essentially future contracts, although they trade OTC and not on an exchange) are trading above the current spot price”.
+The report suggests that hashrate traders are bullish on transaction fees in the short term.
+“Hashrate traders have been bullish on transaction fees, which they are baking into their expectations for hashprice in the coming months”.
+I see two potential scenarios for increased fees: First, if the Bitcoin bull run continues, we could see increased adoption and network congestion. Alternatively, another surge in Inscriptions and Runes could also drive up fees.

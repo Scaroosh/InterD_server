@@ -1,0 +1,10 @@
+Article Title: OpenSea Shows Steep Decline in ETH NFT Trading Volume, Why
+
+Article Text:
+OpenSea, the leading NFT marketplace, has experienced a significant downturn, in trading volume for Ethereum-based NFTs. Recent data reveals that the platform has an average daily volume of approximately 600 ETH, marking its lowest point since May 2021, predating the onset of the original NFT bull market.
+OpenSea is doing around 600 ETH of volume per day right now in ETH NFTs, the lowest it has been since May of 2021, before the original NFT bull market began.That number is down 99.1% from the May, 2022 peak, when OS was doing 66,000 ETH of volume per day. pic.twitter.com/6JzMdysWev
+This significant drop reflects a substantial 99.1% decrease from the peak trading activity observed in May 2022. During that time, OpenSea facilitated 66,000 ETH in daily volume. The sharp contrast between the current figures and the previous highs underscores the notable shift in sentiment and activity within the NFT market.
+While Ethereum has typically maintained dominance across multiple sectors in the cryptocurrency space, there seems to be a noticeable shift occurring specifically within the NFT sector. According to recent data, Blast NFT collections such as PAC REKT, Blastopians, and Plutocrats have collectively generated a trading volume surpassing that of the entire Ethereum NFT market across all exchanges.
+In the past month, renowned Ethereum NFT collections such as BAYC and CryptoPunks failed to spot among the top-selling NFTs. Instead, the Bitcoin-based Runestone claimed the top position in NFT collections.
+Further, the Blast-based Fantasy Top collection currently holds the top position among NFT collections. According to DappRadar data, Ethereum-based NFTs like CryptoPunks saw a significant 69.87% decrease in volume, while BAYC experienced a decline of 56.11% in volume.
+If this trend persists, Ethereum’s supremacy in the NFT sector could be at risk of being usurped.

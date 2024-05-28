@@ -1,0 +1,11 @@
+Article Title: AI-powered Turbo memecoin sees 40% jump amid growing U.S. trend
+
+Article Text:
+Turbo (TURBO), an AI-generated memecoin, has surged 40% in the past 24 hours amid a trending status in the United States.
+At the time of writing, TURBO was trading at $0.001105, marking over 100% rise over the past week. The token’s market capitalization has crossed $70 million, reflecting a 40% rise, while its 24-hour trading volume hit $37 million, up 160%.
+Turbo Token, the brainchild of digital artist Rhett Mankind, emerged as an experiment in cryptocurrency development using artificial intelligence. Mankind used GPT-4 to generate the concept for a memecoin with just a $69 budget. The AI provided the tokenomics, whitepaper, and smart contract code, which was refined with community help.
+Mankind then launched the token’s website, created its X account, and deployed the token, establishing a liquidity pool.
+However, a bot quickly bought out the pool, which had limited funds due to the small initial budget. This prompted Mankind to consult the AI for alternative funding options, ultimately settling on community crowdfunding.
+The new setup saw a total supply of 69 billion tokens, with 9 billion held by Mankind and 50 participants contributing through crowdfunding. The highest individual pledge was between $200 and $300 in Ethereum (ETH), raising a total of $6,669.
+Currently, the token is listed on over 30 crypto exchanges, including OKX, Gate.io, HTX, and Bitget.
+TURBO’s latest rise coincides with an overall 3.7% increase in the memecoin market in the past 24 hours, while the global crypto market has gained 2.3%. Bitcoin also experienced a 3% increase in the same period, reaching roughly $63,300.

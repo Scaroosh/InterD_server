@@ -1,0 +1,23 @@
+Article Title: NEAR Price Rally 9% Surge Recaptures Key Level, Records 160% TVL Growth In Q1
+
+Article Text:
+Decentralized application (dApp) platform Near Protocol exhibited notable growth in key metrics during the first quarter (Q1) of 2024, driving its native token NEAR to reclaim a crucial key level and paving the way for a potential retest of its all-time high (ATH) from January 2022.
+According to a recent report by Messari, NEAR experienced significant increases in market capitalization, revenue, active addresses, and Total Value Locked (TVL), solidifying its position among the top players in the cryptocurrency market.
+In Q1 2024, NEAR’s circulating market cap surged to $7.2 billion, marking a 94% quarter-on-quarter (QoQ) increase. The fully diluted market cap also witnessed substantial growth, reaching $8.2 billion, representing a 91% QoQ increase. These numbers propelled NEAR to secure a spot among the top 20 cryptocurrencies by market capitalization.
+
+Notably, NEAR outperformed Bitcoin (BTC) and Ethereum (ETH), which recorded QoQ growth rates of 69% and 53%, respectively. Additionally, NEAR’s revenue, derived from network transaction fees, witnessed an 82% QoQ increase, reaching $1.9 million.
+NEAR continued its address growth trend in Q1 2024, with average daily active addresses reaching 1.2 million, representing a robust 42% QoQ increase.
+The network also witnessed a surge in daily new addresses, totaling 236,000 (a 37% QoQ increase), and surpassed the milestone of 100 million total accounts.
+According to Messari, contributions from established protocols like KAIKAINOW, Sweat, and Playember and the adoption of HOT Wallet, averaging over 350,000 daily active addresses in March and nearly 3 million total wallets, drove this expansion.
+Per the report, the protocol experienced a sustained increase in transaction activity throughout Q1 2024, with daily transactions reaching 4.3 million, representing a 78% QoQ increase and a 538% increase over the last six months.
+Similarly, NEAR’s TVL witnessed substantial growth, ending the quarter at $335 million, a 163% increase from the previous quarter and a 547% increase over the last six months.
+
+Furthermore, NEAR’s decentralized exchange (DEX) volume experienced a notable surge, with an average daily volume of $8 million, representing a 95% QoQ increase. Ref Finance emerged as the leading DEX on the protocol, with $6 million daily volume, surpassing Orderly Network.
+Lastly, NEAR observed a significant increase in its stablecoin market cap during Q1 2024, soaring 176% QoQ to $214 million. Notably, USDT experienced a significant surge, with its market cap increasing by 1,155% QoQ, reaching $88 million.
+Regarding price action, NEAR Protocol’s native token has exhibited strong performance, surpassing the top 20 cryptocurrencies in the market with a 9.4% uptrend in the past seven days. Meanwhile, Bitcoin has experienced a minor 1.5% price correction over the past 24 hours.
+This positive trend has enabled NEAR to reclaim the significant $7.40 price level, which is important for bullish investors.
+Looking ahead, the $7.60 mark may present a potential resistance level for the token, serving as a crucial barrier to monitoring. It could pave the way for a retest of the $8 mark, signaling further upward momentum if successfully breached.
+Conversely, the $6.80 mark has demonstrated its significance as a key support level. It was previously tested over the weekend and effectively prevented a more significant price decline.
+Despite the optimistic outlook, it is important to note that the token remains down by over 64% from its all-time high of $20.4, reached in 2022.
+
+Featured image from Shutterstock, chart from TradingView.com

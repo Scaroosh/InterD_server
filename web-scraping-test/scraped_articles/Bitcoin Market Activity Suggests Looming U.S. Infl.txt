@@ -1,0 +1,19 @@
+Article Title: Bitcoin Market Activity Suggests Looming U.S. Inflation Data May Be Non-Event
+
+Article Text:
+Bitcoin's options market is pricing for negligible volatility after Wednesday's U.S. consumer inflation release.
+The CPI is expected to offer relief after a string of upside surprises that dented Fed interest-rate cut hopes.
+Tomorrow's U.S. inflation report will take center stage as investors look for guidance on the Federal Reserve's path for interest rates after a series of recent surprises dented expectations of rate cuts.
+Still, the pricing of bitcoin options – which can offer protection against swings in the asset's price – suggests traders do not foresee a volatility explosion following the release.
+Traders often buy options that capture specific events, pushing their implied volatility higher relative to shorter- and longer-term contracts. Analysts look at the difference between implied volatility for options expiring before and after an event to understand how much extra volatility the market is pricing.
+"The market is pricing a premium of only 1.5 vols for the event ... almost negligible," institutional liquidity provider OrBit Markets, one of the top altcoin market makers on Deribit, told CoinDesk. In other words, prices may move less than 2% on either side following the CPI report, exhibiting hardly any additional volatility. S&P 500 options are pricing in relatively higher volatility for the release, OrBit said.
+The U.S. Labor Department will publish the consumer price index (CPI) data for April 12:30 UTC. It is forecast to show the cost of living increased by 3.4% year-on-year, a moderation from March's 3.5%. Core CPI, which strips out the volatile food and energy component, probably rose 3.6% year-on-year, down from March's 3.8%, according to estimates published by Bloomberg.
+Options offer buyers insurance against bullish or bearish price moves. A call option protects against price rallies, while a put protects from price slides. Implied volatility refers to expectations for price turbulence over a specific period.
+Markus Thielen, founder of 10x Research, considered bitcoin options expiring later in the week. His analysis agrees with OrBit's.
+"Implied volatility at 52.8% for options expiring on May 17 is just 2% higher than other options, which means traders expect a moderate pick up in volatility post-CPI. However, realized [historical] volatility remains below 50%, meaning expectations for an outsized move either up or down are not priced in," Thielen told CoinDesk.
+CPI to signal moderation
+Fed funds futures currently assign just a 5% probability of a rate cut in June, with the number rising notably into September.
+Some analysts expect a potential soft CPI print to bulk up the rate cut probability, sending bitcoin past $65,000, the upper end of the its recent trading range.
+Others are more cautious. Inflation, for example, is only one of the inputs considered by policy makers.
+"Some signs of slower price growth (if materialized) would be welcomed by Fed officials, but the details of earlier price increases have been concerning. It will take more than one softer price report to calm inflation fears," economists at RBC said in a weekly note.
+"Our view is that inflation pressures will ease over the second half of this year, but that is contingent on economic growth slowing and unemployment edging higher. We expect the Fed will stick to a wait-and-see approach over the summer while watching the data closely. We think the Fed will move to cut interest rates in December if domestic demand and inflation readings gradually move lower over the remainder of this year."

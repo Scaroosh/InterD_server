@@ -1,0 +1,15 @@
+Article Title: Bitcoin Wallet Maker Exodus Jumping Up to New York Stock Exchange
+
+Article Text:
+Exodus Movement, the software developer behind the Exodus Wallet for Bitcoin, got the green light to list its common stock on the New York Stock Exchange, the company said on Monday.
+The EXOD ticker on the NYSE comes as government regulators are stepping up enforcement actions against cryptocurrency projects and developers. While that's certainly a cause for concern, Exodus CEO and co-founder JP Richardson said EXOD was qualified by the U.S. Securities and Exchange Commission and can also trade on NYSE American, formerly known as the American Stock Exchange (AMEX).
+“What's really cool about this is that our common stock is tokenized on the Algorand (ALGO) blockchain, and so we're the only company in the United States that has our common stock tokenized on the blockchain,” Richardson told Decrypt. “That's true today, and that will be true on Thursday as well.”
+SEC qualification means the company has been approved to offer and sell shares of its Class A common stock to investors under Regulation A of the Securities Act, which in turn allows Exodus to raise capital from the public in a regulated manner.
+Exodus became a publicly traded company in 2021, listing its stock with broker-dealer tZero. The sale of the common stock began on April 8, and by April 13, 2021, Exodus had raised $60 million.
+Currently traded on the OTCQX exchange, the EXOD stock will continue to be available there until May 8, the company said, and will begin trading on the NYSE American on May 9.
+Richardson said the benefit of tokenizing the EXOD stock is making it easier and fasters for investors to trade the stock.
+“It works just as simple as cryptocurrency which is phenomenal from a usability standpoint,” he said. “Beyond that, when you think of implications like dividend payouts, we could pay out dividends with USDC to stockholders on a blockchain.
+“We could have governance and voting directly on the blockchain with stock, so corporate governance,” he added.
+Despite the SEC’s crackdown on cryptocurrency, Richardson said he optimistic about the future of publicly traded digital assets, calling it a new era of stocks being tokenized on the blockchain.
+Edited by Ryan Ozawa.
+“We want to see a future where eventually, traditional stocks are powered by the blockchain,” he said. “I think that's what's so great about all this hard work that we're doing.”

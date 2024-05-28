@@ -1,0 +1,10 @@
+Article Title: XRP Ledger Gets South Korean Validator
+
+Article Text:
+South Korea-based cryptocurrency service provider Infinite Block has become a validator on the XRP Ledger, according to a Monday announcement.
+Infinite Block will focus on expanding the XRPL ecosystem, offering XRP-focused services to various corporations.
+In early 2023, Infinite Block was licensed by the Korean Financial Services Commission to act as a virtual asset service provider. It became one of the few dozen entities to obtain this license from the South Korean regulator.
+Infinite Block CEO Jung Gu-tae has stated that the company's most recent move is expected to boost XRPL's reliability. "We will contribute not only to user protection but also to enhancing the reliability of XRPL based on thorough regulatory compliance, both domestically and internationally," the company said.
+Validators serve as the "lifeblood" of the network by determining the set of candidate transactions that can be considered for the next block. Those who run a validator are supposed to make sure that the XRP Ledger continues to operate in an orderly fashion. Unlike Bitcoin or Ethereum, the XRPL network offers no incentives for validators.
+As reported by U.Today, SBI VC Trade, the cryptocurrency trading platform of Japanese financial behemoth SBI Holdings, has also started running an XRP validator. The move is supposed to reflect the voices of SBI customers who hold the token.
+Last week, the XRP Ledger Foundation, a non-profit entity, also added Anodos Finance to its unique node list (UNL).

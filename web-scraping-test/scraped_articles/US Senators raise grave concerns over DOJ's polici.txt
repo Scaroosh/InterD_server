@@ -1,0 +1,14 @@
+Article Title: US Senators raise grave concerns over DOJ's policies towards cryptocurrency asset providers
+
+Article Text:
+Senators Ron Wyden and Cynthia Lummis wrote to the Attorney General on May 9, expressing concerns over the Department of Justice's (DOJ) policies toward crypto asset providers. The Senators claim that the DOJ has been enforcing strict measures against crypto asset software services over the past few months.
+Read more: Tornado Cash developer Roman Storm’s motion to dismiss accusations rebuffed by US DOJ
+In an X post on Monday, Senator Cynthia Lummis blasted the DOJ under President Joe Biden, claiming they wrongly interpreted the federal policy against unlicensed money-transmitting businesses.
+She also disclosed the bipartisan letter she wrote with Senator Ron Wyden to the Attorney General's office expressing concern over the DOJ's recent expansion of the definition of money transmission.
+The letter detailed the federal money-transmitting business statutes laid out by the Financial Crimes Enforcement Network (FinCEN) and how the DOJ's recent actions expanded their scope. "This interpretation threatens to criminalize Americans offering non-custodial crypto asset software services," said the Senators.
+President Biden's DOJ steamrolling the longstanding interpretation of FinCEN is legally wrong and threatens to criminalize Bitcoin software development in America. @RonWyden and I have sent a bipartisan letter to DOJ urging it to drop this interpretation immediately. ⬇️ pic.twitter.com/iazbBhMcOv
+Also read: US intensifies battle against crypto privacy protocols following crackdown on Samourai Wallet
+This follows the DOJ's actions against crypto mixers Samourai Wallet and Tornado Cash. The Department of Justice accused both crypto service providers of running unlicensed money-transmitting businesses. For such accusations, the Senators refer back to money-transmitting business statutes and what it claims to be criminal acts of money transmitting, which does not apply in this case.
+The DOJ arrested and charged the founders of Samourai Wallet in April after charging Tornado Cash founders last year, accusing them of operating unlicensed money-transmitting businesses. The DOJ claimed that the two crypto mixers were involved in over $2 billion of unlawful transactions, with about $100 million of the funds being laundered money.
+Read more: US House Committee set to address regulatory issues over digital assets through review of FIT21 Act
+Senators Ron Wyden and Cynthia Lummis urge the Attorney General to "discard" the new interpretation of money transmission released by the DOJ, as it continues to affect the safety of crypto asset software service providers. They also challenge the DOJ to begin presenting a clear and logically sound interpretation of money transmission as written out by the FinCEN.

@@ -1,0 +1,19 @@
+Article Title: Bitcoin meltdown imminent Expert warns start of BTC crash next week
+
+Article Text:
+A cryptocurrency trading expert has issued a cautionary warning to Bitcoin (BTC) investors, suggesting that a price crash might be imminent as the maiden digital asset struggles to break through the $65,000 resistance level.
+In a May 12 TradingView post, analyst Alan Santana highlighted signs indicating a possible downturn in Bitcoin’s price. Santana pointed to Bitcoin’s technical indicators and recent price movements as evidence supporting the likelihood of a forthcoming crash.
+The expert identified a troubling pattern reminiscent of a cap formation, suggesting a looming trend reversal. Compounding this observation, the all-time high and subsequent lower high sessions concluded with red candle closures below the critical Exponential Moving Average (EMA) 10, signaling a bearish trajectory for Bitcoin.
+Furthermore, the expert noted that Bitcoin has sustained two consecutive weeks of trading below EMA10, further solidifying the prevailing bearish sentiment in the market.
+
+Given these concerning indicators, Santana painted a grim outlook for Bitcoin in the upcoming week. He envisioned an initial downward plunge towards the EMA50, projected to be around $46,000, as the cryptocurrency faces increasing pressure from sellers.
+The anticipated decline is poised to initiate a brief rebound, followed by a temporary lower high, as noted by the analyst. Subsequently, the analyst predicts that Bitcoin may further drop below $40,000.
+“Expect something like this: First a drop toward EMA50 (~46,000) that will surely produce a bounce and short-term lower high, followed by a test of MA200 around $34,000. This is based on the weekly timeframe,” the expert noted
+This projected scenario could significantly blow Bitcoin investors’ hopes that the leading cryptocurrency will maintain support above the $60,000 threshold. It’s worth noting that since its descent from the all-time high of $73,000 recorded in March, the market has been eyeing a potential price bottom before resuming its upward trajectory, with $100,000 remaining the next consensus target.
+In the short term, a Finbold report indicated that Bitcoin technical indicators suggest that the crypto will likely revisit the $72,000 mark.
+Notably, Bitcoin’s current troubles come even as the asset records heightened institutional interest, as evidenced by major United States banking giants. For example, Wells Fargo disclosed its current ownership of 2,245 shares of Grayscale Bitcoin Trust (GBTC), valued at $121,207.
+Similarly, JP Morgan (NYSE: JPM) disclosed its total holdings in Spot BTC ETFs through an SEC filing. The bank reported purchasing approximately $760,000 in shares in various Bitcoin trusts.
+By press time, Bitcoin was trading at $61,040 with daily losses of almost 0.3%. On the weekly chart, BTC is down 4%.
+
+As things stand, Bitcoin can potentially realize Santana’s projection if it fails to hold the current $60,000 support.  Therefore, the level remains a crucial spot to watch.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.

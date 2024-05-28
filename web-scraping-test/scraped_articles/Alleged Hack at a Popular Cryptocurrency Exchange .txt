@@ -1,0 +1,10 @@
+Article Title: Alleged Hack at a Popular Cryptocurrency Exchange – ZachXBT Claims Millions of Dollars Could Be Lost
+
+Article Text:
+Cryptocurrency detective ZachXBT claimed that the cryptocurrency exchange Rain, which also operates in Turkey, was subjected to a hacking attack.
+In his message to his followers, ZachXBT said that assets worth $14.8 million may have been stolen from the stock market on April 29, 2024. The detective attributed this inference to external transfers from the exchange's Bitcoin, Ethereum, Solana and XRP wallets, which he argued were suspicious.
+According to ZachXBT, the allegedly stolen assets were moved to exchanges and converted into BTC and ETH. The cryptocurrency detective currently thinks that the stolen assets are kept in two addresses: 137.9 BTC and 1881 ETH.
+ZachXBT showed bc1q53aawrkpt5lvk2e30z36unvmhqqdru7q4rprp2 for BTC and 0x197bc094f990261fd6841342901c451858756c28 for ETH as the addresses where the stolen assets were kept.
+Cryptocurrency exchange Rain operates especially in the Middle East region. Türkiye is also included in this region by some groups. The countries in which the company operates include Bahrain, United Arab Emirates, Türkiye and Pakistan.
+If there is an update from Rain officials regarding the hack attack, which has not yet been confirmed and for which there is no official statement, it will be added to the news.
+*This is not investment advice.

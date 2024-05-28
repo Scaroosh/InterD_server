@@ -1,0 +1,11 @@
+Article Title: Bitcoin fees quadruple since October 2023
+
+Article Text:
+CryptoSlate recently reported that Ethereum had entered an inflationary state due to the Dencun upgrade, which has reduced the burn rate and diminished gas fees. This development comes as an increasing number of transactions are being settled on Ethereum Layer 2s.
+Before the Bitcoin halving and throughout much of 2024, Ethereum witnessed higher transaction fees than Bitcoin. However, in the lead-up to the halving, on the halving day itself and a few days after, Bitcoin fees surpassed Ethereum’s fees.
+Since April 29, however, the fees for both blockchains have been almost equal, according to Glassnode data,
+
+Glassnode data shows that on May 12, Ethereum generated $2.8 million in fees on a 7-day moving average, the lowest fee level since October 2023, when the price was roughly $1,800 compared to its current price of just below $3,000.
+
+While Bitcoin fees are roughly four times higher than in October 2023, at $2 million against approximately $500,000, we can also observe that since May 2023, each fee boom has resulted in a higher high.
+

@@ -1,0 +1,18 @@
+Article Title: JP Morgan, Wells Fargo latest major banks to disclose Bitcoin exposure via ETFs
+
+Article Text:
+JP Morgan and Wells Fargo are the latest major global banks to disclose exposure to Bitcoin via some of the spot BTC exchange-traded funds launched in January.
+The two lenders filed their 13F disclosures on May 10, revealing a modest investment in the Bitcoin ETFs.
+JP Morgan disclosed $731,246 of spot Bitcoin ETF investments in BlackRock’s IBIT,  Bitwise’s BITB,  Fidelity’s FBTC, and Grayscale’s GBTC. The majority of the amount — $477,425 — was invested in IBIT. Meanwhile, Wells Fargo reported a $141,817 investment in Grayscale’s GBTC during the first quarter.
+Earlier disclosures have revealed that both BNP Paribas and BNY Mellon have also invested amounts into the Bitcoin ETFs, signaling a growing trend among traditional financial institutions despite the modest exposures.
+Furthermore, other major banks, including Morgan Stanley and UBS, have indicated an intent to allow clients to invest in spot Bitcoin ETFs. However, the two lenders have yet to disclose direct exposure to Bitcoin as of press time.
+Industry experts, including BlackRock’s head of digital assets, believe that the trend of institutional flows into Bitcoin ETFs is only beginning with the volume expected to rise as more sophisticated money, like sovereign wealth funds, begin entering the sector.
+BlackRock disclosed a $6.6 million investment in its own IBIT fund in its 13F filing on May 10.
+The company’s strategy follows other spot Bitcoin ETF issuers that have similarly invested in their own funds. Ark Invest holds $206.4 million of its ARKB fund, while Van Eck holds $98,000 of its HODL fund.
+BlackRock’s latest investment comes alongside solid performance for BlackRock’s IBIT. The fund has the highest cumulative inflows of any spot Bitcoin ETF at $15,490 and is the second-largest spot Bitcoin ETF in terms of assets under management.
+BlackRock’s IBIT has also set a new record for reaching $10 billion in AUM. Bloomberg ETF analyst Eric Balchunas commented on the trend, noting:
+“The record speed for an ETF to reach $10b in assets was held by JEPQ who did it in 647 trading days … IBIT got there in 49 days, FBTC in 77 days.”
+Chicago-based hedge fund CTC Alternative Strategies reported a $27.7 million investment in IBIT on May 9.
+Other financial institutions and companies that recently disclosed investments in spot Bitcoin ETFs include Hightower Advisors, US Bancorp, SouthState, Susquehanna International Group, Burkett Financial Services, and Legacy Wealth Asset Management.
+The above companies are a few of the hundreds of other firms that have made similar disclosures in their 13F filings since spot Bitcoin ETFs went live in January.
+According to data from Fintel, over 240 firms have invested in IBIT, while over 130 companies have invested in FBTC. More than 467 firms have invested in Grayscale’s GBTC, which existed before its conversion to an ETF in January.

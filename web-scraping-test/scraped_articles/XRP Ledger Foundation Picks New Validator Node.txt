@@ -1,0 +1,12 @@
+Article Title: XRP Ledger Foundation Picks New Validator Node
+
+Article Text:
+According to a Tuesday announcement, Anodos Finance has been added to the XRP Ledger Foundation's unique node list (UNL).
+The list comprises a set of 35 validators that are considered to be trusted network participants.
+Anodos Finance was added following the removal of Digifin.uk at the request of the former.
+"Being part of the UNL means we are now one of the key players in maintaining the integrity and stability of the XRP Ledger. It's a responsibility we accept with pride and excitement," the project said in a statement.
+In order to be included in the XRP Ledger Foundation's UNL, the validator be "highly available" with production-grade infrastructure. A potential validator should be an active participant in the amendment voting process. Furthermore, the entity behind the validator candidate must be clearly identified.
+The XRP Foundation, an independent non-profit entity, is one of the trusted publishers of UNLs alongside the XRP Foundation.
+The XRP Ledger Foundation started publishing its list of recommended nodes three years ago. Prior to that, Ripple (the XRP Foundation) and Ripple-funded web monetization platform Coil were the only notable entities with their own UNLs. Coil, which was founded by former Ripple CTO Stefan Thomas, went bankrupt.
+Other blockchain networks, such as Bitcoin and Ethereum, do not rely on a predefined list of trusted notes for maintaining consensus. Ripple frequently attracted a fair amount of criticism due to centralized concerns since it used to provide a default curated list of nodes.
+In fact, the U.S. Securities and Exchange Commission cited Ripple's control over nodes that are validating transactions during its prolonged legal battle with the company.

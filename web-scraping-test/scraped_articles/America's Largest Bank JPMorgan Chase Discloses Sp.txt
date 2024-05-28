@@ -1,0 +1,12 @@
+Article Title: America's Largest Bank JPMorgan Chase Discloses Spot Bitcoin ETF Holdings SEC Filing
+
+Article Text:
+JPMorgan Chase, the largest bank in America, has revealed exposure to spot Bitcoin Exchange-Traded Funds (ETFs) in a newly filed document with the Securities and Exchange Commission (SEC) today.
+Phoenix Trades
+The SEC filing by JPMorgan Chase provides specific insights into the bank's exposure to spot Bitcoin ETFs. The bank currently has exposure to spot Bitcoin ETFs issued by some of the largest asset managers in the world: BlackRock, Fidelity, Grayscale, and more.
+Though, the amount of money allocated to each ETF seems a bit underwhelming, taking into consideration how much money other institutions are allocating to purchasing Bitcoin. That's because:
+"JPM, Susquehanna (which also owns these ETFs and was all over this site last week) and others are just market makers and/or AP's. Their ownership isn't necessarily indicative of anything other than this is how many shares they had on 3/31/24," commented Bloomberg ETF Analyst James Seyffart. "If you're making markets in these things, the number of shares held could swing heavily day to day. The 13F data is simply a snapshot of *LONG* positions held on 3/31 13F's don't show shorts OR derivatives. So we don't even have a full look at their true exposure on 3/31."
+Bloomberg Senior ETF Analyst Eric Balchunas also commented on the news, stating we'll "prob[ably] see many of the big banks report some holdings in their role as market makers/APs. That is dif[ferent from] them buying for the exposure (and thus less hypocritical in JPM's case).. props for catching this tho we still working on getting the file on bbg it just came out."
+"What is notable IMO is the sheer number of holders that each has so far. $IBIT is up to 250. That's bonkers for first quarter on market," Balchunas continued. "Here's comparison of the other ETFs launched same week-ish as btc ones. And we still have like a week of 13Fs to roll in yet."
+Eric Balchunas
+JPMorgan's disclosure comes just hours after Wells Fargo, America's third largest bank, also made a similar revelation about its spot Bitcoin ETF exposure.

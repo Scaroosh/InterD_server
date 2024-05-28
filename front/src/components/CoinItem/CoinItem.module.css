@@ -1,0 +1,77 @@
+.coin_item_card{
+    width: 226px;
+    height: 174px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #E4E2DF;
+    transition: width 0.3s ease-in-out;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    gap: 10px;
+    margin: 10px 0 10px 0;
+}
+
+.card_container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.title{
+    color: #1E2115;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.coin_item_card:hover{
+    width: 403px;
+
+}
+
+.change {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s linear;
+    color: #1E2115;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.coin_item_card:hover .change, .coin_item_card:hover .price{
+    visibility: visible; /* сделать текст видимым при наведении */
+    opacity: 1;
+    transition-delay: 0.3s; /* задержка для синхронизации с анимацией ширины */
+}
+
+.price{
+    border-radius: 10px;
+    border: 2px solid #A7AA57;
+    background: rgba(217, 217, 217, 0.00);
+
+}
+
+.price{
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.price{
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s linear;
+    display: flex;
+}
+
+.hidden_things{
+    display: flex;
+    gap: 15px;
+}

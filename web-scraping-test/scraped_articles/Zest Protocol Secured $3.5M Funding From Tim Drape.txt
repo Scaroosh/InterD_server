@@ -1,0 +1,14 @@
+Article Title: Zest Protocol Secured $3.5M Funding From Tim Draper for On-Chain Bitcoin Lending
+
+Article Text:
+Zest Protocol secures $3.5M, led by Tim Draper, for Bitcoin lending.
+Zest enables BTC holders to generate yield through on-chain lending without intermediaries.
+Zest leverages Stacks layer 2 and sBTC for native Bitcoin lending opportunities.
+Zest Protocol, a pioneering Bitcoin lending startup, has successfully raised $3.5 million in funding led by renowned investor Tim Draper. This funding round, which included participation from key investors such as Binance Labs, Flow Traders, and Trust Machines, highlights a growing interest in crypto lending despite regulatory challenges from the U.S. Securities and Exchange Commission (SEC).
+Zest Protocol, a startup with a small team of six, has successfully raised $3.5 million in funding, with Tim Draper’s Draper Associates leading the investment round. The investment will support Zest’s mission to empower Bitcoin (BTC) holders by allowing them to leverage their assets on-chain to generate yield.
+Zest Protocol raises $3.5m Seed round to redefine Bitcoin lendingLed by @drapervc, with participation from @BinanceLabs, @FlowTraders, @trustmachinesco, @goasymmetric and more 🤝 pic.twitter.com/L1PP6hmWN6
+The core focus of Zest Protocol is to facilitate Bitcoin lending through on-chain mechanisms, offering users the opportunity to generate yield from their BTC holdings without relying on traditional financial intermediaries.
+This approach aligns with the ethos of decentralized finance (DeFi), where peer-to-peer transactions occur directly on the blockchain.
+Zest Protocol leverages Bitcoin layer 2 technology by Stacks and the sBTC asset (pegged 1:1 to Bitcoin) to create a lending platform native to the Bitcoin network. However, users can deposit bitcoin using sBTC on the Stacks mainnet to participate in lending activities and earn passive income without selling their bitcoin holdings.
+Tycho Onnasch, the founder of Zest Protocol, highlights the importance of Bitcoin layer 2 solutions like Stacks in unlocking decentralized finance (DeFi) opportunities for Bitcoin. Unlike Ethereum, which traditionally hosts DeFi applications, Bitcoin’s layer 1 has limitations that Stack technology overcomes.
+Zest’s approach to lending aims for sustainability and maturity, distinguishing itself from previous high-yield offerings in the crypto industry.

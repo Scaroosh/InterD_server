@@ -1,0 +1,15 @@
+The structure of the json file should be the following:
+
+json 
+{	
+	"name" : ,
+	"confidence" : ,
+	"recommendation" : 
+		
+}
+
+The Name will be filled with the name of the coin which the language model indentified in the news articel and for which it will give the recommendation.
+
+The confidence parameter will give an number between 0-100. 0 means that the model is not sure about its prediction.
+
+The recommendation parameter will give either buy, hold or sell as an reccommendation.

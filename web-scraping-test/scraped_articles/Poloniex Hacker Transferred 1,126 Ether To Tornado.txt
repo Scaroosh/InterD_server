@@ -1,0 +1,16 @@
+Article Title: Poloniex Hacker Transferred 1,126 Ether To Tornado Cash
+
+Article Text:
+A Poloniex hacker sent 11 batches of around 100 ETH to Tornado Cash, leading to a transfer of around 1,126 ETH in a period of two hours. Moreover, the wallet sent bitcoin worth $32 Million to an unlabeled wallet last week.
+Poloniex was established in 2014 as a centralized exchange and Justin Sun, founder of Tron, acquired it in 2019. This acquisition has improved the reputation and security measures applicable to the exchange.
+A hacker was reported to have stolen $125 Million from Poloniex’s hot wallet in November 2023 and has transferred 1,100 ether to approved coin mixed Tornado Cash, as per the information from blockchain data.
+The ether were collectively valued approximately $3.3 Million and on tuesday, May 7, the hacker transferred to Tornado Cash, distributing over 100 ETH batches. These holdings have been sitting idle for 178 days, that is, from the time these tokens were hacked.
+In addition to this, on April 30, the Poloniex hacker sent 501 bitcoins (BTC) valued at $32 Million to an unlabelled wallet. However, the hacker still holds cryptocurrencies worth over $181 Million, even after the decrease of $897.36K, as per the data from Arkham.
+Source: Arkham Intelligence
+Tornado Cash is a protocol that enables users to increase the opaqueness of crypto tokens by mixing crypto tokens by mixing assets across several wallets for a longer period of time.
+It was approved by the U.S. Treasury Department in 2022, shortly after it was used by the North Korean hacking group Lazarus, which attempted to hide funds from the $625 Million Axie Infinity exploit.
+In March, Elliptic, a blockchain security firm, said that Lazarus Group used Tornado Cash to launder $12 Million from the Heco Bridge hack, which occurred shortly after the Poloniex hack.
+As an unusual move, Poloniex offered the hacker a 5% bounty, amounting to around $5 Million, as an appeal to return the remaining 95% of the stolen funds. Nevertheless, this attempt to negotiate with the hacker turned out to be unsuccessful, as proved by the recent transfers of ETH to Tornado Cash.
+After the hack incident, the team hereby promised each Poloniex user that Poloniex maintains a healthy financial position and will fully reimburse the affected funds.
+The team has successfully identified and frozen a portion of the assets associated with the hacker’s addresses to avoid further losses. Currently, the losses are within manageable limits, and Poloniex’s operating revenue can cover these losses.
+After that, the team have restored Poloniex’s systems, reserving relevant evidence and in the coming days. They will gradually resume deposits and withdrawals on Poloniex, ensuring 100% security.

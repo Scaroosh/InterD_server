@@ -1,0 +1,10 @@
+Article Title: Coinbase Reports System-Wide Outage
+
+Article Text:
+Coinbase is currently battling a major outage that began at 4:15 AM UTC.
+The exchange’s X account said it is investigating the outage, and users' funds are safe.
+Crypto exchange Coinbase {{COIN}} is currently offline as the exchange battles a major outage.
+Currently, the exchange's website shows a "503 Service Temporarily Unavailable" message.
+The exchange said in a post on X that it is investigating the issue and working on a solution. “Your funds are safe,” it posted.
+A spokesperson for Coinbase said that the company didn’t have anything else to add aside from the X post.
+The price of bitcoin (BTC) appears to be unaffected by the issue and is currently trading above $62,500, according to CoinDesk Indices data, up over 2.7%.

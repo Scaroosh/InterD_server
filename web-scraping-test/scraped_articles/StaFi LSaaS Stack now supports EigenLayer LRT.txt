@@ -1,0 +1,13 @@
+Article Title: StaFi LSaaS Stack now supports EigenLayer LRT
+
+Article Text:
+StaFi, a multi-chain liquid staking derivatives (LSD) protocol, has announced it would support the EigenLayer Liquid Restaking Token (LRT), according to the information shared with Finbold on May 10.
+The integration accompanies the release of the StaFi 2.0 roadmap, outlining plans for the LRT Stack and representing a significant milestone just a month after launching LSaaS (Liquid Staking as a Service).
+The addition of LRT support leverages the successful launch of the EigenLayer mainnet, enabling developers and project teams to seamlessly deploy LRT on LSaaS, greatly streamlining LRT development and enhancing the accessibility of restaking.
+Liam Young, founder of StaFi, expressed excitement about the integration, stating:
+“The integration of LRT into StaFi’s Liquid Staking as a Service is a major breakthrough for developers, who are now free to create restaking products that harness shared security across multiple chains. Up until now, building with LRT has been a complex task that entails significant lead time. StaFi’s LRT Stack will slash time to market while empowering builders to create novel solutions that draw upon the cryptoeconomic guarantees that liquid staking permits.”
+The LRT Stack provides several key functionalities, including restake, unrestake, withdraw, mint, burn LRT, restaking pool, and delegate/undelegate restaking operator.
+To facilitate the construction of the LRT/Ethereum (ETH) pair, AVS restaking rewards will be swapped for ETH in the market via swap.
+These functionalities will be further improved with the upgrade of EigenLayer, enabling developers and LRT operators to swiftly construct their LRT with the aforementioned functionalities.
+EigenLayer LRT is already supported on the LSaaS Stack App, with continued support for Karak and BounceBit LRT.
+Some plans are also underway to introduce support for Bitcoin (BTC) LRT in the near future.

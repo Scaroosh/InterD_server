@@ -1,0 +1,48 @@
+Article Title: Institutions Likely To Show Interest in Bitcoin DeFi Applications
+
+Article Text:
+Bitcoin (BTC) is rapidly evolving. While the Bitcoin network has primarily been used for payment transactions, current activity appears to be resembling that of Ethereum during the height of decentralized application (Dapp) projects.
+The introduction of Bitcoin Runes and BRC-20 tokens  – which emerged during the time of the fourth Bitcoin halving event – has likely sparked the evolution of Bitcoin-native decentralized finance (DeFi).
+Rena Shah, VP of Products at Trust Machines – a team focused on growing the Bitcoin economy – told Cryptonews that two years ago, Bitcoin DeFi wasn’t a narrative the ecosystem was discussing.
+Yet Shah noted that the emergence of staking platforms and lending protocols across the Bitcoin network has created interest among investors in transitioning assets from a store of value to a source of value.
+Growth in the Bitcoin DeFi (BTCFI) ecosystem is staggering 🧡
+🟧 @ALEXLabBTC leading the charge, with @Bitflow_Finance & @StackingDao following.
+– Data from @signal21btc pic.twitter.com/87MP5hMCbL
+— stacks.btc (@Stacks) May 8, 2024
+“The desire to go from a passive to a productive Bitcoin asset is real in 2024,” she said. “We have been building towards this future because we can see that Bitcoin DeFi is appealing not just to retail investors but also to institutional investors.”
+Data from DeFiLlama shows that Bitcoin’s total value locked (TVL) is roughly $1.2 billion. Yet, according to Shah, nearly $1 trillion in capital is locked on the Bitcoin blockchain.
+“Even the smallest percentages of capital becoming productive in DeFi will make huge waves in the Bitcoin ecosystem,” Shah pointed out.
+This, along with the recent approval of spot Bitcoin exchange-traded funds (ETFs) in the United States, is increasing the potential for Bitcoin DeFi applications. In particular, this will likely appeal to institutions holding Bitcoin and retail investors.
+
+Tycho Onnasch, the co-founder of Zest Protocol, told Cryptonews that he believes BTC is a more institutional asset than the rest of crypto.
+“Hence, I expect institutions to play a larger part in using and bootstrapping Bitcoin DeFi,” said Onnasch.
+Although Bitcoin DeFi is still a relatively new concept, a number of projects seek to enable and advance the sector.
+For example, Onnasch explained that Zest Protocol is creating a lending protocol built specifically for Bitcoin. He mentioned that the goal behind the platform is to create a permissionless financial infrastructure for BTC lending markets.
+“Zest enables users to collateralize BTC to borrow other tokens such as stablecoins,” he said. “The platform also lets users earn yield on their BTC.”
+Indeed, the primary use case behind Bitcoin DeFi applications seems to be ensuring that Bitcoin becomes a more productive asset for investors.
+Dr. Chiente Hsu, Co-Founder of ALEX and XLink, told Cryptonews that Alex is a new finance layer for the Bitcoin network.
+“Our goal is to seamlessly integrate Bitcoin with layer-2 (L2) solutions and the Ethereum Virtual Machine (EVM) world,” said Hsu. “This will allow us to expand the Bitcoin economy,” said Hsu.
+For instance, Hsu explained that investors can earn yield on their BTC by connecting a Bitcoin wallet to XLink. He noted that XLink is powered by ALEX’s automated market maker (AMM) and decentralized exchange (DEX). This will allow cross-chain swaps between Bitcoin L2s and the EVM world.
+“Bitcoin DeFi for institutions will be the pursuit of Bitcoin yield generating assets,” said Hsu.
+Hsu believes this will likely be the case due to the large amount of capital on the Bitcoin network.
+“There’s well over $1 trillion in Bitcoin capital that is ‘idle’ in the sense that its value rises and falls relative to the Bitcoin spot price,” he said. “But unlike Ethereum, Bitcoin can’t be natively locked to generate a yield. This is a solution that ALEX is actively pursuing, which will enable institutions that hold Bitcoin to earn yield through their Bitcoin capital.”
+Another interesting point is that while Bitcoin DeFi is unique, applications tend to resemble DeFi projects on Ethereum (ETH). This is important to consider, as institutions have started to show interest in many current DeFi applications.
+Digital asset management firm Fireblocks recently found increased institutional DeFi activity on the Fireblocks platform. According to the firm, there was a 75% jump in the first quarter of 2024.
+Fireblocks reported that some of the most popular Dapps that institutional customers interact with across swapping, lending, staking, and bridging include Uniswap, Aave, Curve, 1inch, and Jupiter.
+Jeff Yin, CEO of Merlin Chain – a Bitcoin L2 facilitating fast, cost-effective transactions with support for BTC Dapps – told Cryptonews that DEXs, derivatives, and lending are all areas where BTC has learned extensively from ETH. He added that many new protocols are emerging.
+“For example, ‘Surf’ is a derivatives trading protocol that launched on Merlin Chain and now boasts a daily trading volume of over $10 million. These are similar to their Ethereum counterparts,” said Yin.
+Yin elaborated that a specific Bitcoin DeFi application would replicate one of the largest ETH DeFi protocols, Lido – which holds $28 billion and accounts for half of Ethereum’s DeFi TVL.
+“SolvBTC is currently developing an underlying BTC yield protocol,” said Yin. “Additionally, Unicross has implemented a Rune trading protocol on a BTC L2, allowing users to trade Layer 1 (L1) assets more cheaply on L2. These represent the more innovative aspects of the sector.”
+While Bitcoin DeFi may appear similar to Ethereum, Shah believes that decentralized finance using BTC may eventually surpass Ethereum.
+“Looking at DappRadar, Ethereum has over 600 active apps with varying volume and activity,” said Shah. “I have no reason to expect that Bitcoin DeFi cannot match Ethereum, and eventually flip it for Dapps in the ecosystem.”
+Certain solutions are also making it easier to bring Ethereum Dapps to Bitcoin.
+Zack Voell, Director of Marketing at Botanix Labs, told Cryptonews that Botanix had created a “Spiderchain” that easily enables DeFi on Bitcoin.
+“Spiderchain creates a fully EVM-equivalent environment for Dapps and smart contracts on Ethereum to be copy-pasted to run natively on Bitcoin,” said Voell. “Botanix Labs is building the Spiderchain to combine the two most Lindy technologies in crypto — the EVM and Bitcoin — instead of trying to reinvent a completely new protocol or virtual machine.”
+Although it’s too soon to determine the fate of Bitcoin DeFi, certain challenges may slow adoption.
+For instance, Yin pointed out that liquidity fragmentation often results from the difficulty of implementing DeFi on an L1 network. This, in turn, forces most activities to disperse across various L2 solutions, yet Yin noted that this may make it difficult to concentrate liquidity.
+“A potential solution could be to create omnichain liquidity, similar to the Stone protocol in the Ethereum ecosystem,” he said. “We look forward to future implementations like M-STONEBTC and Solv Protocol that could unify BTC L2 liquidity.”
+Additionally, Shah mentioned that Bitcoin’s challenge is keeping the base layer secure, stable, and untampered.
+“That is where scaling becomes paramount,” she said. “A healthy and diverse L2 ecosystem will be what ultimately drives Bitcoin DeFi, as a vertical, to succeed.”
+Shah added that programming environments on Bitcoin are inherently difficult since many developers from other ecosystems are less familiar with Bitcoin script.
+She noted that one way to combat this is to create WebAssembly (WASM) or different run-time environments like Rust, Solidity, and Cosmos with L2s.
+“This approach will likely help bring new developers into the ecosystem,” she remarked.

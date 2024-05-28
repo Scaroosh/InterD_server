@@ -1,0 +1,16 @@
+Article Title: Bitcoin Collapse to $60,0000 Leaves XRP, ADA At Risk
+
+Article Text:
+Bitcoin’s (BTC) price decrease to $60,800 might have left Ripple (XRP) and Cardano (ADA) on the brink of another plunge. According to Coinglass, the decline caused a total of $156 million in liquidations in the last 24 hours.
+Data showed that longs accounted for a large part of this wipeout. For XRP, there was a sum of $1.80 million in liquidations. ADA, on the other hand, recorded a total of $520,000 in money lost by traders.
+Crypto Market Liquidation (Source: Coinglass)
+At press time, XRP’s price was $0.50 after losing 2.41% of its value in the last 24 hours. Cardano dropped by 3.79% while its price was $0.44 as of this writing.
+The 4-hour XRP/USD chart showed that the token had formed a symmetrical triangle with a peak at $0.55 and a crest of $0.51. For those unfamiliar, a symmetrical triangle pattern forms when the price of a token is forced to break down or break out after a period of consolidation.
+For XRP, the likely move is for the price to break down. This was confirmed after looking at the Exponential Moving Average (EMA).
+At press time, the 50 EMA (yellow) had crossed over the 20 EMA (blue). This is known as a death cross, and it signals a bearish trend. From the look of things, this position, accompanied by the triangle pattern might force XRP as low as $0.46.
+XRP/USD 4-Hour Chart (Source: TradingView)
+Indications from Cardano’s structure on the 4-hour chart suggested a similar move to XRP. At press time, Coin Edition looked at the Money Flow Index (MFI), whose reading had decreased. The decrease implies that traders are moving their capital out of ADA.
+This assertion was also reinforced by the On Balance Volume (OBV) which is an indicator that reflects buying or selling pressure. As of this writing, the OBV reading was flat, suggesting that investors have refrained from pouring money into ADA.
+ADA/USD 4-Hour Chart (Source: TradingView)
+With this trend, the next move for the Cardano native token would be a decrease. From its ceiling of $0.48, which it reached on May 10, ADA’s price might fall to $0.42. This leaves the prediction at a 10.93% decrease within a few days.
+Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.

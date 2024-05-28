@@ -1,0 +1,4 @@
+Article Title: Bitcoin Lightning Network Infrastructure Provider Mash Is Shutting Down Its Current Version
+
+Article Text:
+In a recent announcement, Mash, a provider of Bitcoin Lightning Network infrastructure, has decided to shut down its current version. This comes nearly two years after Mash successfully closed a $6 million seed round in June 2022 to build out its usage-based revenue model for content creators. All products and services will cease to function from May 17th, 2024 at 9am Eastern. Users are advised to remove any funds they have on Mash products as they will not be accessible starting from the same date. Funds can be transferred to Lightning-enabled wallets including Cash App, Mutiny Wallet, Kraken Zeus, Breeze, ZBD, Phoenix, and others. The team expressed gratitude for the support received over the years and hinted at a return after a reinvention of their platform.

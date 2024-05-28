@@ -1,0 +1,21 @@
+Article Title: SEC Decided To Deploy Decision On Spot Ethereum ETF Is Regulatory Hesitating
+
+Article Text:
+SEC has extended its period for approval or disapproval of Ethereum ETF and is expected to deny proposals by VanEck and ARK.
+The United States Securities and Exchange Commission (SEC) again postponed the decision on Galaxy Invesco’s application to spot Ethereum ETFs. July 5 is designated as the new date for the final decision.
+ETF applications of other giants, including BlackRock, Fidelity, Franklin Templeton, Hashdex, and Ark 21Shares, were also delayed.
+The SEC has expanded the period of approving or disapproving the spot Ethereum ETF for an additional 60 days. The decision on the Invesco Galaxy spot Ethereum ETF proposal is scheduled for July 5.
+
+SEC Notice I Source: SECURITIES AND EXCHANGE COMMISSION
+‘The Commission, pursuant to Section 19(b)(2) of the Act, 5 designates June 11, 2024, as the date by which the Commission shall either approve or disapprove or institute proceedings to determine whether to disapprove, the proposed rule change (File No. SR-CboeBZX-2024-018).’, the notice add.
+The commission is taking more time to approve or reject the Ethereum ETF than it was to approve the Bitcoin ETF, which was approved in January 2024. Many industry experts anticipate that the SEC would deny these ETFs for several reasons.
+Lack of public engagement, mechanical reasons, and an ongoing legal battle between key Ethereum backer Consensys could be possible reasons for the disapproval.
+Based on a recent report by Reuters, the SEC may reject applications by VanEck and ARK later this month. However, BlackRock’s CEO, Larry Fink, and Coinbase’s chief legal officer, Paul Grewal, hold positive hopes.
+“It was still possible to launch a spot Ethereum ETF even if the underlying cryptocurrency were to be classified as an unregistered security.”, said Larry Fink.
+Additionally, Paul Grewal said that the SEC has no reasonable explanation for denying the ETH ETF applications.
+James Seyffart, a Bloomberg ETF analyst, also discussed Ethereum ETF in the past.
+This is what the table looks like at the moment. It doesn't change our view at the moment. Still think we likely see denials in May. (though i do still need to read through this doc more but on the road today) pic.twitter.com/txuFK8OeAq
+“This is what the table looks like at the moment. It doesn’t change our view at the moment. Still think we likely see denials in May.”, he tweeted.
+Moreover, Eric Balchunas, Senior Bloomberg ETF analyst, downgraded the positiveness of spot Ethereum ETFs, declining from 50% to 35%.
+A spot Ethereum ETf provides investors an outstanding way to invest directly in the respective digital asset without making any purchase or hold. Simply, it is an Ethereum investment vehicle that offers exposure to digital assets.
+Furthermore, Hong Kong is the world’s first to accept and approve the Ethereum ETF.
