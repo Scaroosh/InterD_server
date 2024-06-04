@@ -1,7 +1,6 @@
 import classes from "./Items.module.css";
 
 const Items = ({ coins }) => {
-  console.log(coins);
   return (
     <>
       <div>

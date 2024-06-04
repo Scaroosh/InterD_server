@@ -30,7 +30,6 @@ const AccountPage = () => {
         import.meta.env.VITE_SERVER_URL + "coinbase/save_keys",
         data
       );
-      console.log(response);
     }
   };
 
