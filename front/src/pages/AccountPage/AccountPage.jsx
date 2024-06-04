@@ -46,7 +46,6 @@ const AccountPage = () => {
         import.meta.env.VITE_SERVER_URL + "coinbase/delete_keys",
         data
       );
-      console.log(response);
     }
   };
 

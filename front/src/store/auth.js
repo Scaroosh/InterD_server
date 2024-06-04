@@ -14,6 +14,7 @@ export const authSlice = createSlice({
       state.user.status = "loggedIn";
       localStorage.setItem("meId", userId);
       localStorage.setItem("meStatus", "loggedIn");
+      console.log("You have succesfully logged in.");
     },
   },
 });
