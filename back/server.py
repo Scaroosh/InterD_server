@@ -3,7 +3,7 @@ from flask_cors import CORS
 from db_utils import get_dbclient
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://interd-server-1.onrender.com"])
 
 def connect_to_database():
     try:
