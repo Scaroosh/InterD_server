@@ -16,9 +16,16 @@ export const authSlice = createSlice({
       localStorage.setItem("meStatus", "loggedIn");
       console.log("You have succesfully logged in.");
     },
+    userLogOut: (state, action) => {
+      state.user.user_id = null;
+      state.user.status = "anonymous";
+      localStorage.removeItem("meId");
+      localStorage.removeItem("meStatus");
+      console.log("You have sucessfully logged out.");
+    },
   },
 });
 
-export const { userLogin } = authSlice.actions;
+export const { userLogin, userLogOut } = authSlice.actions;
 
 export default authSlice.reducer;
