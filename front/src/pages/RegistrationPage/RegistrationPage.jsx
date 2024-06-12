@@ -24,6 +24,7 @@ const RegistrationPage = () => {
       import.meta.env.VITE_SERVER_URL + "auth/register",
       formattedData
     );
+    console.log(response);
   };
 
   const [showPassword, setShowPassword] = useState(false);

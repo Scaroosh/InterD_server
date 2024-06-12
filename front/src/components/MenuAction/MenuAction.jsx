@@ -27,18 +27,23 @@ const MenuAction = () => {
         </li>
         <li className={classes.user_action_list}>
           <NavLink
-            className={classes.user_action_list_text}
-            to={"/inventory_page"}
+              className={classes.user_action_list_text}
+              to={"/inventory_page"}
           >
             Inventory
+          </NavLink>
+        </li>
+        <li className={classes.user_action_list}>
+          <NavLink className={classes.user_action_list_text} to={"/chat_bot"}>
+            ChatBot
           </NavLink>
         </li>
       </ul>
 
       <NavLink to={"/account_page"}>
-        <img src={userIcon} alt="user_icon" />
+        <img src={userIcon} alt="user_icon"/>
       </NavLink>
-      <IoIosLogOut style={{ fontSize: "2em" }} onClick={onSubmit}></IoIosLogOut>
+      <IoIosLogOut style={{fontSize: "2em"}} onClick={onSubmit}></IoIosLogOut>
     </section>
   );
 };

@@ -9,6 +9,14 @@ source env/bin/activate or source env/Scripts/activate
 pip install -r requirements.txt
 python -m flask --app server.py run -p 8080
 
+# Deployed back endpoint address
+
+https://interd-server.onrender.com
+
+# Deployed website
+
+https://interd-server-1.onrender.com
+
 # Launching the tests
 
 python -m pytest

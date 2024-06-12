@@ -30,7 +30,7 @@ const AccountPage = () => {
         import.meta.env.VITE_SERVER_URL + "coinbase/save_keys",
         data
       );
-    }
+    } else console.log("You are not logged In");
   };
 
   const deleteKeys = async (event) => {

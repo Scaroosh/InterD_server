@@ -9,6 +9,7 @@ import NewsPage from "@/pages/NewsPage/NewsPage.jsx";
 import InventoryPage from "@/pages/InventoryPage/InventoryPage.jsx";
 import Coins from "@/pages/CoinsPage/Coins.jsx";
 import AccountPage from "@/pages/AccountPage/AccountPage.jsx";
+import ChatBotPage from "@/pages/ChatBotPage/ChatBotPage.jsx";
 
 export default function Routers() {
   return (
@@ -24,6 +25,7 @@ export default function Routers() {
         <Route path="/inventory_page" element={<InventoryPage />} />
         <Route path="/coins_page" element={<Coins />} />
         <Route path="/account_page" element={<AccountPage />} />
+        <Route path="/chat_bot" element={<ChatBotPage/>}/>
       </Routes>
     </BrowserRouter>
   );

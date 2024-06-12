@@ -31,6 +31,7 @@ const LoginPage = () => {
       formattedData
     );
     dispatch(userLogin({ payload: response.data.user_id }));
+    console.log(store.getState());
   };
 
   const [showPassword, setShowPassword] = useState(false);
