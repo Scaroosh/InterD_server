@@ -8,7 +8,7 @@ gunicorn==22.0.0 # This is for render
 
 # This is for the chatbot
 datetime==4.0.1
-numpy==1.22.4
+numpy==1.23.2
 pandas==1.5.3
 plotly==5.13.1
 sklearn-pandas==2.2.0
