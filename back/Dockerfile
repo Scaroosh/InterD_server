@@ -14,7 +14,7 @@ WORKDIR /app
 COPY ./requirements.txt /app
 
 # Install dependencies from requirements.txt
-RUN python3.12 -m install -r requirements.txt
+RUN python3.12 -m pip install -r requirements.txt
 
 # Copy your application code
 COPY . .
