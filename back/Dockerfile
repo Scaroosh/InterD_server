@@ -17,13 +17,13 @@ COPY ./requirements.txt /app
 RUN python3.12 -m install -r requirements.txt
 
 # Copy your application code
-COPY . .  # This copies everything from your current directory into the container
+COPY . .
 
 # Expose port 8080 for the Flask app
 EXPOSE 8080
 
 # Set the working directory for the command (optional, but recommended for clarity)
-WORKDIR /app
+ENV FLASK_APP=server.py
 
 # Run the Flask app using the specified command
 CMD ["python3.12", "-m", "flask", "--app", "server.py", "run", "-p", "8080"]
