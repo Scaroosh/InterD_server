@@ -6,4 +6,4 @@ RUN yes | conda install -c conda-forge ta-lib
 RUN pip3 install -r requirements.txt
 ENV PYTHONPATH=${PYTHONPATH}:/workdir/appdir
 EXPOSE 8000
-CMD [“gunicorn.sh”]
+CMD [“gunicorn server:app”]
