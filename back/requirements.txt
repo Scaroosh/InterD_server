@@ -14,7 +14,6 @@ langchain
 langchain-google-vertexai
 websocket-client
 pandas
-ta-lib
 yfinance
 plotly
 streamlit
