@@ -5,10 +5,10 @@ FROM python:3.12-slim
 WORKDIR /app
 
 # Copy the TA_Lib wheel file (assuming it's in your current directory)
-COPY ./TA_Lib-0.4.29-cp312-cp312-win_amd64.whl /app
+# COPY ./TA_Lib-0.4.29-cp312-cp312-win_amd64.whl /app
 
-# Install TA_Lib directly from the wheel file
-RUN python3.12 -m pip install TA_Lib-0.4.29-cp312-cp312-win_amd64.whl
+# # Install TA_Lib directly from the wheel file
+# RUN python3.12 -m pip install TA_Lib-0.4.29-cp312-cp312-win_amd64.whl
 
 # Copy your requirements.txt file
 COPY ./requirements.txt /app
