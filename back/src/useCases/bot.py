@@ -1,4 +1,4 @@
-from chat_bot.bot_algo import BotManager
+from ....chat_bot.bot_algo import BotManager
 
 bot_manager = BotManager()
 
