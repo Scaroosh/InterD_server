@@ -14,12 +14,14 @@ export const authSlice = createSlice({
       state.user.status = "loggedIn";
       localStorage.setItem("meId", userId);
       localStorage.setItem("meStatus", "loggedIn");
+      console.log("You have succesfully login");
     },
     userLogOut: (state, action) => {
       state.user.user_id = null;
       state.user.status = "anonymous";
       localStorage.removeItem("meId");
       localStorage.removeItem("meStatus");
+      console.log("You have succesfully logout");
     },
   },
 });
