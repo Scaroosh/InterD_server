@@ -8,7 +8,6 @@ gunicorn==22.0.0 # This is for render
 
 # This is for the chatbot
 # ta-lib
-cryptography==40.0.0
 duckduckgo-search
 bs4
 undetected-chromedriver

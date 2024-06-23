@@ -3,7 +3,7 @@ ENV PYTHONUNBUFFERED 1
 WORKDIR /workdir
 COPY requirements.txt requirements.txt
 RUN yes | conda install -c conda-forge ta-lib
-RUN pip3 install -r requirements.txt
+RUN pip3.12 install -r requirements.txt
 ENV PYTHONPATH=${PYTHONPATH}:/workdir/appdir
 COPY . .
 EXPOSE 8080
