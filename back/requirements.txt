@@ -5,6 +5,7 @@ pytest==8.2.0
 coinbase-advanced-py==1.3.0
 python-dotenv==1.0.1
 gunicorn==22.0.0 # This is for render
+lxml_html_clean
 datetime
 numpy
 pandas
