@@ -1,87 +1,78 @@
-.container{
-    display: flex;
-    gap: 90px;
-    
-}
-
-.article_info{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-
-.article_date{
-    color: #E4E2DF;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-}
-
-.article_text{
-    color: #1E2115;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-}
-
-.title{
-    color: #1E2115;
-    font-size: 64px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-}
-
-.contact{
-    color: #E4E2DF;
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-}
-
-.contact_text{
-    color: #1E2115;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-}
-
-.contact_info{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 30px;
-    width: 30%;
-}
-.contact_info>img{
-    height: auto;
+.container {
     width: 100%;
+    padding: 20px;
 }
 
-.contact_text_container{
-
-
+.searchBar, .sourceSelect {
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
 
-@media (max-width: 1321px) {
+.cardsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.card {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    cursor: pointer;
+    background-color: #f5f5f5;
+}
+
+.modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1040;
+}
+
+.modal {
+    width: 600px; /* Фиксированная ширина */
+    height: 400px; /* Фиксированная высота */
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    overflow: auto; /* Добавление прокрутки если контент переполняет высоту */
+    z-index: 1050;
+}
+
+.closeButton {
+    align-self: flex-end;
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: #666;
+}
+
+.modalContent {
+    flex-grow: 1;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+@media (max-width: 479px) {
     .container{
-        flex-direction: column;
-    }
-    .contact_info{
-        flex-direction: row;
-        flex-wrap: wrap;
-    }
-
-    .contact_info{
-        height: auto;
-        width: 100%;
-    }
-
-    .contact_text_container{
-        height: 100%;
+        padding: 0;
     }
 }
