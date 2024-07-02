@@ -3,7 +3,7 @@ import classes from "./NewsPage.module.css";
 import { useEffect, useState } from "react";
 
 const NewsPage = () => {
-  const [ticker, setTicker] = useState("");
+  const [ticker, setTicker] = useState("BTC");
   const [source, setSource] = useState("YahooFinance");
   const [news, setNews] = useState([]);
   const [modalContent, setModalContent] = useState(null);
@@ -63,6 +63,7 @@ const NewsPage = () => {
             onChange={(e) => setTicker(e.target.value)}
             placeholder="Enter Ticker"
             required
+            disabled
           />
           <select
             value={source}
