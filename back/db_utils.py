@@ -14,3 +14,6 @@ def get_cluster():
 
 def get_users_database():
     return get_cluster()["users"]
+
+def get_news_database():
+    return get_cluster()["news"]
