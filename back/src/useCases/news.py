@@ -12,6 +12,6 @@ def fetch_news(data):
         db = get_news_database()
         articles = list(db.find({"source": source}, { "_id" : 0 }).sort([('timestamp', -1)]).limit(1))
         # articles = news_manager.get_news(ticker, source, max_articles)
-        return {"articles": articles.articles}, 200
+        return {"articles": articles}, 200
     except ValueError as e:
         return {"message": str(e)}, 400
