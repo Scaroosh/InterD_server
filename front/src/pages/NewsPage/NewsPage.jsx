@@ -30,7 +30,7 @@ const NewsPage = () => {
       }
 
       const data = await response.json();
-      setNews(data.articles);
+      setNews(data.articles[0].articles);
     } catch (error) {
       console.error("Problem with fetch operation:", error);
     }
