@@ -2,13 +2,12 @@ import classes from "./LoginPage.module.css";
 import { useForm } from "react-hook-form";
 import SignUpBtn from "@/components/buttons/SignUp/SignUpBtn.jsx";
 import SignInBtn from "@/components/buttons/SignIn/SignInBtn.jsx";
-import React, { useState } from "react";
+import React, { act, useState } from "react";
 import TemplatePage from "@/components/TemplatePage/TemplatePage.jsx";
 import axios from "axios";
 import store from "../../store/store";
 import { userLogin } from "../../store/auth";
 import { useDispatch } from "react-redux";
-
 const LoginPage = () => {
   // noinspection JSUnusedLocalSymbols
   const {
@@ -30,8 +29,10 @@ const LoginPage = () => {
       import.meta.env.VITE_SERVER_URL + "auth/login",
       formattedData
     );
-    dispatch(userLogin({ payload: response.data.user_id }));
-    console.log(store.getState());
+    const action = dispatch(userLogin({ payload: response.data.user_id }));
+    if (action.type == "auth/userLogin" && action.payload) {
+      window.open("/");
+    }
   };
 
   const [showPassword, setShowPassword] = useState(false);
