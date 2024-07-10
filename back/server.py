@@ -18,12 +18,14 @@ def handle_routes(app):
     from src.routes.coinbase import coinbase_routes_blueprint
     from src.routes.bot import bot_routes_blueprint
     from src.routes.news import news_routes_blueprint
+    from src.routes.chart import chart_routes_blueprint
 
     app.register_blueprint(auth_routes_blueprint, url_prefix='/auth')
     app.register_blueprint(coin_routes_blueprint, url_prefix='/coin')
     app.register_blueprint(coinbase_routes_blueprint, url_prefix='/coinbase')
     app.register_blueprint(bot_routes_blueprint, url_prefix='/bot')
     app.register_blueprint(news_routes_blueprint, url_prefix='/news')
+    app.register_blueprint(chart_routes_blueprint, url_prefix='/api')
 
 connect_to_database()
 handle_routes(app)

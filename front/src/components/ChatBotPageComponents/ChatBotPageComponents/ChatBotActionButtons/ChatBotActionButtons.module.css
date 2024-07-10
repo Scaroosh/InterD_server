@@ -1,0 +1,97 @@
+/* General container styles */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/* Button styles */
+.buttons {
+    color: #FFF;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 200px;
+    height: 65px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #c3cbc0;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+}
+
+.buttons:active {
+    background: #ffe9e9;
+    transform: translateY(0.75em);
+}
+
+/* Form styles */
+.form {
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 40%;
+
+    padding: 20px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form input[type="text"],
+.form input[type="number"],
+.form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: #c3cbc0;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.form button[type="submit"]:hover {
+    background-color: #c3cbc0;
+}
+
+/* Response and error styles */
+.response, .error {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.response {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}

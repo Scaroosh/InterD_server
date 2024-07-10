@@ -1,0 +1,69 @@
+.container {
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 40px;
+    max-width: 40%;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+
+.input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #c3cbc0;
+    color: white;
+    border: 2px solid;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #3700b3;
+}
+
+.loading {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #6200ea;
+}
+
+.alert {
+    margin-top: 20px;
+    color: red;
+}
+
+.result {
+    width: 100%; /* Ширина на 100% от родительского контейнера */
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Добавляем тень для красоты */
+    word-wrap: break-word; /* Перенос длинных строк */
+    overflow-wrap: break-word; /* Перенос длинных строк */
+    white-space: pre-wrap; /* Сохранение пробелов и переносов строк */
+    font-size: 1rem;
+}
+
+.result h6 {
+    margin-bottom: 10px;
+}
+
+.result pre {
+    white-space: pre-wrap; /* Обеспечиваем перенос строк внутри JSONPretty */
+}
