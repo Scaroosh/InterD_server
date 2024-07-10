@@ -159,7 +159,7 @@ class BotManager:
         bot = TradingBot(ticker, usdt_amount)
         print("Bot is created")
         self.bots[ticker] = bot
-        self.portfolio['cash'] += usdt_amount
+        self.portfolio['cash'] += int(usdt_amount)
 
     def start_bot(self, ticker):
         if ticker in self.bots:

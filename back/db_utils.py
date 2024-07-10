@@ -17,3 +17,6 @@ def get_users_database():
 
 def get_news_database():
     return get_cluster()["news"]
+
+def get_bots_database():
+    return get_cluster()["bots"]
